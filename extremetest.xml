@@ -164,6 +164,46 @@ http://pn.playtv-ott.com:5000/barakat/123456/974
 http://pn.playtv-ott.com:5000/barakat/123456/980
 #EXTINF:0,PT: SPORT TV5HD
 http://pn.playtv-ott.com:5000/barakat/123456/99994929
+#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164977.m3u8
+#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/158069.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 1 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/165455.m3u8
+#EXTINF:-1,PT: ELEVEN SPORT 1 LOW
+http://sl0.ddns.me:8000/live/namik77/77namik/132894.m3u8
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/158902.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 2 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/165456.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 2 LOW
+http://sl0.ddns.me:8000/live/namik77/77namik/5379.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164978.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 3 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/167456.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164979.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 4 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/167457.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164980.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 5 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/167458.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164981.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 6 1080P
+http://sl0.ddns.me:8000/live/namik77/77namik/167459.m3u8
+#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
+http://sl0.ddns.me:8000/live/namik77/77namik/164982.m3u8
+#EXTINF:-1,PT: ELEVENSPORT 3 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/159765.m3u8
+#EXTINF:-1,PT: ELEVENSPORT 4 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/159766.m3u8
+#EXTINF:-1,PT: ELEVENSPORT 5 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/159767.m3u8
+#EXTINF:-1,PT: ELEVENSPORT 6 HD
+http://sl0.ddns.me:8000/live/namik77/77namik/159768.m3u8
 #EXTINF:0,PT: SPORTING TV
 http://pn.playtv-ott.com:5000/barakat/123456/99994063
 #EXTINF:0,PT: Syfy

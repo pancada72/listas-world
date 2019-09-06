@@ -1,581 +1,237 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: Novidades Vídeo Clube" tvg-logo="http://i64.tinypic.com/33yks1t.jpg" group-title="PORTUGAL",PT: Novidades Vídeo Clube
-http://leaderpro.pro:25461/live/rosamaria/12345/88539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ NACIONAIS ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGGcBLWkhnm9EprlS_kmzyVliTIxiLHZjJsmgnunsGW1c0MTM" group-title="PORTUGAL",✬✬✬✬ NACIONAIS ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95748.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (PT)" tvg-name="PT: RTP 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg" group-title="PORTUGAL",PT: RTP 1
-http://leaderpro.pro:25461/live/rosamaria/12345/220.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (PT)" tvg-name="PT: RTP 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1_hd.jpg" group-title="PORTUGAL",PT: RTP 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/216.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (PT)" tvg-name="PT: RTP 1 FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1_hd.jpg" group-title="PORTUGAL",PT: RTP 1 FULL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/215.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (PT)" tvg-name="PT: RTP 1 SD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg" group-title="PORTUGAL",PT: RTP 1 SD
-http://leaderpro.pro:25461/live/rosamaria/12345/217.m3u8
-#EXTINF:-1 tvg-id="RTP 1 (PT)" tvg-name="PT: RTP 1 LOW" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg" group-title="PORTUGAL",PT: RTP 1 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/218.m3u8
-#EXTINF:-1 tvg-id="RTP 2 (PT)" tvg-name="PT: RTP 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="PORTUGAL",PT: RTP 2
-http://leaderpro.pro:25461/live/rosamaria/12345/213.m3u8
-#EXTINF:-1 tvg-id="RTP 2 (PT)" tvg-name="PT: RTP 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="PORTUGAL",PT: RTP 2 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/212.m3u8
-#EXTINF:-1 tvg-id="RTP 2 (PT)" tvg-name="PT: RTP 2 FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="PORTUGAL",PT: RTP 2 FULL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/211.m3u8
-#EXTINF:-1 tvg-id="SIC (PT)" tvg-name="PT: SIC" tvg-logo="http://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",PT: SIC
-http://leaderpro.pro:25461/live/rosamaria/12345/210.m3u8
-#EXTINF:-1 tvg-id="SIC (PT)" tvg-name="PT: SIC HD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",PT: SIC HD
-http://leaderpro.pro:25461/live/rosamaria/12345/207.m3u8
-#EXTINF:-1 tvg-id="SIC (PT)" tvg-name="PT: SIC FULL HD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",PT: SIC FULL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/206.m3u8
-#EXTINF:-1 tvg-id="SIC (PT)" tvg-name="PT: SIC SD" tvg-logo="http://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",PT: SIC SD
-http://leaderpro.pro:25461/live/rosamaria/12345/209.m3u8
-#EXTINF:-1 tvg-id="SIC (PT)" tvg-name="PT: SIC LOW" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",PT: SIC LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/208.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",PT: TVI
-http://leaderpro.pro:25461/live/rosamaria/12345/204.m3u8
-#EXTINF:-1 tvg-id="TVI (PT)" tvg-name="PT: TVI HD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",PT: TVI HD
-http://leaderpro.pro:25461/live/rosamaria/12345/201.m3u8
-#EXTINF:-1 tvg-id="TVI (PT)" tvg-name="PT: TVI FULL HD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",PT: TVI FULL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/200.m3u8
-#EXTINF:-1 tvg-id="TVI (PT)" tvg-name="PT: TVI SD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",PT: TVI SD
-http://leaderpro.pro:25461/live/rosamaria/12345/203.m3u8
-#EXTINF:-1 tvg-id="TVI (PT)" tvg-name="PT: TVI LOW" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",PT: TVI LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/202.m3u8
-#EXTINF:-1 tvg-id="SIC Noticias (PT)" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",PT: SIC NOTICIAS
-http://leaderpro.pro:25461/live/rosamaria/12345/198.m3u8
-#EXTINF:-1 tvg-id="SIC Noticias (PT)" tvg-name="PT: SIC NOTICIAS HD" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",PT: SIC NOTICIAS HD
-http://leaderpro.pro:25461/live/rosamaria/12345/197.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="PT: TVI 24" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",PT: TVI 24
-http://leaderpro.pro:25461/live/rosamaria/12345/196.m3u8
-#EXTINF:-1 tvg-id="TVI 24 (PT)" tvg-name="PT: TVI 24  HD" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",PT: TVI 24  HD
-http://leaderpro.pro:25461/live/rosamaria/12345/194.m3u8
-#EXTINF:-1 tvg-id="TVI 24 (PT)" tvg-name="PT: TVI 24 LOW" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",PT: TVI 24 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/195.m3u8
-#EXTINF:-1 tvg-id="RTP 3 (PT)" tvg-name="PT: RTP 3 HD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",PT: RTP 3 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/192.m3u8
-#EXTINF:-1 tvg-id="RTP 3 (PT)" tvg-name="PT: RTP 3 SD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",PT: RTP 3 SD
-http://leaderpro.pro:25461/live/rosamaria/12345/193.m3u8
-#EXTINF:-1 tvg-id="RTP 3 (PT)" tvg-name="PT: RTP 3 Low" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",PT: RTP 3 Low
-http://leaderpro.pro:25461/live/rosamaria/12345/191.m3u8
-#EXTINF:-1 tvg-id="CMTV (PT)" tvg-name="PT: CMTV" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",PT: CMTV
-http://leaderpro.pro:25461/live/rosamaria/12345/190.m3u8
-#EXTINF:-1 tvg-id="CMTV (PT)" tvg-name="PT: CMTV HD" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",PT: CMTV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/188.m3u8
-#EXTINF:-1 tvg-id="CMTV (PT)" tvg-name="PT: CMTV FHD" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",PT: CMTV FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/187.m3u8
-#EXTINF:-1 tvg-id="CMTV (PT)" tvg-name="PT: CMTV LOW" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",PT: CMTV LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/189.m3u8
-#EXTINF:-1 tvg-id="ARTV (PT)" tvg-name="PT: AR TV" tvg-logo="https://i.imgur.com/McboHWW.png" group-title="PORTUGAL",PT: AR TV
-http://leaderpro.pro:25461/live/rosamaria/12345/168.m3u8
-#EXTINF:-1 tvg-id="Globo Premium (PT)" tvg-name="PT: GLOBO NOW" tvg-logo="https://i.imgur.com/aZP2nIU.png" group-title="PORTUGAL",PT: GLOBO NOW
-http://leaderpro.pro:25461/live/rosamaria/12345/159.m3u8
-#EXTINF:-1 tvg-id="Globo Portugal (PT)" tvg-name="PT: GLOBO PORTUGAL" tvg-logo="https://i.imgur.com/aZP2nIU.png" group-title="PORTUGAL",PT: GLOBO PORTUGAL
-http://leaderpro.pro:25461/live/rosamaria/12345/158.m3u8
-#EXTINF:-1 tvg-id="SIC Mulher (PT)" tvg-name="PT: SIC MULHER" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="PORTUGAL",PT: SIC MULHER
-http://leaderpro.pro:25461/live/rosamaria/12345/176.m3u8
-#EXTINF:-1 tvg-id="SIC Caras (PT)" tvg-name="PT: SIC CARAS" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",PT: SIC CARAS
-http://leaderpro.pro:25461/live/rosamaria/12345/178.m3u8
-#EXTINF:-1 tvg-id="SIC Caras (PT)" tvg-name="PT: SIC CARAS HD" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",PT: SIC CARAS HD
-http://leaderpro.pro:25461/live/rosamaria/12345/177.m3u8
-#EXTINF:-1 tvg-id="SIC Radical (PT)" tvg-name="PT: SIC RADICAL" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="PORTUGAL",PT: SIC RADICAL
-http://leaderpro.pro:25461/live/rosamaria/12345/180.m3u8
-#EXTINF:-1 tvg-id="SIC Radical (PT)" tvg-name="PT: SIC RADICAL HD" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="PORTUGAL",PT: SIC RADICAL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/179.m3u8
-#EXTINF:-1 tvg-id="TVI Reality (PT)" tvg-name="PT: TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",PT: TVI REALITY
-http://leaderpro.pro:25461/live/rosamaria/12345/174.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção (PT)" tvg-name="PT: TVI FICÇÃO" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",PT: TVI FICÇÃO
-http://leaderpro.pro:25461/live/rosamaria/12345/175.m3u8
-#EXTINF:-1 tvg-id="Porto Canal (PT)" tvg-name="PT: PORTO CANAL" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="PORTUGAL",PT: PORTO CANAL
-http://leaderpro.pro:25461/live/rosamaria/12345/164.m3u8
-#EXTINF:-1 tvg-id="Porto Canal (PT)" tvg-name="PT: PORTO CANAL HD" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="PORTUGAL",PT: PORTO CANAL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/163.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria (PT)" tvg-name="PT: RTP Memoria" tvg-logo="https://i.imgur.com/Hozoft0.png" group-title="PORTUGAL",PT: RTP Memoria
-http://leaderpro.pro:25461/live/rosamaria/12345/162.m3u8
-#EXTINF:-1 tvg-id="RTP Acores (PT)" tvg-name="PT: RTP Açores" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="PORTUGAL",PT: RTP Açores
-http://leaderpro.pro:25461/live/rosamaria/12345/167.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira (PT)" tvg-name="PT: RTP Madeira" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="PORTUGAL",PT: RTP Madeira
-http://leaderpro.pro:25461/live/rosamaria/12345/165.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional (PT)" tvg-name="PT: RTP Internacional" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_internacional.jpg" group-title="PORTUGAL",PT: RTP Internacional
-http://leaderpro.pro:25461/live/rosamaria/12345/214.m3u8
-#EXTINF:-1 tvg-id="RTP Africa (PT)" tvg-name="PT: RTP Africa" tvg-logo="https://i.imgur.com/9HzL9J3.png" group-title="PORTUGAL",PT: RTP Africa
-http://leaderpro.pro:25461/live/rosamaria/12345/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ DESPORTO ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4PpBq0-AkgQ0iobNi5X-y83R-wAXKB5CgajW7w3aiPKH41tPyg" group-title="PORTUGAL",✬✬✬✬ DESPORTO ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 FHD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PORTUGAL",PT: Canal 11 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/95545.m3u8
-#EXTINF:-1 tvg-id="A Bola TV (PT)" tvg-name="PT: A BOLA TV" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",PT: A BOLA TV
-http://leaderpro.pro:25461/live/rosamaria/12345/75.m3u8
-#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: SPORT TV +" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",PT: SPORT TV +
-http://leaderpro.pro:25461/live/rosamaria/12345/26268.m3u8
-#EXTINF:-1 tvg-id="Sport TV mais (PT)" tvg-name="PT: SPORT TV + HD" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",PT: SPORT TV + HD
-http://leaderpro.pro:25461/live/rosamaria/12345/26269.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1
-http://leaderpro.pro:25461/live/rosamaria/12345/116.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 *" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 *
-http://leaderpro.pro:25461/live/rosamaria/12345/115.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/109.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 HD (MEO)" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 HD (MEO)
-http://leaderpro.pro:25461/live/rosamaria/12345/108.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/107.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 FHD (MEO)" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD (MEO)
-http://leaderpro.pro:25461/live/rosamaria/12345/105.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORT TV 1 FHD *" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD *
-http://leaderpro.pro:25461/live/rosamaria/12345/106.m3u8
-#EXTINF:-1 tvg-id="Sport TV 1 (PT)" tvg-name="PT: SPORTV 1 LOW" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",PT: SPORTV 1 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/110.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2
-http://leaderpro.pro:25461/live/rosamaria/12345/103.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 *" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2 *
-http://leaderpro.pro:25461/live/rosamaria/12345/99.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/102.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 HD*" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2 HD*
-http://leaderpro.pro:25461/live/rosamaria/12345/101.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/100.m3u8
-#EXTINF:-1 tvg-id="Sport TV 2 (PT)" tvg-name="PT: SPORT TV 2 LOW" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",PT: SPORT TV 2 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/35219.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",PT: SPORT TV 3
-http://leaderpro.pro:25461/live/rosamaria/12345/98.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",PT: SPORT TV 3 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/96.m3u8
-#EXTINF:-1 tvg-id="Sport TV 3 (PT)" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/97.m3u8
-#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="PT: Sport TV 3 LOW" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",PT: Sport TV 3 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/23529.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",PT: SPORT TV 4
-http://leaderpro.pro:25461/live/rosamaria/12345/95.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",PT: SPORT TV 4 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/93.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4 HD *" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",PT: SPORT TV 4 HD *
-http://leaderpro.pro:25461/live/rosamaria/12345/92.m3u8
-#EXTINF:-1 tvg-id="Sport TV 4 (PT)" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",PT: SPORT TV 4 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/94.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 *" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",PT: SPORT TV 5 *
-http://leaderpro.pro:25461/live/rosamaria/12345/90.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",PT: SPORT TV 5 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/87.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 HD *" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",PT: SPORT TV 5 HD *
-http://leaderpro.pro:25461/live/rosamaria/12345/86.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",PT: SPORT TV 5 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/89.m3u8
-#EXTINF:-1 tvg-id="Sport TV 5 (PT)" tvg-name="PT: SPORT TV 5 HD  LOW" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",PT: SPORT TV 5 HD  LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/88.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV
-http://leaderpro.pro:25461/live/rosamaria/12345/81.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV 1 *" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV 1 *
-http://leaderpro.pro:25461/live/rosamaria/12345/80.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV 1 HD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/79.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV 1 HD *" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV 1 HD *
-http://leaderpro.pro:25461/live/rosamaria/12345/78.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV 1 FHD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV 1 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/76.m3u8
-#EXTINF:-1 tvg-id="Benfica TV (PT)" tvg-name="PT: BTV FHD*" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",PT: BTV FHD*
-http://leaderpro.pro:25461/live/rosamaria/12345/77.m3u8
-#EXTINF:-1 tvg-id="Sporting TV (PT)" tvg-name="PT: SPORTING TV" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",PT: SPORTING TV
-http://leaderpro.pro:25461/live/rosamaria/12345/85.m3u8
-#EXTINF:-1 tvg-id="Sporting TV (PT)" tvg-name="PT: SPORTING TV HD" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",PT: SPORTING TV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nba_tv.jpg" group-title="PORTUGAL",PT: SPORT TV NBA FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/53834.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 SD
-http://leaderpro.pro:25461/live/rosamaria/12345/9566.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/9565.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="PT: ELEVEN SPORTS 1 HD *" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 HD *
-http://leaderpro.pro:25461/live/rosamaria/12345/9564.m3u8
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="PT: ELEVEN SPORTS 1 HD **" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 HD **
-http://leaderpro.pro:25461/live/rosamaria/12345/9563.m3u8
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/9562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD*" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD*
-http://leaderpro.pro:25461/live/rosamaria/12345/66098.m3u8
-#EXTINF:-1 tvg-id="elevensports1LB" tvg-name="PT: ELEVEN SPORTS 1 LOW" tvg-logo="https://i.imgur.com/UZ2zNAi.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 1 LOW
-http://leaderpro.pro:25461/live/rosamaria/12345/9567.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 SD
-http://leaderpro.pro:25461/live/rosamaria/12345/9561.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/9560.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="PT: ELEVEN SPORTS 2 HD **" tvg-logo="https://i.imgur.com/49ZWPbm.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 HD **
-http://leaderpro.pro:25461/live/rosamaria/12345/9559.m3u8
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/48338.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PT: Eleven Sports 2 Low" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: Eleven Sports 2 Low
-http://leaderpro.pro:25461/live/rosamaria/12345/79740.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 SD
-http://leaderpro.pro:25461/live/rosamaria/12345/9558.m3u8
-#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/26233.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/48339.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/9557.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PT: ELEVEN SPORTS 4 HD *" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 HD *
-http://leaderpro.pro:25461/live/rosamaria/12345/9556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD **" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 HD **
-http://leaderpro.pro:25461/live/rosamaria/12345/9555.m3u8
-#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/48340.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/9554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/48341.m3u8
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/9553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/48342.m3u8
-#EXTINF:-1 tvg-id="PFC (PT)" tvg-name="PT: PFC" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="PORTUGAL",PT: PFC
-http://leaderpro.pro:25461/live/rosamaria/12345/36.m3u8
-#EXTINF:-1 tvg-id="Chelsea TV (PT)" tvg-name="PT: CHELSEA TV" tvg-logo="https://i.imgur.com/N97zspL.png" group-title="PORTUGAL",PT: CHELSEA TV
-http://leaderpro.pro:25461/live/rosamaria/12345/22.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV (PT)" tvg-name="PT: REAL MADRID" tvg-logo="https://i.imgur.com/39Y261c.png" group-title="PORTUGAL",PT: REAL MADRID
-http://leaderpro.pro:25461/live/rosamaria/12345/21.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 (PT)" tvg-name="PT: Eurosport" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",PT: Eurosport
-http://leaderpro.pro:25461/live/rosamaria/12345/74.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 (PT)" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",PT: EUROSPORT 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/73.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 (PT)" tvg-name="PT: EUROSPORT 2" tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="PORTUGAL",PT: EUROSPORT 2
-http://leaderpro.pro:25461/live/rosamaria/12345/72.m3u8
-#EXTINF:-1 tvg-id="Eurosport News (PT)" tvg-name="PT: Eurosport News" tvg-logo="https://i.imgur.com/3p8DctA.png" group-title="PORTUGAL",PT: Eurosport News
-http://leaderpro.pro:25461/live/rosamaria/12345/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Red Bull TV HD" tvg-logo="http://www.stickpng.com/assets/thumbs/580b57fcd9996e24bc43c1e8.png" group-title="PORTUGAL",PT: Red Bull TV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/96765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: WWE HD" tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2016/09/36561eef964a99ba46bd614dd310f419-1474293354-800.jpg" group-title="PORTUGAL",PT: WWE HD
-http://leaderpro.pro:25461/live/rosamaria/12345/95200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORS TV" tvg-logo="https://i.imgur.com/drFCZdB.png" group-title="PORTUGAL",PT: MOTORS TV
-http://leaderpro.pro:25461/live/rosamaria/12345/56.m3u8
-#EXTINF:-1 tvg-id="Fight Network (PT)" tvg-name="PT: FIGHT NETWORK HD" tvg-logo="https://i.imgur.com/dXZWydZ.png" group-title="PORTUGAL",PT: FIGHT NETWORK HD
-http://leaderpro.pro:25461/live/rosamaria/12345/26.m3u8
-#EXTINF:-1 tvg-id="Kombat Sports (PT)" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="PORTUGAL",PT: KOMBAT SPORT
-http://leaderpro.pro:25461/live/rosamaria/12345/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ INFANTIS ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-BNFblab3SmezFTK8t3jac5Sz4twuZQhoy19Cno3rb_Vv9c6Zg" group-title="PORTUGAL",✬✬✬✬ INFANTIS ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95750.m3u8
-#EXTINF:-1 tvg-id="Disney Channel (PT)" tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://i.imgur.com/qJw7vBW.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
-http://leaderpro.pro:25461/live/rosamaria/12345/66.m3u8
-#EXTINF:-1 tvg-id="Disney Junior (PT)" tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
-http://leaderpro.pro:25461/live/rosamaria/12345/65.m3u8
-#EXTINF:-1 tvg-id="SIC K (PT)" tvg-name="PT: SIC K" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",PT: SIC K
-http://leaderpro.pro:25461/live/rosamaria/12345/122.m3u8
-#EXTINF:-1 tvg-id="Baby TV (PT)" tvg-name="PT: BABY TV" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="PORTUGAL",PT: BABY TV
-http://leaderpro.pro:25461/live/rosamaria/12345/68.m3u8
-#EXTINF:-1 tvg-id="Baby First (PT)" tvg-name="PT: BABY FIRST" tvg-logo="https://i.imgur.com/LOy9JNB.png" group-title="PORTUGAL",PT: BABY FIRST
-http://leaderpro.pro:25461/live/rosamaria/12345/67.m3u8
-#EXTINF:-1 tvg-id="JimJam (PT)" tvg-name="PT: JIM JAM" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="PORTUGAL",PT: JIM JAM
-http://leaderpro.pro:25461/live/rosamaria/12345/64.m3u8
-#EXTINF:-1 tvg-id="Nick (PT)" tvg-name="PT: Nick Jr" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="PORTUGAL",PT: Nick Jr
-http://leaderpro.pro:25461/live/rosamaria/12345/63.m3u8
-#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="PT: BOOMERANG" tvg-logo="http://i.imgur.com/9f75DdK.png" group-title="PORTUGAL",PT: BOOMERANG
-http://leaderpro.pro:25461/live/rosamaria/12345/85918.m3u8
-#EXTINF:-1 tvg-id="Panda Biggs (PT)" tvg-name="PT: BIGGS" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="PORTUGAL",PT: BIGGS
-http://leaderpro.pro:25461/live/rosamaria/12345/62.m3u8
-#EXTINF:-1 tvg-id="Panda (PT)" tvg-name="PT: PANDA" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PORTUGAL",PT: PANDA
-http://leaderpro.pro:25461/live/rosamaria/12345/61.m3u8
-#EXTINF:-1 tvg-id="Nick (PT)" tvg-name="PT: NICKELODEON" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="PORTUGAL",PT: NICKELODEON
-http://leaderpro.pro:25461/live/rosamaria/12345/28.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network (PT)" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="PORTUGAL",PT: CARTOON NETWORK
-http://leaderpro.pro:25461/live/rosamaria/12345/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ CINEMA ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnX2J7SgiYQ0vtvv46hZrMgh-xnBzfXUsaC-hVlbCcVRGhum_xw" group-title="PORTUGAL",✬✬✬✬ CINEMA ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Marvel (exclusive)" tvg-logo="http://i68.tinypic.com/33vzyib.jpg" group-title="PORTUGAL",PT: Marvel (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/88846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Marvel 2 (exclusive)" tvg-logo="http://i63.tinypic.com/2rqhjcp.png" group-title="PORTUGAL",PT: Marvel 2 (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/89142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DC Comics (exclusive)" tvg-logo="http://i68.tinypic.com/20u3g5j.jpg" group-title="PORTUGAL",PT: DC Comics (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/89147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Netflix (exclusive)" tvg-logo="http://i68.tinypic.com/u95xx.png" group-title="PORTUGAL",PT: Netflix (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/90916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Filmes Comédia (exclusive)" tvg-logo="http://i63.tinypic.com/2n8mn83.png" group-title="PORTUGAL",PT: Filmes Comédia (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/91717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Faroeste Movies (exclusive)" tvg-logo="http://i66.tinypic.com/a1smfa.png" group-title="PORTUGAL",PT: Faroeste Movies (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/89486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:  Jason Statham Movies (exclusive)" tvg-logo="http://i65.tinypic.com/nvek91.jpg" group-title="PORTUGAL",PT:  Jason Statham Movies (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/96575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Arnold Schwarzenegger Movies (exclusive)" tvg-logo="http://i64.tinypic.com/28wfl86.jpg" group-title="PORTUGAL",PT: Arnold Schwarzenegger Movies (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/96325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Steven Seagal Movies (exclusive)" tvg-logo="https://fanart.tv/fanart/tv/126841/clearlogo/lawman-126841.png" group-title="PORTUGAL",PT: Steven Seagal Movies (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/95743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HBO Portugal (Exclusive)" tvg-logo="http://i65.tinypic.com/16jmpmq.jpg" group-title="PORTUGAL",PT: HBO Portugal (Exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/86370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HBO Family (exclusive)" tvg-logo="http://i66.tinypic.com/16ie96u.png" group-title="PORTUGAL",PT: HBO Family (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/90944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Documentários (exclusive)" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png" group-title="PORTUGAL",PT: Documentários (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/94420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Classics (exclusive)" tvg-logo="http://i65.tinypic.com/fa91j9.png" group-title="PORTUGAL",PT: Disney Classics (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/89093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Kids (Exclusive)" tvg-logo="http://i64.tinypic.com/2dm9h6v.png" group-title="PORTUGAL",PT: Fox Kids (Exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/86376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Os Simpsons FHD (exclusive)" tvg-logo="http://i63.tinypic.com/2vm8ryq.jpg" group-title="PORTUGAL",PT: Os Simpsons FHD (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/95878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Family Guy/American Dad (exclusive)" tvg-logo="http://i68.tinypic.com/dy0uuw.jpg" group-title="PORTUGAL",PT: Family Guy/American Dad (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/95857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dragon Ball Movies (exclusive)" tvg-logo="http://i63.tinypic.com/x22tdc.png" group-title="PORTUGAL",PT: Dragon Ball Movies (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/89141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Portugal a Rir (exclusive)" tvg-logo="http://i63.tinypic.com/2rpwnl3.png" group-title="PORTUGAL",PT: Portugal a Rir (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/88022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sempre a Rir (exclusive)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnPRfUF4s04DuWUfap9Bgl7tCM3XzWd3s00AOdJMyGtmcHIW0ltQ" group-title="PORTUGAL",PT: Sempre a Rir (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/95854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Apanhados (exclusive)" tvg-logo="http://i63.tinypic.com/30ue0cj.jpg" group-title="PORTUGAL",PT: Apanhados (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/88532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Apanhados II (exclusive)" tvg-logo="http://i67.tinypic.com/2s608es.png" group-title="PORTUGAL",PT: Apanhados II (exclusive)
-http://leaderpro.pro:25461/live/rosamaria/12345/88538.m3u8
-#EXTINF:-1 tvg-id="TVC 1 (PT)" tvg-name="PT: TV CINE 1" tvg-logo="https://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL",PT: TV CINE 1
-http://leaderpro.pro:25461/live/rosamaria/12345/154.m3u8
-#EXTINF:-1 tvg-id="TVC 1 (PT)" tvg-name="PT: TV CINE 1 HD" tvg-logo="https://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL",PT: TV CINE 1 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/153.m3u8
-#EXTINF:-1 tvg-id="TVC 1 (PT)" tvg-name="PT: TV CINE 1 FHD" tvg-logo="http://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL",PT: TV CINE 1 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/26392.m3u8
-#EXTINF:-1 tvg-id="TVC 2 (PT)" tvg-name="PT: TV CINE 2" tvg-logo="https://i.imgur.com/meUTBRe.png" group-title="PORTUGAL",PT: TV CINE 2
-http://leaderpro.pro:25461/live/rosamaria/12345/152.m3u8
-#EXTINF:-1 tvg-id="TVC 2 (PT)" tvg-name="PT: TV CINE 2 HD" tvg-logo="https://i.imgur.com/meUTBRe.png" group-title="PORTUGAL",PT: TV CINE 2 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/151.m3u8
-#EXTINF:-1 tvg-id="TVC 2 (PT)" tvg-name="PT: TV CINE 2 FHD" tvg-logo="http://i.imgur.com/meUTBRe.png" group-title="PORTUGAL",PT: TV CINE 2 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/26391.m3u8
-#EXTINF:-1 tvg-id="TVC 3 (PT)" tvg-name="PT: TV CINE 3" tvg-logo="https://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL",PT: TV CINE 3
-http://leaderpro.pro:25461/live/rosamaria/12345/150.m3u8
-#EXTINF:-1 tvg-id="TVC 3 (PT)" tvg-name="PT: TV CINE 3 HD" tvg-logo="https://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL",PT: TV CINE 3 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/149.m3u8
-#EXTINF:-1 tvg-id="TVC 3 (PT)" tvg-name="PT: TV CINE 3 FHD" tvg-logo="http://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL",PT: TV CINE 3 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/26390.m3u8
-#EXTINF:-1 tvg-id="TVC 4 (PT)" tvg-name="PT: TV CINE 4" tvg-logo="https://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL",PT: TV CINE 4
-http://leaderpro.pro:25461/live/rosamaria/12345/148.m3u8
-#EXTINF:-1 tvg-id="TVC 4 (PT)" tvg-name="PT: TV CINE 4 HD" tvg-logo="https://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL",PT: TV CINE 4 HD
-http://leaderpro.pro:25461/live/rosamaria/12345/147.m3u8
-#EXTINF:-1 tvg-id="TVC 4 (PT)" tvg-name="PT: TV CINE 4 FHD" tvg-logo="http://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL",PT: TV CINE 4 FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/26389.m3u8
-#EXTINF:-1 tvg-id="TV Series (PT)" tvg-name="PT: TV Series" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="PORTUGAL",PT: TV Series
-http://leaderpro.pro:25461/live/rosamaria/12345/146.m3u8
-#EXTINF:-1 tvg-id="TV Series (PT)" tvg-name="PT: TV SERIES FHD" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="PORTUGAL",PT: TV SERIES FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOS" tvg-logo="" group-title="PORTUGAL",PT: CANAL NOS
-http://leaderpro.pro:25461/live/rosamaria/12345/99571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios FHD" tvg-logo="http://i68.tinypic.com/rlhu1z.jpg" group-title="PORTUGAL",PT: Nos Studios FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/91719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eurochannel" tvg-logo="http://i65.tinypic.com/2u5ymgp.png" group-title="PORTUGAL",PT: Eurochannel
-http://leaderpro.pro:25461/live/rosamaria/12345/91720.m3u8
-#EXTINF:-1 tvg-id="Hollywood TV (PT)" tvg-name="PT: HOLLYWOOD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",PT: HOLLYWOOD
-http://leaderpro.pro:25461/live/rosamaria/12345/144.m3u8
-#EXTINF:-1 tvg-id="Hollywood TV (PT)" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",PT: HOLLYWOOD FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/143.m3u8
-#EXTINF:-1 tvg-id="Cinemundo TV (PT)" tvg-name="PT: CINEMUNDO" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL",PT: CINEMUNDO
-http://leaderpro.pro:25461/live/rosamaria/12345/142.m3u8
-#EXTINF:-1 tvg-id="Cinemundo TV (PT)" tvg-name="PT: CINEMUNDO HD" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL",PT: CINEMUNDO HD
-http://leaderpro.pro:25461/live/rosamaria/12345/141.m3u8
-#EXTINF:-1 tvg-id="AMC (PT)" tvg-name="PT: AMC" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PORTUGAL",PT: AMC
-http://leaderpro.pro:25461/live/rosamaria/12345/140.m3u8
-#EXTINF:-1 tvg-id="AMC (PT)" tvg-name="PT: AMC HD" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PORTUGAL",PT: AMC HD
-http://leaderpro.pro:25461/live/rosamaria/12345/139.m3u8
-#EXTINF:-1 tvg-id="SyFy (PT)" tvg-name="PT: SYFY" tvg-logo="https://i.imgur.com/0YeoIkN.png" group-title="PORTUGAL",PT: SYFY
-http://leaderpro.pro:25461/live/rosamaria/12345/138.m3u8
-#EXTINF:-1 tvg-id="SyFy (PT)" tvg-name="PT: SYFY HD" tvg-logo="https://i.imgur.com/0YeoIkN.png" group-title="PORTUGAL",PT: SYFY HD
-http://leaderpro.pro:25461/live/rosamaria/12345/137.m3u8
-#EXTINF:-1 tvg-id="Fox (PT)" tvg-name="PT: FOX" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL",PT: FOX
-http://leaderpro.pro:25461/live/rosamaria/12345/136.m3u8
-#EXTINF:-1 tvg-id="Fox (PT)" tvg-name="PT: FOX SD" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL",PT: FOX SD
-http://leaderpro.pro:25461/live/rosamaria/12345/135.m3u8
-#EXTINF:-1 tvg-id="Fox (PT)" tvg-name="PT: FOX HD" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL",PT: FOX HD
-http://leaderpro.pro:25461/live/rosamaria/12345/134.m3u8
-#EXTINF:-1 tvg-id="Fox Movies (PT)" tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",PT: FOX MOVIES
-http://leaderpro.pro:25461/live/rosamaria/12345/133.m3u8
-#EXTINF:-1 tvg-id="Fox Movies (PT)" tvg-name="PT: FOX MOVIES HD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",PT: FOX MOVIES HD
-http://leaderpro.pro:25461/live/rosamaria/12345/132.m3u8
-#EXTINF:-1 tvg-id="Fox Comedy (PT)" tvg-name="PT: FOX COMEDY" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",PT: FOX COMEDY
-http://leaderpro.pro:25461/live/rosamaria/12345/131.m3u8
-#EXTINF:-1 tvg-id="Fox Comedy (PT)" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",PT: FOX COMEDY FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/130.m3u8
-#EXTINF:-1 tvg-id="Fox Crime (PT)" tvg-name="PT: Fox Crime SD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",PT: Fox Crime SD
-http://leaderpro.pro:25461/live/rosamaria/12345/87115.m3u8
-#EXTINF:-1 tvg-id="Fox Crime (PT)" tvg-name="PT: FOX CRIME HD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",PT: FOX CRIME HD
-http://leaderpro.pro:25461/live/rosamaria/12345/129.m3u8
-#EXTINF:-1 tvg-id="Fox Life (PT)" tvg-name="PT: FOX LIFE HD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",PT: FOX LIFE HD
-http://leaderpro.pro:25461/live/rosamaria/12345/128.m3u8
-#EXTINF:-1 tvg-id="AXN (PT)" tvg-name="PT: AXN" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="PORTUGAL",PT: AXN
-http://leaderpro.pro:25461/live/rosamaria/12345/127.m3u8
-#EXTINF:-1 tvg-id="AXN (PT)" tvg-name="PT: AXN HD" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="PORTUGAL",PT: AXN HD
-http://leaderpro.pro:25461/live/rosamaria/12345/125.m3u8
-#EXTINF:-1 tvg-id="AXN (PT)" tvg-name="PT: AXN Low" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="PORTUGAL",PT: AXN Low
-http://leaderpro.pro:25461/live/rosamaria/12345/126.m3u8
-#EXTINF:-1 tvg-id="AXN Black (PT)" tvg-name="PT: AXN BLACK HD" tvg-logo="https://i.imgur.com/oiVngMO.png" group-title="PORTUGAL",PT: AXN BLACK HD
-http://leaderpro.pro:25461/live/rosamaria/12345/124.m3u8
-#EXTINF:-1 tvg-id="AXN White (PT)" tvg-name="PT: AXN WHITE HD" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="PORTUGAL",PT: AXN WHITE HD
-http://leaderpro.pro:25461/live/rosamaria/12345/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ DOCUMENTÁRIOS ✬✬✬✬" tvg-logo="data:image/jpeg;base64,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" group-title="PORTUGAL",✬✬✬✬ DOCUMENTÁRIOS ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95754.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel (PT)" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
-http://leaderpro.pro:25461/live/rosamaria/12345/46.m3u8
-#EXTINF:-1 tvg-id="Discovery Showcase (PT)" tvg-name="PT: DISCOVERY SHOWCASE HD" tvg-logo="https://i.imgur.com/8RmgHp8.png" group-title="PORTUGAL",PT: DISCOVERY SHOWCASE HD
-http://leaderpro.pro:25461/live/rosamaria/12345/45.m3u8
-#EXTINF:-1 tvg-id="Historia (PT)" tvg-name="PT: CANAL DE HISTÓRIA" tvg-logo="https://i.imgur.com/0BsQiWg.png" group-title="PORTUGAL",PT: CANAL DE HISTÓRIA
-http://leaderpro.pro:25461/live/rosamaria/12345/69.m3u8
-#EXTINF:-1 tvg-id="National Geographic (PT)" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
-http://leaderpro.pro:25461/live/rosamaria/12345/29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ID Investigation Discovery" tvg-logo="" group-title="PORTUGAL",PT: ID Investigation Discovery
-http://leaderpro.pro:25461/live/rosamaria/12345/81249.m3u8
-#EXTINF:-1 tvg-id="CBS Reality (PT)" tvg-name="PT: CBS Reality" tvg-logo="https://i.imgur.com/urVdic4.png" group-title="PORTUGAL",PT: CBS Reality
-http://leaderpro.pro:25461/live/rosamaria/12345/155.m3u8
-#EXTINF:-1 tvg-id="Crime Investigation (PT)" tvg-name="PT: CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/GVLONP8.png" group-title="PORTUGAL",PT: CRIME INVESTIGATION
-http://leaderpro.pro:25461/live/rosamaria/12345/120.m3u8
-#EXTINF:-1 tvg-id="Odisseia TV (PT)" tvg-name="PT: ODISSEIA" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="PORTUGAL",PT: ODISSEIA
-http://leaderpro.pro:25461/live/rosamaria/12345/37.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild (PT)" tvg-name="PT: NAT GEO WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="PORTUGAL",PT: NAT GEO WILD HD
-http://leaderpro.pro:25461/live/rosamaria/12345/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ ENTRETENIMENTO ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG7nMLzGMwW_6YS4zXUoBgB3obb30_OAiCeWaWj1pbTz0TNLu" group-title="PORTUGAL",✬✬✬✬ ENTRETENIMENTO ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95755.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment (PT)" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://i.imgur.com/DfsBEFp.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT
-http://leaderpro.pro:25461/live/rosamaria/12345/44.m3u8
-#EXTINF:-1 tvg-id="Fashion TV (PT)" tvg-name="PT: FASHION TV HD" tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="PORTUGAL",PT: FASHION TV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/23.m3u8
-#EXTINF:-1 tvg-id="BBC Entertainment (PT)" tvg-name="PT: BBC Entertainment" tvg-logo="https://i.imgur.com/mCsCWUP.png" group-title="PORTUGAL",PT: BBC Entertainment
-http://leaderpro.pro:25461/live/rosamaria/12345/161.m3u8
-#EXTINF:-1 tvg-id="Canal Q (PT)" tvg-name="PT: CANAL Q" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PORTUGAL",PT: CANAL Q
-http://leaderpro.pro:25461/live/rosamaria/12345/156.m3u8
-#EXTINF:-1 tvg-id="Food Network (PT)" tvg-name="PT: FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="PORTUGAL",PT: FOOD NETWORK FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/43.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen (PT)" tvg-name="PT: 24 KITCHEN" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="PORTUGAL",PT: 24 KITCHEN
-http://leaderpro.pro:25461/live/rosamaria/12345/41.m3u8
-#EXTINF:-1 tvg-id="TLC (PT)" tvg-name="PT: TLC" tvg-logo="https://i.imgur.com/JOiDYx6.png" group-title="PORTUGAL",PT: TLC
-http://leaderpro.pro:25461/live/rosamaria/12345/121.m3u8
-#EXTINF:-1 tvg-id="AeE (PT)" tvg-name="PT: Blaze HD" tvg-logo="https://i.imgur.com/SKq3sC8.png" group-title="PORTUGAL",PT: Blaze HD
-http://leaderpro.pro:25461/live/rosamaria/12345/51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE" tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/BLAZE.png" group-title="PORTUGAL",PT: BLAZE
-http://leaderpro.pro:25461/live/rosamaria/12345/84884.m3u8
-#EXTINF:-1 tvg-id="Caca e Pesca (PT)" tvg-name="PT: CACA E PESCA" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="PORTUGAL",PT: CACA E PESCA
-http://leaderpro.pro:25461/live/rosamaria/12345/49.m3u8
-#EXTINF:-1 tvg-id="Cacavision (PT)" tvg-name="PT: Cacavision" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="PORTUGAL",PT: Cacavision
-http://leaderpro.pro:25461/live/rosamaria/12345/48.m3u8
-#EXTINF:-1 tvg-id="Travel Channel (PT)" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/38.m3u8
-#EXTINF:-1 tvg-id="Motorvision (PT)" tvg-name="PT: Motorvision" tvg-logo="https://i.imgur.com/nSyXUgt.png" group-title="PORTUGAL",PT: Motorvision
-http://leaderpro.pro:25461/live/rosamaria/12345/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Zap Viva" tvg-logo="http://i63.tinypic.com/n2lfv7.jpg" group-title="PORTUGAL",PT: Zap Viva
-http://leaderpro.pro:25461/live/rosamaria/12345/91718.m3u8
-#EXTINF:-1 tvg-id="Localvisao TV (PT)" tvg-name="PT: LOCALVISAO TV HD" tvg-logo="https://i.imgur.com/QHQUqvP.png" group-title="PORTUGAL",PT: LOCALVISAO TV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/186.m3u8
-#EXTINF:-1 tvg-id="TV Record Portugal (PT)" tvg-name="PT: TV RECORD HD" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="PORTUGAL",PT: TV RECORD HD
-http://leaderpro.pro:25461/live/rosamaria/12345/157.m3u8
-#EXTINF:-1 tvg-id="Fuel TV (PT)" tvg-name="PT: FUEL TV HD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="PORTUGAL",PT: FUEL TV HD
-http://leaderpro.pro:25461/live/rosamaria/12345/42.m3u8
-#EXTINF:-1 tvg-id="Cancao Nova (PT)" tvg-name="PT: CANCAO NOVA" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="PORTUGAL",PT: CANCAO NOVA
-http://leaderpro.pro:25461/live/rosamaria/12345/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: My Cuisine" tvg-logo="https://i.imgur.com/2gCvBdw.png" group-title="PORTUGAL",PT: My Cuisine
-http://leaderpro.pro:25461/live/rosamaria/12345/40.m3u8
-#EXTINF:-1 tvg-id="DOGTV (PT)" tvg-name="PT: DOG TV FHD" tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="PORTUGAL",PT: DOG TV FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/39.m3u8
-#EXTINF:-1 tvg-id="Euronews (PT)" tvg-name="PT: EuroNews" tvg-logo="https://i.imgur.com/y4lCo8f.png" group-title="PORTUGAL",PT: EuroNews
-http://leaderpro.pro:25461/live/rosamaria/12345/19.m3u8
-#EXTINF:-1 tvg-id="Record News (PT)" tvg-name="PT: Record News" tvg-logo="https://i.imgur.com/cjzvVHv.png" group-title="PORTUGAL",PT: Record News
-http://leaderpro.pro:25461/live/rosamaria/12345/18.m3u8
-#EXTINF:-1 tvg-id="Angelus TV (PT)" tvg-name="PT: CANAL ANGELUS TV" tvg-logo="https://i.imgur.com/MuWd4kZ.png" group-title="PORTUGAL",PT: CANAL ANGELUS TV
-http://leaderpro.pro:25461/live/rosamaria/12345/16.m3u8
-#EXTINF:-1 tvg-id="Kuriakos TV (PT)" tvg-name="PT: KURIAKOS TV FHD" tvg-logo="https://i.imgur.com/NSDWjtZ.png" group-title="PORTUGAL",PT: KURIAKOS TV FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/12.m3u8
-#EXTINF:-1 tvg-id="TV Fatima (PT)" tvg-name="PT: SANTUARIO FATIMA" tvg-logo="https://i.imgur.com/X1Xbgkn.png" group-title="PORTUGAL",PT: SANTUARIO FATIMA
-http://leaderpro.pro:25461/live/rosamaria/12345/7.m3u8
-#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="PT: SBT BRASIL" tvg-logo="https://i.imgur.com/XPRHraS.png" group-title="PORTUGAL",PT: SBT BRASIL
-http://leaderpro.pro:25461/live/rosamaria/12345/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ MÚSICA ✬✬✬✬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJFv3QwxOPWiuQA8_eJDYiRu8qSileSkt5thFyE-PM-WN7oAkHg" group-title="PORTUGAL",✬✬✬✬ MÚSICA ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95752.m3u8
-#EXTINF:-1 tvg-id="MCM Pop (PT)" tvg-name="PT: MCM POP" tvg-logo="https://i.imgur.com/nxTIh9U.png" group-title="PORTUGAL",PT: MCM POP
-http://leaderpro.pro:25461/live/rosamaria/12345/60.m3u8
-#EXTINF:-1 tvg-id="MCM Top (PT)" tvg-name="PT: MCM TOP" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="PORTUGAL",PT: MCM TOP
-http://leaderpro.pro:25461/live/rosamaria/12345/59.m3u8
-#EXTINF:-1 tvg-id="MTV Dance (PT)" tvg-name="PT: MTV DANCE" tvg-logo="https://i.imgur.com/NiFyj1W.png" group-title="PORTUGAL",PT: MTV DANCE
-http://leaderpro.pro:25461/live/rosamaria/12345/54.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV MUSIC" tvg-logo="https://i.imgur.com/HIHCEKi.png" group-title="PORTUGAL",PT: MTV MUSIC
-http://leaderpro.pro:25461/live/rosamaria/12345/53.m3u8
-#EXTINF:-1 tvg-id="MTV Portugal (PT)" tvg-name="PT: MTV PORTUGAL HD" tvg-logo="http://ica-ip.pt/fotos/directorio/mtv_logo_2650420795627c03e8d246.png" group-title="PORTUGAL",PT: MTV PORTUGAL HD
-http://leaderpro.pro:25461/live/rosamaria/12345/52.m3u8
-#EXTINF:-1 tvg-id="Afro Music Channel (PT)" tvg-name="PT: AFRO MUSIC" tvg-logo="https://i.imgur.com/YdHGyWn.png" group-title="PORTUGAL",PT: AFRO MUSIC
-http://leaderpro.pro:25461/live/rosamaria/12345/50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice
-http://leaderpro.pro:25461/live/rosamaria/12345/85900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - 90s
-http://leaderpro.pro:25461/live/rosamaria/12345/85899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Alternative
-http://leaderpro.pro:25461/live/rosamaria/12345/85898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Brit Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Brit Hits
-http://leaderpro.pro:25461/live/rosamaria/12345/85897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Contemporary Christian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Contemporary Christian
-http://leaderpro.pro:25461/live/rosamaria/12345/85896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Hip-Hop & R&B" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Hip-Hop & R&B
-http://leaderpro.pro:25461/live/rosamaria/12345/85895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Indie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Indie
-http://leaderpro.pro:25461/live/rosamaria/12345/85894.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Kids Only" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Kids Only
-http://leaderpro.pro:25461/live/rosamaria/12345/85893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Metal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Metal
-http://leaderpro.pro:25461/live/rosamaria/12345/85892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Ocko Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Ocko Gold
-http://leaderpro.pro:25461/live/rosamaria/12345/85891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - R&B Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - R&B Soul
-http://leaderpro.pro:25461/live/rosamaria/12345/85890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Rap 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Rap 2K
-http://leaderpro.pro:25461/live/rosamaria/12345/85889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Teen Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Teen Beats
-http://leaderpro.pro:25461/live/rosamaria/12345/85888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Throwback Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Throwback Jams
-http://leaderpro.pro:25461/live/rosamaria/12345/85887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Todays Country" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Todays Country
-http://leaderpro.pro:25461/live/rosamaria/12345/85886.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Toddler Tunes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="PORTUGAL",PT: Music Choice - Toddler Tunes
-http://leaderpro.pro:25461/live/rosamaria/12345/85885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Music Choice - Tropicales" tvg-logo="" group-title="PORTUGAL",PT: Music Choice - Tropicales
-http://leaderpro.pro:25461/live/rosamaria/12345/85884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MVM" tvg-logo="https://i.imgur.com/bR5BsnD.png" group-title="PORTUGAL",PT: MVM
-http://leaderpro.pro:25461/live/rosamaria/12345/35.m3u8
-#EXTINF:-1 tvg-id="TRACE TV ALT" tvg-name="PT: TRACE TOCA" tvg-logo="https://i.imgur.com/hmCOuYV.png" group-title="PORTUGAL",PT: TRACE TOCA
-http://leaderpro.pro:25461/live/rosamaria/12345/34.m3u8
-#EXTINF:-1 tvg-id="VH1 Portugal (PT)" tvg-name="PT: VH1" tvg-logo="https://i.imgur.com/Nn30UkT.png" group-title="PORTUGAL",PT: VH1
-http://leaderpro.pro:25461/live/rosamaria/12345/33.m3u8
-#EXTINF:-1 tvg-id="VH1 Classic (PT)" tvg-name="PT: VH1 CLASSIC" tvg-logo="https://i.imgur.com/BgSD5XD.png" group-title="PORTUGAL",PT: VH1 CLASSIC
-http://leaderpro.pro:25461/live/rosamaria/12345/32.m3u8
-#EXTINF:-1 tvg-id="Trace Urban TV (PT)" tvg-name="PT: TRACE URBAN" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="PORTUGAL",PT: TRACE URBAN
-http://leaderpro.pro:25461/live/rosamaria/12345/31.m3u8
-#EXTINF:-1 tvg-id="iConcerts (PT)" tvg-name="PT: ICONCERTS HD" tvg-logo="https://i.imgur.com/ozn20Vt.png" group-title="PORTUGAL",PT: ICONCERTS HD
-http://leaderpro.pro:25461/live/rosamaria/12345/25.m3u8
-#EXTINF:-1 tvg-id="C Music (PT)" tvg-name="PT: C-MUSIC" tvg-logo="https://i.imgur.com/PFXRvo3.png" group-title="PORTUGAL",PT: C-MUSIC
-http://leaderpro.pro:25461/live/rosamaria/12345/24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="✬✬✬✬ INTERNACIONAIS ✬✬✬✬" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0KEg0LCg0NDQ0KDQ4ODQ0NDQ8QDg4NIB0iIiAdHx8kKCgsJCYlJx8fLTEtJSkrLi4uIyszODMsNygtLisBCgoKDg0OGBAQGCsZFRktKy0rKy0tLSsrKysrLSstLSstKy0tLS0rLSstNy0tLTctKy0rKy0tKzc3LSs3OC03Lf/AABEIAOQA3QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAFBgMEAAECBwj/xABMEAABAgQDAwcHCQUHBAIDAAACAQMABBESISIxBRNBBiMyQlFhcRRSgZGhsfAHM1NicpLB0dJDgoPC4RYkNHOTovEVRLLiY/IlVIT/xAAaAQADAQEBAQAAAAAAAAAAAAAAAgMEAQUG/8QALREAAgICAgEDAwMDBQAAAAAAAAECEQMhEjEEQVFhEyJxkaGxBRQyUoHB0eH/2gAMAwEAAhEDEQA/APIdp7QmHXnnHHnSInXLiJws2MVvKnU/auf6h+v47Y1OfOH/AJhe+I+/4w8fGACRZp36Q0/iF6tY35S70RddX98s3tiFUSn1rvj47o1ABN5W9X513/UIfxjPKHvpT++UQ/8ArGEq/dgAnWaP6R2n2y6WFeMbWbdwLeH5vzhXe/0RCmC//Xv4Ryns7vjugAn8qd+ld/1C4+mNeUvU+dd++X5xEidvx/zErTRnQREiTzRujqVg3RIj5ki3PGlOjUz78K+qI/KXfpT/ANQsvtg1KclJybW5mWMQIspH1R7KrRFw4walfk3myt3rgB/u9yfjDcH6i816Ce3NmKrzzqJ9ss2utI0ky8OO8d/1C8a+z2R6Gz8mjf7SYL91v+sSr8nEt1nncv2fzjnFe4cn7HmhTTv0rv1s5fnG1mnvpHUT7ZU+MY9Gc+TljqvH90fwVIozPydknzcxXzRMV/BVg4/IX8CL5U7Xpn/qF+cdJNPL+1cy/XLopj2wwTfImcZ6Ii6n1CzfhAKbkH2FteaMLfOEoOLO8kaKdepbvnaXXW3F6OPf7Y4SYd+ldu+2X5xHS7x/e+MI5p+qFOkvlLn0rv8AqFGJNO9Z0/vFHCj1ePxx9ccimsAEyzT30p/6hfnhHQzLpYbx2uX9oX5xXTzvN9sdIXDzuPf3QASJNvJ0XXfN+cKGXkfsV3apqrjzyS7BZrTK4y1onZ3r3p6FcV4imN3H2R6j8kU60TUxLFS8Hd9aVvQVBRF9Cj7u2ACxO8l5QWytExtHpb1y7Djr3xS5Izs3sgpthuZe3RqybdCJfOr+EOW1mhFLutblL6q8PH84V5SYbR18Okoizd3VugA8rm15x3/ML3xEXx5sTTac47/mEV3pjTbV/wC7mKlvQTVcVSvhABjQit1xHlEiyihZ+GqpRK0RV1TsXSOCw6Kot3jl7sfjCNU1Kv6uyMpjT39vfABsVtzcfj49ccovhm/2x1XztVzViRlg3SQQzEX70dSvoG6NGty3UBFIiW0RomPu7ki7svY0zOkIyzRFd3F6/CHPkv8AJ8TyI9O5R6rfWL0cE71j0JiUlNnjuxIAtHMI2iRF6dffD8VHsS2+hI2J8mdEFyfO3zmx/PT3w57O2JIymWXZaEh63Sc9a4p6Iq7SbN8ic3rpMiNwthlzJjRF1WtKduPojnk7JzYkZPZALNnHnu5ERcET11hHld0CirGNGB82I5gwaS5zrdEesUSNtEPSMz+1/RERImKQacUSJoCIcwkWbN2xwcCTM2fSlwvtK0h6wl+HpiuLMuwu9EC3tvWISc7aawYeAxO0QE+lc5+Hd7Y5GW3ic4hNF9UhIvXHK2BTYO5Mt1v1vdFWeN1tRIQIgH5whbuK3uTX1VgoQK4uto2xvcrTqlHQAgT8s6ottujeQ3C2QkJepUrFd1pp/LcJfVMS9ypBh2SErSeAStzCRDmHwgNyg2ejjTpS+R63KVxN5uFVriqY0rHUcF/a/JGXdu3YWF/8fxSE/afJx+UVSQUMfsj7vyhhPbe0ZK3ygbx6wubssqaYota619EbXliji2uS4kBea5+aJ8cYqoSfyLa9NCCqEPSTuzRperhD7N7Lk9pBvmcv1usJdhJ6PYuMKe0tkPSa0JMOq4PRJNKePdE3E6mDE+PjwjtF+1d8fhGl7ePx6o0ntT/iFGMVKZa/8xd2bNvyrgPShGDo1tszXcVTvSnDGKfSTBOimK/j7U9kc1+PjxgAapnl5PujYSsivnC3m96p7OMWeRLyms24qqROKypK4VSrmhPElGulSwzdJPXDf8nlf73/AAer9qABVnUo4a4fOFp4rrEK5u76v5RLOLzjvbvHPfGAtKjlzDQsvRxRa14LhqnhABGJW9HVOtWJDdU6XKmW7oj2rXFdV1XXSvoiNceHt8IubI2c5PGLTadIo7GLk6RxtJWzrZmzHZwxbZFSUit6PuSPTNjbEldjIG+DfzZdFoOkPeq8PGKmyJlrZ4+SbKQDmnMrkyXREU1tronfxx7khm2RyeQRF9x7ygnC3jhEOV4q46potNFrRFjQ4qCI7k7CUq+6TO93Qjdda2GYRHguC0XDvWvdC3teZDfyr7imRNk8JNt9ISREW6i4YJVV/okEdsbcWSXeTI2B1WRtLfUwtRKoqjXVdOEDZEQnQFonWhEbnJtxtu7nF/ZoWCrxuphiiV1jPk+2NlF9zpHHJOZdm3zc3pD5PlG7Lc2tdE4Lh6YbpZiYFTdcQjuzdIfdXDjAd+RJ3dXGDRNjzLbHNkTaUpdTWlF17V4QZ2VIvMNbqpENo2jddrXC1K99KUiGNvjsrxSdHTe0hJOcuuH/AOPL6ViRNrNU80utdly+EDZ2XO4h3Vto5szeYdO347YoIybnzIDfmHLmzJ44YdvfC/UmtUdkklaDrm3ZYVFsltIujd+eiRK9Pi0lziiNxCI/WJcERK6qtYE7N5Lq6YzMzdaObd/Wi/tHZLRPS8zYI+T3ZibuLeKmFFrgqLwRERU1WiUWsHJq5ImdLtESdKWsdEhG64m+b9fpiUrRQir0frQs7e5WKwJtyzRvGzcLhENo4aqipr26UhOV+YzOOGQb7nOllIVxwquHZ8JA5pKxHkS0enC+DnRIYE7SSTduGYICtyl5w+NNIHBKC6yLssbp2jzeYstNa1Wiad/CF/yMm7nBm2gJzL88Q+2kDk/Y7yLe1OTTtRGSEiBzpPE6IiLa9lFqq6wizUi6x0gyiRDd53jDDNMTGzbZkr7XCEhK7eNlxSuOGNFpxpAg5x1xSccMueK4h6pejSNGFS7ROUkQbPnlYISElBR84bv3SxSorxhmKbaK5twSKXeHeDcN1o8UWmqIvHVPVCxMIBdEBEbcuYi0iw83uBFt7Na3c2IFbaS441xwwXThF5w5U/U7GRztvYKsJv5bO0Wbzrf6Y6wAWnr/AKQ7bDfNuW3tbrXnBFn6QKIqonfqqerjAjbuywoM3KZmnBut80fD04pwjPKJRMBqRVRwrUXpDl1phwSnCI6Xd0apG7V+tExjRfHjDryBp/e6DhVmmVPrdtffCXVK3f7YceQGs328zd454AFabHnHdF5wvOzVVYr/AMsWJ5LXXf8AMc9i/wBFSIfNw/V8cfTABJKy5PmjY4qUPWzJKxQkZYBvmCIXSu6qYqNfNTrLxpTRFgTsmV8ja35fPPZW/qjxL8u9e6Csg4UstokV5Dzg5rtVS1FSqprj4LHoYsXCF+rMspc5fCGDYagxMGUsycw02JbwhG7fCnooiYYJXRE7YatpzJixcygstEOZwsostp40RPWndGbCnN+y63JSZCbNo3W2i5VMKKqa+PdCJy3Y2k681LTIH0bmGGnN9d2kqJx4VtRMFpxiUY8571RWT4x0C9oF/wBSmHXWyMgESInDHqCKr6Ewoid/CGfZrTTDLJD0nh3giJW6Jqqdta8U8IobF2NMSKGM+0TIzbLzYtuZXHCRFSiJ21VKJxrB9qUOSZFt4LSbuu3ZN9JUTBV0TGuvYmGNU8nzcl5GvaqNXiQqPJ9sifI22wtA3jm94W7IiyiiJiiJ4607tYuS3KBppAaeybsczjTblotIlVTNmqq1xXSIthyAug9MjnJkhZcEXCFzdWiqYpRESq9nBcVVKxS2pIA27bLLe09aQvW5WxUq1TFFwQSTsouuCrGWOXf4LzhS1uxzl9uyjiCJMll+bIhEsvFVwr6tYIDtKWHnKtCJZbusXop8VhYG+3njEy+qP9OyKz5I2g3CV5F90a9vpSKQ8x9NCTwUrGmZ29LMFaRiWW4t3mFv08V8KrCzyh2t5ahC2ZC1bltuEiJePakBNqOk+Vogd3nDmHH4SOUZdYERIrit+16uMU+tKXWjFkbVpEaiIiIj0WxEfqiOlcYi2Vsk51S50htzOEZXFavBE0TH3xxNNL83W0esVvswTjHCNO1EhPo9YcpF3pj2p7IIqnbM8dPY8lJjLM23Cy02PSy9H09vrhRM5CdcFiWUid6Lbgs3MOOUrmSqUXHWiaJjF6d2nv5c251QaMei8Q5XB1xpii1p4wubC2uEk66+20JE4yQiQkRDeuKItcVTBMaotfTHpYYc4uUSzmtBna+ydwx/exuG0utaTZItK60VMBWmOsI7TitldQnQ6JFbbotcKYL6Ybf7cI4AMPS5GtvOlvRES4aUxRcVxVKd9KqG2sUvLCTcsVm+bIt0JXFaqlS9a0qi6YaLXsjVihKOpI5Jp7TFwxuzdX/yKLC7Q3jPkxAHzm8Ercw9yL2LjgvdBLae1LZSUkhtpuyccG3okpKqLXvReHdpASTbFwrS/dHrEVUwT198Wq1bQoU2Sv8Ad5rpELea3qiaouKLwVcPV6Io7OnCbK0jyOEO8HLbjoWOC6411SqeB+e2coyzzrIHYLbeYXB3d1ccMFVNFrj3JCkLhUUdRK7L1blSlUjOlytlOiztzZfk671tKtOdnVLs8OMCfbTo/CwwyUwLjJSz1xD1bvNTVO5UXFPVAOcl1YMmy6vRLzhXRfVGacaHTK6prDn8nqf4uil+w/mhN492aHD5Pf8Auv4P80TGFWbLnHf8xz3xe2HJb9zNgAZiL6qRTnVqbv8AmH6MdPdDDJN7hkfPfK4v8tOHp09EaPGx85/gjnnxjXuW3HQdIekI3CNv1ExT2IWmqrDVyXckBTd7RtMnnBbEuqJIiIiKqLXFa4r7EgFsmWFxwBesECK1xxwrbaItaaeiq0wXCPQeSnJeWfbN0iJ0N9zREOUaVTKuOGKxs8iUUqZPFF+g5y0yDY7tkBuHLaMVNpzgy1rsy7YDhCNrbZERVrhgi08VjQSqtIJMjceYresWvqquEclsecmW7Zs5e0iErSbIraY6VTRe1Y81V6moXOXO0gdlSclrx8mmWxFwhEt9VcUStapimPoiXYTko5LtNC6JzDLG8cli81VpfSmirwHu7YscqdnS0jLzczNtBMGTXzhiXTxRNMEStPb2wlSihsubkpudvENqyAi5ui6LiolumCYiOirhjxpEPIxqcdfNfkfHkcHf4/QJs7PafeMpRSlRJzm7biEcEylTClVWmNMFg7KbNVp9pslGzdkNuXK+iqta+FEpwVV4LA+VmNmym+GYddObcc+bIXG9yKYohV4Iq9XWiRK44riA5ZcVouZ+rRFW5FritbvBPSkefPHpbNWLJe0EJmQVshL7Vua26vv0SKm0iaJsicHMOUfN7eCeOPjF2RcdnpZonLmSzEO76JCmGq6LWtU4U4VRYAbYn5aSHdPKRlblaErnMeK9np1jmLA5y4wVs5mzVG5FKWlxEwLK0JCREQj1cfekdvTIuuEQjlLo+c3T4WBbHKsM1zOQhG3pbzDxqiwSd27LE2bcqju9cIbWxG7NTj3d6YpTSmMeov6flvaPK+omqRt2SMiu6V31cvHux/rxiGcPdKNw3GQkVo+aiVXwoiLjHJntFiXGbet3ThCQuEQ2uAtKaYUXSvjHfKFspmXadlisBsd4TebeP3agiola4olE1RVrSHXjKM0pPV0T2LU3NJMqLbhi0BFzhEOUR7URPCA9yuXZrRHMQ9EcfYkcmpNkeW3qkJdIS4pjjGrCJPrfaj3oY4xWuhSFW/8Ay6UcuKmURzedFhA3aXFbl6Q9K4YhdDErcw/+XxhHWBA+lsS7OFLxL7VvS6VFpoqLr3x06FqD9aLOxpeXJ0PKnSZAspEHSu78FomNKxKa0x49jNNzatyobkiICYLeXCNrmCoqIiphRUVcOxO2EVxcBG3L/uLjj2w8crZ+XYTyKUtIW27cvRxT1dmMJDukZMUdXRaT2Ry5EJF9YSiWasfC7rtDd+6uqJ4ap4xlwiI29Irt4X1Volvx2xC2ZNqP+76w9kcnGzqYPrbDj8nyf4r+D/NCtNMbs1DVBzD9YVxT2Q2fJ1/3f8D+eMBUXW5fevkHnPlgPYirjDLMSxOEVpDayI25uqnYlNeMC9htc887T5snLftVWntpBZ5SFSuIS3nzmYSEqaeGnppHp+JHjC/cx5Xc/wAFmXVrmieC4SEhFvq2qidqarTXXDBez3Lk+CFLhao882LmUbbRXFKYrHiGzNkHNke5EbW2Se6XRpitK6rThHrHIGaN2SZyGBC4TeYSuJpMRWqpilCTGJ+WlSr0K4Wa2xPvSKmMuVp3CLeVsrhSmCVXXFPXF/Zm0A2eyX/U5nfTXOPE2RCTlvYidifFeIflNOm2eYCIrS3do9IlUUEcFrjVfV2IqKhTUoc6pTbxkIk25c4dwiTqqiLmquUVVEVVxWioiKqxGEOS3oeUqGfanKyW220UjMtEzvrbXCHeM31qiYKi6JWqVpjXSEuakVGWmGimROYlHuYaEhIhlkqjlFRVpqK0rgiL3wIn7BXKJcyQi2WbMKJrRdFVcfTFUHnSIfOHol5vD8/XGt+LcaX5/wBzO8u9jJsudBxJSdETI5bdsTLZOZnhwoSLTRUSi1XCid0OGwNpo+BsPgRb7MJCW7IiRVqKLRaIqquFNdKwg7MMGFEcxBl3mbKVcFwwxxWi14JDLyPfJo94QlbcXOZiurRERK4KqrT1R43n+P8ARl9vT2avFy26kM0htPyFwmJtD3T0sW6ESJwSFFpilEVLaoldKKnZCByomAdmppyWuNoStu861ERV8Kp7oa9sMS7rwXGRCIuC6Q3CLZFRUtoula9yKqJCfLybQqRPOuju3CbmeYJxts1UkFUouOKVoqY69tNH9LioTlN90v3F8nI5Pj6EsrydmX7x8ne3rYjaItiQjWiopKq4JRarhVMMMYITXImZ2eTRT4EUqPOPvyxC42LSajiiUVcKKq0x7o9b2dMNCANSVhNNt2i4NuZxE0XsVfYsedbe2/tmZOalpZq6VK5m4hb5wFWlUVaY8KUXjGz+7nJ1aSJSxwgrZR2hytk2mGpCQljNkXiJwZm4uYWqWpjWqouvVXSusVeT+0DIDlmbiLnPJGwuJ69UXINKrhrjglFrpC0Mva5u5i4N2RCW7EScuTCiY01wrDfyX2HKTZC3LKV5CRZnHBIQwVVWiUWlRSicV4pD58UIxqm/WyXNyaAczstwmGXHlAt9cO8NrnGnUxVFUaqSlRUxrhVdUxXal5v3fN1j0ea2ZMSzTzDZb4N/dujH9qi1ShcFReHeuKQk7SB3emM2zunXCttIW2RbxqVaJRdVx9+CRfBmjK6f/DIxjkTaktf+g+t2W7/2jhfOL90fZFqaAWrd2YO7wRIrRLmy81aomKaYYYxTQcbrel9aLvZVESn9qMSord5vne6OiGOHUuy+dCNDI5JwiuIutEDi98TOpalo/wC38IgUfX+cSkhkbaTMI9W6D72wxIQcl0uuG4m7sxd6cIEM0bMCJMokN3m2oqY9+CRaEnnJiytqiVo/aTBNOFVT198ZsifoWiV9ts2g0QXZbmXK92I19ap+7Bj5Pf8Au/4P80VNsNHzzLyDeTe9uHouEmNe5aXJ6Ys/J7/3X8H+aMc1sojNlSbptzRt1It/aRdbE6J61onpiZ6WwduyWlcI9a1dMOxEqtfbFjYjTxBupYSvmHSHKObExRKdmKonpjjbcoUo9MNdIWXibEuqTaLRPRgnpSPTxaSj8GJ7t/Je2POIwYjfaJbscto60RVVaKq4YpgvorHsTjytWt/NBu7bm7bRPhx018MI8E3quKTo3XEW8K0fT6O2Ck1ykm3RFpx4y3ZDa5dm9KaLwxXHWOZcDm1Q8Miitj/yn2mLgSjjZiXSJwiEvm0WirgtdUVKd/fHmz201dBphwyIWesI3Za1uRFpVVWCcvtvdATZOkbTwjcQjaQmhCqKiLVNRXXVFWB809LOXbsiau3nzbe7FzTvLVK8aV4a1bHj4aaCcuXRpt55xSdGwSFsWyIulgo5qLhWuNV76aYVnmwIubDdCVvNi5vLS8eKLr3RG67cpW3iPR6RXE3rm7YIcnJ0JZ7ePJltIR9KUxwxRKotKLokX/xVon29no/ye8hgNh2ZnWbjmgEmGzK21vUVw7VRF8PFUg9LciEaS5xWT+ctaFshEarVFurVVw0XDh4z8nuUm7bCWmw3RiPMZSEHmE0VKqtNFwVdE9MMrZi/adbeiX2qY19seLmbnK5GyMUlo8y25s4JRR3ksVxFaTlvNkOK5kVa91UpAfZrLTr0w6QFbaTTkoLrjYuGOIKaqtcCRF9C+ly2ty3ZV9iSFnetTD7jLc3cO7uQRXTWiKSVXCiJhVcIW+XpBsp2XEWrweHeE4Q82VcKDRUppinZjjCRxZIy+31Fk01fscSqbREh3zzTQCVxNi4T2VVrTXFVwSpVWLM9N81NE2pC1Ls5SEsu9VNK6ovh3RSSTCdeackrTZ5twnAbctbHr6oiqiLcmiLXClFgdO7TF9PJLbMpDddcLhIq41qnZVF7+9VVG39Rc9JP2JSi69xVVPjLdd6VgtyRnPJplpwntyJC42TltwiKp3KncuuqJE0psHeHu3jtuuzCPW4VqvaqJ6YE7UkDkXjaLMTP1cvf39se2s2PNFxiyauLs9RlZ5nI1LzZvPE3mLdk2JOIKLetUwWiileNURaqmHn3LKTm23Sbn5kSu5xu4cuCJiiIiYapxpRe3GJvlIdzO8AACXL9kNuVaXccVWiqqriqquMd8vttDtR8CbG0Zdvd+tar+EZ8eGUMi+S0pqUSqw9s20t8yREQllaH9pTVKqionZwwXCBxNSxEZC6YB+yE2rnCrrWioiJXDX0QPWNCpF5xXRohg4J1J/qR5X6Gy+r1i60Qnp/NBdnYxOibrbrRDLkO8bFy1+1aVtFUSutO9U4wzbMkwKXByXZMymhcF6ddK1tgLlS6ldV7EXCq66Qs80YjRg2efGMThL2t75zLdcLXnESar4J28Vw7YdeWHJqWYYGdlhtLLdu3Lm3K8U1w44YUhSYJkgEXitPNcRDdlwog0XVarVVTCkCyKcbQ3Hi6ZSdAyG60rBy3Wlbrhj4qvGsEdnPgRk71iEbhuG4RxQlSq+CxXdnrREW0G0fs2lhTFFT4X2VUUCMSoQZur0R9C4xOatDphOXmd+81dce+EmSIu+tF7uC8ePbFjkGCgs2PYTNfHNFZkFYdARS8bm3G/s4Knbii+qqwT5LN89tEeAvDb4KprGLKViMnycbRCSmWSczeUFuRy5cXAqq9lEGviiQx8otkye3zefkpm120m227hEXnRVVJURVxRa1qnGmOKpHn2xEUnGbUuzTXuVYrO7TeEWRv3RMtlaTY2uWrVcV9KpGz6TbUovdIywmlGn7v+Rv8mm5If+n7Tl2hIm9228I3WhRMRUcK0TWl2GNcIpzPJHeHv9nKLzJEQ2kVotlRMEJEqqIqr1RwTHjEeyuW8w3umpux2VFwiETbEnB9PGi01iZ/ldm3ksyQNTGZ9giIhJ1VqRLhipaaaJgsd45YvS/6HuDBs3yeeE7bAEnOiw1c4Q9nrXCtV49ixXmuTzzQuuEDo+Tubtwdy5lLBEp26+GmNVpDTsk2p5i5ybCXBv8AxJE22y44a3LbeuK1tJVp2xAvKWWlHz3L0wISg7liy3duGmGmiClKIuq4aQLJkul2c4x7FSY2Q8wlrgERftB+j7yVEoiLrrHJSTo3E8DrWXeDzZZh9PCnHuhy2fy6Niu4cdMnW/mn3CcDea0poiEuK0TSiIqJFcJ6XFtopoxtZeIvJmBtbcfXU64olqEmAoopTitYZZZrtHOEfRgrYW09qC4yUsD0wLbhbtsWyK4kTFKoi11qqd8ENr7W2yI2zvlUuDl1t7bg3VRUwqmCIi0omlEXhWD0zyva2UIS0on95IhJx0bRbJhFVF4IirVFS6lKJVK0SFHlLynmNpOi4+p2sjzbJfMi4uC0xquia448NIWNzlfFHXUVVgh5207t6Yky5c2Wa1umKUSqqmKJ4U4xqdnVmV3rxuzBllJ11wiuFOGOPrX0RWmiIrrukRXFGhDL1Ry+cN2C0014+qNNJbZK30XS23MtgMsy6TTQ/s2itzdqqi1VeNVXu0wiFiedEhLKdpdbrU4V46arWKKoNYsmQUC0CEhG1wt5dvHKqtUSiUSlEpjpWuMSyYoTVOIcmelcnlafsdHMIs3dG7RUr24phgunelFhL2yDr7rzjYOmJOW3WkXh2pWiRJyU2zMSikMuBOk84Ii00RC84SpSqURVwROCcdeEeibO5SNuMuts2OuvCRNjvG23RdoiZsMcaVw4LrrGKCfjSerRRJS22ePkK10iy1s519ObAiLo2j0scEhsLZknPPHKMzA+UMiW8LdNiyRJrata0RaJ2fhYktlDIha46e+ISeIbco0FVQe2tFrXx4RfP5qjC4rfsLxFhjk1vGt4JkT28ESby2ttpqpKqpj2J3LFNJB6SeAmUCYtcIR5reNlRaaKngsObIeTeVNzIkLouOMi0Ija42qIiLilURLRx7axf2euBbwhIRb5zN85ilKpxtphhjhHmr+o5E/u2neh+MTzgpaccM29yIk2IsuDuxbtrppRPSuuEMXJt6ZljCQ8nAgeEnHGTzCJImqUWqKtFVUVV1SiJDDMmy2JFkN25xy7pETiJovaq17ePFYGOuhN27wzEmSK0mnBFzCq0TvSvenfFP7z6jpxpDpcdizylR1oibbeVWZcvmd4W8lrq1RUVdK1SuOqIusLZ3UgxPbPMXHWxQ3SIbhc6tvnLivvw74FPATfNklpfWj08Uk40mSbtkJ9WO7cRylm6OXpcPTGrrUjDcUlHHoiIj9lIJDoNHMMsNtOMiIutvfdFFol1OKpVfXFvkeVzs+utyy5etChSuUkFvzSIvj1Q08iVzzv/wDP7ijFljRWLtnewJw2FafZtvYmXrbhuG5ULVF10iq4hOXkNxCI+b0QXD0JVUT1RBsh3/Ejl5t3eZujgX/MW23AbQhISG4hEXM3M41VVpiq4J24KvGlN2F3BS+DI1tr5K0zLq3aP1RLpdtF4e6MYR1zKJF1bRuuIq4LhrX8ouvUtBtxqw2RK5wSu3wLaorrTBK4phjFZEtW0ftDl6vbF1JtHKo3jW37OUvw9ftjSgNLfi3474uyzBuATjZGb0w9uybFu5wRTGt2ieHZ7Iw2c6VtpDm3ZNkX7S7HwXii+qOckgothJvNNhcAAJMuEJZbrdO1VSlyLRMcUiYtpgKALMozumyyvO7xx4j1XRURK8ERMO3WKG/UkteISzZnG+kVdeGi0TVMKJE0xK2g64y0RFa2VpWlaC3JVKYKoralUxRV0wWJtf6hr9jc28645vZgBtc6Qjm00RKqqJqmvCKiqTrg5cxF+9jSqpw4ccIsNThurvHDEzuHp9IiSiJrgvZ2+pI4YknnRdJsSERuuy9HSqV9UdVJA3ZbmJaXfAnWea8nu3rZF0iVaCiLxpouFca8Yg2HsoNoGbbjpBb0StG271440ThqkbkZN5s909fKjMWsk6bZW4401pjRMfFeEO+wdgSOzQOZemGTd3YuC2VrhMUqt2C93Zgqd0RnPinT/A8Y2RyXyTuPoLnlKW5cuYSIa4qtURUw0SnpXiL5UchClD3Uo6TxEQiLYt2uY4ImuOutESvsJMctpl0mm2773t8445cIkTWKClOC1VFVaJgiYawvu7WebMiJ43iH5xwXczlFWgp3LdjSvFeERjLLy2yjUK0Lz0pMSZk08Bsut/syG1wS1r4w7lyen5lhnaQzJ+VS4s7ts2d3kRVVDVaqi0Sq1JKqiJWFuXee6rQEZftctw1RaIldKUrRMcEhrOd2rtBGiJ05WXlmxZctK0i0VaJhVVTRUHBEXvrTLJ6ehYpGuS+2pR1odnzbVk2ROF5aAkLguIiqhES41XFKaKmFKYRf2xJOvuyokVwsvC29vCEbqoa0qmKotErTgnHChDZj0hNq95IyIlLttuPP23OEK1qIqtKKqpiqJTHvrAzbs8jCBmtezbvMRW3InS14Vp2ovpTzvIab9iiRGbPlblrJXCyJc850nHK44pXKnZ2wS2jLM7NESuInbRtvHKVNdKVx4IqwL2c5LttkLJXm3u94JXDlWirWmvdRa1rHHKcibMHLxM5hst2RE4RbtCwqipTROCpRUxjKoLcn2ctdkEoKOILhJa6ThNuDcVo1RFRbaKqUqqJStV7K1io5LmSk62yTVuXfEQ5iSiKtPFC4rrxpVSWyJZqbKdbeuEi3bbJF+0NVVUVEXFSwVccaVXwi5ROi2TssIFfbmc3hXCSpoiccKJ3+qGldWdVVbF6bRajmvIriL0e/wiF3Z3l1rdo3jdu3OsVKZfaqeiNq/bfbmLreyie344ybOmd0ROFmLLbm93qSORnKLuPYipvYoTrStETZDaQkURAN0OW2NiHMj5XlEnrSt9WvYicV7YXJiRKWS5wSHzbeqUetHPGUV7go0DGF3ZfukP7y4QyciFvKcVbsSa/m/pC8IpmLrDm9Wv4Qf+T06+V1SvzOn70Szu6KR7BOxn93MuoWCOE4JelVSCJoQraV1wl+98YQumSi8RDjzp5U8VwhnmC3og62vSHefvYIvuRfTGjw5XFx9iGdVO/cvSqC4yIi1c84QiLnSyohVQcUpVFGiLxRaa0ilMNusKI9ECISbzDbbSuCrwze2J5KcBtMoiVw2kPRK6nbwUVoorrWn1o5n31FbXlLdD82251a41wVUSvGnWVVomialaYnaJAeRrnG8uUrnLSubLFEpRUoipTFdK9yRc37TYi04toOEP8AebRIt3SumuBUXtROGqLQdvbscZvEHBLKJXZUrxRKKuqehY0ALM3C2QGNtxCZEIjwTH2VXvr2wcU9nLfR00rQlum13ok2Q7y225xdF8EWmvCvdBCXk1ytvXFmbK1sriElVEwCtSrRVVNezVK0piWl2BAhV0TzCQiVzbhaVSi4IqcLl7qpFcJjdXNipWFbvBzFvCRapRdUVFVaKlOKLgsca5dHbrsOThi2ATN7RkNpN222kSKt1wqlUWlMD6dMaomPLu3np4RFt0ms3RDdjaSLxSqVGiJ3YrXVYW3CJwiIiK5zzvjWNtp1hy2+d0oPpJLYc/YLTctMTKc4d5NtiQj9XuomPFKp2L2UgbOyu7uEiErR6hdEuKLVK4Y6YV4wQ2VMGK2y91/WuIbra6Ci1Raa6V17aRZdmAmSFylrw23CYlmdS5Vx4rVE7FrjiqqqLycdeg1JgQBMbc4hd1sw5U8Me6HPkzI7OJLZ8WnmnLS3pCQi2OKJmTTREVCVMVXhqI2gG/cN3dAJldcJEV14jmRMdF0TxwVcKwC4bTZNt86DxdG1wuiqaKmCpTx08IWf3rWjsftDq7JB83vJ3mmmZRvftiJc24S9HVUTRF78U7ardluWP/UlCSbZZlScbId5aJE4aIqICIuCIuFV9CY0VQuyQJpSt5ryhhwbdz85glAVSqnBE9NddAMlJrMq03L3b1x3d3dEbl6KV7VVF9cScItPk+h+TXR6l5WMtKNZRLeC44QiXSopVrRFXMVcE0RV8IR5mZVwgJ5XiMW+bIbrt2tyoKoq40UlStcEWnCDc7PTDcuIuNc63cza30m2xWpKtVritOPGALlrhCQiXRtzXe3ReC+6PFyz6Hm6pFon2XfmxICtEW3C6RFWqKS4dqonYiJjhE0y8YoUsy6ZNXXWl0cK1VOKVTGKTDo13XREbRutuIR7scf6wa/u24dFywXbuZ3e8JzeDVFReGNUXsola1hFbJdkEmCNTgDLrcDgkJE24JC2RCqKSF9VF1XsXjFGaYF102pc7x3hc6RFc4PFcezHHjrFZkT3rROEXOWt5SttBUpiq6UTCvcscIG6IrXellIvO7ad1YdbR29BCclmpb5u+8briuzYY4L6OHYsBjM2nSEbt0Vt2XqV7PdpqmkWJ9HWyG7e5iEh61w4pVMErVeP4xaVjdgO8ULyzFb0hpSiLXRaqq99O5aM6jbHinJ0iKemN4oNiFoC22It3dVMcVonbj3xX2+6Agd1whlbH6uCentw746cBd4Qll3fS9GH4QG5STl1rA/syuL8vbB46lOaNMoqEQG8u7bMus4QiP2Vxr7PbBz5Pl/xXiz/ADQuz7lygJcBqX2l/JKQy/J+uEzhX5n+aNeV3InHoWJzpmWXFw8NdK68cYNbCf37ZsVzhmbu93q/CAU2ud3/ADC96xLJTKS5AYVqmvpph6IbBk4TTEyw5RDi2ipESWl1er219S4ehYsOulQc5WiPNifSxqiUw0RImn5a8RnWh5ord8Il0SWnjguFPFIqq6IqLjfQLq3W293ctF101j2NS2jGg9IgYh/dnmXWXLXHGnBbctdTHoqtUWg6JiuNLkpA+alUyXbkBIbhcadIh46rh5vHSicdaqNJQRIRIibG37C00wqq8apjwotUjtyXBznGVIjFvNzdpNuJqlERarXRcE8KUROn2P2iEWyrzaiQ3ZSuy9y4rVPTHIu42kV1v/l3U1iVmUtTm1ISzdLK8JJSq0TVNcEVVRK4R0o5t2VhXEVubNxSta0WmtKrVeMNysWiK4et9roxjZ45St+1FsWGnLhFLCErR3txDii9qYcMcNY4GUNtRFwSu820u9O7iip6F7Fg5LoKIjQytIc1ttv2U4aePprDDs/a8uWWflBdAso7wvm6Jwux1x6VMVwXCB8tIyz65Xt1aNxXF7P60pgi17SL/J/d2Wu3Dl6XW0SiIiJVVpSnfw1WM3F6Y8U0TtbWk7rRlizZREyFwRJEoJISGhJ2KiKtcUSmi0p+fTM22z5OI3CQ2uNiWNVWqpjqipVKoi60wTtrk+0QmTbwOkNtzY2iQjpii4pxWuiVTHGKI7IQiHczCtGPRILitKtKKQpVNUrhxROMKuFjfcbXa6iFrJmLrDhONuXWlbRKJiq148eFK6rFjYs+6L0wUkAlvB8pZHpWvpRaJVa4Kqpqi0ovGBD2xlaJbnRMRLMXWu8NU4Jj3UrFUd9LKL4oQC2XS84cEoqdi1TVOK6xX6cWtC209jzI7UOdUxeaMXRK5xy3nHa1xWiomlEJKdLHBVpA+fkyYIrQuEWd4RbvrVpiqYLwWvf6qm0trG2607L2i1u2d5b0hrRSRcK8EXxRIPvE06IOERbp79sH0apXx1WvpWPH8rCou6pPr4NFfUjrtCzLTBXiQ5Lh6vnduvfpB+QlsA8od/u5OOE222Q82+uCXVVKIuK61ovqoObLdFQJuwxIRuISERFzsxWi+jtjuRDe3DeQ7ss2UelwX2xjWuydO6aCOzpBoXN1Mujcy9da3mF5tUTrIqYKtE9MZyglpYnjbl1tFv53eFbmVVXLhWiIlMEomGsWpB8azDRKTrz126uzXOlRCxXDRE9vbSKU7LtFxzOfOZhK2mijTgqY61rDuXFaHUOWkVnZ42wl27SI9424N2a2lUTVMa0Wid0QsjcVxftiuu+qmFff66xbnFEVEhyec55o6UTHtqlfH0VZwrVFsSyfVLq8U9VYy5crlo24sHHbKNRsddK25y5wvRVE9qr6khMV0iVXCIi6REXxx/NIN8opywdyJ5nB50R6IjwT8fVC5NuYINPte+PU8aP08XJ9sz5pcpUis4V1S86HDkEv+KzVxZ/mhOT490OPyeJ/i/4P80IArTLhib4ipDcRCSIuqIVaL6URfFEiFdc2Hv8Ayjuc6Z/5h++OUReiOK+amOlf6rAA18h9vJJubmZG+Xe5t0FtK4FrXXCtFWnpTisHdv8AJTyEt63zuz5sRJqbuK1mq0FSWmlVRFVe9NcY84aNRzj1fxRUj0z5O+Wosp5BO87LuFbavSGuCqlcKLxRcFTWNmDPJaXf8kJwV36fwKzYK0ZNzAFzf1uiK0RCThxRa4oqeNYncbaFAdEisK4bt11qVWqYoi+C46x6Jyt5KgLd0sF8vmJhwS52SJdQx6TS45dQVV4KseaOtOyxmwXNEJW5ujguGNE419fdHoYpxyKyco8ewsktcIFbeZfNiRNt7sa4Kqpoq0JKn2cMK9Ky8whC4oiZXE3KPuZSFcVKqKmiomqp241iFnaavqThFuiyjux+YcwpRaYoq4qtFotV04xFtS1CaEjISK5y7NzlKVRVWqouFUVeCdiU64Po5oMvSpuqYvW3tiTZWtkNwovTJVVVpQkQapTBEywT2U1ult8kPdCQ7ts2y3hVStMFVE4YHSqL2VRFJZoKZjO0mxHdlc4Vyd6ph2arquCJhHTcx0XGzXfDmz3EVuC0pTt8U4pCSxNoE0mOTj2y20EXjsJkhuILm3LbsCRERUKutRouCZaIqpJsvbEpaO5eDMThEM3uWSuSlbhuS65Kqi4aLqqoKJryuOILbwGAldmJrnBFEprUa9FE11xVNESkkphcQPZRzOF0bqVwomleNdFRYRYItbY3N+x6BtDajw5fJ2gtt3bu7b3YkiqlblJUoveSKteFFGBzyuv5ik2i3d1rjQ3FhTBRUiouI4LcmiUFcYUm5c6kLKTAXW22jlKmiLpWlMMEotYiclJlrqEGW24bWxt7lRURa0WOrCl6g5h5HgdPdTACJt5cpdVEpXsVMeNVpqq4UycBpto2xMxEswi63lHu14+C17NERcnDmGrRe3o3W5Tuzcap6a6d/asRuTbpJ0zs6o7wi1xp/wA1jvDfZyyVxSJctxZd2VvRtwSi0hq2byrd3YNTbO+FsRbF5sRJyxEoiEi4LREwVFRaJjWElXPO/wDKOvKTLLC5sMMi4yR3HkcHaPXBVmdZJ3ZzoZrRu3du5NeqYqmFaEqY4446LAXbchuFEiIxEi3jZW3XUVUUV0VU6S66epc+TVpSl9oOF0XnJdtsuiJUqtO+ly+2CPK6fNxvd2ERTAi2IkXXRVUiTsSmXWq1XTh8/mj9PI4xZ6SqeNSkgO1MA+AlaQkVw9K64dPbT1Rww2tRIlyl9bolov4evxiBgbUt638yxbacJ+xi27rfHBPFfZE5PVIiopSNOOb1RIso9HN1iX8sPUiQG2ztEW1tG0nSt6w2jpgvBO/wSCe2p6W2em6K56aLKTY/NiXowr8UigUuzJM+Vz4iT1vNtl0hJcdNK+jhFcPjJfdL9B5521xiKswhNVfduvLM2K+drVffApSIlUq4l39sWtoTRvmTjqEilWlw6dyRTWNc58iEVRut3Sr/AO3x7obuQKYTX8H+aE9dIcvk9TCZ/g/zQgwrzPzjtEx3hepFVV8FwiHt+NeESzmZx21K8457/jWIkX7vxhX40gA5+PivxjEoOECiVbbesPSjQolKU7OtSnf8YRr61ccyFXNw19tIOgPVOQ3ygONgMs6Y3j0d5mbeFOofFOwTTEeKEOCNu0tgyHKmXJ/ZBIzNM2i5KEWVk01S1FoiroiplXu1TwBDUVuG5LejXtho2HyjNhwHpd1yXmGxtF0et3FwVNMFT0YRrxzTfdS9/R/khJOPyv4O9r7AnNnumzNskJM5SIR5u3gSLTFKcfxSC3JfZrM2e4mFImiautbcZbfuVVpbVKmiIiYIqLRcOyH/AGVy3k9rh5DygZBo3htR8CLcOVw1TEde2mOqaQI218mkxJKL+yl8tau3ghvN3Mt6rUa4F717I0vyG1xlpiqK7jtAPbvJGYludlldel7ekFu+bFKJilK4U7PbHPJ7ZU5N2ty84LQ27sr7bsa6pxVEUqIqeC6UZpU2p4xJmcelZtvdi7JTlzZbymiIqoqVSui96JCntqZ2lsmYEp9rKRFa50mXBWqVFeC0XxhYZZyXHV/IzUVsK7R5CzDR3OT5kdo27hi0SLBNK8apXh264US5NXKX/wCRI3i6LbWW4lXGtF1VK1wxqi4pVYn2XMze1uabedMLR5txwebGqVRKUXVFTFF4dtYLjJpLOukyQjMDm8mK5vdgiKtRomIqtFW1e/VFWOc5R03v8BxT6Fqa5O3XDvZgyuuLeFlIuKrVMVXu7deMAJyW3eVt4yEStHNlu7te2GnbUwouuyxGRblq58nSIhFuiIi4riqqWiqtSLWiIkLj21t7duwBoeqI25W+z01xwXXTWtoSm+xJJIHJPTAoQiQqJDuyEhbK4NaLhVYgMhcXMNlxdIByj+7/AFiYsykNo5vqxowtTMmX+WKS4oS2ad2eYt78c7V1u8DMI+PFOGvbFdpk3CFttLjIrREekRcII7MmXWHRdl1ETHNuyzNuDRUVCTin5w47A5OA3NS86LVrMyx5Wy2Vpbslrza1TglMacU8Vx5c7in+xSMeVB+VEdky8lIkokYiROD1rlwXjgiqpceK8IWpht2bcJ2pEJfN5SEbK0qleFU9dU4LFjaEzv7XSuI3nicLzS0VEx4USnYlVpqixCMyTdzhFc6WYnC6OHDhgnYlI8Dlt8ntnqTapUSJIraRZQab6TjnnJwTtVeyKzT7N9o5OqXOWlbxxXXHgmEBNqcpzeIRzOtN+cVuVOAomCJ39kQJN+RmU3PkJnbzUsFo3HwuREogj7V0qlVjXi8Z/wCUtL92Y3kT6D+0QlNnkU84OZwR3Il0homqV4r7KwibY2o7PObxwl6Voj5sc7U2k7PGTr59Loj1R7ETsijXzrou36AkaXL+9G61pj+UZVMfZ/x6vVHNYU6SBrbXpda7thu+T2n96/g/zQnIlf6d0OPyeJ/i/wCD/NAAsTK1dPojc650sw0rpgixw8t1CpS3Lb4f0w4x1PAouO3fSH6aqsRiHS6VB6Vo8fywgA4rXo4fHhSJwsRBuTNmxu6VcKa0w14V0jlUSmW5esWXLfjglO6nZx7EjklRK2otPrFdj26dsAEenS+O2OhKtMEw+PxjQiRLaNyrp8eyNKi5sP8A1xgAKbO2ubGXph1gL8OMehckeXDrFrTEyIh9BM3E2P2S1T3e+PKq4a+GH4xu8talcnHwiscrqpbRN493HR9Pg/LbZG3aMsF5DaJda3tFeKVxSiqkQf8AQnmrmmZknpVzosPt79se1FVVr6K0jwbY3K6f2eqbl1VDAt2VCH1L70h72H8qTOAzgOtKo9Jpy5vxtVa/7vRB3/izt12hmmOTGYXG5doDlyubck3NyJOUVKEK6duFfBdFmOZedekCm5c2d288JEXzblUoldUrhotO1MFWlnZ3LOTmfm5xkxL9m/zLnrWiLByXnGn0K1q0fsiQl4U1jrlJdgqfR5Zyy2Yb81aN921XZVshtcuFsUVFRcOK2qlMKIi4YQPl+SZiJFNNEz5NvN4VokO7SiqdKYqtwoiVpWq8I9S5Sbomx3yb21xsmWycFshdRaooqqpikecSm3p+bmDY3V4ll3O8FsrUWqKiphhrVNYvjyzlGl6CuKT2Zyh5Ms7NQdyZE6Q3NtkI5iwrmVRTraJVfxCTu3XX1Za2i1zMuV26bHduEOmq1Ve6PUk2eDjYtvNAQiOUXHBLd+C0Wid1aU4RHKyDMsBNCoWXZRtutHsxrEvra3sHj9jzjZsi1tB/dygui09cLjwsEIstrqqcEWiURE7V7I9EfkC3bUpJWssstC2LnSctReileHFV4x3ObRZYHnHhay9Yhb98I23uWACpWzhfVblhc6PeS4KvgnpiUrl+Bo1HoO7X2duBAWStBlvdt3tk4WOKqiCir66aQhuN70rp149yJFdeW7G1OxEuVV8LvxgVO8oXXFyk6fG59wnC9FVpwgS9MG6tzhKRfW/COKMIu/U63KQZnNsNNKoyDYgPVcUc3rWq9+tNMIBuGRreSkqkupZvascL3L/zHTZkPRVUWhDl81UVFT01VPCByb7OpJGlJIxUt77Yz1/Vr64w1qpaa/FIU6a4XRpaRqMrABtIcvk+X/F/wP5oTa4Q4fJ+K/3rjiz/ADQAMfKTkJIszUwDZTCDvSwvDt+zAsuRkrl5yY6I9Zv9MZGQAa/sbK/STH3m/wBMd/2MlETpzHHrh+mMjIANOci5TDnJj7zf6Y5/sXKfSTH3m/0xkZAB05yNlFVVvmMVr0w/THS8iZPNzkx99v8ATGRkAEX9i5T6SY+83+mN/wBi5Tz5j7zf6Y1GQAdf2PlQ6Lsyn8QP0xcleTwsLzU1Ohm6rwp+EZGRSDJzCLflIaT86v2nRL3pFpHZr/8AdmPuy/6IyMiiFODdmzTGfm0+yTQ+4YHTMg6985Pz6/xx/KNxkKwQM/snLulU3ppf4gfpjj+xkp9JMfeb/TGRkSkVR2nImU+kmPvt/pjE5Eyf0kx99v8ATGRkcOmv7FynnzH3m/0xpeRcp9JMfeb/AExkZABseRcp9JMfeb/TGk5Fyn0kx95v9MZGQAbTkVKY85M9Xrt/pjS8ipT6SZ++3+mMjIANjyMlKLzkxj9Zv9MekfJjyHkG2X3OeMnDBFUzHRK00RO1Y3GQAf/Z" group-title="PORTUGAL",✬✬✬✬ INTERNACIONAIS ✬✬✬✬
-http://leaderpro.pro:25461/live/rosamaria/12345/95753.m3u8
-#EXTINF:-1 tvg-id="TCVINT" tvg-name="PT: TCV Internacional" tvg-logo="" group-title="PORTUGAL",PT: TCV Internacional
-http://leaderpro.pro:25461/live/rosamaria/12345/95877.m3u8
-#EXTINF:-1 tvg-id="BBC World News (PT)" tvg-name="PT: BBC WORLD NEWS HD" tvg-logo="https://i.imgur.com/IgIYJVE.png" group-title="PORTUGAL",PT: BBC WORLD NEWS HD
-http://leaderpro.pro:25461/live/rosamaria/12345/185.m3u8
-#EXTINF:-1 tvg-id="CNN (PT)" tvg-name="PT: CNN" tvg-logo="https://i.imgur.com/4ALxk31.png" group-title="PORTUGAL",PT: CNN
-http://leaderpro.pro:25461/live/rosamaria/12345/183.m3u8
-#EXTINF:-1 tvg-id="Bloomberg (PT)" tvg-name="PT: Bloomberg" tvg-logo="https://i.imgur.com/z9ljXHd.png" group-title="PORTUGAL",PT: Bloomberg
-http://leaderpro.pro:25461/live/rosamaria/12345/184.m3u8
-#EXTINF:-1 tvg-id="SKY News (PT)" tvg-name="PT: SKY NEWS" tvg-logo="https://i.imgur.com/498j2VR.png" group-title="PORTUGAL",PT: SKY NEWS
-http://leaderpro.pro:25461/live/rosamaria/12345/182.m3u8
-#EXTINF:-1 tvg-id="TVE 24h (PT)" tvg-name="PT: TVE 24h" tvg-logo="https://i.imgur.com/iS8gvHb.png" group-title="PORTUGAL",PT: TVE 24h
-http://leaderpro.pro:25461/live/rosamaria/12345/181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FINE LIVING NETWORK HD" tvg-logo="" group-title="PORTUGAL",PT: FINE LIVING NETWORK HD
-http://leaderpro.pro:25461/live/rosamaria/12345/84885.m3u8
-#EXTINF:-1 tvg-id="Fox News (PT)" tvg-name="PT: FOX News" tvg-logo="https://i.imgur.com/3TpaiZi.png" group-title="PORTUGAL",PT: FOX News
-http://leaderpro.pro:25461/live/rosamaria/12345/20.m3u8
-#EXTINF:-1 tvg-id="TVE Internacional (PT)" tvg-name="PT: TVE Internacional" tvg-logo="https://i.imgur.com/EXe49t7.png" group-title="PORTUGAL",PT: TVE Internacional
-http://leaderpro.pro:25461/live/rosamaria/12345/17.m3u8
-#EXTINF:-1 tvg-id="CNBC Europe (PT)" tvg-name="PT: CNBC Europe" tvg-logo="https://i.imgur.com/dibSfxB.png" group-title="PORTUGAL",PT: CNBC Europe
-http://leaderpro.pro:25461/live/rosamaria/12345/15.m3u8
-#EXTINF:-1 tvg-id="Deutsche Welle (PT)" tvg-name="PT: Deutsche Welle" tvg-logo="https://i.imgur.com/LTQJ3dN.png" group-title="PORTUGAL",PT: Deutsche Welle
-http://leaderpro.pro:25461/live/rosamaria/12345/14.m3u8
-#EXTINF:-1 tvg-id="France 24 (PT)" tvg-name="PT: France 24" tvg-logo="https://i.imgur.com/zY7VbFh.png" group-title="PORTUGAL",PT: France 24
-http://leaderpro.pro:25461/live/rosamaria/12345/13.m3u8
-#EXTINF:-1 tvg-id="M6 (PT)" tvg-name="PT: M6" tvg-logo="https://i.imgur.com/x7lPVxa.png" group-title="PORTUGAL",PT: M6
-http://leaderpro.pro:25461/live/rosamaria/12345/11.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live (PT)" tvg-name="PT: MEZZO LIVE FHD" tvg-logo="https://i.imgur.com/2q195Cn.png" group-title="PORTUGAL",PT: MEZZO LIVE FHD
-http://leaderpro.pro:25461/live/rosamaria/12345/10.m3u8
-#EXTINF:-1 tvg-id="NBA TV (PT)" tvg-name="PT: NBA TV" tvg-logo="https://i.imgur.com/fcE0eth.png" group-title="PORTUGAL",PT: NBA TV
-http://leaderpro.pro:25461/live/rosamaria/12345/9.m3u8
-#EXTINF:-1 tvg-id="RTL (PT)" tvg-name="PT: RTL" tvg-logo="https://i.imgur.com/YSr2EIM.png" group-title="PORTUGAL",PT: RTL
-http://leaderpro.pro:25461/live/rosamaria/12345/8.m3u8
-#EXTINF:-1 tvg-id="Super RTL (PT)" tvg-name="PT: SUPER RTL" tvg-logo="https://i.imgur.com/pr50ZLG.png" group-title="PORTUGAL",PT: SUPER RTL
-http://leaderpro.pro:25461/live/rosamaria/12345/5.m3u8
-#EXTINF:-1 tvg-id="TPA Internacional (PT)" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="https://i.imgur.com/Pqg5ViF.png" group-title="PORTUGAL",PT: TPA INTERNACIONAL
-http://leaderpro.pro:25461/live/rosamaria/12345/4.m3u8
-#EXTINF:-1 tvg-id="Trace TV (PT)" tvg-name="PT: Trace TV" tvg-logo="https://i.imgur.com/UOkcsTI.png" group-title="PORTUGAL",PT: Trace TV
-http://leaderpro.pro:25461/live/rosamaria/12345/3.m3u8
-#EXTINF:-1 tvg-id="TV Galicia (PT)" tvg-name="PT: TV Galicia" tvg-logo="https://i.imgur.com/KSR7gjA.png" group-title="PORTUGAL",PT: TV Galicia
-http://leaderpro.pro:25461/live/rosamaria/12345/2.m3u8
-#EXTINF:-1 tvg-id="TV5 Monde (PT)" tvg-name="PT: TV5 MONDE EUROPE" tvg-logo="https://i.imgur.com/hmk0xFB.png" group-title="PORTUGAL",PT: TV5 MONDE EUROPE
-http://leaderpro.pro:25461/live/rosamaria/12345/1.m3u8
+#EXTINF:0,RTP 1
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/1.m3u8
+#EXTINF:0,RTP 1 (LOW)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3320.m3u8
+#EXTINF:0,RTP 2
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/2.m3u8
+#EXTINF:0,RTP 2 (LOW)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3321.m3u8
+#EXTINF:0,SIC
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3.m3u8
+#EXTINF:0,SIC (LOW)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3322.m3u8
+#EXTINF:0,TVI
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/4.m3u8
+#EXTINF:0,TVI (LOW)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3323.m3u8
+#EXTINF:0,TVIREALITY
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/5.m3u8
+#EXTINF:0,TVIREALITY CAMERA 1
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/7.m3u8
+#EXTINF:0,TVIREALITY CAMERA 2
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/8.m3u8
+#EXTINF:0,TVIREALITY CAMERA 3
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/9.m3u8
+#EXTINF:0,TVIREALITY CAMERA 4
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/10.m3u8
+#EXTINF:0,TVIREALITY  MOSAICO
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/6.m3u8
+#EXTINF:0,TVI 24
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/11.m3u8
+#EXTINF:0,CM TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/12.m3u8
+#EXTINF:0,SIC NOTICIAS
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/13.m3u8
+#EXTINF:0,TVI FICCAO
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/14.m3u8
+#EXTINF:0,SIC MULHER
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/15.m3u8
+#EXTINF:0,SIC CARAS
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/16.m3u8
+#EXTINF:0,SIC RADICAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/17.m3u8
+#EXTINF:0,PORTO CANAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/18.m3u8
+#EXTINF:0,ABOLA TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/19.m3u8
+#EXTINF:0,RTP 3
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/20.m3u8
+#EXTINF:0,RTP INTERNACIONAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/21.m3u8
+#EXTINF:0,RTP ACORES
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/22.m3u8
+#EXTINF:0,RTP MADEIRA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/23.m3u8
+#EXTINF:0,RTP AFRICA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/24.m3u8
+#EXTINF:0,RTP MEMORIA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/25.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/26.m3u8
+#EXTINF:0,DISCOVERY SHOWCASE HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/27.m3u8
+#EXTINF:0,CANAL HISTORIA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/28.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/29.m3u8
+#EXTINF:0,NAT GEO WILD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/30.m3u8
+#EXTINF:0,ODISSEIA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/31.m3u8
+#EXTINF:0,CRIME INVESTIGATION
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/32.m3u8
+#EXTINF:0,CBS REALITY
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/33.m3u8
+#EXTINF:0,A & E
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/34.m3u8
+#EXTINF:0,TRAVEL CHANNEL HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/35.m3u8
+#EXTINF:0,24 KITCHEN HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/36.m3u8
+#EXTINF:0,FOOD NETWORK HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/37.m3u8
+#EXTINF:0,CACA E PESCA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/38.m3u8
+#EXTINF:0,CACAVISION
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/39.m3u8
+#EXTINF:0,RECORD BRASIL HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/41.m3u8
+#EXTINF:0,TV RECORD PORTUGAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/40.m3u8
+#EXTINF:0,TV GLOBO PORTUGAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/42.m3u8
+#EXTINF:0,GLOBO USA  (TESTE)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/539.m3u8
+#EXTINF:0,GLOBO BRASIL HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/43.m3u8
+#EXTINF:0,GLOBO PREMIUM
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/44.m3u8
+#EXTINF:0,E! ENTERTAINMENT
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/45.m3u8
+#EXTINF:0,TLC
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/46.m3u8
+#EXTINF:0,CANAL Q
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/47.m3u8
+#EXTINF:0,TOROS TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/49.m3u8
+#EXTINF:0,DOG TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/50.m3u8
+#EXTINF:0,MTV PORTUGAL
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/51.m3u8
+#EXTINF:0,VH1
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/52.m3u8
+#EXTINF:0,MCM POP
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/54.m3u8
+#EXTINF:0,DISNEY
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/55.m3u8
+#EXTINF:0,DISNEY JUNIOR
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/56.m3u8
+#EXTINF:0,PANDA
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/57.m3u8
+#EXTINF:0,PANDA BIGGS
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/59.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/60.m3u8
+#EXTINF:0,NICKELODEON
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/58.m3u8
+#EXTINF:0,JIM JAM
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/62.m3u8
+#EXTINF:0,BABY TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/63.m3u8
+#EXTINF:0,SIC K
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/61.m3u8
+#EXTINF:0,TVCINE 1
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/64.m3u8
+#EXTINF:0,TVCINE 1 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/65.m3u8
+#EXTINF:0,TVCINE 2
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/66.m3u8
+#EXTINF:0,TVCINE 2 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/67.m3u8
+#EXTINF:0,TVCINE 3
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/68.m3u8
+#EXTINF:0,TVCINE 3 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/69.m3u8
+#EXTINF:0,TVCINE 4
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/70.m3u8
+#EXTINF:0,TVCINE 4 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/71.m3u8
+#EXTINF:0,TV SERIES HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/72.m3u8
+#EXTINF:0,HOLLYWOOD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/73.m3u8
+#EXTINF:0,HOLLYWOD HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/74.m3u8
+#EXTINF:0,SYFY HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/77.m3u8
+#EXTINF:0,AXN HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/78.m3u8
+#EXTINF:0,AXN WHITE HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/79.m3u8
+#EXTINF:0,AXN BLACK HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/80.m3u8
+#EXTINF:0,FOX HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/81.m3u8
+#EXTINF:0,FOX MOVIES
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/83.m3u8
+#EXTINF:0,FOX LIFE HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/84.m3u8
+#EXTINF:0,FOX CRIME HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/85.m3u8
+#EXTINF:0,FOX COMEDY
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/82.m3u8
+#EXTINF:0,CINEMUNDO
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/75.m3u8
+#EXTINF:0,CANAL 11
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3508.m3u8
+#EXTINF:0,SPORT TV +
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/87.m3u8
+#EXTINF:0,SPORT TV 1
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/88.m3u8
+#EXTINF:0,SPORT TV 1 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/89.m3u8
+#EXTINF:0,SPORT TV 1 (LOW)
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/1274.m3u8
+#EXTINF:0,SPORT TV 2
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/90.m3u8
+#EXTINF:0,SPORT TV 2 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/91.m3u8
+#EXTINF:0,SPORT TV 3
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/92.m3u8
+#EXTINF:0,SPORT TV 3 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/93.m3u8
+#EXTINF:0,SPORT TV 4
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/94.m3u8
+#EXTINF:0,SPORT TV 4 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/95.m3u8
+#EXTINF:0,SPORT TV 5
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/96.m3u8
+#EXTINF:0,SPORT TV 5 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/97.m3u8
+#EXTINF:0,BENFICA TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/98.m3u8
+#EXTINF:0,BENFICA TV  HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/99.m3u8
+#EXTINF:0,BENFICA TV LOW
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3299.m3u8
+#EXTINF:0,SPORTING TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/100.m3u8
+#EXTINF:0,SPORTING TV HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/101.m3u8
+#EXTINF:0,ELEVEN SPORTS 1 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3344.m3u8
+#EXTINF:0,ELEVEN SPORTS 2 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3345.m3u8
+#EXTINF:0,ELEVEN SPORTS 3 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3346.m3u8
+#EXTINF:0,ELEVEN SPORTS 4 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3347.m3u8
+#EXTINF:0,ELEVEN SPORTS 5 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3348.m3u8
+#EXTINF:0,ELEVEN SPORTS 6 HD
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3349.m3u8
+#EXTINF:0,EUROSPORT
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/107.m3u8
+#EXTINF:0,EUROSPORT 2
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/108.m3u8
+#EXTINF:0,PFC
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/102.m3u8
+#EXTINF:0,KOMBAT SPORT
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/103.m3u8
+#EXTINF:0,FIGHTING NETWORK
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/104.m3u8
+#EXTINF:0,MOTORVISION
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/105.m3u8
+#EXTINF:0,MOTORS TV
+http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/106.m3u8

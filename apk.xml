@@ -1,237 +1,601 @@
 #EXTM3U
-#EXTINF:0,RTP 1
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/1.m3u8
-#EXTINF:0,RTP 1 (LOW)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3320.m3u8
-#EXTINF:0,RTP 2
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/2.m3u8
-#EXTINF:0,RTP 2 (LOW)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3321.m3u8
-#EXTINF:0,SIC
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3.m3u8
-#EXTINF:0,SIC (LOW)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3322.m3u8
-#EXTINF:0,TVI
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/4.m3u8
-#EXTINF:0,TVI (LOW)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3323.m3u8
-#EXTINF:0,TVIREALITY
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/5.m3u8
-#EXTINF:0,TVIREALITY CAMERA 1
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/7.m3u8
-#EXTINF:0,TVIREALITY CAMERA 2
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/8.m3u8
-#EXTINF:0,TVIREALITY CAMERA 3
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/9.m3u8
-#EXTINF:0,TVIREALITY CAMERA 4
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/10.m3u8
-#EXTINF:0,TVIREALITY  MOSAICO
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/6.m3u8
-#EXTINF:0,TVI 24
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/11.m3u8
-#EXTINF:0,CM TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/12.m3u8
-#EXTINF:0,SIC NOTICIAS
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/13.m3u8
-#EXTINF:0,TVI FICCAO
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/14.m3u8
-#EXTINF:0,SIC MULHER
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/15.m3u8
-#EXTINF:0,SIC CARAS
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/16.m3u8
-#EXTINF:0,SIC RADICAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/17.m3u8
-#EXTINF:0,PORTO CANAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/18.m3u8
-#EXTINF:0,ABOLA TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/19.m3u8
-#EXTINF:0,RTP 3
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/20.m3u8
-#EXTINF:0,RTP INTERNACIONAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/21.m3u8
-#EXTINF:0,RTP ACORES
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/22.m3u8
-#EXTINF:0,RTP MADEIRA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/23.m3u8
-#EXTINF:0,RTP AFRICA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/24.m3u8
-#EXTINF:0,RTP MEMORIA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/25.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/26.m3u8
-#EXTINF:0,DISCOVERY SHOWCASE HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/27.m3u8
-#EXTINF:0,CANAL HISTORIA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/28.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/29.m3u8
-#EXTINF:0,NAT GEO WILD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/30.m3u8
-#EXTINF:0,ODISSEIA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/31.m3u8
-#EXTINF:0,CRIME INVESTIGATION
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/32.m3u8
-#EXTINF:0,CBS REALITY
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/33.m3u8
-#EXTINF:0,A & E
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/34.m3u8
-#EXTINF:0,TRAVEL CHANNEL HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/35.m3u8
-#EXTINF:0,24 KITCHEN HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/36.m3u8
-#EXTINF:0,FOOD NETWORK HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/37.m3u8
-#EXTINF:0,CACA E PESCA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/38.m3u8
-#EXTINF:0,CACAVISION
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/39.m3u8
-#EXTINF:0,RECORD BRASIL HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/41.m3u8
-#EXTINF:0,TV RECORD PORTUGAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/40.m3u8
-#EXTINF:0,TV GLOBO PORTUGAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/42.m3u8
-#EXTINF:0,GLOBO USA  (TESTE)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/539.m3u8
-#EXTINF:0,GLOBO BRASIL HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/43.m3u8
-#EXTINF:0,GLOBO PREMIUM
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/44.m3u8
-#EXTINF:0,E! ENTERTAINMENT
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/45.m3u8
-#EXTINF:0,TLC
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/46.m3u8
-#EXTINF:0,CANAL Q
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/47.m3u8
-#EXTINF:0,TOROS TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/49.m3u8
-#EXTINF:0,DOG TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/50.m3u8
-#EXTINF:0,MTV PORTUGAL
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/51.m3u8
-#EXTINF:0,VH1
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/52.m3u8
-#EXTINF:0,MCM POP
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/54.m3u8
-#EXTINF:0,DISNEY
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/55.m3u8
-#EXTINF:0,DISNEY JUNIOR
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/56.m3u8
-#EXTINF:0,PANDA
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/57.m3u8
-#EXTINF:0,PANDA BIGGS
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/59.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/60.m3u8
-#EXTINF:0,NICKELODEON
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/58.m3u8
-#EXTINF:0,JIM JAM
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/62.m3u8
-#EXTINF:0,BABY TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/63.m3u8
-#EXTINF:0,SIC K
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/61.m3u8
-#EXTINF:0,TVCINE 1
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/64.m3u8
-#EXTINF:0,TVCINE 1 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/65.m3u8
-#EXTINF:0,TVCINE 2
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/66.m3u8
-#EXTINF:0,TVCINE 2 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/67.m3u8
-#EXTINF:0,TVCINE 3
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/68.m3u8
-#EXTINF:0,TVCINE 3 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/69.m3u8
-#EXTINF:0,TVCINE 4
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/70.m3u8
-#EXTINF:0,TVCINE 4 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/71.m3u8
-#EXTINF:0,TV SERIES HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/72.m3u8
-#EXTINF:0,HOLLYWOOD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/73.m3u8
-#EXTINF:0,HOLLYWOD HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/74.m3u8
-#EXTINF:0,SYFY HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/77.m3u8
-#EXTINF:0,AXN HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/78.m3u8
-#EXTINF:0,AXN WHITE HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/79.m3u8
-#EXTINF:0,AXN BLACK HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/80.m3u8
-#EXTINF:0,FOX HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/81.m3u8
-#EXTINF:0,FOX MOVIES
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/83.m3u8
-#EXTINF:0,FOX LIFE HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/84.m3u8
-#EXTINF:0,FOX CRIME HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/85.m3u8
-#EXTINF:0,FOX COMEDY
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/82.m3u8
-#EXTINF:0,CINEMUNDO
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/75.m3u8
-#EXTINF:0,CANAL 11
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3508.m3u8
-#EXTINF:0,SPORT TV +
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/87.m3u8
-#EXTINF:0,SPORT TV 1
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/88.m3u8
-#EXTINF:0,SPORT TV 1 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/89.m3u8
-#EXTINF:0,SPORT TV 1 (LOW)
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/1274.m3u8
-#EXTINF:0,SPORT TV 2
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/90.m3u8
-#EXTINF:0,SPORT TV 2 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/91.m3u8
-#EXTINF:0,SPORT TV 3
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/92.m3u8
-#EXTINF:0,SPORT TV 3 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/93.m3u8
-#EXTINF:0,SPORT TV 4
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/94.m3u8
-#EXTINF:0,SPORT TV 4 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/95.m3u8
-#EXTINF:0,SPORT TV 5
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/96.m3u8
-#EXTINF:0,SPORT TV 5 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/97.m3u8
-#EXTINF:0,BENFICA TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/98.m3u8
-#EXTINF:0,BENFICA TV  HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/99.m3u8
-#EXTINF:0,BENFICA TV LOW
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3299.m3u8
-#EXTINF:0,SPORTING TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/100.m3u8
-#EXTINF:0,SPORTING TV HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/101.m3u8
-#EXTINF:0,ELEVEN SPORTS 1 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3344.m3u8
-#EXTINF:0,ELEVEN SPORTS 2 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3345.m3u8
-#EXTINF:0,ELEVEN SPORTS 3 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3346.m3u8
-#EXTINF:0,ELEVEN SPORTS 4 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3347.m3u8
-#EXTINF:0,ELEVEN SPORTS 5 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3348.m3u8
-#EXTINF:0,ELEVEN SPORTS 6 HD
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/3349.m3u8
-#EXTINF:0,EUROSPORT
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/107.m3u8
-#EXTINF:0,EUROSPORT 2
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/108.m3u8
-#EXTINF:0,PFC
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/102.m3u8
-#EXTINF:0,KOMBAT SPORT
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/103.m3u8
-#EXTINF:0,FIGHTING NETWORK
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/104.m3u8
-#EXTINF:0,MOTORVISION
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/105.m3u8
-#EXTINF:0,MOTORS TV
-http://theyiptv.mine.nu:8000/live/Dianaribeiro/Ribeiroana/106.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="PORTUGAL",RTP 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8442.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="PORTUGAL",RTP 1 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8443.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FULL HD" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="PORTUGAL",RTP 1 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37284.m3u8
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/RTP%201%20HD.png" group-title="PORTUGAL",RTP 1 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42977.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="PORTUGAL",RTP 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8439.m3u8
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="PORTUGAL",RTP 2 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8440.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",SIC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8435.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",SIC HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8436.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC FULL HD" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",SIC FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37285.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC FHD ( 3 MEGAS )" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL",SIC FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42976.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8432.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL",TVI HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8433.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="" group-title="PORTUGAL",TVI FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37286.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/TVI.png" group-title="PORTUGAL",TVI FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42975.m3u8
+#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC NOTICIAS" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL",SIC NOTICIAS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8430.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL",TVI 24
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8428.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL",RTP 3
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8438.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="PORTUGAL",PORTO CANAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL HD" tvg-logo="" group-title="PORTUGAL",PORTO CANAL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37288.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",CMTV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8426.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL",CMTV HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8425.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV FHD" tvg-logo="" group-title="PORTUGAL",CMTV FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37445.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/CMTV.png" group-title="PORTUGAL",CMTV FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42974.m3u8
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="PORTUGAL",A BOLA TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8316.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC CARAS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8413.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS HD" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="PORTUGAL",SIC CARAS HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8412.m3u8
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHER" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="PORTUGAL",SIC MULHER
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8411.m3u8
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC RADICAL" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="PORTUGAL",SIC RADICAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8410.m3u8
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI FICCAO" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL",TVI FICCAO
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8408.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL",TVI REALITY
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="==== BRASIL PRINCIPAIS ====" tvg-logo="" group-title="PORTUGAL",==== BRASIL PRINCIPAIS ====
+0.0.0.0
+#EXTINF:-1 tvg-id="PT: Globo TV [Alter]" tvg-name="GLOBO" tvg-logo="" group-title="PORTUGAL",GLOBO
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42993.m3u8
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="GLOBO FHD" tvg-logo="https://i.imgur.com/aZP2nIU.png" group-title="PORTUGAL",GLOBO FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8300.m3u8
+#EXTINF:-1 tvg-id="Globo Premium" tvg-name="GLOBO NOW" tvg-logo="http://nos.pt/particulares/televisao/canais/premium/PublishingImages/globo-now/logo/large.jpg" group-title="PORTUGAL",GLOBO NOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8301.m3u8
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV RECORD HD" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="PORTUGAL",TV RECORD HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8298.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b0/Logotipo_do_SBT_RP.png/200px-Logotipo_do_SBT_RP.png" group-title="PORTUGAL",SBT
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="====== INFANTIL ====" tvg-logo="" group-title="PORTUGAL",====== INFANTIL ====
+0.0.0.0
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PORTUGAL",PANDA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8394.m3u8
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="BIGGS" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="PORTUGAL",BIGGS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8389.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="PORTUGAL",DISNEY JUNIOR
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8392.m3u8
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",DISNEY CHANNEL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Classics" tvg-logo="" group-title="PORTUGAL",Disney Classics
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Toon" tvg-logo="" group-title="PORTUGAL",Disney Toon
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38731.m3u8
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="PORTUGAL",Nick Jr
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8395.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="PORTUGAL",CARTOON NETWORK
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8390.m3u8
+#EXTINF:-1 tvg-id="Nicke" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="PORTUGAL",NICKELODEON
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8393.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JIM JAM" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="PORTUGAL",JIM JAM
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8385.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="PORTUGAL",SIC K
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8386.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="PORTUGAL",BABY TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8387.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Boomerang_Logo_2014.png/150px-Boomerang_Logo_2014.png" group-title="PORTUGAL",BOOMERANG
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS" tvg-logo="http://galatichost.pt/Logos/kuriakoskids.jpg" group-title="PORTUGAL",KURIAKOS KIDS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="===== DESPORTO NACIONAL ===" tvg-logo="" group-title="PORTUGAL",===== DESPORTO NACIONAL ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8354.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV +" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV +
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8325.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV  + HD" tvg-logo="http://i.imgur.com/zsFjzDa.png" group-title="PORTUGAL",SPORT TV  + HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="https://i.imgur.com/H629yec.png" group-title="PORTUGAL",CANAL 11
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 LB" tvg-logo="" group-title="PORTUGAL",SPORTV 1 LB
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/19150.m3u8
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8341.m3u8
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORT TV 1 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8340.m3u8
+#EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="SPORTV 1 FULL HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL",SPORTV 1 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8339.m3u8
+#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORTV 1  FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/Sport%20TV%201%20Full%20HD.png" group-title="PORTUGAL",SPORTV 1  FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42971.m3u8
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8338.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORT TV 2 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8337.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORTV 2 FULL HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL",SPORTV 2 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8336.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2 FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/Sport%20TV%202%20Full%20HD.png" group-title="PORTUGAL",SPORT TV 2 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42970.m3u8
+#EXTINF:-1 tvg-id="SPTV3" tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8335.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORT TV 3 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8334.m3u8
+#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORTV 3 FULL HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL",SPORTV 3 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8333.m3u8
+#EXTINF:-1 tvg-id="SPTV4" tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8332.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORT TV 4 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8331.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORTV 4 FULL  HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL",SPORTV 4 FULL  HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8330.m3u8
+#EXTINF:-1 tvg-id="SPTV5" tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8329.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORT TV 5 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8328.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORTV 5 FULL HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL",SPORTV 5 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8327.m3u8
+#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="SPORT TV NBA FHD" tvg-logo="http://thestartingfive.net/wp-content/uploads/2012/06/Nba-Tv.jpg" group-title="PORTUGAL",SPORT TV NBA FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8326.m3u8
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",BTV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8323.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV 1 HD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",BTV 1 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV HD LOW" tvg-logo="" group-title="PORTUGAL",BTV HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41052.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV 1 FULL HD" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL",BTV 1 FULL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8321.m3u8
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/BTV%20Full%20HD.png" group-title="PORTUGAL",BTV FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42967.m3u8
+#EXTINF:-1 tvg-id="elevensports1LB" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8351.m3u8
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORT 1  HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORT 1  HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8352.m3u8
+#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8353.m3u8
+#EXTINF:-1 tvg-id="elevensports1LB" tvg-name="ELEVEN SPORTS 1 FHD ( 3 MEGAS )" tvg-logo="http://tvlogos.eu/Logos/38_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42973.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORT 2" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORT 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8448.m3u8
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8348.m3u8
+#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8349.m3u8
+#EXTINF:-1 tvg-id="elevensports2LB" tvg-name="ELEVEN SPORTS 2 FHD ( 3 MEGAS )" tvg-logo="http://tvlogos.eu/Logos/39_es.jpg" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42972.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="ELEVEN SPORT 3" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORT 3
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8449.m3u8
+#EXTINF:-1 tvg-id="elevensports3HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8346.m3u8
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8344.m3u8
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://uploaddeimagens.com.br/images/001/626/193/thumb/5.png?1537496663" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8343.m3u8
+#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8342.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",SPORTING TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8319.m3u8
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV HD" tvg-logo="https://i.imgur.com/5YdkMBB.png" group-title="PORTUGAL",SPORTING TV HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== DESPORTO INTERNACIONAL ====" tvg-logo="" group-title="PORTUGAL",=== DESPORTO INTERNACIONAL ====
+0.0.0.0
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="PORTUGAL",PFC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="" group-title="PORTUGAL",PREMIERE CLUBES FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38734.m3u8
+#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="REAL MADRID" tvg-logo="https://i.imgur.com/39Y261c.png" group-title="PORTUGAL",REAL MADRID
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8314.m3u8
+#EXTINF:-1 tvg-id="Chelsea TV (PT)" tvg-name="CHELSEA TV" tvg-logo="https://i.imgur.com/N97zspL.png" group-title="PORTUGAL",CHELSEA TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8315.m3u8
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="CACA E PESCA" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="PORTUGAL",CACA E PESCA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8306.m3u8
+#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Cacavision" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="PORTUGAL",Cacavision
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8305.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="https://4.bp.blogspot.com/-9NoQJ6ov1K0/T10x5bMJAuI/AAAAAAAAB5U/bk3WV8s_aYo/s1600/Toros+TV+logo.png" group-title="PORTUGAL",TOROS TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO PEQUENO TV FHD" tvg-logo="" group-title="PORTUGAL",CAMPO PEQUENO TV FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37448.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",Eurosport 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8313.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL",EUROSPORT 1 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8312.m3u8
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="PORTUGAL",EUROSPORT 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8311.m3u8
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="" group-title="PORTUGAL",NBA TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8320.m3u8
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="PORTUGAL",COMBATE
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/31845.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",KOMBAT SPORT
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8308.m3u8
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK HD" tvg-logo="" group-title="PORTUGAL",FIGHT NETWORK HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8309.m3u8
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION HD" tvg-logo="" group-title="PORTUGAL",MOTORVISION HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8307.m3u8
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TV" tvg-logo="" group-title="PORTUGAL",FUEL TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== TV FILMES ===" tvg-logo="" group-title="PORTUGAL",=== TV FILMES ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8451.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TV CINE 1" tvg-logo="https://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL",TV CINE 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8382.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TV CINE 1 HD" tvg-logo="https://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL",TV CINE 1 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8381.m3u8
+#EXTINF:-1 tvg-id="TV CINE 1 HD (LOW BITRATE)" tvg-name="TV CINE 1 FHD ( 3 MEGAS )" tvg-logo="http://www.tvlogos.eu/Logos/TVCINE%201%20HD.png" group-title="PORTUGAL",TV CINE 1 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42994.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TV CINE 2" tvg-logo="https://i.imgur.com/meUTBRe.png" group-title="PORTUGAL",TV CINE 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8380.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TV CINE 2 HD" tvg-logo="http://i.imgur.com/meUTBRe.png" group-title="PORTUGAL",TV CINE 2 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8379.m3u8
+#EXTINF:-1 tvg-id="TV CINE 2 HD (LOW BITRATE)" tvg-name="TV CINE 2 FHD ( 3 MEGAS )" tvg-logo="http://www.tvlogos.eu/Logos/TVCINE 2 HD.png" group-title="PORTUGAL",TV CINE 2 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42995.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TV CINE 3" tvg-logo="https://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL",TV CINE 3
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8378.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TV CINE 3 HD" tvg-logo="https://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL",TV CINE 3 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8377.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TV CINE 3 FHD ( 3 MEGAS )" tvg-logo="http://www.tvlogos.eu/Logos/TVC%203%20HD.png" group-title="PORTUGAL",TV CINE 3 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42996.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TV CINE 4" tvg-logo="https://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL",TV CINE 4
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8376.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TV CINE 4 HD" tvg-logo="http://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL",TV CINE 4 HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8375.m3u8
+#EXTINF:-1 tvg-id="TV CINE 4 HD (LOW BITRATE)" tvg-name="TV CINE 4 FHD ( 3 MEGAS )" tvg-logo="http://galatichost.pt/Logos/TVC%204%20HD.png" group-title="PORTUGAL",TV CINE 4 FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42997.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8384.m3u8
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL",HOLLYWOOD HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8383.m3u8
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="HOLLYWOOD FHD  ( 3 MEGAS )" tvg-logo="http://www.tvlogos.eu/Logos/HOLLYWOOD%20HD.png" group-title="PORTUGAL",HOLLYWOOD FHD  ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42969.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PORTUGAL",AMC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8370.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PORTUGAL",AMC HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8369.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL",CINEMUNDO
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8368.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO HD" tvg-logo="ttps://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL",CINEMUNDO HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8367.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8358.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL",FOX MOVIES HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8357.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYfY" tvg-logo="https://i.imgur.com/0YeoIkN.png" group-title="PORTUGAL",SYfY
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8372.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0YeoIkN.png" group-title="PORTUGAL",SYFY HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="" group-title="PORTUGAL",Eurochannel
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/34097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOS Studios FHD" tvg-logo="" group-title="PORTUGAL",NOS Studios FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/34096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL" tvg-logo="" group-title="PORTUGAL",MARVEL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX" tvg-logo="" group-title="PORTUGAL",NETFLIX
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="" group-title="PORTUGAL",Comedy Movies
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== TV SERIES ===" tvg-logo="" group-title="PORTUGAL",=== TV SERIES ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8452.m3u8
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV Series" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="PORTUGAL",TV Series
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8374.m3u8
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="PORTUGAL",TV SERIES HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8373.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="PORTUGAL",AXN FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8364.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD ( 3MEGAS )" tvg-logo="http://www.tvlogos.eu/Logos/AXN%20HD.png" group-title="PORTUGAL",AXN FHD ( 3MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/43000.m3u8
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN BLACK HD" tvg-logo="https://i.imgur.com/oiVngMO.png" group-title="PORTUGAL",AXN BLACK HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8362.m3u8
+#EXTINF:-1 tvg-id="AXNBLACKHD(NETFRACA)" tvg-name="AXN BLACK FHD ( 3 MEGAS )" tvg-logo="" group-title="PORTUGAL",AXN BLACK FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42998.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="PORTUGAL",AXN WHITE HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8363.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN WHITE FHD ( 3 MEGAS )" tvg-logo="" group-title="PORTUGAL",AXN WHITE FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42999.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX FHD ( 3 MEGAS )" tvg-logo="" group-title="PORTUGAL",FOX FHD ( 3 MEGAS )
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/42968.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL",FOX HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8361.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8356.m3u8
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="PORTUGAL",FOX COMEDY HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8355.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL",FOX LIFE HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8360.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="FOX CRIME HD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL",FOX CRIME HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="PORTUGAL",HBO Family
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Portugal HD" tvg-logo="" group-title="PORTUGAL",HBO Portugal HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== EXCLUSIVOS ====" tvg-logo="" group-title="PORTUGAL",=== EXCLUSIVOS ====
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTUGAL A RIR" tvg-logo="" group-title="PORTUGAL",PORTUGAL A RIR
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/38733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS_TV" tvg-logo="" group-title="PORTUGAL",PEGADINHAS_TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/37478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="==== DOCUMENTARIOS ====" tvg-logo="" group-title="PORTUGAL",==== DOCUMENTARIOS ====
+0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery FHD" tvg-logo="" group-title="PORTUGAL",ID Investigation Discovery FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8284.m3u8
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="" group-title="PORTUGAL",BLAZE
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8283.m3u8
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8279.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",DISCOVERY CHANNEL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8278.m3u8
+#EXTINF:-1 tvg-id="Canal História" tvg-name="CANAL DE HISTORIA" tvg-logo="" group-title="PORTUGAL",CANAL DE HISTORIA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8272.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA" tvg-logo="" group-title="PORTUGAL",ODISSEIA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8270.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="" group-title="PORTUGAL",NAT GEO WILD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8280.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="DISCOVERY SHOWCASE HD #MANUTENCAO" tvg-logo="https://goo.gl/images/SXziQm" group-title="PORTUGAL",DISCOVERY SHOWCASE HD #MANUTENCAO
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8277.m3u8
+#EXTINF:-1 tvg-id="FINE LIVING NETWORK HD" tvg-name="FINE LIVING NETWORK HD" tvg-logo="" group-title="PORTUGAL",FINE LIVING NETWORK HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8281.m3u8
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="https://i.imgur.com/urVdic4.png" group-title="PORTUGAL",CBS Reality
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8274.m3u8
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME   INVESTIGATION" tvg-logo="https://i.imgur.com/GVLONP8.png" group-title="PORTUGAL",CRIME   INVESTIGATION
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8366.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/JOiDYx6.png" group-title="PORTUGAL",TLC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== OUTROS PTS ===" tvg-logo="" group-title="PORTUGAL",=== OUTROS PTS ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",RTP INTERNACIONAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/45976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",SIC INTERNACIONAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/45977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TVI INTERNACIONAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/45978.m3u8
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Acores" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="PORTUGAL",RTP Acores
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8290.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="https://i.imgur.com/9HzL9J3.png" group-title="PORTUGAL",RTP Africa
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8286.m3u8
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="PORTUGAL",RTP Madeira
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8289.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="https://i.imgur.com/Hozoft0.png" group-title="PORTUGAL",RTP Memoria
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8288.m3u8
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="AR TV" tvg-logo="https://i.imgur.com/McboHWW.png" group-title="PORTUGAL",AR TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8459.m3u8
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="CANAL Q" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PORTUGAL",CANAL Q
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8268.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY MOSAICO" tvg-logo="" group-title="PORTUGAL",TVI REALITY MOSAICO
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8406.m3u8
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI REALITY CAMARA 1" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMARA 1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8405.m3u8
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI REALITY CAMARA 2" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMARA 2
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8404.m3u8
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI REALITY CAMARA 3" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMARA 3
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8403.m3u8
+#EXTINF:-1 tvg-id="TVIREALCAMARA" tvg-name="TVI REALITY CAMARA 4" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMARA 4
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8402.m3u8
+#EXTINF:-1 tvg-id="REGIOES TV" tvg-name="Regioes TV" tvg-logo="" group-title="PORTUGAL",Regioes TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8287.m3u8
+#EXTINF:-1 tvg-id="LOCALVISAOTVHD" tvg-name="LOCALVISAO TV HD" tvg-logo="https://i.imgur.com/QHQUqvP.png" group-title="PORTUGAL",LOCALVISAO TV HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva FHD" tvg-logo="" group-title="PORTUGAL",ZAP Viva FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/34073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== LIFESTYLE  ===" tvg-logo="" group-title="PORTUGAL",=== LIFESTYLE  ===
+0.0.0.0
+#EXTINF:-1 tvg-id="ClubbingTV" tvg-name="CLUBBING TV" tvg-logo="" group-title="PORTUGAL",CLUBBING TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8258.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8267.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHEN" tvg-logo="" group-title="PORTUGAL",24 KITCHEN
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8261.m3u8
+#EXTINF:-1 tvg-id="MyCuisine" tvg-name="My Cuisine" tvg-logo="" group-title="PORTUGAL",My Cuisine
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8265.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="PORTUGAL",FOOD NETWORK HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8260.m3u8
+#EXTINF:-1 tvg-id="E!ENTERTAINMENTHD" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGAL",E! ENTERTAINMENT
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8266.m3u8
+#EXTINF:-1 tvg-id="FASH" tvg-name="FASHION TV HD" tvg-logo="" group-title="PORTUGAL",FASHION TV HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="" group-title="PORTUGAL",Deutsche Welle
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INSGHT" tvg-logo="" group-title="PORTUGAL",INSGHT
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/19149.m3u8
+#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV HD" tvg-logo="" group-title="PORTUGAL",DOG TV HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== INTERNACIONAL ===" tvg-logo="" group-title="PORTUGAL",=== INTERNACIONAL ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8460.m3u8
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="SUPER RTL" tvg-logo="https://i.imgur.com/pr50ZLG.png" group-title="PORTUGAL",SUPER RTL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8461.m3u8
+#EXTINF:-1 tvg-id="TCVINT" tvg-name="TCV INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TCV INTERNACIONAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8296.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",TPA INTERNACIONAL
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8295.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="https://i.imgur.com/mCsCWUP.png" group-title="PORTUGAL",BBC Entertainment
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8275.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="" group-title="PORTUGAL",M6
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8291.m3u8
+#EXTINF:-1 tvg-id="SKYN" tvg-name="SKY NEWS" tvg-logo="https://i.imgur.com/498j2VR.png" group-title="PORTUGAL",SKY NEWS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8421.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE EUROPE" tvg-logo="" group-title="PORTUGAL",TV5 MONDE EUROPE
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8417.m3u8
+#EXTINF:-1 tvg-id="TVE24" tvg-name="TVE 24 HORAS" tvg-logo="https://i.imgur.com/iS8gvHb.png" group-title="PORTUGAL",TVE 24 HORAS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8293.m3u8
+#EXTINF:-1 tvg-id="TVEINT" tvg-name="TVE Internacional" tvg-logo="" group-title="PORTUGAL",TVE Internacional
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8294.m3u8
+#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.imgur.com/IgIYJVE.png" group-title="PORTUGAL",BBC WORLD NEWS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8423.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/4ALxk31.png" group-title="PORTUGAL",CNN
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8422.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC Europe" tvg-logo="" group-title="PORTUGAL",CNBC Europe
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8273.m3u8
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="Record News" tvg-logo="" group-title="PORTUGAL",Record News
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8297.m3u8
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" tvg-logo="" group-title="PORTUGAL",TV Galicia
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8292.m3u8
+#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="France 24" tvg-logo="https://i.imgur.com/zY7VbFh.png" group-title="PORTUGAL",France 24
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8462.m3u8
+#EXTINF:-1 tvg-id="EURON" tvg-name="EuroNews" tvg-logo="" group-title="PORTUGAL",EuroNews
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8419.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/z9ljXHd.png" group-title="PORTUGAL",Bloomberg
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8276.m3u8
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="" group-title="PORTUGAL",FOX News
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="===  Musica ===" tvg-logo="" group-title="PORTUGAL",===  Musica ===
+0.0.0.0
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV PORTUGAL HD" tvg-logo="" group-title="PORTUGAL",MTV PORTUGAL HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8252.m3u8
+#EXTINF:-1 tvg-id="MTVDance" tvg-name="MTV DANCE" tvg-logo="" group-title="PORTUGAL",MTV DANCE
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8255.m3u8
+#EXTINF:-1 tvg-id="MTVMUS" tvg-name="MTV MUSIC" tvg-logo="" group-title="PORTUGAL",MTV MUSIC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8254.m3u8
+#EXTINF:-1 tvg-id="MTVROCKS" tvg-name="MTV ROCKS" tvg-logo="" group-title="PORTUGAL",MTV ROCKS
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8253.m3u8
+#EXTINF:-1 tvg-id="MCM" tvg-name="MCM TOP" tvg-logo="" group-title="PORTUGAL",MCM TOP
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:   MCM POP FHD" tvg-logo="" group-title="FRANCE",FR:   MCM POP FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/46039.m3u8
+#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM POP" tvg-logo="" group-title="PORTUGAL",MCM POP
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8250.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",AFRO MUSIC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8249.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="" group-title="PORTUGAL",VH1
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8257.m3u8
+#EXTINF:-1 tvg-id="VH1Classic" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="PORTUGAL",VH1 CLASSIC
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8256.m3u8
+#EXTINF:-1 tvg-id="TRACE TV" tvg-name="Trace TV" tvg-logo="" group-title="PORTUGAL",Trace TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8248.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBAN" tvg-logo="" group-title="PORTUGAL",TRACE URBAN
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8247.m3u8
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="PORTUGAL",MEZZO LIVE HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8246.m3u8
+#EXTINF:-1 tvg-id="iconcertshd" tvg-name="ICONCERTS HD" tvg-logo="" group-title="PORTUGAL",ICONCERTS HD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8245.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="KURIAKOS TV" tvg-logo="" group-title="PORTUGAL",KURIAKOS TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== RELIGIOSOS ===" tvg-logo="" group-title="PORTUGAL",=== RELIGIOSOS ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8463.m3u8
+#EXTINF:-1 tvg-id="SANTUARIO FATIMA" tvg-name="SANTUARIO FATIMA" tvg-logo="" group-title="PORTUGAL",SANTUARIO FATIMA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8398.m3u8
+#EXTINF:-1 tvg-id="ANGELUSTV" tvg-name="ANGELUS TV" tvg-logo="" group-title="PORTUGAL",ANGELUS TV
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8399.m3u8
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANCAO NOVA" tvg-logo="" group-title="PORTUGAL",CANCAO NOVA
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="==== PORTUGAL LOW =====" tvg-logo="https://origemdafamiliavalente.files.wordpress.com/2010/10/bandeira-de-portugal.jpg" group-title="PORTUGAL LOW",==== PORTUGAL LOW =====
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8243.m3u8
+#EXTINF:-1 tvg-id="PT: RTP 1 (LOW BITRATE)" tvg-name="RTP 1 LOW" tvg-logo="http://i.imgur.com/x3usjeN.png" group-title="PORTUGAL LOW",RTP 1 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8242.m3u8
+#EXTINF:-1 tvg-id="RTP 2 (LOW BITRATE)" tvg-name="RTP 2 LOW" tvg-logo="https://i.imgur.com/RLMtyvF.png" group-title="PORTUGAL LOW",RTP 2 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8241.m3u8
+#EXTINF:-1 tvg-id="SIC (LOW BITRATE)" tvg-name="SIC LOW" tvg-logo="https://i.imgur.com/kJtQZOT.png" group-title="PORTUGAL LOW",SIC LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8239.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI LOW" tvg-logo="https://i.imgur.com/OvkhfPY.png" group-title="PORTUGAL LOW",TVI LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8238.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 LOW" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="PORTUGAL LOW",RTP 3 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8240.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIAS LOW" tvg-logo="https://i.imgur.com/IjHZsrg.png" group-title="PORTUGAL LOW",SIC NOTICIAS LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8236.m3u8
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 LOW" tvg-logo="https://i.imgur.com/F4w3M86.png" group-title="PORTUGAL LOW",TVI 24 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8237.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV LOW" tvg-logo="https://i.imgur.com/WThIHDQ.png" group-title="PORTUGAL LOW",CMTV LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8235.m3u8
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI FICCAO LOW" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="PORTUGAL LOW",TVI FICCAO LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8233.m3u8
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY LOW" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="PORTUGAL LOW",TVI REALITY LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8234.m3u8
+#EXTINF:-1 tvg-id="TVR" tvg-name="TV RECORD HD LOW" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="PORTUGAL LOW",TV RECORD HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8203.m3u8
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL LOW" tvg-logo="http://nextgen-iptv.com/logo/DisneyChannel_HR.png" group-title="PORTUGAL LOW",DISNEY CHANNEL LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8231.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR LOW" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="PORTUGAL LOW",DISNEY JUNIOR LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8230.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA LOW" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PORTUGAL LOW",PANDA LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== DESPORTO  LOW ====" tvg-logo="" group-title="PORTUGAL LOW",=== DESPORTO  LOW ====
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/17871.m3u8
+#EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="SPORT TV 1 LOW" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="PORTUGAL LOW",SPORT TV 1 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8229.m3u8
+#EXTINF:-1 tvg-id="SPORTV2HD(LOWBITRATE)" tvg-name="SPORT TV 2 LOW" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="PORTUGAL LOW",SPORT TV 2 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8228.m3u8
+#EXTINF:-1 tvg-id="SPTV3" tvg-name="SPORT TV 3 LOW" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="PORTUGAL LOW",SPORT TV 3 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8227.m3u8
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 LOW" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="PORTUGAL LOW",SPORT TV 4 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8226.m3u8
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 LOW" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="PORTUGAL LOW",SPORT TV 5 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8225.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 1 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8350.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 2 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8347.m3u8
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="ELEVEN SPORTS 3 LOW" tvg-logo="https://i.imgur.com/F4nfQmF.png" group-title="PORTUGAL LOW",ELEVEN SPORTS 3 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8345.m3u8
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV 1 HD LOW" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL LOW",BTV 1 HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8224.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1HD(LOWBITRATE)" tvg-name="BTV 1 LOW" tvg-logo="https://i.imgur.com/VDWNgRQ.png" group-title="PORTUGAL LOW",BTV 1 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8223.m3u8
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 HD LOW" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="PORTUGAL LOW",EUROSPORT 1 HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== DOCUMENTARIOS LOW ===" tvg-logo="" group-title="PORTUGAL LOW",=== DOCUMENTARIOS LOW ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/17873.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="DISCOVERY SHOWCASE HD LOW" tvg-logo="http://epg.serbianforum.org/logo_znaci_2/Discovery%20Showcase%20HD.png" group-title="PORTUGAL LOW",DISCOVERY SHOWCASE HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="=== FILMES/TV SERIES LOW ===" tvg-logo="" group-title="PORTUGAL LOW",=== FILMES/TV SERIES LOW ===
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/17872.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TV CINE 1 LOW" tvg-logo="https://i.imgur.com/Yt4Mogp.png" group-title="PORTUGAL LOW",TV CINE 1 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8221.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TV CINE 2 LOW" tvg-logo="http://i.imgur.com/meUTBRe.png" group-title="PORTUGAL LOW",TV CINE 2 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8220.m3u8
+#EXTINF:-1 tvg-id="TV CINE 3 HD (LOW BITRATE)" tvg-name="TV CINE 3 LOW" tvg-logo="https://i.imgur.com/2hnUMNd.png" group-title="PORTUGAL LOW",TV CINE 3 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8219.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TV CINE 4 LOW" tvg-logo="http://i.imgur.com/7BYo1VB.png" group-title="PORTUGAL LOW",TV CINE 4 LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8218.m3u8
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV Series LOW" tvg-logo="https://i.imgur.com/88LI2Tn.png" group-title="PORTUGAL LOW",TV Series LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8209.m3u8
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="HOLLYWOOD LOW" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="PORTUGAL LOW",HOLLYWOOD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8217.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN LOW" tvg-logo="https://i.imgur.com/ZLpNJi8.png" group-title="PORTUGAL LOW",AXN LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8210.m3u8
+#EXTINF:-1 tvg-id="AXN BLACK HD (LOW BITRATE)" tvg-name="AXN BLACK HD LOW" tvg-logo="https://i.imgur.com/oiVngMO.png" group-title="PORTUGAL LOW",AXN BLACK HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8211.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITE HD LOW" tvg-logo="https://i.imgur.com/acsZV6f.png" group-title="PORTUGAL LOW",AXN WHITE HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8212.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYfY LOW" tvg-logo="https://i.imgur.com/0YeoIkN.png" group-title="PORTUGAL LOW",SYfY LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8213.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD LOW" tvg-logo="https://i.imgur.com/AK0dBI3.png" group-title="PORTUGAL LOW",FOX HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8207.m3u8
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES LOW" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="PORTUGAL LOW",FOX MOVIES LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8215.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX CRIME HD LOW" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="PORTUGAL LOW",FOX CRIME HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8206.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FOX COMEDY LOW" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="PORTUGAL LOW",FOX COMEDY LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8205.m3u8
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX LIFE HD LOW" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="PORTUGAL LOW",FOX LIFE HD LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8208.m3u8
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDO LOW" tvg-logo="https://i.imgur.com/kKVI0mU.png" group-title="PORTUGAL LOW",CINEMUNDO LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8216.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC LOW" tvg-logo="https://i.imgur.com/wMh8fkU.png" group-title="PORTUGAL LOW",AMC LOW
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/8214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="==== NETFLIX - MULTI -AUDIO ====" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",==== NETFLIX - MULTI -AUDIO ====
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action  2 Multi-Audio FHD" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Action  2 Multi-Audio FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Action Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy  2 Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Comedy  2 Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy Multi-Audio FHD" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Comedy Multi-Audio FHD
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama  2 Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Drama  2 Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Drama Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror  2 Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Horror  2 Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix Horror Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix KIDS  2 Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix KIDS  2 Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix KIDS Multi-Audio" tvg-logo="" group-title="NETFLIX - MULTI - AUDIO",Netflix KIDS Multi-Audio
+http://umportodos.xyz:8080/live/MarceloFormoso/IgbxkMVebT/41022.m3u8

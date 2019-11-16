@@ -1,250 +1,538 @@
 #EXTM3U
 
-#EXTINF:-1,|PT| RECORD TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/2341.ts
-#EXTINF:-1,|PT| GLOBO TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/2339.ts
-#EXTINF:-1,|PT| GLOBO NOW
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/2340.ts
-#EXTINF:-1,PT: TVCine 4 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1123.ts
-#EXTINF:-1,PT: TVCine 4
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1122.ts
-#EXTINF:-1,PT: TVCine 3 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1121.ts
-#EXTINF:-1,PT: TVCINE 3
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1120.ts
-#EXTINF:-1,PT: TVCINE 2 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1119.ts
-#EXTINF:-1,PT: TVCine 1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1117.ts
-#EXTINF:-1,PT: TVCINE 1
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1116.ts
-#EXTINF:-1,PT: TV SERIES  HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1132.ts
-#EXTINF:-1,PT: TV RECORD HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1167.ts
-#EXTINF:-1,PT: TV CINE 2
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1118.ts
-#EXTINF:-1,PT: TV  SERIES
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1131.ts
-#EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1153.ts
-#EXTINF:-1,PT: TOROS TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1114.ts
-#EXTINF:-1,PT: TLC
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1133.ts
-#EXTINF:-1,PT: SYFY HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1128.ts
-#EXTINF:-1,PT: SYFY
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1127.ts
-#EXTINF:-1,PT: SPORTING TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1103.ts
-#EXTINF:-1,PT: SPORTING HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1104.ts
-#EXTINF:-1,PT: SIC K
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1149.ts
-#EXTINF:-1,PT: REAL MADRID TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1106.ts
-#EXTINF:-1,PT: PORTO CANAL HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1102.ts
-#EXTINF:-1,PT: PORTO CANAL
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1101.ts
-#EXTINF:-1,PT: PANDA BIGGS
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1148.ts
-#EXTINF:-1,PT: Odisseia
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1154.ts
-#EXTINF:-1,PT: Nickelodeon
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1146.ts
-#EXTINF:-1,PT: Nick Jr.
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1147.ts
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1155.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1156.ts
-#EXTINF:-1,PT: MOTORVISION
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1107.ts
-#EXTINF:-1,PT: KOMBAT SPORT
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1108.ts
-#EXTINF:-1,PT: JIM JAM
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1150.ts
-#EXTINF:-1,PT: Hollywood HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1125.ts
-#EXTINF:-1,PT: HOLLYWOOD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1124.ts
-#EXTINF:-1,PT: vh1 classic
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1137.ts
-#EXTINF:-1,PT: FOX MOVIES
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1142.ts
-#EXTINF:-1,PT: FOX Life HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1139.ts
-#EXTINF:-1,PT: FOX HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1138.ts
-#EXTINF:-1,PT: FOX Crime HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1140.ts
-#EXTINF:-1,PT: FOX COMEDY
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1141.ts
-#EXTINF:-1,PT: FOOD NETWORK HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1161.ts
-#EXTINF:-1,PT: FINE LIVING NETWORK HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1160.ts
-#EXTINF:-1,PT: EUROSPORT1
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1109.ts
-#EXTINF:-1,PT: EUROSPORT 2
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1111.ts
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1110.ts
-#EXTINF:-1,PT: E! Entertainment
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1165.ts
-#EXTINF:-1,PT: DOG TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1115.ts
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1143.ts
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1144.ts
-#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1157.ts
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1158.ts
-#EXTINF:-1,PT: CRIME INVESTIGATION
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1159.ts
-#EXTINF:-1,PT: CINEMUNDO
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1126.ts
-#EXTINF:-1,PT: CBS REALITY
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1162.ts
-#EXTINF:-1,PT: CARTOON NETWORK
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1152.ts
-#EXTINF:-1,PT: CANAL PANDA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1145.ts
-#EXTINF:-1,PT: CANAL HISTÃ“RIA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1164.ts
-#EXTINF:-1,PT: CACA E PESCA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1113.ts
-#EXTINF:-1,PT: CAÃ‡AVISION
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1112.ts
-#EXTINF:-1,PT: Bloomberg
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1166.ts
-#EXTINF:-1,PT: BABY TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1151.ts
-#EXTINF:-1,PT: AXN WHITE HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1135.ts
-#EXTINF:-1,PT: AXN HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1134.ts
-#EXTINF:-1,PT: AXN BLACK HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1136.ts
-#EXTINF:-1,PT: AMC HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1130.ts
-#EXTINF:-1,PT: AMC
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1129.ts
-#EXTINF:-1,PT: A BOLA TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1105.ts
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1163.ts
-#EXTINF:-1,PT:SPORTV1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1080.ts
-#EXTINF:-1,PT:SPORTV 3
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1083.ts
-#EXTINF:-1,PT: TVI24
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1058.ts
-#EXTINF:-1,PT: TVI Reality
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1053.ts
-#EXTINF:-1,PT: TVI HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1052.ts
-#EXTINF:-1,PT: TVI FICCAO
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1065.ts
-#EXTINF:-1,PT: TVI
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1051.ts
-#EXTINF:-1,PT: TPA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1071.ts
-#EXTINF:-1,PT: SPORTV1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1079.ts
-#EXTINF:-1,PT: SPORTV TV 2
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1081.ts
-#EXTINF:-1,PT: SPORTV 5 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1088.ts
-#EXTINF:-1,PT: SPORTV 5
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1087.ts
-#EXTINF:-1,PT: SPORTV    HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1077.ts
-#EXTINF:-1,PT: SPORT TV4
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1085.ts
-#EXTINF:-1,PT: SPORT TV2 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1082.ts
-#EXTINF:-1,PT: SPORT TV1
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1078.ts
-#EXTINF:-1,PT: SPORT TV NBA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1089.ts
-#EXTINF:-1,PT: Sport TV 4HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1086.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1084.ts
-#EXTINF:-1,PT: SPORT TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1076.ts
-#EXTINF:-1,PT: CANALE 11
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/2338.ts
-#EXTINF:-1,PT: SIC RADICAL HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1064.ts
-#EXTINF:-1,PT: SIC RADICAL
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1063.ts
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1055.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1054.ts
-#EXTINF:-1,PT: SIC Mulher HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1062.ts
-#EXTINF:-1,PT: SIC MULHER
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1061.ts
-#EXTINF:-1,PT: SIC HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1050.ts
-#EXTINF:-1,PT: SIC CARAS HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1069.ts
-#EXTINF:-1,PT: SIC Caras
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1068.ts
-#EXTINF:-1,PT: SIC
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1049.ts
-#EXTINF:-1,PT: RTPi_internacional
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1066.ts
-#EXTINF:-1,PT: RTP3 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1056.ts
-#EXTINF:-1,PT: RTP2 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1048.ts
-#EXTINF:-1,PT: RTP1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1046.ts
-#EXTINF:-1,PT: RTP1
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1045.ts
-#EXTINF:-1,PT: RTP MEMORIA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1067.ts
-#EXTINF:-1,PT: RTP MADEIRA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1074.ts
-#EXTINF:-1,PT: RTP ÃFRICA
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1072.ts
-#EXTINF:-1,PT: RTP ACORES
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1073.ts
-#EXTINF:-1,PT: RTP 3
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1057.ts
-#EXTINF:-1,PT: RTP 2
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1047.ts
-#EXTINF:-1,PT: My Cuisine
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1070.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1100.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1099.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1098.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1096.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1094.ts
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1092.ts
-#EXTINF:-1,PT: CMTV HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1060.ts
-#EXTINF:-1,PT: CMTV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1059.ts
-#EXTINF:-1,PT: BTV 1HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1090.ts
-#EXTINF:-1,PT: BTV 1
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1091.ts
-#EXTINF:-1,PT: Angelus TV
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1075.ts
+#EXTINF:-1,RTP 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/47.ts
+#EXTINF:-1,RTP 2
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/45.ts
+#EXTINF:-1,SIC
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/43.ts
+#EXTINF:-1,TVI
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/41.ts
+#EXTINF:-1,RTP 1 FHD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/46.ts
+#EXTINF:-1,RTP 2 FHD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/44.ts
+#EXTINF:-1,SIC FHD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/42.ts
+#EXTINF:-1,TVI FHD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/40.ts
+#EXTINF:-1,TVI 24
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/25.ts
+#EXTINF:-1,SIC NOTICIAS HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/27.ts
+#EXTINF:-1,RTP 3
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/35.ts
+#EXTINF:-1,PORTO CANAL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/36.ts
+#EXTINF:-1,CMTV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/37.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/32.ts
+#EXTINF:-1,SIC MULHER HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/28.ts
+#EXTINF:-1,SIC CARAS HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/29.ts
+#EXTINF:-1,SIC RADICAL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/26.ts
+#EXTINF:-1,CANAL Q
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/38.ts
+#EXTINF:-1,RTP MEMORIA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/30.ts
+#EXTINF:-1,RTP AFRICA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/33.ts
+#EXTINF:-1,RTP MADEIRA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/31.ts
+#EXTINF:-1,RTP ACORES
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/34.ts
+#EXTINF:-1,TVI REALITY
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/23.ts
+#EXTINF:-1,TVI FICCAO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/24.ts
+#EXTINF:-1,TV RECORD HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/2.ts
+#EXTINF:-1,GLOBO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/16.ts
+#EXTINF:-1,GLOBO NOW
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/15.ts
+#EXTINF:-1,ABOLA TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/89.ts
+#EXTINF:-1,CANAL 11 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/17.ts
+#EXTINF:-1,SPORTV + FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/13.ts
+#EXTINF:-1,SPORTV +
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/14.ts
+#EXTINF:-1,SPORTV 4K
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/3.ts
+#EXTINF:-1,SPORTV 1 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/12.ts
+#EXTINF:-1,SPORTV 1 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/11.ts
+#EXTINF:-1,SPORTV 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/10.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/9.ts
+#EXTINF:-1,SPORTV 2 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/8.ts
+#EXTINF:-1,SPORTV 2
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/7.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/6.ts
+#EXTINF:-1,SPORTV 3 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/5.ts
+#EXTINF:-1,SPORTV 3
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/4.ts
+#EXTINF:-1,SPORTV 4 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/92.ts
+#EXTINF:-1,SPORTV 4 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/91.ts
+#EXTINF:-1,SPORTV 4
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/90.ts
+#EXTINF:-1,SPORTV 5 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/95.ts
+#EXTINF:-1,SPORTV 5 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/94.ts
+#EXTINF:-1,SPORTV 5
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/93.ts
+#EXTINF:-1,SPORTV NBA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/60.ts
+#EXTINF:-1,BTV 1 FULL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/88.ts
+#EXTINF:-1,BTV 1 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/87.ts
+#EXTINF:-1,BTV 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/86.ts
+#EXTINF:-1,ELEVEN SPORts 1 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/85.ts
+#EXTINF:-1,ELEVEN SPORts 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/84.ts
+#EXTINF:-1,ELEVEN SPORts 2 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/83.ts
+#EXTINF:-1,ELEVEN SPORts 2
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/82.ts
+#EXTINF:-1,ELEVEN SPORts 3 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/81.ts
+#EXTINF:-1,ELEVEN SPORts 3
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/80.ts
+#EXTINF:-1,ELEVEN SPORts 4 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/79.ts
+#EXTINF:-1,ELEVEN SPORts 4
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/78.ts
+#EXTINF:-1,ELEVEN SPORts 5 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/77.ts
+#EXTINF:-1,ELEVEN SPORts 5
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/76.ts
+#EXTINF:-1,ELEVEN SPORts 6 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/75.ts
+#EXTINF:-1,ELEVEN SPORts 6
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/74.ts
+#EXTINF:-1,PFC
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/63.ts
+#EXTINF:-1,SPORTING TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/61.ts
+#EXTINF:-1,REAL MADRID TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/62.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/70.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/69.ts
+#EXTINF:-1,MOTORVISION
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/65.ts
+#EXTINF:-1,FUEL TV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/67.ts
+#EXTINF:-1,FIGHT NETWORK
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/68.ts
+#EXTINF:-1,KOMBAT SPORT
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/66.ts
+#EXTINF:-1,CACAVISION
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/72.ts
+#EXTINF:-1,CACA E PESCA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/73.ts
+#EXTINF:-1,OUTDOOR HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/64.ts
+#EXTINF:-1,TOROS TV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/59.ts
+#EXTINF:-1,DOG TV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/71.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/179.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/178.ts
+#EXTINF:-1,NICK JR
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/166.ts
+#EXTINF:-1,CANAL PANDA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/186.ts
+#EXTINF:-1,PANDA BIGGS
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/164.ts
+#EXTINF:-1,BOOMRANG
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/188.ts
+#EXTINF:-1,JIM JAM
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/172.ts
+#EXTINF:-1,NICKELODEAN
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/165.ts
+#EXTINF:-1,CARTOON NETWORK
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/184.ts
+#EXTINF:-1,SIC K
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/152.ts
+#EXTINF:-1,TIJI
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/150.ts
+#EXTINF:-1,BABY TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/191.ts
+#EXTINF:-1,TVCINE 1 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/58.ts
+#EXTINF:-1,TVCINE 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/57.ts
+#EXTINF:-1,TVCINE 2 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/56.ts
+#EXTINF:-1,TVCINE 2
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/55.ts
+#EXTINF:-1,TVCINE 3 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/54.ts
+#EXTINF:-1,TVCINE 3
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/53.ts
+#EXTINF:-1,TVCINE 4 HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/52.ts
+#EXTINF:-1,TVCINE 4
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/51.ts
+#EXTINF:-1,TVSERIES HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/110.ts
+#EXTINF:-1,NOS STUDIOS HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/115.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/120.ts
+#EXTINF:-1,EUROCHANNEL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/127.ts
+#EXTINF:-1,CINEMUNDO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/132.ts
+#EXTINF:-1,AMC HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/139.ts
+#EXTINF:-1,FOX MOVIES HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/121.ts
+#EXTINF:-1,SYFY HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/113.ts
+#EXTINF:-1,AXN HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/137.ts
+#EXTINF:-1,AXN WHITE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/136.ts
+#EXTINF:-1,AXN BLACK
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/138.ts
+#EXTINF:-1,FOX HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/123.ts
+#EXTINF:-1,FOX LIFE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/122.ts
+#EXTINF:-1,FOX COMEDY HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/125.ts
+#EXTINF:-1,FOX CRIME
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/124.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/119.ts
+#EXTINF:-1,CRIME + INVESTIGATION
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/131.ts
+#EXTINF:-1,CANAL HISTORIA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/134.ts
+#EXTINF:-1,ODISSEIA HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/114.ts
+#EXTINF:-1,NAT GEOGRAFIC
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/116.ts
+#EXTINF:-1,NAT GEO WILD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/117.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/130.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/129.ts
+#EXTINF:-1,FTV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/108.ts
+#EXTINF:-1,TLC
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/112.ts
+#EXTINF:-1,FINE LIVING NETWORK
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/109.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/111.ts
+#EXTINF:-1,E! Entertainment HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/128.ts
+#EXTINF:-1,CBS REALTY
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/133.ts
+#EXTINF:-1,BLAZE HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/135.ts
+#EXTINF:-1,MY CUISINE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/118.ts
+#EXTINF:-1,24 KITCHEN
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/140.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/126.ts
+#EXTINF:-1,LUXE TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/107.ts
+#EXTINF:-1,S+ HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/105.ts
+#EXTINF:-1,ZEE TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/103.ts
+#EXTINF:-1,MAX
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/106.ts
+#EXTINF:-1,TRACE URBAN
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/104.ts
+#EXTINF:-1,MTV PORTUGAL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/100.ts
+#EXTINF:-1,MTV LIVE HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/101.ts
+#EXTINF:-1,MCM POP
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/102.ts
+#EXTINF:-1,VH1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/96.ts
+#EXTINF:-1,ICONCERts
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/98.ts
+#EXTINF:-1,AFRO MUSIC
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/99.ts
+#EXTINF:-1,MEZZO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/97.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/167.ts
+#EXTINF:-1,TVI REALITY CAMERA 1
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/22.ts
+#EXTINF:-1,TVI REALITY CAMERA 2
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/21.ts
+#EXTINF:-1,TVI REALITY CAMERA 3
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/20.ts
+#EXTINF:-1,TVI REALITY CAMERA 4
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/19.ts
+#EXTINF:-1,TVI REALITY MOSAICO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/18.ts
+#EXTINF:-1,ZAP VIVA HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/142.ts
+#EXTINF:-1,DEUtsCHE WELLE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/180.ts
+#EXTINF:-1,SANTUARIO FATIMA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/156.ts
+#EXTINF:-1,CANCAO NOVA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/185.ts
+#EXTINF:-1,KURIAKOS TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/170.ts
+#EXTINF:-1,TV GALICIA
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/148.ts
+#EXTINF:-1,TVE INTERNATIONAL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/146.ts
+#EXTINF:-1,TV5 MONDE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/147.ts
+#EXTINF:-1,M6
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/168.ts
+#EXTINF:-1,FRANCE 24
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/175.ts
+#EXTINF:-1,TPA INTERNATIONAL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/149.ts
+#EXTINF:-1,TCV INTERNATIONAL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/151.ts
+#EXTINF:-1,CUBAVISION
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/181.ts
+#EXTINF:-1,LOCALVISAO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/169.ts
+#EXTINF:-1,REGIOES TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/157.ts
+#EXTINF:-1,EURONEWS
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/176.ts
+#EXTINF:-1,RECORD NEWS
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/159.ts
+#EXTINF:-1,CNN
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/182.ts
+#EXTINF:-1,BBC WORLD NEWS
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/190.ts
+#EXTINF:-1,KBS WORLD HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/171.ts
+#EXTINF:-1,ARTV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/39.ts
+#EXTINF:-1,BLOOMBERG
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/189.ts
+#EXTINF:-1,HOT HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/174.ts
+#EXTINF:-1,PLAYBOY HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/161.ts
+#EXTINF:-1,VENUS
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/145.ts
+#EXTINF:-1,PENTHOUSE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/162.ts
+#EXTINF:-1,SEXTREME
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/153.ts
+#EXTINF:-1,XXL
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/143.ts
+#EXTINF:-1,XMUVI
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/144.ts
+#EXTINF:-1,VIVID RED HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/141.ts
+#EXTINF:-1,SEXTOSENSO
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/154.ts
+#EXTINF:-1,SCT
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/155.ts
+#EXTINF:-1,REDLIGHT HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/158.ts
+#EXTINF:-1,PRIVATE TV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/160.ts
+#EXTINF:-1,PASSIONXXX
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/163.ts
+#EXTINF:-1,HUSTLER HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/173.ts
+#EXTINF:-1,DORCEL TV HD
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/177.ts
+#EXTINF:-1,CENTOXCENTO TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/183.ts
+#EXTINF:-1,BRAZZERS TV
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/187.ts
+#EXTINF:-1,RTP 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/198.ts
+#EXTINF:-1,RTP 2 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/197.ts
+#EXTINF:-1,SIC MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/195.ts
+#EXTINF:-1,TVI MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/192.ts
+#EXTINF:-1,TVI 24 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/193.ts
+#EXTINF:-1,SIC NOTICIAS MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/194.ts
+#EXTINF:-1,RTP 3 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/196.ts
+#EXTINF:-1,PORTO CANAL MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/199.ts
+#EXTINF:-1,CMTV MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/200.ts
+#EXTINF:-1,TVI REALITY MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/201.ts
+#EXTINF:-1,SIC MULHER MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/205.ts
+#EXTINF:-1,SIC CARAS MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/206.ts
+#EXTINF:-1,SIC RADICAL MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/204.ts
+#EXTINF:-1,TVI FICCAO MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/202.ts
+#EXTINF:-1,TV RECORD MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/203.ts
+#EXTINF:-1,GLOBO MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/271.ts
+#EXTINF:-1,GLOBO NOW MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/270.ts
+#EXTINF:-1,ABOLA TV MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/273.ts
+#EXTINF:-1,SPORTV + MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/267.ts
+#EXTINF:-1,SPORTV 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/212.ts
+#EXTINF:-1,SPORTV 2 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/211.ts
+#EXTINF:-1,SPORTV 3 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/210.ts
+#EXTINF:-1,SPORTV 4 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/209.ts
+#EXTINF:-1,SPORTV 5 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/208.ts
+#EXTINF:-1,SPORTV NBA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/215.ts
+#EXTINF:-1,ELEVEN SPORts 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/213.ts
+#EXTINF:-1,ELEVEN SPORts 2 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/266.ts
+#EXTINF:-1,ELEVEN SPORts 4 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/222.ts
+#EXTINF:-1,ELEVEN SPORts 5 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/221.ts
+#EXTINF:-1,ELEVEN SPORts 6 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/220.ts
+#EXTINF:-1,BTV 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/214.ts
+#EXTINF:-1,SPORTING TV MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/216.ts
+#EXTINF:-1,PFC MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/217.ts
+#EXTINF:-1,EUROSPORT 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/219.ts
+#EXTINF:-1,EUROSPORT 2 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/218.ts
+#EXTINF:-1,MOTORVISION MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/231.ts
+#EXTINF:-1,KOMBAT SPORT MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/232.ts
+#EXTINF:-1,CACA E PESCA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/230.ts
+#EXTINF:-1,DISNEY CHANNEL MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/245.ts
+#EXTINF:-1,DISNEY JUNIOR MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/244.ts
+#EXTINF:-1,CANAL PANDA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/247.ts
+#EXTINF:-1,PANDA BIGGS MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/250.ts
+#EXTINF:-1,SIC K MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/242.ts
+#EXTINF:-1,JIMJAM MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/240.ts
+#EXTINF:-1,NICKELODEON MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/251.ts
+#EXTINF:-1,BABY TV MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/248.ts
+#EXTINF:-1,CARTOON NETWORK MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/246.ts
+#EXTINF:-1,TVCINE 1 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/229.ts
+#EXTINF:-1,TVCINE 2 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/228.ts
+#EXTINF:-1,TVCINE 3 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/227.ts
+#EXTINF:-1,TVCINE 4 MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/226.ts
+#EXTINF:-1,TVSERIES MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/223.ts
+#EXTINF:-1,HOLLYWOOD MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/243.ts
+#EXTINF:-1,CINEMUNDO MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/225.ts
+#EXTINF:-1,EUROCHANNEL MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/258.ts
+#EXTINF:-1,SYFY MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/241.ts
+#EXTINF:-1,AMC MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/249.ts
+#EXTINF:-1,AXN MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/237.ts
+#EXTINF:-1,AXH WHITE MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/239.ts
+#EXTINF:-1,AXN BLACK MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/238.ts
+#EXTINF:-1,FOX MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/224.ts
+#EXTINF:-1,FOX MOVIES MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/233.ts
+#EXTINF:-1,FOX LIFE MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/234.ts
+#EXTINF:-1,FOX CRIME MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/235.ts
+#EXTINF:-1,FOX COMEDY MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/236.ts
+#EXTINF:-1,CANAL HISTORIA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/264.ts
+#EXTINF:-1,ODISSEIA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/262.ts
+#EXTINF:-1,NAT GEO MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/252.ts
+#EXTINF:-1,DISCOVERY MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/256.ts
+#EXTINF:-1,DISCOVERY SHOWCASE MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/255.ts
+#EXTINF:-1,CANAL Q MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/207.ts
+#EXTINF:-1,TLC MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/260.ts
+#EXTINF:-1,BLAZE MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/265.ts
+#EXTINF:-1,MY CUISINE MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/253.ts
+#EXTINF:-1,FOOD NETWORK MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/254.ts
+#EXTINF:-1,24 KITCHEN MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/257.ts
+#EXTINF:-1,RTP AÃ‡ORES MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/269.ts
+#EXTINF:-1,RTP MADEIRA MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/268.ts
+#EXTINF:-1,PLAYBOY MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/261.ts
+#EXTINF:-1,HOT MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/263.ts
+#EXTINF:-1,VENUS MOBILE
+http://sv1.cola.kim:8080/live/Brunoazevedo/vMmgTEC2TA/259.ts

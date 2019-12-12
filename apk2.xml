@@ -1,184 +1,268 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/RTP1_Short_2016.svg/revision/latest/scale-to-width-down/900?cb=20190414140545" group-title="", RTP1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/RTP2_Short_2016.svg/revision/latest/scale-to-width-down/900?cb=20160512152338" group-title="", RTP2
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/RTP3_Short_2016.svg/revision/latest/scale-to-width-down/900?cb=20160409064359" group-title="", RTP3
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/RTP_Madeira_Short_2016.png/revision/latest/scale-to-width-down/900?cb=20160410022340" group-title="", RTP Madeira
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Açores" tvg-logo="http://62.210.101.177/LOGOSPT/RTP%20A%c3%87ORES.png" group-title="",RTP Açores
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memória" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/RTP_Mem%C3%B3ria_Short_2015.svg/revision/latest/scale-to-width-down/900?cb=20190522143028" group-title="", RTP Memória
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/RTP_Internacional_2016_on-air_alternate.svg/revision/latest/scale-to-width-down/900?cb=20161012204510" group-title="", RTP Internacional
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:-1 tvg-id="RTP África" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="", RTP África
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-logo="https://i.imgur.com/hCNLyS5.png" group-title="", SIC
-https://live.impresa.pt:443/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://i.imgur.com/E5barv3.png" group-title="", ARTV Canal Parlamento
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC Radical" tvg-logo="https://i.imgur.com/yP2n3uH.png" group-title="", SIC Radical
-http://tv.denied.network/sicradical/stream/
-#EXTINF:-1 tvg-id="SIC Mulher" tvg-logo="https://i.imgur.com/yaSt22d.png" group-title="", SIC Mulher
-http://tv.denied.network/sicmulher/stream/
-#EXTINF:-1 tvg-id="SIC Notícias" tvg-logo="https://i.imgur.com/Gk5GWFA.png" group-title="", SIC Notícias
-http://tv.denied.network/sicnoticias/stream/
-#EXTINF:-1 tvg-id="SIC K" tvg-logo="http://62.210.101.177/LOGOSPT/SIC%20KIDS.png" group-title="", SIC K
-http://tv.denied.network/sick/stream/
-#EXTINF:-1 tvg-id="SIC Caras" tvg-logo="http://62.210.101.177/LOGOSPT/SIC%20CARAS.png" group-title="", SIC Caras
-http://tv.denied.network/siccaras/stream/
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="", TVI
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="", TVI24
-http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="",TVI Ficção
-http://tv.denied.network/tvificcao/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/BLOOMBERG.png" group-title="", Bloomberg Television
-http://tv.denied.network/bloomberg/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/i24-news-i.png" group-title="", i24 News
-http://tv.denied.network/i24newsi/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/CNN.png" group-title="", CNN
-http://tv.denied.network/cnn/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="", Euronews
-http://tv.denied.network/euronews/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/CMTV.png" group-title="", CMTV
-http://tv.denied.network/cmtv/stream/
-#EXTINF:-1 tvg-logo="http://dev.biggs.pt/wp-content/uploads/2017/11/logo.png" group-title="", Biggs
-http://tv.denied.network/biggs/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/CANAL%20PANDA.png" group-title="", Canal Panda
-http://tv.denied.network/panda/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/JimJam_2018.svg/revision/latest/scale-to-width-down/250?cb=20180723182655" group-title="", JimJam
-http://tv.denied.network/jimjam/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest/scale-to-width-down/200?cb=20160112063510" group-title="", Porto Canal
-http://tv.denied.network/portocanal/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Globo_Now_logo_2018.png/400px-Globo_Now_logo_2018.png" group-title="",Globo Now
-http://tv.denied.network/globonow/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/globo-hd.png" group-title="",Globo Portugal
-http://tv.denied.network/globohd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/LocalvisAoTVlogo.png/revision/latest/scale-to-width-down/300?cb=20181201222955" group-title="",Localvisão TV
-http://tv.denied.network/localvisaotv/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="",Travel Channel
-http://tv.denied.network/travelchannel/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Eurochannel_%282015%29.svg/revision/latest/scale-to-width-down/250?cb=20180115203126" group-title="",Eurochannel
-http://tv.denied.network/eurochannel/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo.png" group-title="",Cinemundo
-http://tv.denied.network/cinemundo/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/fox-movies.png" group-title="",FOX Movies
-http://tv.denied.network/foxmovies/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZRRfHf.png" group-title="",TVC1
-http://tv.denied.network/tvcine1hd/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FroiWkT.png" group-title="",TVC2
-http://tv.denied.network/tvcine2hd/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NHZdxk1.png" group-title="",TVC3
-http://tv.denied.network/tvcine3hd/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j7yDBKl.png" group-title="",TVC4
-http://tv.denied.network/tvcine4hd/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JBoDNEy.png" group-title="",TVSéries
-http://tv.denied.network/tvserieshd/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/HOLLYWOOD%20HD.png" group-title="",Canal Hollywood
-http://tv.denied.network/hollywoodhd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Blaze.svg/revision/latest/scale-to-width-down/200?cb=20161029175136" group-title="",Blaze HD
-http://tv.denied.network/blazehd/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/294px-Television_de_Galicia.svg.png" group-title="",Television de Galicia
-http://tv.denied.network/tvgalicia/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kvSTCek.png" group-title="",TV5 Monde
-http://tv.denied.network/tv5monde/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Sportingtvf6a35257.png/revision/latest/scale-to-width-down/400?cb=20181006230128" group-title="",Sporting TV
-http://tv.denied.network/sportingtv/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/pfc.png" group-title="",PFC Internacional
-http://tv.denied.network/pfc/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sport_TV1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153201" group-title="",Sport TV1 HD
-http://tv.denied.network/sporttv1hd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Sport_TV2_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153212" group-title="",Sport TV2 HD
-http://tv.denied.network/sporttv2hd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sport_TV3_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153252" group-title="",Sport TV3 HD
-http://tv.denied.network/sporttv3hd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sport_TV4_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153303" group-title="",Sport TV4 HD
-http://tv.denied.network/sporttv4hd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Sport_TV5_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153324" group-title="",Sport TV5 HD
-http://tv.denied.network/sporttv5hd/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/BTV%201%20FULL%20HD.png" group-title="",Benfica TV HD
-http://tv.denied.network/btvhd/stream/
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" group-title="",Eleven Sports 1 HD
-http://tv.denied.network/elevensports1hd/stream/
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" group-title="",Eleven Sports 2 HD
-http://tv.denied.network/elevensports2hd/stream/
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg" group-title="",Eleven Sports 3 HD
-http://tv.denied.network/elevensports3hd/stream/
-#EXTINF:-1 tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="",Eleven Sports 4 HD
-http://tv.denied.network/elevensports4hd/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/EUROSPORT%201.png" group-title="",Eurosport 1
-http://tv.denied.network/eurosport1/stream/
-#EXTINF:-1 tvg-logo="http://62.210.101.177/LOGOSPT/EUROSPORT%202.png" group-title="",Eurosport 2
-http://tv.denied.network/eurosport2/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" group-title="",A Bola TV
-http://tv.denied.network/abolatv/stream/
-#EXTINF:-1 tvg-logo="https://jorgesalvador.files.wordpress.com/2012/11/kombatsportlogo.png" group-title="",Kombat Sport
-http://tv.denied.network/kombatsport/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9nIWFK.png" group-title="",Caçavision
-http://tv.denied.network/cacavision/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/caca-e-pesca.png" group-title="",Caça e Pesca
-http://tv.denied.network/cacaepesca/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Odisseia.png/revision/latest/scale-to-width-down/250?cb=20160430224546" group-title="",Odisseia
-http://tv.denied.network/odisseia/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/Canal-Q.svg/revision/latest/scale-to-width-down/185?cb=20180528000318" group-title="",Canal Q
-http://tv.denied.network/q/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Crime_and_Investigation_logo.png/200px-Crime_and_Investigation_logo.png" group-title="",Crime & Investigation
-http://tv.denied.network/crime+investigationhd/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Zeetv_new.png/revision/latest/scale-to-width-down/220?cb=20171015185456" group-title="",Zee TV
-http://tv.denied.network/zeetv/stream/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="",Zee Cinema
-http://tv.denied.network/zeecinema/stream/
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Teledifus%C3%A3o_de_Macau.svg/revision/latest/scale-to-width-down/200?cb=20160321104754" group-title="",Teledifusão de Macau
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w811097116.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/24Kitchen.svg/revision/latest/scale-to-width-down/250?cb=20171119143407" group-title="",24Kitchen
-http://tv.denied.network/24kitchen/stream/
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" group-title="",My Cuisine
-http://tv.denied.network/mycuisine/stream/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nj9gq7A.png" group-title="",Record TV Europa
-http://tv.denied.network/recordtv/stream/
-#EXTINF:-1 tvg-logo="https://jorgesalvador.files.wordpress.com/2012/07/luxe-tvhdlogo2.png" group-title="",Luxe TV HD
-http://tv.denied.network/luxetvhd/stream/
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_horiz_RGB.png" group-title="",Antena 1
-http://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_horiz_RGB.png" group-title="",Antena 2
-http://radiocast.rtp.pt/antena280a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_positivo_horiz_RGB.png" group-title="",Antena 3
-http://radiocast.rtp.pt/antena380a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Acores_positivo.png" group-title="",Antena 1 Açores
-http://radiocast.rtp.pt/antena1acores80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/A1Madeira_positivo_RGB.png" group-title="",Antena 1 Madeira
-http://radiocast.rtp.pt/antena1madeira80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A3Madeira_positivo_RGB.png" group-title="",Antena 3 Madeira
-http://radiocast.rtp.pt/antena3madeira80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_vert_RGB.png" group-title="",RDP Internacional
-http://radiocast.rtp.pt/rdpint80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_vert_RGB.png" group-title="",RDP África
-http://radiocast.rtp.pt/rdpafrica80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Fado_positivo_RGB.png" group-title="",Antena 1 Fado
-http://radiocast.rtp.pt/antena1fado80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Lusitania_positivo_RGB.png" group-title="",Antena 1 Lusitânia
-http://radiocast.rtp.pt/lusitania80a.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xfIWG33.png" group-title="",Antena 1 Memória
-http://radiocast.rtp.pt/antena1memoria80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Vida_positivo_RGB.png" group-title="",Antena 1 Vida
-http://radiocast.rtp.pt/antena1vida80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/JazzIN_positivo_RGB.png" group-title="",Antena 2 Jazzin
-http://radiocast.rtp.pt/antena2jazzin80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/A2-Opera_positivo_horiz_RGB.png" group-title="",Antena 2 Ópera
-http://radiocast.rtp.pt/antena2opera80a.mp3
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/09/radioZigZag_w2000_positivo.png" group-title="",Rádio ZigZag
-http://radiocast.rtp.pt/zigzag80a.mp3
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/logo_big.png" group-title="",Rádio Comercial
-http://mcrscast1.mcr.iol.pt/comercial.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqfNhoE.png" group-title="",M80 Rádio
-http://mcrscast.mcr.iol.pt/m80
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/33/CidadeFM.png" group-title="",Cidade FM Portugal
-http://mcrscast.mcr.iol.pt/cidadefm
-#EXTINF:-1 tvg-logo="https://smoothfm.iol.pt/images/logo-smoothfm-principal.png" group-title="",Smooth FM
-http://mcrscast.mcr.iol.pt/smoothfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aiq2gP0.png" group-title="",Vodafone FM
-http://195.23.102.207/vodafone
+#EXTINF:-1 ,|PT| CANAL 11 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011182
+#EXTINF:-1 ,|PT| TVI FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011199
+#EXTINF:-1 ,|PT| INVESTIGATION DISCOVERY HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011152
+#EXTINF:-1 ,(PT) SPORT TV 1 UHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5335
+#EXTINF:-1 ,(PT) SIC FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5338
+#EXTINF:-1 ,(PT) RTP 1 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5336
+#EXTINF:-1 ,(PT) RTP 2 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5337
+#EXTINF:-1 ,|PT| HOLLYWOOD FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/7212
+#EXTINF:-1 ,(PT) SIC  RADICAL FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5339
+#EXTINF:-1 ,(PT) SPORT TV + FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5340
+#EXTINF:-1 ,(PT) SPORT TV 1 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5341
+#EXTINF:-1 ,(PT) SPORT TV 3 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5342
+#EXTINF:-1 ,(PT) SPORT TV 4 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5343
+#EXTINF:-1 ,(PT) SPORT TV 5 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5344
+#EXTINF:-1 ,|PT| BENFICA TV FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4269
+#EXTINF:-1 ,|PT| 24 KITCHEN FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4268
+#EXTINF:-1 ,|PT| SPORT TV 1 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4445
+#EXTINF:-1 ,|PT| SPORT TV 2 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4444
+#EXTINF:-1 ,|PT| SPORT TV 3 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4443
+#EXTINF:-1 ,|PT| SPORT TV 4 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4441
+#EXTINF:-1 ,|PT| SPORT TV 5 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4439
+#EXTINF:-1 ,|PT| RTP 1  FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4492
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 1 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6510
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 2 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6509
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 3 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6511
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 5 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6513
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 6 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6729
+#EXTINF:-1 ,(PT) ELEVEN SPORTS 4 FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6512
+#EXTINF:-1 ,|PT| RTP 1 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1727
+#EXTINF:-1 ,|PT| RTP 2 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1726
+#EXTINF:-1 ,|PT| RTP 3 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1715
+#EXTINF:-1 ,|PT| TVI HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4493
+#EXTINF:-1 ,|PT| TVI
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1674
+#EXTINF:-1 ,|PT| TVI REALITY
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1672
+#EXTINF:-1 ,|PT| TVI FICCAO
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2647
+#EXTINF:-1 ,|PT| RTP  MADEIRA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2321
+#EXTINF:-1 ,|PT| RTP ACORES
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2649
+#EXTINF:-1 ,|PT| RTP MEMORIA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1683
+#EXTINF:-1 ,|PT| RTP INTERNATIONAL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1658
+#EXTINF:-1 ,|PT| RTP INFORMACAO
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1659
+#EXTINF:-1 ,|PT| RTP ACORESS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1685
+#EXTINF:-1 ,|PT| RTP AFRICA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1684
+#EXTINF:-1 ,|PT| SIC RADICAL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1656
+#EXTINF:-1 ,|PT| CANAL Q
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1704
+#EXTINF:-1 ,|PT| SIC MULHER
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1682
+#EXTINF:-1 ,|PT| SIC HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1725
+#EXTINF:-1 ,|PT| STV NOTICIAS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2334
+#EXTINF:-1 ,|PT| CM TV HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1700
+#EXTINF:-1 ,|PT| TVI 24
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1673
+#EXTINF:-1 ,|PT| SIC NOTICIAS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1657
+#EXTINF:-1 ,|PT| E! HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1695
+#EXTINF:-1 ,|PT| EURONEWS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2335
+#EXTINF:-1 ,|PT| FOX NEWS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2331
+#EXTINF:-1 ,|PT| SIC KIDS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2329
+#EXTINF:-1 ,|PT| BABY TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1708
+#EXTINF:-1 ,|PT| DISNEY JUNIOR HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1696
+#EXTINF:-1 ,|PT| DISNEY CHANNEL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1697
+#EXTINF:-1 ,|PT| CARTOON NETWORK
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2330
+#EXTINF:-1 ,|PT| CANAL PANDA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1705
+#EXTINF:-1 ,|PT| NICKELODEON
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1688
+#EXTINF:-1 ,|PT| JIM JAM
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1661
+#EXTINF:-1 ,|PT| BIGGS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2328
+#EXTINF:-1 ,|PT| TV CINE 1  HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1716
+#EXTINF:-1 ,|PT| TV CINE 2  HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1717
+#EXTINF:-1 ,|PT| TV CINE 3 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1718
+#EXTINF:-1 ,|PT| TV CINE 4 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1719
+#EXTINF:-1 ,|PT| CINEMUNDO HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1701
+#EXTINF:-1 ,|PT| TV SERIES FHD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1675
+#EXTINF:-1 ,|PT| AMC HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1709
+#EXTINF:-1 ,|PT| HOLLYWOOD HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1662
+#EXTINF:-1 ,|PT| FOX TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1663
+#EXTINF:-1 ,|PT| FOX MOVIES HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1729
+#EXTINF:-1 ,|PT| FOX COMEDY HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1694
+#EXTINF:-1 ,|PT| FOX LIFE
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1664
+#EXTINF:-1 ,|PT| FOX CRIME
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1665
+#EXTINF:-1 ,|PT| AXN HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1714
+#EXTINF:-1 ,|PT| AXN BLACK HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2140
+#EXTINF:-1 ,|PT| AXN WHITE HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1713
+#EXTINF:-1 ,|PT| SYFY HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1655
+#EXTINF:-1 ,|PT| MOV HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1728
+#EXTINF:-1 ,(PT) NBA HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6730
+#EXTINF:-1 ,|PT| SPORT TV+
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2324
+#EXTINF:-1 ,|PT| SPORT TV 1 HD 720p
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4437
+#EXTINF:-1 ,|PT| SPORT TV 1 SD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4438
+#EXTINF:-1 ,|PT| SPORT TV 1 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1721
+#EXTINF:-1 ,|PT| SPORT TV 2 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1722
+#EXTINF:-1 ,|PT| SPORT TV 3 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1723
+#EXTINF:-1 ,|PT| SPORT TV 4 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1724
+#EXTINF:-1 ,|PT| SPORT TV  5 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2139
+#EXTINF:-1 ,|PT| SPORT TV 5
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2295
+#EXTINF:-1 ,|PT| BENFICA TV 1
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1670
+#EXTINF:-1 ,|PT| BENFICA TV 2
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1669
+#EXTINF:-1 ,|PT| SPORTING TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1720
+#EXTINF:-1 ,|PT| EUROSPORT 1
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1667
+#EXTINF:-1 ,|PT| EUROSPORT 2
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1666
+#EXTINF:-1 ,|PT| PORTO CANAL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1660
+#EXTINF:-1 ,|PT| PORTO  CANAL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2772
+#EXTINF:-1 ,|PT| TOROS TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1680
+#EXTINF:-1 ,|PT| MOTORS TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1692
+#EXTINF:-1 ,|PT| FUEL TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1693
+#EXTINF:-1 ,|PT|  A BOLA TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1710
+#EXTINF:-1 ,|PT| EUROSPORT  NEWS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2325
+#EXTINF:-1 ,|PT| MOTORVISION
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2327
+#EXTINF:-1 ,|PT| PFC HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1686
+#EXTINF:-1 ,|PT| CRIME INVESTIGATION HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011151
+#EXTINF:-1 ,|PT| MY CUISINE TV HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/9353
+#EXTINF:-1 ,|PT| 24 KITCHEN
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1712
+#EXTINF:-1 ,|PT| NATIONAL GEOGRAPHIC
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1690
+#EXTINF:-1 ,|PT| NATIONAL GEO WILD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1689
+#EXTINF:-1 ,|PT| ODISSEIA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1687
+#EXTINF:-1 ,|PT| DISCOVERY HD SHOWCASE
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1698
+#EXTINF:-1 ,|PT| DISCOVERY CHANNEL
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1699
+#EXTINF:-1 ,|PT| CBS REALITY
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1703
+#EXTINF:-1 ,|PT| CANAL HISTORIA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1706
+#EXTINF:-1 ,|PT| CACA & PESCA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1707
+#EXTINF:-1 ,|PT| CACA VISION
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2323
+#EXTINF:-1 ,|PT| CACA E PESCA
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2322
+#EXTINF:-1 ,|PT| A & E
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1711
+#EXTINF:-1 ,|PT| CANAL  TOROS
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2554
+#EXTINF:-1 ,|PT| TLC HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1681
+#EXTINF:-1 ,|PT| TRAVEL CHANNEL HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2773
+#EXTINF:-1 ,|PT| TPA INTERN
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1679
+#EXTINF:-1 ,|PT| MTV  DANCE
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2145
+#EXTINF:-1 ,|PT| MCM TOP
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2146
+#EXTINF:-1 ,|PT| VH1 CLASSIC HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/3091
+#EXTINF:-1 ,|PT| VH1 HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2143
+#EXTINF:-1 ,|PT| VH1+
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1671
+#EXTINF:-1 ,|PT| TRACE URBAN TV
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2142
+#EXTINF:-1 ,|PT| AFRO MUSIC
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2141
+#EXTINF:-1 ,|PT| TV RECORD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1676
+#EXTINF:-1 ,|PT| TV GLOBO PREMUIM
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1677
+#EXTINF:-1 ,|PT| TV GLOBO
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1678
+#EXTINF:-1 ,|PT| MTV HD
+http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1691

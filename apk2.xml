@@ -1,268 +1,155 @@
 #EXTM3U
-
-#EXTINF:-1 ,|PT| CANAL 11 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011182
-#EXTINF:-1 ,|PT| TVI FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011199
-#EXTINF:-1 ,|PT| INVESTIGATION DISCOVERY HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011152
-#EXTINF:-1 ,(PT) SPORT TV 1 UHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5335
-#EXTINF:-1 ,(PT) SIC FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5338
-#EXTINF:-1 ,(PT) RTP 1 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5336
-#EXTINF:-1 ,(PT) RTP 2 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5337
-#EXTINF:-1 ,|PT| HOLLYWOOD FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/7212
-#EXTINF:-1 ,(PT) SIC  RADICAL FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5339
-#EXTINF:-1 ,(PT) SPORT TV + FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5340
-#EXTINF:-1 ,(PT) SPORT TV 1 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5341
-#EXTINF:-1 ,(PT) SPORT TV 3 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5342
-#EXTINF:-1 ,(PT) SPORT TV 4 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5343
-#EXTINF:-1 ,(PT) SPORT TV 5 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/5344
-#EXTINF:-1 ,|PT| BENFICA TV FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4269
-#EXTINF:-1 ,|PT| 24 KITCHEN FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4268
-#EXTINF:-1 ,|PT| SPORT TV 1 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4445
-#EXTINF:-1 ,|PT| SPORT TV 2 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4444
-#EXTINF:-1 ,|PT| SPORT TV 3 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4443
-#EXTINF:-1 ,|PT| SPORT TV 4 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4441
-#EXTINF:-1 ,|PT| SPORT TV 5 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4439
-#EXTINF:-1 ,|PT| RTP 1  FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4492
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 1 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6510
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 2 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6509
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 3 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6511
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 5 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6513
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 6 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6729
-#EXTINF:-1 ,(PT) ELEVEN SPORTS 4 FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6512
-#EXTINF:-1 ,|PT| RTP 1 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1727
-#EXTINF:-1 ,|PT| RTP 2 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1726
-#EXTINF:-1 ,|PT| RTP 3 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1715
-#EXTINF:-1 ,|PT| TVI HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4493
-#EXTINF:-1 ,|PT| TVI
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1674
-#EXTINF:-1 ,|PT| TVI REALITY
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1672
-#EXTINF:-1 ,|PT| TVI FICCAO
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2647
-#EXTINF:-1 ,|PT| RTP  MADEIRA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2321
-#EXTINF:-1 ,|PT| RTP ACORES
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2649
-#EXTINF:-1 ,|PT| RTP MEMORIA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1683
-#EXTINF:-1 ,|PT| RTP INTERNATIONAL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1658
-#EXTINF:-1 ,|PT| RTP INFORMACAO
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1659
-#EXTINF:-1 ,|PT| RTP ACORESS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1685
-#EXTINF:-1 ,|PT| RTP AFRICA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1684
-#EXTINF:-1 ,|PT| SIC RADICAL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1656
-#EXTINF:-1 ,|PT| CANAL Q
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1704
-#EXTINF:-1 ,|PT| SIC MULHER
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1682
-#EXTINF:-1 ,|PT| SIC HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1725
-#EXTINF:-1 ,|PT| STV NOTICIAS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2334
-#EXTINF:-1 ,|PT| CM TV HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1700
-#EXTINF:-1 ,|PT| TVI 24
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1673
-#EXTINF:-1 ,|PT| SIC NOTICIAS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1657
-#EXTINF:-1 ,|PT| E! HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1695
-#EXTINF:-1 ,|PT| EURONEWS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2335
-#EXTINF:-1 ,|PT| FOX NEWS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2331
-#EXTINF:-1 ,|PT| SIC KIDS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2329
-#EXTINF:-1 ,|PT| BABY TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1708
-#EXTINF:-1 ,|PT| DISNEY JUNIOR HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1696
-#EXTINF:-1 ,|PT| DISNEY CHANNEL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1697
-#EXTINF:-1 ,|PT| CARTOON NETWORK
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2330
-#EXTINF:-1 ,|PT| CANAL PANDA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1705
-#EXTINF:-1 ,|PT| NICKELODEON
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1688
-#EXTINF:-1 ,|PT| JIM JAM
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1661
-#EXTINF:-1 ,|PT| BIGGS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2328
-#EXTINF:-1 ,|PT| TV CINE 1  HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1716
-#EXTINF:-1 ,|PT| TV CINE 2  HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1717
-#EXTINF:-1 ,|PT| TV CINE 3 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1718
-#EXTINF:-1 ,|PT| TV CINE 4 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1719
-#EXTINF:-1 ,|PT| CINEMUNDO HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1701
-#EXTINF:-1 ,|PT| TV SERIES FHD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1675
-#EXTINF:-1 ,|PT| AMC HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1709
-#EXTINF:-1 ,|PT| HOLLYWOOD HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1662
-#EXTINF:-1 ,|PT| FOX TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1663
-#EXTINF:-1 ,|PT| FOX MOVIES HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1729
-#EXTINF:-1 ,|PT| FOX COMEDY HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1694
-#EXTINF:-1 ,|PT| FOX LIFE
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1664
-#EXTINF:-1 ,|PT| FOX CRIME
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1665
-#EXTINF:-1 ,|PT| AXN HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1714
-#EXTINF:-1 ,|PT| AXN BLACK HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2140
-#EXTINF:-1 ,|PT| AXN WHITE HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1713
-#EXTINF:-1 ,|PT| SYFY HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1655
-#EXTINF:-1 ,|PT| MOV HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1728
-#EXTINF:-1 ,(PT) NBA HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/6730
-#EXTINF:-1 ,|PT| SPORT TV+
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2324
-#EXTINF:-1 ,|PT| SPORT TV 1 HD 720p
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4437
-#EXTINF:-1 ,|PT| SPORT TV 1 SD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/4438
-#EXTINF:-1 ,|PT| SPORT TV 1 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1721
-#EXTINF:-1 ,|PT| SPORT TV 2 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1722
-#EXTINF:-1 ,|PT| SPORT TV 3 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1723
-#EXTINF:-1 ,|PT| SPORT TV 4 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1724
-#EXTINF:-1 ,|PT| SPORT TV  5 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2139
-#EXTINF:-1 ,|PT| SPORT TV 5
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2295
-#EXTINF:-1 ,|PT| BENFICA TV 1
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1670
-#EXTINF:-1 ,|PT| BENFICA TV 2
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1669
-#EXTINF:-1 ,|PT| SPORTING TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1720
-#EXTINF:-1 ,|PT| EUROSPORT 1
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1667
-#EXTINF:-1 ,|PT| EUROSPORT 2
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1666
-#EXTINF:-1 ,|PT| PORTO CANAL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1660
-#EXTINF:-1 ,|PT| PORTO  CANAL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2772
-#EXTINF:-1 ,|PT| TOROS TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1680
-#EXTINF:-1 ,|PT| MOTORS TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1692
-#EXTINF:-1 ,|PT| FUEL TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1693
-#EXTINF:-1 ,|PT|  A BOLA TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1710
-#EXTINF:-1 ,|PT| EUROSPORT  NEWS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2325
-#EXTINF:-1 ,|PT| MOTORVISION
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2327
-#EXTINF:-1 ,|PT| PFC HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1686
-#EXTINF:-1 ,|PT| CRIME INVESTIGATION HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/265011151
-#EXTINF:-1 ,|PT| MY CUISINE TV HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/9353
-#EXTINF:-1 ,|PT| 24 KITCHEN
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1712
-#EXTINF:-1 ,|PT| NATIONAL GEOGRAPHIC
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1690
-#EXTINF:-1 ,|PT| NATIONAL GEO WILD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1689
-#EXTINF:-1 ,|PT| ODISSEIA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1687
-#EXTINF:-1 ,|PT| DISCOVERY HD SHOWCASE
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1698
-#EXTINF:-1 ,|PT| DISCOVERY CHANNEL
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1699
-#EXTINF:-1 ,|PT| CBS REALITY
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1703
-#EXTINF:-1 ,|PT| CANAL HISTORIA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1706
-#EXTINF:-1 ,|PT| CACA & PESCA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1707
-#EXTINF:-1 ,|PT| CACA VISION
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2323
-#EXTINF:-1 ,|PT| CACA E PESCA
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2322
-#EXTINF:-1 ,|PT| A & E
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1711
-#EXTINF:-1 ,|PT| CANAL  TOROS
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2554
-#EXTINF:-1 ,|PT| TLC HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1681
-#EXTINF:-1 ,|PT| TRAVEL CHANNEL HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2773
-#EXTINF:-1 ,|PT| TPA INTERN
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1679
-#EXTINF:-1 ,|PT| MTV  DANCE
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2145
-#EXTINF:-1 ,|PT| MCM TOP
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2146
-#EXTINF:-1 ,|PT| VH1 CLASSIC HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/3091
-#EXTINF:-1 ,|PT| VH1 HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2143
-#EXTINF:-1 ,|PT| VH1+
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1671
-#EXTINF:-1 ,|PT| TRACE URBAN TV
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2142
-#EXTINF:-1 ,|PT| AFRO MUSIC
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/2141
-#EXTINF:-1 ,|PT| TV RECORD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1676
-#EXTINF:-1 ,|PT| TV GLOBO PREMUIM
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1677
-#EXTINF:-1 ,|PT| TV GLOBO
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1678
-#EXTINF:-1 ,|PT| MTV HD
-http://localhd.tv:8081/patrick.weissen/gHGPvWaofS/1691
+#EXTINF:-1 ,PT: 24 KITCHEN HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/412.ts
+#EXTINF:-1 ,PT: AMC HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/413.ts
+#EXTINF:-1 ,PT: AXN HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/876.ts
+#EXTINF:-1 ,PT: AXN White
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1541.ts
+#EXTINF:-1 ,PT: AXN Black
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1542.ts
+#EXTINF:-1 ,PT: Baby TV
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/414.ts
+#EXTINF:-1 ,PT: Benfica TV HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/415.ts
+#EXTINF:-1 ,PT: Blaze
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/416.ts
+#EXTINF:-1 ,PT: CBS Reality
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3370.ts
+#EXTINF:-1 ,PT: CANAL HISTORIA
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/417.ts
+#EXTINF:-1 ,PT: CARTON NETWORK
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/418.ts
+#EXTINF:-1 ,PT: Cinemundo
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3366.ts
+#EXTINF:-1 ,PT: CMTV HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/420.ts
+#EXTINF:-1 ,PT: Crime & Investigation
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/421.ts
+#EXTINF:-1 ,PT: Discovery Channel HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/422.ts
+#EXTINF:-1 ,PT: Disney Channel HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/423.ts
+#EXTINF:-1 ,PT: Disney Junior
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/424.ts
+#EXTINF:-1 ,PT: E! HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/425.ts
+#EXTINF:-1 ,PT: ELEVEN SPORTS 1 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/426.ts
+#EXTINF:-1 ,PT: ELEVEN SPORTS 3 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/428.ts
+#EXTINF:-1 ,PT: ELEVEN SPORTS 4 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/429.ts
+#EXTINF:-1 ,PT: ELEVEN SPORTS 5 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/430.ts
+#EXTINF:-1 ,PT: ELEVEN SPORTS 6 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/431.ts
+#EXTINF:-1 ,PT: euronews
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/432.ts
+#EXTINF:-1 ,PT: EUROSPORT 1 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/433.ts
+#EXTINF:-1 ,PT: EUROSPORT 2
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/434.ts
+#EXTINF:-1 ,PT: Fox HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3365.ts
+#EXTINF:-1 ,PT: Fox Comedy
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3369.ts
+#EXTINF:-1 ,PT: FOX Crime HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/435.ts
+#EXTINF:-1 ,PT: FOX LIFE HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/436.ts
+#EXTINF:-1 ,PT: GLOBO
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/437.ts
+#EXTINF:-1 ,PT: Kombat Sport
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3371.ts
+#EXTINF:-1 ,PT: Record News
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/438.ts
+#EXTINF:-1 ,PT: HISTORIA CHANNEL
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/440.ts
+#EXTINF:-1 ,PT: Hollywood Hd
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1540.ts
+#EXTINF:-1 ,PT: Investigation Discovery HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/442.ts
+#EXTINF:-1 ,PT: Motorvision
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3368.ts
+#EXTINF:-1 ,PT: MTV Portugal
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/445.ts
+#EXTINF:-1 ,PT: My cuisine
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/446.ts
+#EXTINF:-1 ,PT: NAT GEO Wild HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/447.ts
+#EXTINF:-1 ,PT: Panda Channel
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/448.ts
+#EXTINF:-1 ,PT: PFC
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/449.ts
+#EXTINF:-1 ,PT: PORTO CANAL HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/450.ts
+#EXTINF:-1 ,PT: RTP 1 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/452.ts
+#EXTINF:-1 ,PT: RTP 2 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/453.ts
+#EXTINF:-1 ,PT: RTP 3
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/454.ts
+#EXTINF:-1 ,PT: RTP AFRICA
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/455.ts
+#EXTINF:-1 ,PT: RTP Memoria
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/456.ts
+#EXTINF:-1 ,PT: SIC CARAS HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/457.ts
+#EXTINF:-1 ,PT: SIC FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/458.ts
+#EXTINF:-1 ,PT: Sporting
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3367.ts
+#EXTINF:-1 ,PT: SPORT TV Plus
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/459.ts
+#EXTINF:-1 ,PT: SPORT TV 1 HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/460.ts
+#EXTINF:-1 ,PT: SPORT TV 2 HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/461.ts
+#EXTINF:-1 ,PT: SPORT TV 3 HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/462.ts
+#EXTINF:-1 ,PT: SPORT TV 4 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/463.ts
+#EXTINF:-1 ,PT: SPORT TV 5 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/464.ts
+#EXTINF:-1 ,PT: TCV Internacional
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3879.ts
+#EXTINF:-1 ,PT: TLC
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/465.ts
+#EXTINF:-1 ,PT: TPA
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3878.ts
+#EXTINF:-1 ,PT: Travel Channel HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/466.ts
+#EXTINF:-1 ,PT: TV Cine 1 HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/467.ts
+#EXTINF:-1 ,PT: TV Cine 2 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/468.ts
+#EXTINF:-1 ,PT: TV Cine 3 FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/469.ts
+#EXTINF:-1 ,PT: TV Cine 4 HD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/470.ts
+#EXTINF:-1 ,PT: TV Record
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/471.ts
+#EXTINF:-1 ,PT: TVI
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/472.ts
+#EXTINF:-1 ,PT: TVI Reality
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/473.ts
+#EXTINF:-1 ,PT: TVI 24
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/871.ts
+#EXTINF:-1 ,PT: TVI Ficcao
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/872.ts
+#EXTINF:-1 ,PT: RTP Acores
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/878.ts
+#EXTINF:-1 ,PT: RTP Madeira
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/879.ts
+#EXTINF:-1 ,PT: SIC Mulher FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/874.ts
+#EXTINF:-1 ,PT: SIC Noticias FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/873.ts
+#EXTINF:-1 ,PT: SIC Radical FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/875.ts
+#EXTINF:-1 ,PT: SyFy FHD
+http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/877.ts
+#EXTINF:-1 ,Policias Corruptos
+http://tvlatina.homeip.net:25461/movie/fernandoisaza/fernando2109/3915.mp4

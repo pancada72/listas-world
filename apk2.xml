@@ -1,155 +1,399 @@
 #EXTM3U
-#EXTINF:-1 ,PT: 24 KITCHEN HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/412.ts
-#EXTINF:-1 ,PT: AMC HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/413.ts
-#EXTINF:-1 ,PT: AXN HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/876.ts
-#EXTINF:-1 ,PT: AXN White
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1541.ts
-#EXTINF:-1 ,PT: AXN Black
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1542.ts
-#EXTINF:-1 ,PT: Baby TV
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/414.ts
-#EXTINF:-1 ,PT: Benfica TV HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/415.ts
-#EXTINF:-1 ,PT: Blaze
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/416.ts
-#EXTINF:-1 ,PT: CBS Reality
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3370.ts
-#EXTINF:-1 ,PT: CANAL HISTORIA
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/417.ts
-#EXTINF:-1 ,PT: CARTON NETWORK
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/418.ts
-#EXTINF:-1 ,PT: Cinemundo
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3366.ts
-#EXTINF:-1 ,PT: CMTV HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/420.ts
-#EXTINF:-1 ,PT: Crime & Investigation
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/421.ts
-#EXTINF:-1 ,PT: Discovery Channel HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/422.ts
-#EXTINF:-1 ,PT: Disney Channel HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/423.ts
-#EXTINF:-1 ,PT: Disney Junior
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/424.ts
-#EXTINF:-1 ,PT: E! HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/425.ts
-#EXTINF:-1 ,PT: ELEVEN SPORTS 1 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/426.ts
-#EXTINF:-1 ,PT: ELEVEN SPORTS 3 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/428.ts
-#EXTINF:-1 ,PT: ELEVEN SPORTS 4 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/429.ts
-#EXTINF:-1 ,PT: ELEVEN SPORTS 5 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/430.ts
-#EXTINF:-1 ,PT: ELEVEN SPORTS 6 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/431.ts
-#EXTINF:-1 ,PT: euronews
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/432.ts
-#EXTINF:-1 ,PT: EUROSPORT 1 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/433.ts
-#EXTINF:-1 ,PT: EUROSPORT 2
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/434.ts
-#EXTINF:-1 ,PT: Fox HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3365.ts
-#EXTINF:-1 ,PT: Fox Comedy
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3369.ts
-#EXTINF:-1 ,PT: FOX Crime HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/435.ts
-#EXTINF:-1 ,PT: FOX LIFE HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/436.ts
-#EXTINF:-1 ,PT: GLOBO
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/437.ts
-#EXTINF:-1 ,PT: Kombat Sport
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3371.ts
-#EXTINF:-1 ,PT: Record News
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/438.ts
-#EXTINF:-1 ,PT: HISTORIA CHANNEL
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/440.ts
-#EXTINF:-1 ,PT: Hollywood Hd
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/1540.ts
-#EXTINF:-1 ,PT: Investigation Discovery HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/442.ts
-#EXTINF:-1 ,PT: Motorvision
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3368.ts
-#EXTINF:-1 ,PT: MTV Portugal
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/445.ts
-#EXTINF:-1 ,PT: My cuisine
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/446.ts
-#EXTINF:-1 ,PT: NAT GEO Wild HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/447.ts
-#EXTINF:-1 ,PT: Panda Channel
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/448.ts
-#EXTINF:-1 ,PT: PFC
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/449.ts
-#EXTINF:-1 ,PT: PORTO CANAL HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/450.ts
-#EXTINF:-1 ,PT: RTP 1 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/452.ts
-#EXTINF:-1 ,PT: RTP 2 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/453.ts
-#EXTINF:-1 ,PT: RTP 3
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/454.ts
-#EXTINF:-1 ,PT: RTP AFRICA
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/455.ts
-#EXTINF:-1 ,PT: RTP Memoria
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/456.ts
-#EXTINF:-1 ,PT: SIC CARAS HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/457.ts
-#EXTINF:-1 ,PT: SIC FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/458.ts
-#EXTINF:-1 ,PT: Sporting
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3367.ts
-#EXTINF:-1 ,PT: SPORT TV Plus
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/459.ts
-#EXTINF:-1 ,PT: SPORT TV 1 HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/460.ts
-#EXTINF:-1 ,PT: SPORT TV 2 HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/461.ts
-#EXTINF:-1 ,PT: SPORT TV 3 HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/462.ts
-#EXTINF:-1 ,PT: SPORT TV 4 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/463.ts
-#EXTINF:-1 ,PT: SPORT TV 5 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/464.ts
-#EXTINF:-1 ,PT: TCV Internacional
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3879.ts
-#EXTINF:-1 ,PT: TLC
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/465.ts
-#EXTINF:-1 ,PT: TPA
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/3878.ts
-#EXTINF:-1 ,PT: Travel Channel HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/466.ts
-#EXTINF:-1 ,PT: TV Cine 1 HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/467.ts
-#EXTINF:-1 ,PT: TV Cine 2 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/468.ts
-#EXTINF:-1 ,PT: TV Cine 3 FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/469.ts
-#EXTINF:-1 ,PT: TV Cine 4 HD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/470.ts
-#EXTINF:-1 ,PT: TV Record
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/471.ts
-#EXTINF:-1 ,PT: TVI
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/472.ts
-#EXTINF:-1 ,PT: TVI Reality
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/473.ts
-#EXTINF:-1 ,PT: TVI 24
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/871.ts
-#EXTINF:-1 ,PT: TVI Ficcao
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/872.ts
-#EXTINF:-1 ,PT: RTP Acores
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/878.ts
-#EXTINF:-1 ,PT: RTP Madeira
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/879.ts
-#EXTINF:-1 ,PT: SIC Mulher FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/874.ts
-#EXTINF:-1 ,PT: SIC Noticias FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/873.ts
-#EXTINF:-1 ,PT: SIC Radical FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/875.ts
-#EXTINF:-1 ,PT: SyFy FHD
-http://tvlatina.homeip.net:25461/live/fernandoisaza/fernando2109/877.ts
-#EXTINF:-1 ,Policias Corruptos
-http://tvlatina.homeip.net:25461/movie/fernandoisaza/fernando2109/3915.mp4
+#EXTINF:-1,|PT| RTP 1 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2345
+#EXTINF:-1,|PT| RTP 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15888
+#EXTINF:-1,|PT| RTP 2 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2346
+#EXTINF:-1,|PT| RTP 2 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15889
+#EXTINF:-1,|PT| RTP 3 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224734
+#EXTINF:-1,|PT| RTP 3 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2347
+#EXTINF:-1,|PT| SIC FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2340
+#EXTINF:-1,|PT| SIC HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15890
+#EXTINF:-1,|PT| TVI FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2321
+#EXTINF:-1,|PT| TVI HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15891
+#EXTINF:-1,|PT| SIC MULHER FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/227965
+#EXTINF:-1,|PT| SIC MULHER HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2338
+#EXTINF:-1,|PT| SIC RADICAL FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2336
+#EXTINF:-1,|PT| SIC RADICAL HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15895
+#EXTINF:-1,|PT| SIC CARAS FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/21555
+#EXTINF:-1,|PT| SIC CARAS HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15658
+#EXTINF:-1,|PT| CANAL Q
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15659
+#EXTINF:-1,|PT| PORTO CANAL FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221598
+#EXTINF:-1,|PT| PORTO CANAL
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2349
+#EXTINF:-1,|PT| RTP MEMORIA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2341
+#EXTINF:-1,|PT| RTP AFRICA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15662
+#EXTINF:-1,|PT| RTP MADEIRA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2342
+#EXTINF:-1,|PT| RTP ACORES
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2344
+#EXTINF:-1,|PT| TV RECORD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78615
+#EXTINF:-1,•●★-----|PT| FILMES |PT|-----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15667
+#EXTINF:-1,|PT| TVCINE 1 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2322
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/21556
+#EXTINF:-1,|PT| TVCINE 2 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2323
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15959
+#EXTINF:-1,|PT| TVCINE 3 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2324
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15960
+#EXTINF:-1,|PT| TVCINE 4 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2325
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15961
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2357
+#EXTINF:-1,|PT| HOLLYWOOD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15962
+#EXTINF:-1,|PT| AMC FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/21557
+#EXTINF:-1,|PT| AMC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15682
+#EXTINF:-1,|PT| FOX MOVIES
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78592
+#EXTINF:-1,|PT| FOX MOVIES FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15963
+#EXTINF:-1,|PT| CINEMUNDO FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221263
+#EXTINF:-1,|PT| CINEMUNDO
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2369
+#EXTINF:-1,•●★-----|PT| SERIES |PT|-----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15668
+#EXTINF:-1,|PT| AXN HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2380
+#EXTINF:-1,|PT| AXN
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78588
+#EXTINF:-1,|PT| AXN WHITE HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2382
+#EXTINF:-1,|PT| AXN WHITE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24695
+#EXTINF:-1,|PT| AXN BLACK HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15683
+#EXTINF:-1,|PT| MTV PORTUGAL FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224745
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15712
+#EXTINF:-1,|PT| FOX HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2359
+#EXTINF:-1,|PT| FOX
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78589
+#EXTINF:-1,|PT| FOX LIFE HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2361
+#EXTINF:-1,|PT| FOX LIFE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78591
+#EXTINF:-1,|PT| FOX CRIME HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15684
+#EXTINF:-1,|PT| FOX CRIME
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78590
+#EXTINF:-1,|PT| FOX COMEDY FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224738
+#EXTINF:-1,|PT| FOX COMEDY HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15965
+#EXTINF:-1,|PT| TVSERIES HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2318
+#EXTINF:-1,|PT| TVSERIES
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15685
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2364
+#EXTINF:-1,|PT| CBS REALITY
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2371
+#EXTINF:-1,|PT| TVI FICCAO
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2319
+#EXTINF:-1,|PT| CANÇAO NOVA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15687
+#EXTINF:-1,|PT| MCS LIFESTYLE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15688
+#EXTINF:-1,|PT| SYFY HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2329
+#EXTINF:-1,|PT| SYFY
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15964
+#EXTINF:-1,|PT| BBC ENTERTAINMENT
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15689
+#EXTINF:-1,|PT| TVI REALITY
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15691
+#EXTINF:-1,|PT| ZAP VIVA HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/172420
+#EXTINF:-1,|PT| BLAZE FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224741
+#EXTINF:-1,|PT| BLAZE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78601
+#EXTINF:-1,|PT| LUXE TV FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221604
+#EXTINF:-1,|PT| NOS STUDIO FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221600
+#EXTINF:-1,•●★----|PT| DESPORTO |PT|----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15669
+#EXTINF:-1,|PT| CANAL 11 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/204304
+#EXTINF:-1,|PT| SPORT TV 4K UHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/204306
+#EXTINF:-1,|PT| SPORT TV 1 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7214
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2330
+#EXTINF:-1,|PT| SPORT TV 2 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7215
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2331
+#EXTINF:-1,|PT| SPORT TV 3 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7216
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2332
+#EXTINF:-1,|PT| SPORT TV 4 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7217
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2333
+#EXTINF:-1,|PT| SPORT TV 5 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7218
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2334
+#EXTINF:-1,|PT| SPORT TV+ HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15703
+#EXTINF:-1,|PT| SPORT TV+
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15966
+#EXTINF:-1,|PT| SPORT TV NBA HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/151201
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62504
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62505
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62506
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62507
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/220856
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62508
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/220857
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62509
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62510
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62511
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/62512
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221265
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2363
+#EXTINF:-1,|PT| EUROSPORT 1
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15969
+#EXTINF:-1,|PT| EUROSPORT 2
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15696
+#EXTINF:-1,|PT| BTV 1 FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/21558
+#EXTINF:-1,|PT| BTV 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15694
+#EXTINF:-1,|PT| BTV 1
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78594
+#EXTINF:-1,|PT| BENFICA TV 1 HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2376
+#EXTINF:-1,|PT| BENFICA TV 1
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15967
+#EXTINF:-1,|PT| A BOLA TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15693
+#EXTINF:-1,|PT| PFC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15699
+#EXTINF:-1,|PT| SPORT TV NBA FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224737
+#EXTINF:-1,|PT| NBA TV FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224742
+#EXTINF:-1,|PT| NBA TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15700
+#EXTINF:-1,|PT| MOTORVISION
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15705
+#EXTINF:-1,|PT| CAÇAVISION
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15702
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/7213
+#EXTINF:-1,|PT| TOROS TV HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78595
+#EXTINF:-1,|PT| TOROS TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2327
+#EXTINF:-1,|PT| REAL MADRID
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2348
+#EXTINF:-1,|PT| SPORTING TV FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221599
+#EXTINF:-1,|PT| SPORTING TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15968
+#EXTINF:-1,|PT| MCS EXTREME
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15698
+#EXTINF:-1,|PT| FIGHT NETWORK FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24696
+#EXTINF:-1,•●★-----|PT| CULTURA |PT|----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15671
+#EXTINF:-1,|PT| NATIONAL GEO HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2355
+#EXTINF:-1,|PT| NATIONAL GEO
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78597
+#EXTINF:-1,|PT| NATIONAL GEO WILD FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224740
+#EXTINF:-1,|PT| NATIONAL GEO WILD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2354
+#EXTINF:-1,|PT| DISCOVERY CHANNEL FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221601
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2367
+#EXTINF:-1,|PT| ID INVESTIGATION DISCOVERY
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/171392
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15709
+#EXTINF:-1,|PT| CAÇA E PESCA FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15706
+#EXTINF:-1,|PT| CASA E PESCA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78602
+#EXTINF:-1,|PT| ODISSEIA FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221602
+#EXTINF:-1,|PT| ODISSEIA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2352
+#EXTINF:-1,|PT| HISTORIA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2374
+#EXTINF:-1,|PT| HISPASAT 4K
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/204305
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15710
+#EXTINF:-1,|PT| 24 KITCHEN
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78598
+#EXTINF:-1,|PT| TLC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15707
+#EXTINF:-1,|PT| A&E
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15708
+#EXTINF:-1,|PT| FUEL TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24697
+#EXTINF:-1,|PT| MY CUISINE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78600
+#EXTINF:-1,|PT| KURIAKOS TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78593
+#EXTINF:-1,|PT| FASHION TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78627
+#EXTINF:-1,|PT| DOG TV FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/221605
+#EXTINF:-1,•●★-----|PT| MÚSICA |PT|-----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15672
+#EXTINF:-1,|PT| TRACE URBAN
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15971
+#EXTINF:-1,|PT| TRACE TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15714
+#EXTINF:-1,|PT| TRACE TOCA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/25900
+#EXTINF:-1,|PT| MCM POP HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15713
+#EXTINF:-1,|PT| MCM POP
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78628
+#EXTINF:-1,|PT| VH1
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15715
+#EXTINF:-1,|PT| VH1 CLASSIC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15716
+#EXTINF:-1,|PT| C-MUSIC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15717
+#EXTINF:-1,|PT| AFRO MUSIC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15718
+#EXTINF:-1,|PT| MEZZO HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15719
+#EXTINF:-1,|PT| MTV BASE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24698
+#EXTINF:-1,|PT| MTV CLASSIC
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24700
+#EXTINF:-1,|PT| MTV DANCE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24699
+#EXTINF:-1,•●★----|PT| INFANTIL |PT|----★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15673
+#EXTINF:-1,|PT| DISNEY CHANNEL FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224744
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2366
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2365
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2372
+#EXTINF:-1,|PT| CANAL PANDA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2373
+#EXTINF:-1,|PT| PANDA BIGGS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2351
+#EXTINF:-1,|PT| BIGGS HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15720
+#EXTINF:-1,|PT| JIM JAM
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15721
+#EXTINF:-1,|PT| SIC K
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2339
+#EXTINF:-1,|PT| BABY TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2379
+#EXTINF:-1,|PT| NICK JR
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78608
+#EXTINF:-1,|PT| NICKELODEON FHD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/224743
+#EXTINF:-1,|PT| NICKELODEON
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2353
+#EXTINF:-1,•●★---|PT| INFORMAÇÃO |PT|---★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15674
+#EXTINF:-1,|PT| CMTV HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2368
+#EXTINF:-1,|PT| CMTV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15958
+#EXTINF:-1,|PT| TVI 24
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15897
+#EXTINF:-1,|PT| TVE 24H
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78626
+#EXTINF:-1,|PT| SIC NOTICIAS HD
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/2337
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15894
+#EXTINF:-1,|PT| ARTV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78613
+#EXTINF:-1,|PT| TV GALICIA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78614
+#EXTINF:-1,|PT| RECORD NEWS BR
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/24679
+#EXTINF:-1,|PT| TV5 MONDE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78624
+#EXTINF:-1,|PT| SKY NEWS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78625
+#EXTINF:-1,|PT| FRANCE 24 ENG
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78616
+#EXTINF:-1,|PT| FOX NEWS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78617
+#EXTINF:-1,|PT| EURONEWS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78621
+#EXTINF:-1,|PT| BBC ENTERTAINEMENT
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78619
+#EXTINF:-1,|PT| BBC NEWS
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78620
+#EXTINF:-1,|PT| BLOOMBREG
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78622
+#EXTINF:-1,|PT| CNBC EUROPE
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78618
+#EXTINF:-1,|PT| CNN
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78623
+#EXTINF:-1,•●★----|PT| RELIGIOSA |PT|---★●•
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/15676
+#EXTINF:-1,|PT| CANCAONOVA
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78604
+#EXTINF:-1,|PT| ANGELUS TV
+http://premium-ott.com:8000/Alex-Masslow/oqaLZ09g/78612

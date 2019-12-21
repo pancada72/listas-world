@@ -1,399 +1,439 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="|PT| RTP 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp1.png" group-title="PORTUGAL | OTT",|PT| RTP 1 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2345.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="|PT| RTP 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp1.png" group-title="PORTUGAL | OTT",|PT| RTP 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15888.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="|PT| RTP 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp2.png" group-title="PORTUGAL | OTT",|PT| RTP 2 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2346.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="|PT| RTP 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp2.png" group-title="PORTUGAL | OTT",|PT| RTP 2 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15889.m3u8
-#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="|PT| RTP 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp3.png" group-title="PORTUGAL | OTT",|PT| RTP 3 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224734.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="|PT| RTP 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtp3.png" group-title="PORTUGAL | OTT",|PT| RTP 3 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2347.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="|PT| SIC FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sic.png" group-title="PORTUGAL | OTT",|PT| SIC FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2340.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="|PT| SIC HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sic.png" group-title="PORTUGAL | OTT",|PT| SIC HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15890.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="|PT| TVI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvi.png" group-title="PORTUGAL | OTT",|PT| TVI FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2321.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="|PT| TVI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvi.png" group-title="PORTUGAL | OTT",|PT| TVI HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15891.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="|PT| SIC MULHER FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sicmulher.png" group-title="PORTUGAL | OTT",|PT| SIC MULHER FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/227965.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="|PT| SIC MULHER HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sicmulher.png" group-title="PORTUGAL | OTT",|PT| SIC MULHER HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2338.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="|PT| SIC RADICAL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sicradical.png" group-title="PORTUGAL | OTT",|PT| SIC RADICAL FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2336.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="|PT| SIC RADICAL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sicradical.png" group-title="PORTUGAL | OTT",|PT| SIC RADICAL HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15895.m3u8
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="|PT| SIC CARAS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/siccaras.png" group-title="PORTUGAL | OTT",|PT| SIC CARAS FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/21555.m3u8
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="|PT| SIC CARAS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/siccaras.png" group-title="PORTUGAL | OTT",|PT| SIC CARAS HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15658.m3u8
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="|PT| CANAL Q" tvg-logo="http://logo.premium-ott.com:8000/logo/canalq.png" group-title="PORTUGAL | OTT",|PT| CANAL Q
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15659.m3u8
-#EXTINF:-1 tvg-id="Porto.pt" tvg-name="|PT| PORTO CANAL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/porto.png" group-title="PORTUGAL | OTT",|PT| PORTO CANAL FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221598.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="|PT| PORTO CANAL" tvg-logo="http://logo.premium-ott.com:8000/logo/portocanal.png" group-title="PORTUGAL | OTT",|PT| PORTO CANAL
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2349.m3u8
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="|PT| RTP MEMORIA" tvg-logo="http://logo.premium-ott.com:8000/logo/rtpmemoria.png" group-title="PORTUGAL | OTT",|PT| RTP MEMORIA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2341.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="|PT| RTP AFRICA" tvg-logo="http://logo.premium-ott.com:8000/logo/rtpafrica.png" group-title="PORTUGAL | OTT",|PT| RTP AFRICA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15662.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="|PT| RTP MADEIRA" tvg-logo="http://logo.premium-ott.com:8000/logo/rtpmadeira.png" group-title="PORTUGAL | OTT",|PT| RTP MADEIRA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2342.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="|PT| RTP ACORES" tvg-logo="http://logo.premium-ott.com:8000/logo/rtpacores.png" group-title="PORTUGAL | OTT",|PT| RTP ACORES
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2344.m3u8
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="|PT| TV RECORD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvrecord.png" group-title="PORTUGAL | OTT",|PT| TV RECORD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★-----|PT| FILMES |PT|-----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★-----|PT| FILMES |PT|-----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15667.m3u8
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="|PT| TVCINE 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine1.png" group-title="PORTUGAL | OTT",|PT| TVCINE 1 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine1.png" group-title="PORTUGAL | OTT",|PT| TVCINE 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/21556.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="|PT| TVCINE 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine2.png" group-title="PORTUGAL | OTT",|PT| TVCINE 2 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2323.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="|PT| TVCINE 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine2.png" group-title="PORTUGAL | OTT",|PT| TVCINE 2 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15959.m3u8
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="|PT| TVCINE 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine3.png" group-title="PORTUGAL | OTT",|PT| TVCINE 3 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2324.m3u8
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="|PT| TVCINE 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine3.png" group-title="PORTUGAL | OTT",|PT| TVCINE 3 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15960.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="|PT| TVCINE 4 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine4.png" group-title="PORTUGAL | OTT",|PT| TVCINE 4 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2325.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="|PT| TVCINE 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvcine4.png" group-title="PORTUGAL | OTT",|PT| TVCINE 4 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15961.m3u8
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="http://logo.premium-ott.com:8000/logo/hollywood.png" group-title="PORTUGAL | OTT",|PT| HOLLYWOOD HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2357.m3u8
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="|PT| HOLLYWOOD" tvg-logo="http://logo.premium-ott.com:8000/logo/hollywood.png" group-title="PORTUGAL | OTT",|PT| HOLLYWOOD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AMC FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/amc.png" group-title="PORTUGAL | OTT",|PT| AMC FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/21557.m3u8
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="|PT| AMC" tvg-logo="http://logo.premium-ott.com:8000/logo/amc.png" group-title="PORTUGAL | OTT",|PT| AMC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15682.m3u8
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="|PT| FOX MOVIES" tvg-logo="http://logo.premium-ott.com:8000/logo/foxmovies.png" group-title="PORTUGAL | OTT",|PT| FOX MOVIES
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78592.m3u8
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="|PT| FOX MOVIES FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/foxmovie.png" group-title="PORTUGAL | OTT",|PT| FOX MOVIES FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CINEMUNDO FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/cinemundo.png" group-title="PORTUGAL | OTT",|PT| CINEMUNDO FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221263.m3u8
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="|PT| CINEMUNDO" tvg-logo="http://logo.premium-ott.com:8000/logo/cinemundo.png" group-title="PORTUGAL | OTT",|PT| CINEMUNDO
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★-----|PT| SERIES |PT|-----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★-----|PT| SERIES |PT|-----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15668.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="|PT| AXN HD" tvg-logo="http://logo.premium-ott.com:8000/logo/axn.png" group-title="PORTUGAL | OTT",|PT| AXN HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN" tvg-logo="http://logo.premium-ott.com:8000/logo/axn.png" group-title="PORTUGAL | OTT",|PT| AXN
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78588.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="|PT| AXN WHITE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/axnwhite.png" group-title="PORTUGAL | OTT",|PT| AXN WHITE HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2382.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="|PT| AXN WHITE" tvg-logo="http://logo.premium-ott.com:8000/logo/axnwhite.png" group-title="PORTUGAL | OTT",|PT| AXN WHITE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24695.m3u8
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="|PT| AXN BLACK HD" tvg-logo="http://logo.premium-ott.com:8000/logo/axnblack.png" group-title="PORTUGAL | OTT",|PT| AXN BLACK HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV PORTUGAL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mtv.png" group-title="PORTUGAL | OTT",|PT| MTV PORTUGAL FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224745.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="|PT| MTV PORTUGAL" tvg-logo="http://logo.premium-ott.com:8000/logo/mtv.png" group-title="PORTUGAL | OTT",|PT| MTV PORTUGAL
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15712.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="|PT| FOX HD" tvg-logo="http://logo.premium-ott.com:8000/logo/fox.png" group-title="PORTUGAL | OTT",|PT| FOX HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2359.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="|PT| FOX" tvg-logo="http://logo.premium-ott.com:8000/logo/fox.png" group-title="PORTUGAL | OTT",|PT| FOX
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78589.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="|PT| FOX LIFE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/foxlife.png" group-title="PORTUGAL | OTT",|PT| FOX LIFE HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2361.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="|PT| FOX LIFE" tvg-logo="http://logo.premium-ott.com:8000/logo/foxlife.png" group-title="PORTUGAL | OTT",|PT| FOX LIFE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78591.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="|PT| FOX CRIME HD" tvg-logo="http://logo.premium-ott.com:8000/logo/foxcrime.png" group-title="PORTUGAL | OTT",|PT| FOX CRIME HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15684.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="|PT| FOX CRIME" tvg-logo="http://logo.premium-ott.com:8000/logo/foxcrime.png" group-title="PORTUGAL | OTT",|PT| FOX CRIME
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78590.m3u8
-#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="|PT| FOX COMEDY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/foxcomedy.png" group-title="PORTUGAL | OTT",|PT| FOX COMEDY FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224738.m3u8
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="|PT| FOX COMEDY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/foxcomedy.png" group-title="PORTUGAL | OTT",|PT| FOX COMEDY HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15965.m3u8
-#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="|PT| TVSERIES HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvseries.png" group-title="PORTUGAL | OTT",|PT| TVSERIES HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2318.m3u8
-#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="|PT| TVSERIES" tvg-logo="http://logo.premium-ott.com:8000/logo/tvseries.png" group-title="PORTUGAL | OTT",|PT| TVSERIES
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15685.m3u8
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="|PT| E! ENTERTAINMENT" tvg-logo="http://logo.premium-ott.com:8000/logo/eentertainment.png" group-title="PORTUGAL | OTT",|PT| E! ENTERTAINMENT
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2364.m3u8
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="|PT| CBS REALITY" tvg-logo="http://logo.premium-ott.com:8000/logo/cbsreality.png" group-title="PORTUGAL | OTT",|PT| CBS REALITY
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2371.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="|PT| TVI FICCAO" tvg-logo="http://logo.premium-ott.com:8000/logo/tvificcao.png" group-title="PORTUGAL | OTT",|PT| TVI FICCAO
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2319.m3u8
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="|PT| CANÇAO NOVA" tvg-logo="http://logo.premium-ott.com:8000/logo/cancaonova.png" group-title="PORTUGAL | OTT",|PT| CANÇAO NOVA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MCS LIFESTYLE" tvg-logo="http://logo.premium-ott.com:8000/logo/mcslifestyle.png" group-title="PORTUGAL | OTT",|PT| MCS LIFESTYLE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15688.m3u8
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="|PT| SYFY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/syfy.png" group-title="PORTUGAL | OTT",|PT| SYFY HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2329.m3u8
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="|PT| SYFY" tvg-logo="http://logo.premium-ott.com:8000/logo/syfy.png" group-title="PORTUGAL | OTT",|PT| SYFY
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15964.m3u8
-#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="|PT| BBC ENTERTAINMENT" tvg-logo="http://logo.premium-ott.com:8000/logo/bbcentertainment.png" group-title="PORTUGAL | OTT",|PT| BBC ENTERTAINMENT
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15689.m3u8
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="|PT| TVI REALITY" tvg-logo="http://logo.premium-ott.com:8000/logo/tvireality.png" group-title="PORTUGAL | OTT",|PT| TVI REALITY
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15691.m3u8
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="|PT| ZAP VIVA HD" tvg-logo="http://logo.premium-ott.com:8000/logo/zapviva.png" group-title="PORTUGAL | OTT",|PT| ZAP VIVA HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/172420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BLAZE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/blaze.png" group-title="PORTUGAL | OTT",|PT| BLAZE FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BLAZE" tvg-logo="http://logo.premium-ott.com:8000/logo/blaze.png" group-title="PORTUGAL | OTT",|PT| BLAZE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| LUXE TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/luxetv.png" group-title="PORTUGAL | OTT",|PT| LUXE TV FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIO FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nosstudio.png" group-title="PORTUGAL | OTT",|PT| NOS STUDIO FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★----|PT| DESPORTO |PT|----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★----|PT| DESPORTO |PT|----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CANAL 11 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/canal11.png" group-title="PORTUGAL | OTT",|PT| CANAL 11 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/204304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 4K UHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv4k.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 4K UHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/204306.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv1.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 1 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7214.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv1.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2330.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT TV 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv2.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 2 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7215.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT TV 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv2.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 2 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2331.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="|PT| SPORT TV 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv3.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 3 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7216.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv3.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 3 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2332.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="|PT| SPORT TV 4 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv4.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 4 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7217.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="|PT| SPORT TV 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv4.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 4 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2333.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="|PT| SPORT TV 5 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv5.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 5 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7218.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="|PT| SPORT TV 5 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttv5.png" group-title="PORTUGAL | OTT",|PT| SPORT TV 5 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2334.m3u8
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="|PT| SPORT TV+ HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttvplus.png" group-title="PORTUGAL | OTT",|PT| SPORT TV+ HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15703.m3u8
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="|PT| SPORT TV+" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttvplus.png" group-title="PORTUGAL | OTT",|PT| SPORT TV+
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV NBA HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttvnba.png" group-title="PORTUGAL | OTT",|PT| SPORT TV NBA HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/151201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports1.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 1 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports1.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports2.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 2 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports2.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 2 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62507.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|PT| ELEVEN SPORTS 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports3.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 3 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/220856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports3.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 3 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62508.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|PT| ELEVEN SPORTS 4 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports4.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 4 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/220857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports4.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 4 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports5.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 5 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports5.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 5 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports6.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 6 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/62512.m3u8
-#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/elevensports6.png" group-title="PORTUGAL | OTT",|PT| ELEVEN SPORTS 6 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221265.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="|PT| EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="PORTUGAL | OTT",|PT| EUROSPORT 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2363.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="|PT| EUROSPORT 1" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="PORTUGAL | OTT",|PT| EUROSPORT 1
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15969.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="|PT| EUROSPORT 2" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="PORTUGAL | OTT",|PT| EUROSPORT 2
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/btv1.png" group-title="PORTUGAL | OTT",|PT| BTV 1 FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/21558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/btv1.png" group-title="PORTUGAL | OTT",|PT| BTV 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV 1" tvg-logo="http://logo.premium-ott.com:8000/logo/btv1.png" group-title="PORTUGAL | OTT",|PT| BTV 1
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78594.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="|PT| BENFICA TV 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/benficatv1.png" group-title="PORTUGAL | OTT",|PT| BENFICA TV 1 HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2376.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="|PT| BENFICA TV 1" tvg-logo="http://logo.premium-ott.com:8000/logo/benficatv1.png" group-title="PORTUGAL | OTT",|PT| BENFICA TV 1
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15967.m3u8
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="|PT| A BOLA TV" tvg-logo="http://logo.premium-ott.com:8000/logo/abolatv.png" group-title="PORTUGAL | OTT",|PT| A BOLA TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15693.m3u8
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="|PT| PFC" tvg-logo="http://logo.premium-ott.com:8000/logo/pfc.png" group-title="PORTUGAL | OTT",|PT| PFC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV NBA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sporttvnba.png" group-title="PORTUGAL | OTT",|PT| SPORT TV NBA FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NBA TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="PORTUGAL | OTT",|PT| NBA TV FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224742.m3u8
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="|PT| NBA TV" tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="PORTUGAL | OTT",|PT| NBA TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15700.m3u8
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="|PT| MOTORVISION" tvg-logo="http://logo.premium-ott.com:8000/logo/motorvision.png" group-title="PORTUGAL | OTT",|PT| MOTORVISION
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15705.m3u8
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="|PT| CAÇAVISION" tvg-logo="http://logo.premium-ott.com:8000/logo/cacavision.png" group-title="PORTUGAL | OTT",|PT| CAÇAVISION
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15702.m3u8
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="|PT| KOMBAT SPORT" tvg-logo="http://logo.premium-ott.com:8000/logo/kombatsport.png" group-title="PORTUGAL | OTT",|PT| KOMBAT SPORT
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/7213.m3u8
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="|PT| TOROS TV HD" tvg-logo="http://logo.premium-ott.com:8000/logo/torostv.png" group-title="PORTUGAL | OTT",|PT| TOROS TV HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78595.m3u8
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="|PT| TOROS TV" tvg-logo="http://logo.premium-ott.com:8000/logo/torostv.png" group-title="PORTUGAL | OTT",|PT| TOROS TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2327.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.pt" tvg-name="|PT| REAL MADRID" tvg-logo="http://logo.premium-ott.com:8000/logo/realmadrid.png" group-title="PORTUGAL | OTT",|PT| REAL MADRID
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2348.m3u8
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="|PT| SPORTING TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/sportingtv.png" group-title="PORTUGAL | OTT",|PT| SPORTING TV FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221599.m3u8
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="|PT| SPORTING TV" tvg-logo="http://logo.premium-ott.com:8000/logo/sportingtv.png" group-title="PORTUGAL | OTT",|PT| SPORTING TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15968.m3u8
-#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-name="|PT| MCS EXTREME" tvg-logo="http://logo.premium-ott.com:8000/logo/mcsextreme.png" group-title="PORTUGAL | OTT",|PT| MCS EXTREME
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FIGHT NETWORK FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/fightnetwork.png" group-title="PORTUGAL | OTT",|PT| FIGHT NETWORK FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★-----|PT| CULTURA |PT|----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★-----|PT| CULTURA |PT|----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15671.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="|PT| NATIONAL GEO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nationalgeo.png" group-title="PORTUGAL | OTT",|PT| NATIONAL GEO HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2355.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="|PT| NATIONAL GEO" tvg-logo="http://logo.premium-ott.com:8000/logo/nationalgeo.png" group-title="PORTUGAL | OTT",|PT| NATIONAL GEO
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NATIONAL GEO WILD FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/natgeowild.png" group-title="PORTUGAL | OTT",|PT| NATIONAL GEO WILD FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224740.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="|PT| NATIONAL GEO WILD" tvg-logo="http://logo.premium-ott.com:8000/logo/nationalgeowild.png" group-title="PORTUGAL | OTT",|PT| NATIONAL GEO WILD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2354.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="|PT| DISCOVERY CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoverychannel.png" group-title="PORTUGAL | OTT",|PT| DISCOVERY CHANNEL FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221601.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="http://logo.premium-ott.com:8000/logo/discoverychannel.png" group-title="PORTUGAL | OTT",|PT| DISCOVERY CHANNEL
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2367.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="|PT| ID INVESTIGATION DISCOVERY" tvg-logo="http://logo.premium-ott.com:8000/logo/investigationdiscovery.png" group-title="PORTUGAL | OTT",|PT| ID INVESTIGATION DISCOVERY
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/171392.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="|PT| TRAVEL CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/travelchannel.png" group-title="PORTUGAL | OTT",|PT| TRAVEL CHANNEL HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15709.m3u8
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="|PT| CAÇA E PESCA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/cacaepesca.png" group-title="PORTUGAL | OTT",|PT| CAÇA E PESCA FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15706.m3u8
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="|PT| CASA E PESCA" tvg-logo="http://logo.premium-ott.com:8000/logo/casaypesca.png" group-title="PORTUGAL | OTT",|PT| CASA E PESCA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78602.m3u8
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="|PT| ODISSEIA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/odisseia.png" group-title="PORTUGAL | OTT",|PT| ODISSEIA FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221602.m3u8
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="|PT| ODISSEIA" tvg-logo="http://logo.premium-ott.com:8000/logo/odisseia.png" group-title="PORTUGAL | OTT",|PT| ODISSEIA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2352.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="|PT| HISTORIA" tvg-logo="http://logo.premium-ott.com:8000/logo/historia.png" group-title="PORTUGAL | OTT",|PT| HISTORIA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| HISPASAT 4K" tvg-logo="http://logo.premium-ott.com:8000/logo/hispasat4k.png" group-title="PORTUGAL | OTT",|PT| HISPASAT 4K
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/204305.m3u8
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="|PT| 24 KITCHEN HD" tvg-logo="http://logo.premium-ott.com:8000/logo/24kitchen.png" group-title="PORTUGAL | OTT",|PT| 24 KITCHEN HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15710.m3u8
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="|PT| 24 KITCHEN" tvg-logo="http://logo.premium-ott.com:8000/logo/24kitchen.png" group-title="PORTUGAL | OTT",|PT| 24 KITCHEN
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78598.m3u8
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="|PT| TLC" tvg-logo="http://logo.premium-ott.com:8000/logo/tlc.png" group-title="PORTUGAL | OTT",|PT| TLC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15707.m3u8
-#EXTINF:-1 tvg-id="AandE.pt" tvg-name="|PT| A&E" tvg-logo="http://logo.premium-ott.com:8000/logo/aande.png" group-title="PORTUGAL | OTT",|PT| A&E
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15708.m3u8
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="|PT| FUEL TV" tvg-logo="http://logo.premium-ott.com:8000/logo/fueltv.png" group-title="PORTUGAL | OTT",|PT| FUEL TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MY CUISINE" tvg-logo="http://logo.premium-ott.com:8000/logo/mycuisine.png" group-title="PORTUGAL | OTT",|PT| MY CUISINE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78600.m3u8
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="|PT| KURIAKOS TV" tvg-logo="http://logo.premium-ott.com:8000/logo/kuriakostv.png" group-title="PORTUGAL | OTT",|PT| KURIAKOS TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FASHION TV" tvg-logo="http://logo.premium-ott.com:8000/logo/fashion.png" group-title="PORTUGAL | OTT",|PT| FASHION TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DOG TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/dog.png" group-title="PORTUGAL | OTT",|PT| DOG TV FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/221605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★-----|PT| MÚSICA |PT|-----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★-----|PT| MÚSICA |PT|-----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15672.m3u8
-#EXTINF:-1 tvg-id="TraceTV.pt" tvg-name="|PT| TRACE URBAN" tvg-logo="http://logo.premium-ott.com:8000/logo/tracetvurban.png" group-title="PORTUGAL | OTT",|PT| TRACE URBAN
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15971.m3u8
-#EXTINF:-1 tvg-id="TraceTV.pt" tvg-name="|PT| TRACE TV" tvg-logo="http://logo.premium-ott.com:8000/logo/tracetv.png" group-title="PORTUGAL | OTT",|PT| TRACE TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TRACE TOCA" tvg-logo="http://logo.premium-ott.com:8000/logo/tracetoca.png" group-title="PORTUGAL | OTT",|PT| TRACE TOCA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/25900.m3u8
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="|PT| MCM POP HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcmpop.png" group-title="PORTUGAL | OTT",|PT| MCM POP HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15713.m3u8
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="|PT| MCM POP" tvg-logo="http://logo.premium-ott.com:8000/logo/mcmpop.png" group-title="PORTUGAL | OTT",|PT| MCM POP
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78628.m3u8
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="|PT| VH1" tvg-logo="http://logo.premium-ott.com:8000/logo/vh1.png" group-title="PORTUGAL | OTT",|PT| VH1
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| VH1 CLASSIC" tvg-logo="http://logo.premium-ott.com:8000/logo/vh1classic.png" group-title="PORTUGAL | OTT",|PT| VH1 CLASSIC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15716.m3u8
-#EXTINF:-1 tvg-id="C-Music.pt" tvg-name="|PT| C-MUSIC" tvg-logo="http://logo.premium-ott.com:8000/logo/cmusic.png" group-title="PORTUGAL | OTT",|PT| C-MUSIC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15717.m3u8
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="|PT| AFRO MUSIC" tvg-logo="http://logo.premium-ott.com:8000/logo/afromusicpng" group-title="PORTUGAL | OTT",|PT| AFRO MUSIC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15718.m3u8
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="|PT| MEZZO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mezzo.png" group-title="PORTUGAL | OTT",|PT| MEZZO HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV BASE" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvbase.png" group-title="PORTUGAL | OTT",|PT| MTV BASE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV CLASSIC" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvclassic.png" group-title="PORTUGAL | OTT",|PT| MTV CLASSIC
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| MTV DANCE" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvdance.png" group-title="PORTUGAL | OTT",|PT| MTV DANCE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★----|PT| INFANTIL |PT|----★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★----|PT| INFANTIL |PT|----★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15673.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="|PT| DISNEY CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoverychannel.png" group-title="PORTUGAL | OTT",|PT| DISNEY CHANNEL FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224744.m3u8
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="PORTUGAL | OTT",|PT| DISNEY CHANNEL
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2366.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="PORTUGAL | OTT",|PT| DISNEY JUNIOR
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2365.m3u8
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="|PT| CARTOON NETWORK" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="PORTUGAL | OTT",|PT| CARTOON NETWORK
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2372.m3u8
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="|PT| CANAL PANDA" tvg-logo="http://logo.premium-ott.com:8000/logo/canalpanda.png" group-title="PORTUGAL | OTT",|PT| CANAL PANDA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2373.m3u8
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="|PT| PANDA BIGGS" tvg-logo="http://logo.premium-ott.com:8000/logo/pandabiggs.png" group-title="PORTUGAL | OTT",|PT| PANDA BIGGS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2351.m3u8
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="|PT| BIGGS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/biggs.png" group-title="PORTUGAL | OTT",|PT| BIGGS HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15720.m3u8
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="|PT| JIM JAM" tvg-logo="http://logo.premium-ott.com:8000/logo/jimjam.png" group-title="PORTUGAL | OTT",|PT| JIM JAM
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15721.m3u8
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="|PT| SIC K" tvg-logo="http://logo.premium-ott.com:8000/logo/sick.png" group-title="PORTUGAL | OTT",|PT| SIC K
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2339.m3u8
-#EXTINF:-1 tvg-id="BabyFirstTV.pt" tvg-name="|PT| BABY TV" tvg-logo="http://logo.premium-ott.com:8000/logo/babytv.png" group-title="PORTUGAL | OTT",|PT| BABY TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2379.m3u8
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="|PT| NICK JR" tvg-logo="http://logo.premium-ott.com:8000/logo/nickjrr.png" group-title="PORTUGAL | OTT",|PT| NICK JR
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NICKELODEON FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="PORTUGAL | OTT",|PT| NICKELODEON FHD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/224743.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="|PT| NICKELODEON" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="PORTUGAL | OTT",|PT| NICKELODEON
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★---|PT| INFORMAÇÃO |PT|---★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★---|PT| INFORMAÇÃO |PT|---★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15674.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="|PT| CMTV HD" tvg-logo="http://logo.premium-ott.com:8000/logo/cmtv.png" group-title="PORTUGAL | OTT",|PT| CMTV HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2368.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="|PT| CMTV" tvg-logo="http://logo.premium-ott.com:8000/logo/cmtv.png" group-title="PORTUGAL | OTT",|PT| CMTV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15958.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="|PT| TVI 24" tvg-logo="http://logo.premium-ott.com:8000/logo/tvi24.png" group-title="PORTUGAL | OTT",|PT| TVI 24
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15897.m3u8
-#EXTINF:-1 tvg-id="TVE24h.pt" tvg-name="|PT| TVE 24H" tvg-logo="http://logo.premium-ott.com:8000/logo/tve24h.png" group-title="PORTUGAL | OTT",|PT| TVE 24H
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78626.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/sicnoticias.png" group-title="PORTUGAL | OTT",|PT| SIC NOTICIAS HD
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/2337.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="|PT| SIC NOTICIAS" tvg-logo="http://logo.premium-ott.com:8000/logo/sicnoticias.png" group-title="PORTUGAL | OTT",|PT| SIC NOTICIAS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15894.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="|PT| ARTV" tvg-logo="http://logo.premium-ott.com:8000/logo/artv.png" group-title="PORTUGAL | OTT",|PT| ARTV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78613.m3u8
-#EXTINF:-1 tvg-id="TVGalicia.pt" tvg-name="|PT| TV GALICIA" tvg-logo="http://logo.premium-ott.com:8000/logo/tvgalicia.png" group-title="PORTUGAL | OTT",|PT| TV GALICIA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78614.m3u8
-#EXTINF:-1 tvg-id="RecordNews.pt" tvg-name="|PT| RECORD NEWS BR" tvg-logo="http://logo.premium-ott.com:8000/logo/recordnews.png" group-title="PORTUGAL | OTT",|PT| RECORD NEWS BR
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/24679.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="|PT| TV5 MONDE" tvg-logo="http://logo.premium-ott.com:8000/logo/tv5monde.png" group-title="PORTUGAL | OTT",|PT| TV5 MONDE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78624.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="|PT| SKY NEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/skynews.png" group-title="PORTUGAL | OTT",|PT| SKY NEWS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FRANCE 24 ENG" tvg-logo="http://logo.premium-ott.com:8000/logo/france24.png" group-title="PORTUGAL | OTT",|PT| FRANCE 24 ENG
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78616.m3u8
-#EXTINF:-1 tvg-id="FoxNews.pt" tvg-name="|PT| FOX NEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/foxnews.png" group-title="PORTUGAL | OTT",|PT| FOX NEWS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78617.m3u8
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="|PT| EURONEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="PORTUGAL | OTT",|PT| EURONEWS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BBC ENTERTAINEMENT" tvg-logo="http://logo.premium-ott.com:8000/logo/bbc.png" group-title="PORTUGAL | OTT",|PT| BBC ENTERTAINEMENT
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78619.m3u8
-#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="|PT| BBC NEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/bbcnews.png" group-title="PORTUGAL | OTT",|PT| BBC NEWS
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78620.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="|PT| BLOOMBREG" tvg-logo="http://logo.premium-ott.com:8000/logo/bloomberg.png" group-title="PORTUGAL | OTT",|PT| BLOOMBREG
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78622.m3u8
-#EXTINF:-1 tvg-id="CNBC.nws" tvg-name="|PT| CNBC EUROPE" tvg-logo="http://logo.premium-ott.com:8000/logo/cnbc.png" group-title="PORTUGAL | OTT",|PT| CNBC EUROPE
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78618.m3u8
-#EXTINF:-1 tvg-id="CNN.nws" tvg-name="|PT| CNN" tvg-logo="http://logo.premium-ott.com:8000/logo/cnn.png" group-title="PORTUGAL | OTT",|PT| CNN
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★----|PT| RELIGIOSA |PT|---★●•" tvg-logo="http://logo.premium-ott.com:8000/flags/pt.png" group-title="PORTUGAL | OTT",•●★----|PT| RELIGIOSA |PT|---★●•
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/15676.m3u8
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="|PT| CANCAONOVA" tvg-logo="http://logo.premium-ott.com:8000/logo/cancaonova.png" group-title="PORTUGAL | OTT",|PT| CANCAONOVA
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78604.m3u8
-#EXTINF:-1 tvg-id="AngelusTV.pt" tvg-name="|PT| ANGELUS TV" tvg-logo="http://logo.premium-ott.com:8000/logo/angelus.png" group-title="PORTUGAL | OTT",|PT| ANGELUS TV
-http://premium-ott.com:8000/live/Alex-Masslow/oqaLZ09g/78612.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://logos.switchtv.net/url/pt/rtp1.png" group-title="PORTUGUESA",RTP 1
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/1.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://logos.switchtv.net/url/pt/rtp2.png" group-title="PORTUGUESA",RTP 2
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/2.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://logos.switchtv.net/url/pt/sic.png" group-title="PORTUGUESA",SIC
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/3.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://logos.switchtv.net/url/pt/tvi.png" group-title="PORTUGUESA",TVI
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/4.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic_noticias.png" group-title="PORTUGUESA",SIC Noticias ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/5.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic_mulher.png" group-title="PORTUGUESA",SIC Mulher ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/6.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://logos.switchtv.net/url/pt/tvi_24.png" group-title="PORTUGUESA",TVI 24
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/7.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CM TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/cm_tv.png" group-title="PORTUGUESA",CM TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/8.m3u8
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic_caras.png" group-title="PORTUGUESA",SIC Caras ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/9.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic_radical.png" group-title="PORTUGUESA",SIC Radical ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/10.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://logos.switchtv.net/url/pt/tvi_ficcao.png" group-title="PORTUGUESA",TVI Ficção
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/11.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="http://logos.switchtv.net/url/pt/tvi_reality.png" group-title="PORTUGUESA",TVI Reality
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/12.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/porto_canal.png" group-title="PORTUGUESA",Porto Canal ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/13.m3u8
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/canal_11.png" group-title="PORTUGUESA",Canal 11 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/14.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_1.png" group-title="PORTUGUESA",Sport TV 1
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/15.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_2.png" group-title="PORTUGUESA",Sport TV 2
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/16.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_3.png" group-title="PORTUGUESA",Sport TV 3
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/17.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_4.png" group-title="PORTUGUESA",Sport TV 4
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/18.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_5.png" group-title="PORTUGUESA",Sport TV 5
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/19.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV +" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_mais.png" group-title="PORTUGUESA",Sport TV +
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/20.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_1_hd.png" group-title="PORTUGUESA",Sport TV 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/21.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_2_hd.png" group-title="PORTUGUESA",Sport TV 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/22.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_3_hd.png" group-title="PORTUGUESA",Sport TV 3 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/23.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_4_hd.png" group-title="PORTUGUESA",Sport TV 4 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/24.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_5_hd.png" group-title="PORTUGUESA",Sport TV 5 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/25.m3u8
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport TV NBA TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_nba_tv.png" group-title="PORTUGUESA",Sport TV NBA TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/26.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/27.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/28.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 3 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/29.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 4 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/30.m3u8
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 5 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/31.m3u8
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="Eleven Sports 6 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA",Eleven Sports 6 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/32.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV" tvg-logo="http://logos.switchtv.net/url/pt/btv1.png" group-title="PORTUGUESA",BTV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/33.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/btv_1_hd.png" group-title="PORTUGUESA",BTV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/34.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sporting_tv.png" group-title="PORTUGUESA",Sporting TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/35.m3u8
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic_k.png" group-title="PORTUGUESA",SIC K ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/36.m3u8
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs" tvg-logo="http://logos.switchtv.net/url/pt/biggs.png" group-title="PORTUGUESA",Biggs
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/37.m3u8
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam" tvg-logo="http://logos.switchtv.net/url/pt/jim_jam.png" group-title="PORTUGUESA",Jim Jam
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/38.m3u8
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="http://logos.switchtv.net/url/pt/canal_panda.png" group-title="PORTUGUESA",Canal Panda
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/39.m3u8
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV" tvg-logo="http://logos.switchtv.net/url/pt/baby_tv.png" group-title="PORTUGUESA",Baby TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/40.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior" tvg-logo="http://logos.switchtv.net/url/pt/disney_junior.png" group-title="PORTUGUESA",Disney Junior
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/41.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://logos.switchtv.net/url/pt/disney_channel.png" group-title="PORTUGUESA",Disney Channel
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/42.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="http://logos.switchtv.net/url/pt/nickelodeon.png" group-title="PORTUGUESA",Nickelodeon
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/43.m3u8
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr." tvg-logo="http://logos.switchtv.net/url/pt/nick_jr.png" group-title="PORTUGUESA",Nick Jr.
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/44.m3u8
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network" tvg-logo="http://logos.switchtv.net/url/pt/cartoon_network.png" group-title="PORTUGUESA",Cartoon Network
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://logos.switchtv.net/url/pt/boomerang.png" group-title="PORTUGUESA",Boomerang
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/46.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCine 1" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_1.png" group-title="PORTUGUESA",TVCine 1
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/47.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine 2" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_2.png" group-title="PORTUGUESA",TVCine 2
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/48.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine 3" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_3.png" group-title="PORTUGUESA",TVCine 3
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/49.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCine 4" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_4.png" group-title="PORTUGUESA",TVCine 4
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/50.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCine 1 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_1_hd.png" group-title="PORTUGUESA",TVCine 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/51.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine 2 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_2_hd.png" group-title="PORTUGUESA",TVCine 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/52.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine 3 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_3_hd.png" group-title="PORTUGUESA",TVCine 3 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/53.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCine 4 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_4_hd.png" group-title="PORTUGUESA",TVCine 4 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/54.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSeries ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvseries.png" group-title="PORTUGUESA",TVSeries ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/55.m3u8
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="http://logos.switchtv.net/url/pt/tlc.png" group-title="PORTUGUESA",TLC
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/56.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/axn_hd.png" group-title="PORTUGUESA",AXN ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/57.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/axn_white_hd.png" group-title="PORTUGUESA",AXN White ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/58.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/axn_black_hd.png" group-title="PORTUGUESA",AXN Black ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/59.m3u8
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/amc.png" group-title="PORTUGUESA",AMC ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/60.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fox_hd.png" group-title="PORTUGUESA",FOX ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/61.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fox_life_hd.png" group-title="PORTUGUESA",FOX Life ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/62.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fox_crime_hd.png" group-title="PORTUGUESA",FOX Crime ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/63.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fox_movies_hd.png" group-title="PORTUGUESA",FOX Movies ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/64.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fox_comedy_hd.png" group-title="PORTUGUESA",FOX Comedy ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/65.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/hollywood_hd.png" group-title="PORTUGUESA",Hollywood ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/66.m3u8
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/cinemundo.png" group-title="PORTUGUESA",Cinemundo ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/67.m3u8
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/nos_studios.png" group-title="PORTUGUESA",NOS Studios ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/68.m3u8
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="Syfy ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/syfy.png" group-title="PORTUGUESA",Syfy ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/69.m3u8
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="http://logos.switchtv.net/url/pt/canal_q.png" group-title="PORTUGUESA",Canal Q
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/70.m3u8
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/e_entertainment.png" group-title="PORTUGUESA",E! Entertainment ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/71.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/mtv.png" group-title="PORTUGUESA",MTV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/72.m3u8
+#EXTINF:-1 tvg-id="mtvlive.pt" tvg-name="MTV Live" tvg-logo="http://logos.switchtv.net/url/pt/mtv_live.png" group-title="PORTUGUESA",MTV Live
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/73.m3u8
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="http://logos.switchtv.net/url/pt/mtv_dance.png" group-title="PORTUGUESA",MTV Dance
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/74.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1" tvg-logo="http://logos.switchtv.net/url/pt/vh1.png" group-title="PORTUGUESA",VH1
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/75.m3u8
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="MCM Pop" tvg-logo="http://logos.switchtv.net/url/pt/mcm_pop.png" group-title="PORTUGUESA",MCM Pop
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/76.m3u8
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM Top" tvg-logo="http://logos.switchtv.net/url/pt/mcm_top.png" group-title="PORTUGUESA",MCM Top
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/77.m3u8
+#EXTINF:-1 tvg-id="IConcerts" tvg-name="iConcerts" tvg-logo="http://logos.switchtv.net/url/pt/iconcerts.png" group-title="PORTUGUESA",iConcerts
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/78.m3u8
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music" tvg-logo="http://logos.switchtv.net/url/pt/afro_music.png" group-title="PORTUGUESA",Afro Music
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/79.m3u8
+#EXTINF:-1 tvg-id="TraceTC.pt" tvg-name="Trace Toca" tvg-logo="http://logos.switchtv.net/url/pt/trace_toca.png" group-title="PORTUGUESA",Trace Toca
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/80.m3u8
+#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="http://logos.switchtv.net/url/pt/trace_urban.png" group-title="PORTUGUESA",Trace Urban
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/81.m3u8
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="Mezzo" tvg-logo="http://logos.switchtv.net/url/pt/mezzo.png" group-title="PORTUGUESA",Mezzo
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/82.m3u8
+#EXTINF:-1 tvg-id="c180.pt" tvg-name="Canal 180 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/canal_180.png" group-title="PORTUGUESA",Canal 180 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/83.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="http://logos.switchtv.net/url/pt/euronews.png" group-title="PORTUGUESA",Euronews
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/84.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eurosport_1_hd.png" group-title="PORTUGUESA",Eurosport 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/85.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eurosport_2.png" group-title="PORTUGUESA",Eurosport 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/86.m3u8
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="MotorVision TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/motorvision_tv.png" group-title="PORTUGUESA",MotorVision TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/87.m3u8
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fuel_tv_hd.png" group-title="PORTUGUESA",Fuel TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/88.m3u8
+#EXTINF:-1 tvg-id="Blaze" tvg-name="Blaze ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/blaze.png" group-title="PORTUGUESA",Blaze ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/89.m3u8
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog TV" tvg-logo="http://logos.switchtv.net/url/pt/dog_tv.png" group-title="PORTUGUESA",Dog TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/90.m3u8
+#EXTINF:-1 tvg-id="Splus.pt" tvg-name="S+ ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/s_mais.png" group-title="PORTUGUESA",S+ ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/91.m3u8
+#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/globo.png" group-title="PORTUGUESA",Globo ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/92.m3u8
+#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="Globo Now ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/br/globo_now.jpg" group-title="PORTUGUESA",Globo Now ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/93.m3u8
+#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="Eurochannel" tvg-logo="http://logos.switchtv.net/url/pt/eurochannel.png" group-title="PORTUGUESA",Eurochannel
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/94.m3u8
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="http://logos.switchtv.net/url/pt/cbs_reality.png" group-title="PORTUGUESA",CBS Reality
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/95.m3u8
+#EXTINF:-1 tvg-id="My Cuisine" tvg-name="My Cuisine" tvg-logo="http://logos.switchtv.net/url/pt/my_cuisine.png" group-title="PORTUGUESA",My Cuisine
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/96.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/24_kitchen_hd.png" group-title="PORTUGUESA",24 Kitchen ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/97.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/food_network.png" group-title="PORTUGUESA",Food Network ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/98.m3u8
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça & Pesca ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/caca_e_pesca.png" group-title="PORTUGUESA",Caça & Pesca ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/99.m3u8
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Caçavision" tvg-logo="http://logos.switchtv.net/url/pt/cacavision.png" group-title="PORTUGUESA",Caçavision
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/100.m3u8
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="http://logos.switchtv.net/url/pt/a_bola_tv.png" group-title="PORTUGUESA",A Bola TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/101.m3u8
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="http://logos.switchtv.net/url/pt/kombat_sport.png" group-title="PORTUGUESA",Kombat Sport
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/102.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/odisseia.png" group-title="PORTUGUESA",Odisseia ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/103.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime + Investigation" tvg-logo="http://logos.switchtv.net/url/pt/crime_mais_investigation.png" group-title="PORTUGUESA",Crime + Investigation
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/investigation_discovery.png" group-title="PORTUGUESA",Investigation Discovery ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/105.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/discovery_channel.png" group-title="PORTUGUESA",Discovery Channel ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/discovery_showcase_hd.png" group-title="PORTUGUESA",Discovery Showcase ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/107.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="Nat. Geographic ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/nat_geographic_channel_hd.png" group-title="PORTUGUESA",Nat. Geographic ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/108.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat. Geo Wild ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/nat_geo_wild_hd.png" group-title="PORTUGUESA",Nat. Geo Wild ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/109.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/travel_channel.png" group-title="PORTUGUESA",Travel Channel ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/110.m3u8
+#EXTINF:-1 tvg-id="FineLiving.pt" tvg-name="Fine Living ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/fine_living.png" group-title="PORTUGUESA",Fine Living ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/111.m3u8
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="http://logos.switchtv.net/url/pt/fashion_tv.png" group-title="PORTUGUESA",Fashion TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/112.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="http://logos.switchtv.net/url/pt/rtp3.png" group-title="PORTUGUESA",RTP 3
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/113.m3u8
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-name="RTP Internacional" tvg-logo="http://logos.switchtv.net/url/pt/rtp_internacional.png" group-title="PORTUGUESA",RTP Internacional
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/114.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://logos.switchtv.net/url/pt/rtp_madeira.png" group-title="PORTUGUESA",RTP Madeira
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/115.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://logos.switchtv.net/url/pt/rtp_acores.png" group-title="PORTUGUESA",RTP Açores
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/116.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="http://logos.switchtv.net/url/pt/rtp_africa.png" group-title="PORTUGUESA",RTP África
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/117.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="AR TV" tvg-logo="http://logos.switchtv.net/url/pt/ar_tv.png" group-title="PORTUGUESA",AR TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/118.m3u8
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisão TV" tvg-logo="http://logos.switchtv.net/url/pt/localvisao_tv.png" group-title="PORTUGUESA",Localvisão TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/119.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historiaᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/canal_historia.png" group-title="PORTUGUESA",Canal Historiaᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/120.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="http://logos.switchtv.net/url/pt/rtp_memoria.png" group-title="PORTUGUESA",RTP Memória
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/121.m3u8
+#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="Kuriakos TV ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/kuriakos_tv.png" group-title="PORTUGUESA",Kuriakos TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/122.m3u8
+#EXTINF:-1 tvg-id="TCVInternacional.pt" tvg-name="TCV Internacional" tvg-logo="http://logos.switchtv.net/url/pt/tcv_internacional.png" group-title="PORTUGUESA",TCV Internacional
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/123.m3u8
+#EXTINF:-1 tvg-id="IU.pt" tvg-name="IU TV" tvg-logo="http://logos.switchtv.net/url/pt/iu_tv.png" group-title="PORTUGUESA",IU TV
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/124.m3u8
+#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="ZAP Viva ᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/zap_viva.png" group-title="PORTUGUESA",ZAP Viva ᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/125.m3u8
+#EXTINF:-1 tvg-id="TPAInt.pt" tvg-name="TPA" tvg-logo="http://logos.switchtv.net/url/pt/tpa.png" group-title="PORTUGUESA",TPA
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/126.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/rtp1.png" group-title="PORTUGUESA F̲H̲D̲",RTP 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/127.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/rtp2.png" group-title="PORTUGUESA F̲H̲D̲",RTP 2 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/128.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sic.png" group-title="PORTUGUESA F̲H̲D̲",SIC ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/129.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/tvi.png" group-title="PORTUGUESA F̲H̲D̲",TVI ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/130.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_1_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/131.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_2_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV 2 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/132.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_3_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV 3 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/133.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_4_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV 4 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/134.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_5_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV 5 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/135.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV + ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_mais_hd.png" group-title="PORTUGUESA F̲H̲D̲",Sport TV + ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/136.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/137.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 2 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/138.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 3 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/139.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 4 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/140.m3u8
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 5 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/141.m3u8
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="Eleven Sports 6 ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA F̲H̲D̲",Eleven Sports 6 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/142.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV ᶠᴴᴰ" tvg-logo="http://logos.switchtv.net/url/pt/btv_1_hd.png" group-title="PORTUGUESA F̲H̲D̲",BTV ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/143.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/rtp1.png" group-title="PORTUGUESA L̲O̲W̲",RTP 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/145.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/rtp2.png" group-title="PORTUGUESA L̲O̲W̲",RTP 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/146.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic.png" group-title="PORTUGUESA L̲O̲W̲",SIC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/147.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvi.png" group-title="PORTUGUESA L̲O̲W̲",TVI ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/148.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic_noticias.png" group-title="PORTUGUESA L̲O̲W̲",SIC Noticias ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/149.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic_mulher.png" group-title="PORTUGUESA L̲O̲W̲",SIC Mulher ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/150.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvi_24.png" group-title="PORTUGUESA L̲O̲W̲",TVI 24 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/151.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CM TV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/cm_tv.png" group-title="PORTUGUESA L̲O̲W̲",CM TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/152.m3u8
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic_caras.png" group-title="PORTUGUESA L̲O̲W̲",SIC Caras ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/153.m3u8
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic_radical.png" group-title="PORTUGUESA L̲O̲W̲",SIC Radical ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/154.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvi_ficcao.png" group-title="PORTUGUESA L̲O̲W̲",TVI Ficção ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/155.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvi_reality.png" group-title="PORTUGUESA L̲O̲W̲",TVI Reality ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/156.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/porto_canal.png" group-title="PORTUGUESA L̲O̲W̲",Porto Canal ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/157.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_1.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/158.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_2.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/159.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_3.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/160.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_4.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV 4 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/161.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_5.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV 5 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/162.m3u8
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV + ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sport_tv_mais.png" group-title="PORTUGUESA L̲O̲W̲",Sport TV + ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/163.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="Eleven Sports 1 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/164.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="Eleven Sports 2 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/165.m3u8
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="Eleven Sports 3 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/166.m3u8
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="Eleven Sports 4 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 4 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/167.m3u8
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="Eleven Sports 5 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 5 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/168.m3u8
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="Eleven Sports 6 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eleven_sports.png" group-title="PORTUGUESA L̲O̲W̲",Eleven Sports 6 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/169.m3u8
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/btv1.png" group-title="PORTUGUESA L̲O̲W̲",BTV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/170.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sporting_tv.png" group-title="PORTUGUESA L̲O̲W̲",Sporting TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/171.m3u8
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/sic_k.png" group-title="PORTUGUESA L̲O̲W̲",SIC K ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/172.m3u8
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/biggs.png" group-title="PORTUGUESA L̲O̲W̲",Biggs ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/173.m3u8
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="Jim Jam ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/jim_jam.png" group-title="PORTUGUESA L̲O̲W̲",Jim Jam ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/174.m3u8
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/canal_panda.png" group-title="PORTUGUESA L̲O̲W̲",Canal Panda ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/175.m3u8
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/baby_tv.png" group-title="PORTUGUESA L̲O̲W̲",Baby TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/176.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/disney_junior.png" group-title="PORTUGUESA L̲O̲W̲",Disney Junior ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/177.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/disney_channel.png" group-title="PORTUGUESA L̲O̲W̲",Disney Channel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/178.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/nickelodeon.png" group-title="PORTUGUESA L̲O̲W̲",Nickelodeon ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/179.m3u8
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/cartoon_network.png" group-title="PORTUGUESA L̲O̲W̲",Cartoon Network ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/180.m3u8
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCine 1 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_1.png" group-title="PORTUGUESA L̲O̲W̲",TVCine 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/181.m3u8
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine 2 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_2.png" group-title="PORTUGUESA L̲O̲W̲",TVCine 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/182.m3u8
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine 3 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_3.png" group-title="PORTUGUESA L̲O̲W̲",TVCine 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/183.m3u8
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCine 4 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvcine_4.png" group-title="PORTUGUESA L̲O̲W̲",TVCine 4 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/184.m3u8
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVSeries ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tvseries.png" group-title="PORTUGUESA L̲O̲W̲",TVSeries ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/185.m3u8
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/tlc.png" group-title="PORTUGUESA L̲O̲W̲",TLC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/186.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/axn_hd.png" group-title="PORTUGUESA L̲O̲W̲",AXN ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/187.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/axn_white_hd.png" group-title="PORTUGUESA L̲O̲W̲",AXN White ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/188.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/axn_black_hd.png" group-title="PORTUGUESA L̲O̲W̲",AXN Black ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/189.m3u8
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/amc.png" group-title="PORTUGUESA L̲O̲W̲",AMC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/190.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/fox_hd.png" group-title="PORTUGUESA L̲O̲W̲",FOX ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/191.m3u8
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/fox_life_hd.png" group-title="PORTUGUESA L̲O̲W̲",FOX Life ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/192.m3u8
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/fox_crime_hd.png" group-title="PORTUGUESA L̲O̲W̲",FOX Crime ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/193.m3u8
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/fox_movies_hd.png" group-title="PORTUGUESA L̲O̲W̲",FOX Movies ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/194.m3u8
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/fox_comedy_hd.png" group-title="PORTUGUESA L̲O̲W̲",FOX Comedy ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/195.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/hollywood_hd.png" group-title="PORTUGUESA L̲O̲W̲",Hollywood ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/196.m3u8
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/cinemundo.png" group-title="PORTUGUESA L̲O̲W̲",Cinemundo ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/197.m3u8
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/syfy.png" group-title="PORTUGUESA L̲O̲W̲",SyFy ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/198.m3u8
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/canal_q.png" group-title="PORTUGUESA L̲O̲W̲",Canal Q ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/199.m3u8
+#EXTINF:-1 tvg-id="TraceTC.pt" tvg-name="Trace Toca ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/trace_toca.png" group-title="PORTUGUESA L̲O̲W̲",Trace Toca ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/200.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eurosport_1_hd.png" group-title="PORTUGUESA L̲O̲W̲",Eurosport 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/201.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eurosport_2.png" group-title="PORTUGUESA L̲O̲W̲",Eurosport 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/202.m3u8
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision TV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/motorvision_tv.png" group-title="PORTUGUESA L̲O̲W̲",Motorvision TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/203.m3u8
+#EXTINF:-1 tvg-id="Blaze" tvg-name="Blaze ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/blaze.png" group-title="PORTUGUESA L̲O̲W̲",Blaze ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/eurochannel.png" group-title="PORTUGUESA L̲O̲W̲",Eurochannel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/br/globo_pt.jpg" group-title="PORTUGUESA L̲O̲W̲",Globo ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Now ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/br/globo_now.jpg" group-title="PORTUGUESA L̲O̲W̲",Globo Now ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/207.m3u8
+#EXTINF:-1 tvg-id="My Cuisine" tvg-name="My Cuisine ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/my_cuisine.png" group-title="PORTUGUESA L̲O̲W̲",My Cuisine ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/208.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/24_kitchen_hd.png" group-title="PORTUGUESA L̲O̲W̲",24 Kitchen ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/209.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="Food Network ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/food_network.png" group-title="PORTUGUESA L̲O̲W̲",Food Network ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/210.m3u8
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça & Pesca ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/caca_e_pesca.png" group-title="PORTUGUESA L̲O̲W̲",Caça & Pesca ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/211.m3u8
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/a_bola_tv.png" group-title="PORTUGUESA L̲O̲W̲",A Bola TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/212.m3u8
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/kombat_sport.png" group-title="PORTUGUESA L̲O̲W̲",Kombat Sport ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/213.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/odisseia.png" group-title="PORTUGUESA L̲O̲W̲",Odisseia ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/214.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/discovery_channel.png" group-title="PORTUGUESA L̲O̲W̲",Discovery Channel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/215.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="Nat. Geographic ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/nat_geographic_channel_hd.png" group-title="PORTUGUESA L̲O̲W̲",Nat. Geographic ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/216.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3 ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/rtp3.png" group-title="PORTUGUESA L̲O̲W̲",RTP 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/217.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/rtp_madeira.png" group-title="PORTUGUESA L̲O̲W̲",RTP Madeira ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/218.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/rtp_acores.png" group-title="PORTUGUESA L̲O̲W̲",RTP Açores ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/219.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Canal Historia ᴸᴼᵂ" tvg-logo="http://logos.switchtv.net/url/pt/canal_historia.png" group-title="PORTUGUESA L̲O̲W̲",Canal Historia ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/ricardocosta/LwdjVrbRiY/220.m3u8

@@ -1,408 +1,71 @@
 #EXTM3U
-
-#EXTINF:-1 ,RTP 1 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13692
-#EXTINF:-1 ,RTP 1 [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13691
-#EXTINF:-1 ,RTP 1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13693
-#EXTINF:-1 ,RTP 2 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13689
-#EXTINF:-1 ,RTP 2 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13688
-#EXTINF:-1 ,RTP 2
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13690
-#EXTINF:-1 ,SIC [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13679
-#EXTINF:-1 ,SIC [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13678
-#EXTINF:-1 ,SIC
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13681
-#EXTINF:-1 ,TVI [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13620
-#EXTINF:-1 ,TVI [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13618
-#EXTINF:-1 ,TVI
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13622
-#EXTINF:-1 ,TVI REALITY
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13617
-#EXTINF:-1 ,LOCALVISAO TV [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13718
-#EXTINF:-1 ,PORTO CANAL [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13695
-#EXTINF:-1 ,PORTO CANAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13696
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13825
-#EXTINF:-1 ,RTP AFRICA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13684
-#EXTINF:-1 ,RTP MADEIRA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13683
-#EXTINF:-1 ,RTP ACORES
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13685
-#EXTINF:-1 ,RTP 3
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13687
-#EXTINF:-1 ,TVI 24
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13621
-#EXTINF:-1 ,SIC NOTICIAS [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13673
-#EXTINF:-1 ,SIC NOTICIAS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13674
-#EXTINF:-1 ,CMTV [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13778
-#EXTINF:-1 ,CMTV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13779
-#EXTINF:-1 ,AR TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13811
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13829
-#EXTINF:-1 ,RTP MEMORIA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13682
-#EXTINF:-1 ,SIC RADICAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13672
-#EXTINF:-1 ,SIC MULHER [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13675
-#EXTINF:-1 ,SIC MULHER
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13676
-#EXTINF:-1 ,SIC CARAS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13680
-#EXTINF:-1 ,TVI FICCAO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13619
-#EXTINF:-1 ,TLC
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13648
-#EXTINF:-1 ,BLAZE TV [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13796
-#EXTINF:-1 ,BLAZE TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13797
-#EXTINF:-1 ,E! ENTERTAINMENT
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13770
-#EXTINF:-1 ,MY CUISINE
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13711
-#EXTINF:-1 ,FOOD NETWORK
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13744
-#EXTINF:-1 ,FINE LIVING NETWORK
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13745
-#EXTINF:-1 ,24 KITCHEN  [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13817
-#EXTINF:-1 ,MTV PORTUGAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13712
-#EXTINF:-1 ,CANAL Q
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13785
-#EXTINF:-1 ,FATIMA TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13747
-#EXTINF:-1 ,CANCAO NOVA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13784
-#EXTINF:-1 ,LUXE TV HD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13717
-#EXTINF:-1 ,FASHION TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13748
-#EXTINF:-1 ,DOG TV [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13771
-#EXTINF:-1 ,CBS REALITY
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13782
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13824
-#EXTINF:-1 ,NOS STUDIO [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13705
-#EXTINF:-1 ,NOS STUDIOS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13703
-#EXTINF:-1 ,TVCINE TOP [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13635
-#EXTINF:-1 ,TVCINE TOP [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13634
-#EXTINF:-1 ,TVCINE TOP
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13636
-#EXTINF:-1 ,TVCINE EDITION [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13632
-#EXTINF:-1 ,TVCINE EDITION [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13631
-#EXTINF:-1 ,TVCINE EDITION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13633
-#EXTINF:-1 ,TVCINE EMOTION [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13629
-#EXTINF:-1 ,TVCINE EMOTION [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13628
-#EXTINF:-1 ,TVCINE EMOTION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13630
-#EXTINF:-1 ,TVCINE ACTION [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13626
-#EXTINF:-1 ,TVCINE ACTION [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13625
-#EXTINF:-1 ,TVCINE ACTION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13627
-#EXTINF:-1 ,HOLLYWOOD [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13724
-#EXTINF:-1 ,HOLLYWOOD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13725
-#EXTINF:-1 ,CINEMUNDO [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13780
-#EXTINF:-1 ,CINEMUNDO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13781
-#EXTINF:-1 ,TV SERIES [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13639
-#EXTINF:-1 ,TV SERIES
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13640
-#EXTINF:-1 ,SYFY
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13650
-#EXTINF:-1 ,FOX MOVIES [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13732
-#EXTINF:-1 ,FOX MOVIES
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13733
-#EXTINF:-1 ,FOX LIFE [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13734
-#EXTINF:-1 ,FOX LIFE
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13735
-#EXTINF:-1 ,FOX [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13737
-#EXTINF:-1 ,FOX [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13736
-#EXTINF:-1 ,FOX
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13743
-#EXTINF:-1 ,FOX COMEDY [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13741
-#EXTINF:-1 ,FOX COMEDY
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13742
-#EXTINF:-1 ,FOX CRIME [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13739
-#EXTINF:-1 ,FOX CRIME [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13738
-#EXTINF:-1 ,FOX CRIME
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13740
-#EXTINF:-1 ,AXN WHITE [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13803
-#EXTINF:-1 ,AXN WHITE [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13802
-#EXTINF:-1 ,AXN WHITE
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13804
-#EXTINF:-1 ,AXN [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13806
-#EXTINF:-1 ,AXN [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13805
-#EXTINF:-1 ,AXN
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13810
-#EXTINF:-1 ,AXN BLACK [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13808
-#EXTINF:-1 ,AXN BLACK
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13809
-#EXTINF:-1 ,AMC [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13813
-#EXTINF:-1 ,AMC [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13812
-#EXTINF:-1 ,AMC
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13814
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/18214
-#EXTINF:-1 ,NETFLIX 1 [FHD] EXCLUSIVO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/18211
-#EXTINF:-1 ,NETFLIX 2 [FHD] EXCLUSIVO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/18212
-#EXTINF:-1 ,HBO [HD] EXLUSIVO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/18215
-#EXTINF:-1 ,MARVEL TELEVISION [FHD] EXCLUSIVO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/18213
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13823
-#EXTINF:-1 ,CACA E PESCA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13790
-#EXTINF:-1 ,CACAVISION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13791
-#EXTINF:-1 ,TRAVEL CHANNEL HD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13643
-#EXTINF:-1 ,OUTDOOR CHANNEL FHD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13698
-#EXTINF:-1 ,ODISSEIA [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13701
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13709
-#EXTINF:-1 ,NAT GEO WILD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13710
-#EXTINF:-1 ,ID INVESTIGATION DISCOVERY [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13722
-#EXTINF:-1 ,ODISSEIA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13702
-#EXTINF:-1 ,HISTORIA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13726
-#EXTINF:-1 ,DISCOVERY CHANNEL [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13774
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13775
-#EXTINF:-1 ,CRIME INVESTIGATION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13776
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13822
-#EXTINF:-1 ,A BOLA TV [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13816
-#EXTINF:-1 ,CANAL 11 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13788
-#EXTINF:-1 ,CANAL 11 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13787
-#EXTINF:-1 ,CANAL 11
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13789
-#EXTINF:-1 ,BTV 1  [ FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13792
-#EXTINF:-1 ,BTV 1 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/16927
-#EXTINF:-1 ,BTV 1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13794
-#EXTINF:-1 ,SPORT TV + [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13668
-#EXTINF:-1 ,SPORT TV +
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13669
-#EXTINF:-1 ,SPORT TV 1 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13666
-#EXTINF:-1 ,SPORT TV 1 [HD H265]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/14026
-#EXTINF:-1 ,SPORT TV 1 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13665
-#EXTINF:-1 ,SPORT TV 1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13667
-#EXTINF:-1 ,SPORT TV 2 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13663
-#EXTINF:-1 ,SPORT TV 2 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13662
-#EXTINF:-1 ,SPORT TV 2
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13664
-#EXTINF:-1 ,SPORT TV 3 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13660
-#EXTINF:-1 ,SPORT TV 3 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13659
-#EXTINF:-1 ,SPORT TV 3
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13661
-#EXTINF:-1 ,SPORT TV 4 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13657
-#EXTINF:-1 ,SPORT TV 4
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13658
-#EXTINF:-1 ,SPORT TV 5 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13655
-#EXTINF:-1 ,SPORT TV 5
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13656
-#EXTINF:-1 ,SPORT TV NBA [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13654
-#EXTINF:-1 ,ELEVEN SPORTS 1 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13756
-#EXTINF:-1 ,ELEVEN SPORT 1 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13769
-#EXTINF:-1 ,ELEVEN SPORT 1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/19520
-#EXTINF:-1 ,ELEVEN SPORTS 2 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13755
-#EXTINF:-1 ,ELEVEN SPORT 2 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13767
-#EXTINF:-1 ,ELEVEN SPORT 2
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/19521
-#EXTINF:-1 ,ELEVEN SPORT 3 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13765
-#EXTINF:-1 ,ELEVEN SPORTS 4 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13754
-#EXTINF:-1 ,ELEVEN SPORT 4 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13763
-#EXTINF:-1 ,ELEVEN SPORTS 5 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13753
-#EXTINF:-1 ,ELEVEN SPORT [5 HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13761
-#EXTINF:-1 ,ELEVEN SPORTS 6 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13752
-#EXTINF:-1 ,ELEVEN SPORT 6 [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13759
-#EXTINF:-1 ,SPORTING TV [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13652
-#EXTINF:-1 ,SPORTING TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13653
-#EXTINF:-1 ,REAL MADRID
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13694
-#EXTINF:-1 ,EUROSPORT 1 [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13750
-#EXTINF:-1 ,EUROSPORT 1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13751
-#EXTINF:-1 ,EUROSPORT 2
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13749
-#EXTINF:-1 ,FIGHT NETWORK [FHD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13746
-#EXTINF:-1 ,TOROS TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13647
-#EXTINF:-1 ,PFC
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13697
-#EXTINF:-1 ,FUEL TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13730
-#EXTINF:-1 ,KOMBAT SPORT
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13720
-#EXTINF:-1 ,MOTORVISION
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/11959
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13827
-#EXTINF:-1 ,CARTOON NETWORK
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13783
-#EXTINF:-1 ,DISNEY CHANNEL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13773
-#EXTINF:-1 ,NICKELODEON
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13706
-#EXTINF:-1 ,NICK JR.
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13707
-#EXTINF:-1 ,DISNEY JUNIOR
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13772
-#EXTINF:-1 ,BABY TV
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13801
-#EXTINF:-1 ,BIGGS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13798
-#EXTINF:-1 ,CANAL PANDA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13786
-#EXTINF:-1 ,KURIAKOS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13719
-#EXTINF:-1 ,JIM JAM
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13721
-#EXTINF:-1 ,BLOOMBERG
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13795
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13830
-#EXTINF:-1 ,VH1
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13616
-#EXTINF:-1 ,TRACE URBAN
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13644
-#EXTINF:-1 ,TRACE TOCA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13645
-#EXTINF:-1 ,TRACE MIZIKI
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13699
-#EXTINF:-1 ,TRACE TROPICAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13700
-#EXTINF:-1 ,MEZZO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13714
-#EXTINF:-1 ,MCM POP
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13715
-#EXTINF:-1 ,AFRO MUSIC
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13815
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13831
-#EXTINF:-1 ,TPA INTERNACIONAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13646
-#EXTINF:-1 ,ZAP VIVA [HD]
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13615
-#EXTINF:-1 ,Eurochannel
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13819
-#EXTINF:-1 ,CNN
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13777
-#EXTINF:-1 ,BBC WORLD NEWS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13799
-#EXTINF:-1 ,BBC ENTERTAINMENT
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13800
-#EXTINF:-1 ,TVE INTERNACIONAL
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13623
-#EXTINF:-1 ,TVE 24h
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13624
-#EXTINF:-1 ,TV5 MONDE
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13637
-#EXTINF:-1 ,TV RECORD
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13641
-#EXTINF:-1 ,TV GALICIA
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13642
-#EXTINF:-1 ,SKY NEWS
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13670
-#EXTINF:-1 ,M6
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13716
-#EXTINF:-1 ,GLOBO NOW
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13728
-#EXTINF:-1 ,GLOBO
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13729
-#EXTINF:-1 ,FRANCE_24
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13731
-#EXTINF:-1 ,#
-http://primeview.dynu.com:8000/Joseluis/gfGsH3kjeh/13828
+#EXTINF:0,RTP 1
+http://77.54.145.209:81/play/a02w
+#EXTINF:0,RTP 2
+http://77.54.145.209:81/play/a02x
+#EXTINF:0,SIC
+http://77.54.145.209:81/play/a01f
+#EXTINF:0,TVI
+http://77.54.145.209:81/play/a01g
+#EXTINF:0,SIC Noticias
+http://77.54.145.209:81/play/a030
+#EXTINF:0,RTP 3
+http://77.54.145.209:81/play/a02y
+#EXTINF:0,TVI 24
+http://77.54.145.209:81/play/a02m
+#EXTINF:0,CMTV
+http://77.54.145.209:81/play/a00o
+#EXTINF:0,Porto Canal
+http://77.54.145.209:81/play/a003
+#EXTINF:0,Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:0,Sport TV 2
+http://77.54.145.209:81/play/a02j
+#EXTINF:0,Sport TV 3
+http://77.54.145.209:81/play/a02n
+#EXTINF:0,Sport TV 4
+http://77.54.145.209:81/play/a02o
+#EXTINF:0,BTV 
+http://77.54.145.209:81/play/a032
+#EXTINF:0,Canal 11 HD
+http://77.54.145.209:81/play/a03l
+#EXTINF:0,Sporting TV
+http://77.54.145.209:81/play/a02e
+#EXTINF:0,Disney Channel
+http://77.54.145.209:81/play/a01q
+#EXTINF:0,Canal Panda
+http://77.54.145.209:81/play/a031
+#EXTINF:0,Hollywood
+http://77.54.145.209:81/play/a02q
+#EXTINF:0,AMC
+http://77.54.145.209:81/play/a01t
+#EXTINF:0,FOX Movies
+http://77.54.145.209:81/play/a01y
+#EXTINF:0,Discovery Channel
+http://77.54.145.209:81/play/a02t
+#EXTINF:0,Odisseia
+http://77.54.145.209:81/play/a02u
+#EXTINF:0,Canal Historia
+http://77.54.145.209:81/play/a02s
+#EXTINF:0,Eleven Sports 2
+http://77.54.145.209:81/play/a03d
+#EXTINF:0,Eleven Sports 3
+http://77.54.145.209:81/play/a00m
+#EXTINF:0,Eleven Sports 4
+http://77.54.145.209:81/play/a01a
+#EXTINF:0,BTV Mobile
+http://77.54.145.209:81/play/a002
+#EXTINF:0,Eleven Sports 1
+http://77.54.145.209:81/play/a00a
+#EXTINF:0,Eleven Sports 1 Mobile
+http://77.54.145.209:81/play/a00c
+#EXTINF:0,Eleven Sports 2 Mobile
+http://77.54.145.209:81/play/a00b
+#EXTINF:0,Sport TV 1 Mobile
+http://77.54.145.209:81/play/a001
+#EXTINF:0,Sport TV 2 Mobile
+http://77.54.145.209:81/play/a004
+#EXTINF:0,Sport TV 3 Mobile
+http://77.54.145.209:81/play/a005
+#EXTINF:0,Sport TV 4 Mobile
+http://77.54.145.209:81/play/a006

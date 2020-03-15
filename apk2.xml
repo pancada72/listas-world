@@ -1,491 +1,329 @@
 #EXTM3U
 #EXTINF:0,PT: CANAL 11 FHD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/56067
 #EXTINF:0,PT: MTV PORTUGAL
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4295
 #EXTINF:0,PT: Cacavision
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/17491
 #EXTINF:0,PT: SPORT TV 2 HD(1)
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/159
 #EXTINF:0,PT:SPORT TV 1 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/160
 #EXTINF:0,PT: VH1 CLASSIC
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4293
 #EXTINF:0,PT: VH1
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3945
 #EXTINF:0,PT: TVI Reality (A Quinta)
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3946
 #EXTINF:0,PT: TVI REALITY
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3974
 #EXTINF:0,PT: TVI 24
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3947
 #EXTINF:0,PT: TVI
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3948
 #EXTINF:0,PT: TVCseries
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3949
 #EXTINF:0,PT: TVC HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4294
 #EXTINF:0,PT: TV RECORD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3950
 #EXTINF:0,PT: TV Globo Premium
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3951
 #EXTINF:0,PT: TV GLOBO
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3952
 #EXTINF:0,PT: TV CINE 4
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3990
 #EXTINF:0,PT: TV CINE 3 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3989
 #EXTINF:0,PT: TV CINE 2  HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3988
 #EXTINF:0,PT: TV CINE 1  HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3987
 #EXTINF:0,PT: TOUROS TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3953
 #EXTINF:0,PT: TLC
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3954
 #EXTINF:0,PT: SYFY
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3933
 #EXTINF:0,PT: SPORTING TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3991
 #EXTINF:0,PT: SPORT TV 5HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/2496
 #EXTINF:0,PT: SPORT TV 5
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3997
 #EXTINF:0,PT: SPORT TV 4HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/2495
 #EXTINF:0,PT: SPORT TV 4
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3995
 #EXTINF:0,PT: SPORT TV 3 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3994
 #EXTINF:0,PT: SPORT TV 2 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3993
 #EXTINF:0,PT: SPORT TV 1 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3992
 #EXTINF:0,PT: SIC RADICAL
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3934
 #EXTINF:0,PT: SIC NOTICIAS
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3935
 #EXTINF:0,PT: SIC MULHER
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3955
 #EXTINF:0,PT: Sic
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3998
 #EXTINF:0,PT: RTP MEM
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3956
-#EXTINF:0,PT: RTP #EXTVLCOPT:network-caching=1000
+#EXTINF:0,PT: RTP 
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3957
 #EXTINF:0,PT: RTP Açores
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3958
 #EXTINF:0,PT: RTP 3
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3986
 #EXTINF:0,PT: RTP 2
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3999
 #EXTINF:0,PT: RTP 1
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4000
 #EXTINF:0,PT: PORTO CANAL
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3936
 #EXTINF:0,PT: PFC
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3959
 #EXTINF:0,PT: ODISSEIA
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3960
 #EXTINF:0,PT: NICKELODEON
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3961
 #EXTINF:0,PT: Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3962
 #EXTINF:0,PT: NATIONAL GEOGRAPHIC
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3963
 #EXTINF:0,PT: Mtv Portuga
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3941
 #EXTINF:0,PT: MOV HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4001
 #EXTINF:0,PT: MOTORVISION TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/934
 #EXTINF:0,PT: MOTORVISION
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4296
 #EXTINF:0,PT: MOTORS TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3964
 #EXTINF:0,PT: JIM JAM
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4297
 #EXTINF:0,PT: HOLLYWOOD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3937
 #EXTINF:0,PT: GLOBO
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4298
 #EXTINF:0,PT: FUEL TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4299
 #EXTINF:0,PT: FOX TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3938
 #EXTINF:0,PT: FOX MOVIES
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3996
 #EXTINF:0,PT: FOX LIFE
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3939
 #EXTINF:0,PT: FOX CRIME
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3940
 #EXTINF:0,PT: Fox Comedy
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3965
 #EXTINF:0,PT: EUROSPORT
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3942
 #EXTINF:0,PT: E! Entertainment
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3966
 #EXTINF:0,PT: DISNEY JUNIOR
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3967
 #EXTINF:0,PT: DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3968
 #EXTINF:0,PT: Discovery HD Showcase
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3969
 #EXTINF:0,PT: DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3970
 #EXTINF:0,PT: CM TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3971
 #EXTINF:0,PT: CINEMUNDO
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3972
 #EXTINF:0,PT: CBS REALITY
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4300
 #EXTINF:0,PT: CARTOON  NETWORK
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4301
 #EXTINF:0,PT: CANAL Q
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3975
 #EXTINF:0,PT: CANAL PANDA
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3976
 #EXTINF:0,PT: CANAL HIST
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3977
-#EXTINF:0,PT: CA#EXTVLCOPT:network-caching=1000
+#EXTINF:0,PT: CA
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3978
 #EXTINF:0,PT: BENFICA TV 2
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3943
 #EXTINF:0,PT: BENFICA TV 1
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3944
 #EXTINF:0,PT: BABY TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3979
 #EXTINF:0,PT: AXN WHITE
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3984
 #EXTINF:0,PT: AXN
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3985
 #EXTINF:0,PT: AMC
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3980
 #EXTINF:0,PT: A BOLA TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3981
 #EXTINF:0,PT: A & E
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3982
 #EXTINF:0,PT: 24 KITCHEN
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/3983
 #EXTINF:0,PT:  Historia
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4302
 #EXTINF:0,PT:  Fox Crime
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/4303
 #EXTINF:0,PT: AMC HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7034
 #EXTINF:0,PT: AXN BLACK HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7031
 #EXTINF:0,PT: AXN HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7033
 #EXTINF:0,PT: AXN WHITE HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7032
 #EXTINF:0,PT: BTV 1 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7039
 #EXTINF:0,PT: EUROSPORT 1 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7047
 #EXTINF:0,PT: FOX Comedy HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7027
 #EXTINF:0,PT: FOX CRIME HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7028
 #EXTINF:0,PT: FOX HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7030
 #EXTINF:0,PT: FOX LIFE HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7029
 #EXTINF:0,PT: FUEL TV HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7045
 #EXTINF:0,PT: SIC NOTICIAS HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7053
 #EXTINF:0,PT: SIC RADICAL HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7052
 #EXTINF:0,PT: SPORT TV+
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7050
 #EXTINF:0,PT: SPORT TV+  HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7051
 #EXTINF:0,PT: SPORT TV 1 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7049
 #EXTINF:0,PT: SPORT TV 2 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7043
 #EXTINF:0,PT: SPORT TV 3 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7042
 #EXTINF:0,PT: SPORT TV 4 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7041
 #EXTINF:0,PT: SPORT TV 5 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7040
 #EXTINF:0,PT: Sporting TV FHD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7048
 #EXTINF:0,PT: SyFy HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7026
 #EXTINF:0,PT: TVCINE 1 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7038
 #EXTINF:0,PT: TVCINE 2 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7037
 #EXTINF:0,PT: TVCINE 3 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7036
 #EXTINF:0,PT: TVCINE 4 HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7035
 #EXTINF:0,PT: Eurosport new
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/28
 #EXTINF:0,PT: DISCOVERY HD 1080 SHOWCASE
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7722
 #EXTINF:0,PT: FASHION TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7720
 #EXTINF:0,PT: Fine Living Network HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7719
 #EXTINF:0,PT: FOX Movies HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7726
 #EXTINF:0,PT: HOLLYWOOD HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7728
 #EXTINF:0,PT: MOV HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7729
 #EXTINF:0,PT: Nat Geo Wild HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7723
 #EXTINF:0,PT: NATIONAL GEOGRAPHIC HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7724
 #EXTINF:0,PT: SPORT TV  HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7731
 #EXTINF:0,PT: SUNDANCE SD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7727
 #EXTINF:0,PT: TRAVEL CHANNEL HD 1080
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/7725
 #EXTINF:0,PT: Panda Biggs
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/8526
 #EXTINF:0,PT: RTP MADEIRA
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/6622
 #EXTINF:0,PT: TVI Fic
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16144
 #EXTINF:0,PT: TVI FHD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16181
 #EXTINF:0,PT: Benfica TV 1 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16731
 #EXTINF:0,PT: Sport TV  backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16742
 #EXTINF:0,PT: Baby First
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/19204
 #EXTINF:0,PT: CLUBBING TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/19203
 #EXTINF:0,PT: DOG TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/19198
 #EXTINF:0,PT: EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/19205
 #EXTINF:0,PT: TV GALICIA
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/19197
 #EXTINF:0,PT: Sport TV 1 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16741
 #EXTINF:0,PT: Sport TV 1 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16740
 #EXTINF:0,PT: Sport TV 2 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16739
 #EXTINF:0,PT: Sport TV 2 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16738
 #EXTINF:0,PT: Sport TV 3 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16737
 #EXTINF:0,PT: Sport TV 3 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16736
 #EXTINF:0,PT: Sport TV 4 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16735
 #EXTINF:0,PT: Sport TV 4 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16734
 #EXTINF:0,PT: Sport TV 5 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16733
 #EXTINF:0,PT: Sport TV 5 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/16732
 #EXTINF:0,PT: ARTV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/17079
 #EXTINF:0,PT: SPORT TV 3HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/158
 #EXTINF:0,PT: Eurosport 1
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/27
 #EXTINF:0,PT: Abola TV
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/26868
 #EXTINF:0,PT: SportTV 4 4K
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/26935
 #EXTINF:0,PT: RTP 1 FHD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/27162
 #EXTINF:0,PT: ELEVEN SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29089
 #EXTINF:0,PT: ELEVEN SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29088
 #EXTINF:0,PT: ELEVEN SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29087
 #EXTINF:0,PT: ELEVEN SPORTS 4 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29086
 #EXTINF:0,PT: ELEVEN SPORTS 5 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29085
 #EXTINF:0,PT: ELEVEN SPORTS 6 HD
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29084
 #EXTINF:0,PT: Eleven Sports 1 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29125
 #EXTINF:0,PT: Eleven Sports 2 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29124
 #EXTINF:0,PT: Eleven Sports 3 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29123
 #EXTINF:0,PT: Eleven Sports 4 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29122
 #EXTINF:0,PT: Eleven Sports 5 backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29121
 #EXTINF:0,PT: Eleven Sports 6 HD backup
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/29120
 #EXTINF:0,PT: SIC Caras
-#EXTVLCOPT:network-caching=1000
 http://iptv-line.com:7899/tw0c4BIOYF_mac/QxqTzsfKM4/31557

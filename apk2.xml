@@ -1,438 +1,431 @@
 #EXTM3U
-
-#EXTINF:-1 ,RTP 1
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/1
-#EXTINF:-1 ,RTP 2
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/2
-#EXTINF:-1 ,SIC
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/3
-#EXTINF:-1 ,TVI
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/4
-#EXTINF:-1 ,SIC Noticias ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/5
-#EXTINF:-1 ,SIC Mulher ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/6
-#EXTINF:-1 ,TVI 24
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/7
-#EXTINF:-1 ,CM TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/8
-#EXTINF:-1 ,SIC Caras ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/9
-#EXTINF:-1 ,SIC Radical ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/10
-#EXTINF:-1 ,TVI Ficção
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/11
-#EXTINF:-1 ,TVI Reality
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/12
-#EXTINF:-1 ,Porto Canal ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/13
-#EXTINF:-1 ,Canal 11 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/14
-#EXTINF:-1 ,Sport TV 1
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/15
-#EXTINF:-1 ,Sport TV 2
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/16
-#EXTINF:-1 ,Sport TV 3
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/17
-#EXTINF:-1 ,Sport TV 4
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/18
-#EXTINF:-1 ,Sport TV 5
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/19
-#EXTINF:-1 ,Sport TV +
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/20
-#EXTINF:-1 ,Sport TV 1 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/21
-#EXTINF:-1 ,Sport TV 2 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/22
-#EXTINF:-1 ,Sport TV 3 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/23
-#EXTINF:-1 ,Sport TV 4 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/24
-#EXTINF:-1 ,Sport TV 5 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/25
-#EXTINF:-1 ,Sport TV NBA TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/26
-#EXTINF:-1 ,Eleven Sports 1 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/27
-#EXTINF:-1 ,Eleven Sports 2 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/28
-#EXTINF:-1 ,Eleven Sports 3 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/29
-#EXTINF:-1 ,Eleven Sports 4 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/30
-#EXTINF:-1 ,Eleven Sports 5 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/31
-#EXTINF:-1 ,Eleven Sports 6 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/32
-#EXTINF:-1 ,BTV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/33
-#EXTINF:-1 ,BTV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/34
-#EXTINF:-1 ,Sporting TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/35
-#EXTINF:-1 ,SIC K ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/36
-#EXTINF:-1 ,Biggs
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/37
-#EXTINF:-1 ,Jim Jam
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/38
-#EXTINF:-1 ,Canal Panda
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/39
-#EXTINF:-1 ,Baby TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/40
-#EXTINF:-1 ,Disney Junior
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/41
-#EXTINF:-1 ,Disney Channel
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/42
-#EXTINF:-1 ,Nickelodeon
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/43
-#EXTINF:-1 ,Nick Jr.
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/44
-#EXTINF:-1 ,Cartoon Network
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/45
-#EXTINF:-1 ,Boomerang
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/46
-#EXTINF:-1 ,TVCine TOP
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/47
-#EXTINF:-1 ,TVCine EDITION
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/48
-#EXTINF:-1 ,TVCine EMOTION
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/49
-#EXTINF:-1 ,TVCine ACTION
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/50
-#EXTINF:-1 ,TVCine TOP ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/51
-#EXTINF:-1 ,TVCine EDITION ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/52
-#EXTINF:-1 ,TVCine EMOTION ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/53
-#EXTINF:-1 ,TVCine ACTION ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/54
-#EXTINF:-1 ,TVSeries ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/55
-#EXTINF:-1 ,TLC
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/56
-#EXTINF:-1 ,AXN ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/57
-#EXTINF:-1 ,AXN White ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/58
-#EXTINF:-1 ,AXN Movies ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/59
-#EXTINF:-1 ,AMC ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/60
-#EXTINF:-1 ,FOX ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/61
-#EXTINF:-1 ,FOX Life ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/62
-#EXTINF:-1 ,FOX Crime ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/63
-#EXTINF:-1 ,FOX Movies ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/64
-#EXTINF:-1 ,FOX Comedy ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/65
-#EXTINF:-1 ,Hollywood ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/66
-#EXTINF:-1 ,Cinemundo ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/67
-#EXTINF:-1 ,NOS Studios ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/68
-#EXTINF:-1 ,Syfy ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/69
-#EXTINF:-1 ,Canal Q
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/70
-#EXTINF:-1 ,E! Entertainment ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/71
-#EXTINF:-1 ,MTV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/72
-#EXTINF:-1 ,MTV Live
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/73
-#EXTINF:-1 ,MTV Dance
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/74
-#EXTINF:-1 ,VH1
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/75
-#EXTINF:-1 ,MCM Pop
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/76
-#EXTINF:-1 ,MCM Top
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/77
-#EXTINF:-1 ,iConcerts
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/78
-#EXTINF:-1 ,Afro Music
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/79
-#EXTINF:-1 ,Trace Toca
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/80
-#EXTINF:-1 ,Trace Urban
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/81
-#EXTINF:-1 ,Mezzo
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/82
-#EXTINF:-1 ,Canal 180 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/83
-#EXTINF:-1 ,Euronews
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/84
-#EXTINF:-1 ,Eurosport 1 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/85
-#EXTINF:-1 ,Eurosport 2 ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/86
-#EXTINF:-1 ,MotorVision TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/87
-#EXTINF:-1 ,Fuel TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/88
-#EXTINF:-1 ,Blaze ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/89
-#EXTINF:-1 ,Dog TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/90
-#EXTINF:-1 ,S+ ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/91
-#EXTINF:-1 ,Globo ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/92
-#EXTINF:-1 ,Globo Now ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/93
-#EXTINF:-1 ,Eurochannel
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/94
-#EXTINF:-1 ,CBS Reality
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/95
-#EXTINF:-1 ,My Cuisine
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/96
-#EXTINF:-1 ,24 Kitchen ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/97
-#EXTINF:-1 ,Food Network ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/98
-#EXTINF:-1 ,Caça & Pesca ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/99
-#EXTINF:-1 ,Caçavision
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/100
-#EXTINF:-1 ,A Bola TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/101
-#EXTINF:-1 ,Kombat Sport
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/102
-#EXTINF:-1 ,Odisseia ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/103
-#EXTINF:-1 ,Crime + Investigation
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/104
-#EXTINF:-1 ,Investigation Discovery ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/105
-#EXTINF:-1 ,Discovery Channel ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/106
-#EXTINF:-1 ,Discovery Showcase ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/107
-#EXTINF:-1 ,Nat. Geographic ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/108
-#EXTINF:-1 ,Nat. Geo Wild ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/109
-#EXTINF:-1 ,Travel Channel ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/110
-#EXTINF:-1 ,Fine Living ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/111
-#EXTINF:-1 ,Fashion TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/112
-#EXTINF:-1 ,RTP 3
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/113
-#EXTINF:-1 ,RTP Internacional
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/114
-#EXTINF:-1 ,RTP Madeira
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/115
-#EXTINF:-1 ,RTP Açores
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/116
-#EXTINF:-1 ,RTP África
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/117
-#EXTINF:-1 ,AR TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/118
-#EXTINF:-1 ,Localvisão TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/119
-#EXTINF:-1 ,Canal Historia ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/120
-#EXTINF:-1 ,RTP Memória
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/121
-#EXTINF:-1 ,Kuriakos TV ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/122
-#EXTINF:-1 ,TCV Internacional
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/123
-#EXTINF:-1 ,IU TV
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/124
-#EXTINF:-1 ,ZAP Viva ᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/125
-#EXTINF:-1 ,TPA
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/126
-#EXTINF:-1 ,RTP 1 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/127
-#EXTINF:-1 ,RTP 2 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/128
-#EXTINF:-1 ,SIC ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/129
-#EXTINF:-1 ,TVI ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/130
-#EXTINF:-1 ,Sport TV 1 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/131
-#EXTINF:-1 ,Sport TV 2 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/132
-#EXTINF:-1 ,Sport TV 3 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/133
-#EXTINF:-1 ,Sport TV 4 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/134
-#EXTINF:-1 ,Sport TV 5 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/135
-#EXTINF:-1 ,Sport TV + ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/136
-#EXTINF:-1 ,Eleven Sports 1 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/137
-#EXTINF:-1 ,Eleven Sports 2 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/138
-#EXTINF:-1 ,Eleven Sports 4 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/140
-#EXTINF:-1 ,Eleven Sports 5 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/141
-#EXTINF:-1 ,Eleven Sports 6 ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/142
-#EXTINF:-1 ,BTV ᶠᴴᴰ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/143
-#EXTINF:-1 ,RTP 1 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/145
-#EXTINF:-1 ,RTP 2 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/146
-#EXTINF:-1 ,SIC ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/147
-#EXTINF:-1 ,TVI ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/148
-#EXTINF:-1 ,SIC Noticias ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/149
-#EXTINF:-1 ,SIC Mulher ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/150
-#EXTINF:-1 ,TVI 24 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/151
-#EXTINF:-1 ,CM TV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/152
-#EXTINF:-1 ,SIC Caras ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/153
-#EXTINF:-1 ,SIC Radical ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/154
-#EXTINF:-1 ,TVI Ficção ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/155
-#EXTINF:-1 ,TVI Reality ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/156
-#EXTINF:-1 ,Porto Canal ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/157
-#EXTINF:-1 ,Sport TV 1 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/158
-#EXTINF:-1 ,Sport TV 2 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/159
-#EXTINF:-1 ,Sport TV 3 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/160
-#EXTINF:-1 ,Sport TV 4 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/161
-#EXTINF:-1 ,Sport TV 5 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/162
-#EXTINF:-1 ,Sport TV + ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/163
-#EXTINF:-1 ,Eleven Sports 1 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/164
-#EXTINF:-1 ,Eleven Sports 2 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/165
-#EXTINF:-1 ,Eleven Sports 3 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/166
-#EXTINF:-1 ,Eleven Sports 4 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/167
-#EXTINF:-1 ,Eleven Sports 5 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/168
-#EXTINF:-1 ,Eleven Sports 6 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/169
-#EXTINF:-1 ,BTV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/170
-#EXTINF:-1 ,Sporting TV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/171
-#EXTINF:-1 ,SIC K ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/172
-#EXTINF:-1 ,Biggs ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/173
-#EXTINF:-1 ,Jim Jam ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/174
-#EXTINF:-1 ,Canal Panda ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/175
-#EXTINF:-1 ,Baby TV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/176
-#EXTINF:-1 ,Disney Junior ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/177
-#EXTINF:-1 ,Disney Channel ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/178
-#EXTINF:-1 ,Nickelodeon ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/179
-#EXTINF:-1 ,Cartoon Network ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/180
-#EXTINF:-1 ,TVCine TOP ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/181
-#EXTINF:-1 ,TVCine EDITION ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/182
-#EXTINF:-1 ,TVCine EMOTION ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/183
-#EXTINF:-1 ,TVCine ACTION ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/184
-#EXTINF:-1 ,TVSeries ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/185
-#EXTINF:-1 ,TLC ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/186
-#EXTINF:-1 ,AXN ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/187
-#EXTINF:-1 ,AXN White ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/188
-#EXTINF:-1 ,AXN Movies ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/189
-#EXTINF:-1 ,AMC ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/190
-#EXTINF:-1 ,FOX ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/191
-#EXTINF:-1 ,FOX Life ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/192
-#EXTINF:-1 ,FOX Crime ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/193
-#EXTINF:-1 ,FOX Movies ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/194
-#EXTINF:-1 ,FOX Comedy ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/195
-#EXTINF:-1 ,Hollywood ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/196
-#EXTINF:-1 ,Cinemundo ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/197
-#EXTINF:-1 ,SyFy ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/198
-#EXTINF:-1 ,Canal Q ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/199
-#EXTINF:-1 ,Trace Toca ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/200
-#EXTINF:-1 ,Eurosport 1 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/201
-#EXTINF:-1 ,Eurosport 2 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/202
-#EXTINF:-1 ,Motorvision TV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/203
-#EXTINF:-1 ,Blaze ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/204
-#EXTINF:-1 ,Eurochannel ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/205
-#EXTINF:-1 ,Globo ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/206
-#EXTINF:-1 ,Globo Now ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/207
-#EXTINF:-1 ,My Cuisine ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/208
-#EXTINF:-1 ,24 Kitchen ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/209
-#EXTINF:-1 ,Food Network ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/210
-#EXTINF:-1 ,Caça & Pesca ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/211
-#EXTINF:-1 ,A Bola TV ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/212
-#EXTINF:-1 ,Kombat Sport ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/213
-#EXTINF:-1 ,Odisseia ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/214
-#EXTINF:-1 ,Discovery Channel ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/215
-#EXTINF:-1 ,Nat. Geographic ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/216
-#EXTINF:-1 ,RTP 3 ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/217
-#EXTINF:-1 ,RTP Madeira ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/218
-#EXTINF:-1 ,RTP Açores ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/219
-#EXTINF:-1 ,Canal Historia ᴸᴼᵂ
-http://tv.iptvpw.xyz:8080/MiguelTabaorda/vWTq7jtHRZ/220
+#EXTINF:-1,RTP 1
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/1.m3u8
+#EXTINF:-1,RTP 2
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/2.m3u8
+#EXTINF:-1,SIC
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/3.m3u8
+#EXTINF:-1,TVI
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/4.m3u8
+#EXTINF:-1,SIC Noticias ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/5.m3u8
+#EXTINF:-1,SIC Mulher ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/6.m3u8
+#EXTINF:-1,TVI 24
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/7.m3u8
+#EXTINF:-1,CM TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/8.m3u8
+#EXTINF:-1,SIC Caras ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/9.m3u8
+#EXTINF:-1,SIC Radical ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/10.m3u8
+#EXTINF:-1,TVI Ficção
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/11.m3u8
+#EXTINF:-1,TVI Reality
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/12.m3u8
+#EXTINF:-1,Porto Canal ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/13.m3u8
+#EXTINF:-1,Canal 11 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/14.m3u8
+#EXTINF:-1,Sport TV 1
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/15.m3u8
+#EXTINF:-1,Sport TV 2
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/16.m3u8
+#EXTINF:-1,Sport TV 3
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/17.m3u8
+#EXTINF:-1,Sport TV 4
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/18.m3u8
+#EXTINF:-1,Sport TV 5
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/19.m3u8
+#EXTINF:-1,Sport TV +
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/20.m3u8
+#EXTINF:-1,Sport TV 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/21.m3u8
+#EXTINF:-1,Sport TV 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/22.m3u8
+#EXTINF:-1,Sport TV 3 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/23.m3u8
+#EXTINF:-1,Sport TV 4 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/24.m3u8
+#EXTINF:-1,Sport TV 5 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/25.m3u8
+#EXTINF:-1,Sport TV NBA TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/26.m3u8
+#EXTINF:-1,Eleven Sports 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/27.m3u8
+#EXTINF:-1,Eleven Sports 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/28.m3u8
+#EXTINF:-1,Eleven Sports 3 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/29.m3u8
+#EXTINF:-1,Eleven Sports 4 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/30.m3u8
+#EXTINF:-1,Eleven Sports 5 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/31.m3u8
+#EXTINF:-1,Eleven Sports 6 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/32.m3u8
+#EXTINF:-1,BTV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/33.m3u8
+#EXTINF:-1,BTV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/34.m3u8
+#EXTINF:-1,Sporting TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/35.m3u8
+#EXTINF:-1,SIC K ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/36.m3u8
+#EXTINF:-1,Biggs
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/37.m3u8
+#EXTINF:-1,Jim Jam
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/38.m3u8
+#EXTINF:-1,Canal Panda
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/39.m3u8
+#EXTINF:-1,Baby TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/40.m3u8
+#EXTINF:-1,Disney Junior
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/41.m3u8
+#EXTINF:-1,Disney Channel
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/42.m3u8
+#EXTINF:-1,Nickelodeon
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/43.m3u8
+#EXTINF:-1,Nick Jr.
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/44.m3u8
+#EXTINF:-1,Cartoon Network
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/45.m3u8
+#EXTINF:-1,Boomerang
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/46.m3u8
+#EXTINF:-1,TVCine TOP
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/47.m3u8
+#EXTINF:-1,TVCine EDITION
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/48.m3u8
+#EXTINF:-1,TVCine EMOTION
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/49.m3u8
+#EXTINF:-1,TVCine ACTION
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/50.m3u8
+#EXTINF:-1,TVCine TOP ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/51.m3u8
+#EXTINF:-1,TVCine EDITION ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/52.m3u8
+#EXTINF:-1,TVCine EMOTION ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/53.m3u8
+#EXTINF:-1,TVCine ACTION ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/54.m3u8
+#EXTINF:-1,TLC
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/56.m3u8
+#EXTINF:-1,AXN ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/57.m3u8
+#EXTINF:-1,AXN White ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/58.m3u8
+#EXTINF:-1,AXN Movies ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/59.m3u8
+#EXTINF:-1,AMC ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/60.m3u8
+#EXTINF:-1,FOX ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/61.m3u8
+#EXTINF:-1,FOX Life ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/62.m3u8
+#EXTINF:-1,FOX Crime ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/63.m3u8
+#EXTINF:-1,FOX Movies ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/64.m3u8
+#EXTINF:-1,FOX Comedy ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/65.m3u8
+#EXTINF:-1,Hollywood ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/66.m3u8
+#EXTINF:-1,Cinemundo ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/67.m3u8
+#EXTINF:-1,NOS Studios ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/68.m3u8
+#EXTINF:-1,Syfy ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/69.m3u8
+#EXTINF:-1,Canal Q
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/70.m3u8
+#EXTINF:-1,E! Entertainment ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/71.m3u8
+#EXTINF:-1,MTV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/72.m3u8
+#EXTINF:-1,MTV Live
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/73.m3u8
+#EXTINF:-1,MTV Dance
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/74.m3u8
+#EXTINF:-1,VH1
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/75.m3u8
+#EXTINF:-1,MCM Pop
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/76.m3u8
+#EXTINF:-1,MCM Top
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/77.m3u8
+#EXTINF:-1,iConcerts
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/78.m3u8
+#EXTINF:-1,Afro Music
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/79.m3u8
+#EXTINF:-1,Trace Toca
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/80.m3u8
+#EXTINF:-1,Trace Urban
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/81.m3u8
+#EXTINF:-1,Mezzo
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/82.m3u8
+#EXTINF:-1,Euronews
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/84.m3u8
+#EXTINF:-1,Eurosport 1 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/85.m3u8
+#EXTINF:-1,Eurosport 2 ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/86.m3u8
+#EXTINF:-1,MotorVision TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/87.m3u8
+#EXTINF:-1,Fuel TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/88.m3u8
+#EXTINF:-1,Blaze ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/89.m3u8
+#EXTINF:-1,Dog TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/90.m3u8
+#EXTINF:-1,S+ ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/91.m3u8
+#EXTINF:-1,Globo ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/92.m3u8
+#EXTINF:-1,Globo Now ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/93.m3u8
+#EXTINF:-1,Eurochannel
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/94.m3u8
+#EXTINF:-1,CBS Reality
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/95.m3u8
+#EXTINF:-1,My Cuisine
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/96.m3u8
+#EXTINF:-1,24 Kitchen ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/97.m3u8
+#EXTINF:-1,Food Network ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/98.m3u8
+#EXTINF:-1,Caça & Pesca ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/99.m3u8
+#EXTINF:-1,Caçavision
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/100.m3u8
+#EXTINF:-1,A Bola TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/101.m3u8
+#EXTINF:-1,Kombat Sport
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/102.m3u8
+#EXTINF:-1,Odisseia ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/103.m3u8
+#EXTINF:-1,Crime + Investigation
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/104.m3u8
+#EXTINF:-1,Investigation Discovery ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/105.m3u8
+#EXTINF:-1,Discovery Channel ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/106.m3u8
+#EXTINF:-1,Nat. Geographic ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/108.m3u8
+#EXTINF:-1,Nat. Geo Wild ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/109.m3u8
+#EXTINF:-1,Travel Channel ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/110.m3u8
+#EXTINF:-1,Fine Living ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/111.m3u8
+#EXTINF:-1,Fashion TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/112.m3u8
+#EXTINF:-1,RTP 3
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/113.m3u8
+#EXTINF:-1,RTP Internacional
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/114.m3u8
+#EXTINF:-1,RTP Madeira
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/115.m3u8
+#EXTINF:-1,RTP Açores
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/116.m3u8
+#EXTINF:-1,RTP África
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/117.m3u8
+#EXTINF:-1,AR TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/118.m3u8
+#EXTINF:-1,Localvisão TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/119.m3u8
+#EXTINF:-1,Canal Historia ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/120.m3u8
+#EXTINF:-1,RTP Memória
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/121.m3u8
+#EXTINF:-1,Kuriakos TV ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/122.m3u8
+#EXTINF:-1,TCV Internacional
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/123.m3u8
+#EXTINF:-1,IU TV
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/124.m3u8
+#EXTINF:-1,ZAP Viva ᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/125.m3u8
+#EXTINF:-1,TPA
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/126.m3u8
+#EXTINF:-1,RTP 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/127.m3u8
+#EXTINF:-1,RTP 2 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/128.m3u8
+#EXTINF:-1,SIC ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/129.m3u8
+#EXTINF:-1,TVI ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/130.m3u8
+#EXTINF:-1,Sport TV 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/131.m3u8
+#EXTINF:-1,Sport TV 2 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/132.m3u8
+#EXTINF:-1,Sport TV 3 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/133.m3u8
+#EXTINF:-1,Sport TV 4 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/134.m3u8
+#EXTINF:-1,Sport TV 5 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/135.m3u8
+#EXTINF:-1,Sport TV + ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/136.m3u8
+#EXTINF:-1,Eleven Sports 1 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/137.m3u8
+#EXTINF:-1,Eleven Sports 3 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/139.m3u8
+#EXTINF:-1,Eleven Sports 4 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/140.m3u8
+#EXTINF:-1,Eleven Sports 5 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/141.m3u8
+#EXTINF:-1,Eleven Sports 6 ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/142.m3u8
+#EXTINF:-1,BTV ᶠᴴᴰ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/143.m3u8
+#EXTINF:-1,RTP 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/145.m3u8
+#EXTINF:-1,RTP 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/146.m3u8
+#EXTINF:-1,SIC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/147.m3u8
+#EXTINF:-1,TVI ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/148.m3u8
+#EXTINF:-1,SIC Noticias ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/149.m3u8
+#EXTINF:-1,SIC Mulher ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/150.m3u8
+#EXTINF:-1,TVI 24 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/151.m3u8
+#EXTINF:-1,CM TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/152.m3u8
+#EXTINF:-1,SIC Caras ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/153.m3u8
+#EXTINF:-1,SIC Radical ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/154.m3u8
+#EXTINF:-1,TVI Ficção ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/155.m3u8
+#EXTINF:-1,TVI Reality ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/156.m3u8
+#EXTINF:-1,Porto Canal ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/157.m3u8
+#EXTINF:-1,Sport TV 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/158.m3u8
+#EXTINF:-1,Sport TV 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/159.m3u8
+#EXTINF:-1,Sport TV 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/160.m3u8
+#EXTINF:-1,Sport TV 4 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/161.m3u8
+#EXTINF:-1,Sport TV 5 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/162.m3u8
+#EXTINF:-1,Sport TV + ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/163.m3u8
+#EXTINF:-1,Eleven Sports 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/164.m3u8
+#EXTINF:-1,Eleven Sports 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/165.m3u8
+#EXTINF:-1,Eleven Sports 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/166.m3u8
+#EXTINF:-1,Eleven Sports 4 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/167.m3u8
+#EXTINF:-1,Eleven Sports 5 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/168.m3u8
+#EXTINF:-1,Eleven Sports 6 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/169.m3u8
+#EXTINF:-1,BTV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/170.m3u8
+#EXTINF:-1,Sporting TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/171.m3u8
+#EXTINF:-1,SIC K ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/172.m3u8
+#EXTINF:-1,Biggs ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/173.m3u8
+#EXTINF:-1,Jim Jam ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/174.m3u8
+#EXTINF:-1,Canal Panda ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/175.m3u8
+#EXTINF:-1,Baby TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/176.m3u8
+#EXTINF:-1,Disney Junior ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/177.m3u8
+#EXTINF:-1,Disney Channel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/178.m3u8
+#EXTINF:-1,Nickelodeon ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/179.m3u8
+#EXTINF:-1,Cartoon Network ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/180.m3u8
+#EXTINF:-1,TVCine TOP ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/181.m3u8
+#EXTINF:-1,TVCine EDITION ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/182.m3u8
+#EXTINF:-1,TVCine EMOTION ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/183.m3u8
+#EXTINF:-1,TVCine ACTION ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/184.m3u8
+#EXTINF:-1,TVSeries ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/185.m3u8
+#EXTINF:-1,TLC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/186.m3u8
+#EXTINF:-1,AXN ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/187.m3u8
+#EXTINF:-1,AXN White ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/188.m3u8
+#EXTINF:-1,AXN Movies ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/189.m3u8
+#EXTINF:-1,AMC ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/190.m3u8
+#EXTINF:-1,FOX ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/191.m3u8
+#EXTINF:-1,FOX Life ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/192.m3u8
+#EXTINF:-1,FOX Crime ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/193.m3u8
+#EXTINF:-1,FOX Movies ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/194.m3u8
+#EXTINF:-1,FOX Comedy ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/195.m3u8
+#EXTINF:-1,Hollywood ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/196.m3u8
+#EXTINF:-1,Cinemundo ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/197.m3u8
+#EXTINF:-1,SyFy ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/198.m3u8
+#EXTINF:-1,Canal Q ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/199.m3u8
+#EXTINF:-1,Trace Toca ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/200.m3u8
+#EXTINF:-1,Eurosport 1 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/201.m3u8
+#EXTINF:-1,Eurosport 2 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/202.m3u8
+#EXTINF:-1,Motorvision TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/203.m3u8
+#EXTINF:-1,Blaze ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/204.m3u8
+#EXTINF:-1,Eurochannel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/205.m3u8
+#EXTINF:-1,Globo ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/206.m3u8
+#EXTINF:-1,Globo Now ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/207.m3u8
+#EXTINF:-1,My Cuisine ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/208.m3u8
+#EXTINF:-1,24 Kitchen ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/209.m3u8
+#EXTINF:-1,Food Network ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/210.m3u8
+#EXTINF:-1,Caça & Pesca ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/211.m3u8
+#EXTINF:-1,A Bola TV ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/212.m3u8
+#EXTINF:-1,Kombat Sport ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/213.m3u8
+#EXTINF:-1,Odisseia ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/214.m3u8
+#EXTINF:-1,Discovery Channel ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/215.m3u8
+#EXTINF:-1,Nat. Geographic ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/216.m3u8
+#EXTINF:-1,RTP 3 ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/217.m3u8
+#EXTINF:-1,RTP Madeira ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/218.m3u8
+#EXTINF:-1,RTP Açores ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/219.m3u8
+#EXTINF:-1,Canal Historia ᴸᴼᵂ
+http://my.iptvtuga.com:8080/live/TugaT7/tKdRWlEN6Q/220.m3u8

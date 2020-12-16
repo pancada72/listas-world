@@ -392,14 +392,6 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia ʰᵈ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Odisseia ʰᵈ ʰ²⁶⁵
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1015.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="VENUS XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="For Adults",VENUS XXX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/719.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PLAYBOY TV XXX" tvg-logo="http://www.ipstream.one/picons/de/playboytv.de.png" group-title="For Adults",PLAYBOY TV XXX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/720.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="HOT XXX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png" group-title="For Adults",HOT XXX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/721.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PENTHOUSE HD XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="For Adults",PENTHOUSE HD XXX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD RXTRA" tvg-logo="" group-title="PT",ELEVEN SPORTS 2 HD RXTRA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1143.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC PARANA" tvg-logo="" group-title="BR",BR: GLOBO RPC PARANA

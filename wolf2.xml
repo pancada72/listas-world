@@ -1,452 +1,386 @@
 #EXTM3U
 -------------------------------------------------------
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2019/02/RTP-1.png" group-title="PT",RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1.m3u8
-#EXTINF:-1 tvg-id="RTPD1" tvg-name="RTP 1 HD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/Horizontal-negativo.png" group-title="PT",RTP 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Rtp 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Rtp 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/986.m3u8
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP2.png" group-title="PT",RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/3.m3u8
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2 HD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="PT",RTP 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Rtp 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Rtp 2 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/985.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="PT",SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/5.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/sichdlogo.png" group-title="PT",SIC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/6.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="PT: Sic ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sic ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/984.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/TVI_logo_2017.png" group-title="PT",TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/7.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvi.png" group-title="PT",TVI HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tvi ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tvi ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/983.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png" group-title="PT",SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/15.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png" group-title="PT",SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Noticias ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sic Noticias ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/955.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="PT",RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/17.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVI 24" tvg-logo="https://tvi.iol.pt/img/2017/bck_logo_tvi24_white.png" group-title="PT",TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tvi 24 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tvi 24 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/956.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PT",CMTV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/19.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PT",CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/20.m3u8
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/640px-SIC_CARAS.png" group-title="PT",SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/21.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SIC MULHER HD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2014/03/image002.png" group-title="PT",SIC MULHER HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/22.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PT",SIC RADICAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/23.m3u8
-#EXTINF:-1 tvg-id="24KITCHENHDLOW" tvg-name="24 KITCHEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="PT",24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/24.m3u8
-#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP ACORES" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores.png?f=png&h=176" group-title="PT",RTP ACORES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/25.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="PT",RTP AFRICA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/26.m3u8
-#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP MADEIRA" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira.png?f=png&h=176" group-title="PT",RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/27.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP MEMORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1280px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="PT",RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/28.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PT",A BOLA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/29.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="PT",AMC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/30.m3u8
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS REALITY" tvg-logo="https://www.transponder.tv/images/channelicons/cbsrealityp1.png" group-title="PT",CBS REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/31.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="PT",ID INVESTIGATION DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/33.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="PT",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/35.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="PT",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/37.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="PT",NATIONAL GEO WILD HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/39.m3u8
-#EXTINF:-1 tvg-id="HIST" tvg-name="HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="PT",HISTORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/40.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="ODISSEIA" tvg-logo="https://odisseia.pt/wp-content/uploads/2018/05/logo_Odisseia_VR-e1525345873926.png" group-title="PT",ODISSEIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/41.m3u8
-#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA HD" tvg-logo="https://odisseia.pt/wp-content/uploads/2018/05/logo_Odisseia_VR-700x495.png" group-title="PT",ODISSEIA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/42.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PT",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/44.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="PT",SIC KIDS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/45.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="CANAL PANDA" tvg-logo="https://i.pinimg.com/originals/40/7b/91/407b911f0d82f4f42b33cf5aed33c123.png" group-title="PT",CANAL PANDA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/46.m3u8
-#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="PT",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/47.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="DISNEY JUNIOR" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" group-title="PT",DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/48.m3u8
-#EXTINF:-1 tvg-id="Biggs" tvg-name="PANDA BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="PT",PANDA BIGGS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/49.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="PT",BABY TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/50.m3u8
-#EXTINF:-1 tvg-id="JimJam" tvg-name="JIM JAM" tvg-logo="https://seeklogo.com/images/J/jimjam-logo-E922D37845-seeklogo.com.png" group-title="PT",JIM JAM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/51.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="NICKELODEON" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="PT",NICKELODEON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/52.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="CACA & PESCA" tvg-logo="https://www.casaesportepitanga.com.br/skin/frontend/caca-pesca/2017/images/logoface.png" group-title="PT",CACA & PESCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/54.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="CACAVISION" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAVHD.png" group-title="PT",CACAVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/55.m3u8
-#EXTINF:-1 tvg-id="Canal Q" tvg-name="CANAL Q" tvg-logo="https://4.bp.blogspot.com/-wkulPEivN5s/UWWoyR884uI/AAAAAAAAEBo/Y1p33Z8gv8A/s1600/Canal+Q+logo+3.png" group-title="PT",CANAL Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/56.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PT",E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/58.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="PT",EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/59.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title="PT",EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/60.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="PT",FASHION TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/61.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="PT",FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA E COZINHA HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/casa-cozinha/casaecozinha-white.png" group-title="PT",CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1142.m3u8
-#EXTINF:-1 tvg-id="Fine Living Network HD" tvg-name="FUEL TV HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/01/fueltvhdlogopeq.png" group-title="PT",FUEL TV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/65.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="GLOBO NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Globo_Now_logo_2018.png" group-title="PT",GLOBO NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/66.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="GLOBO PT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" group-title="PT",GLOBO PT HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/67.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="GLOBO PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="PT",GLOBO PT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/68.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="KOMBAT SPORT" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/05/kombat.png" group-title="PT",KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/69.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://1.bp.blogspot.com/-HJNBapwh8mk/UXQN7Y5dHfI/AAAAAAAAAe0/2OlpZDjeZWE/s1600/Premiere+sinal+aberto!.png" group-title="PT",PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/73.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="PORTO CANAL HD" tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PT",PORTO CANAL HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/75.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/SYFY.png" group-title="PT",SYFY HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/77.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="PT",TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/78.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="PT",TOROS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/79.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA INTERNACIONAL" tvg-logo="http://img.new.livestream.com/events/00000000004e72bd/41058bc6-f4ad-497f-b044-993d48e8d8e0.png" group-title="PT",TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/80.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="PT",TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/81.m3u8
-#EXTINF:-1 tvg-id="TV Record HD" tvg-name="TV RECORD" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="PT",TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/82.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="PT",TVI FICCAO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/84.m3u8
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PT",TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/85.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="BLAZE TV" tvg-logo="https://4.bp.blogspot.com/-nDE-TPDJPo4/V7n5uV0UxPI/AAAAAAAAn0g/-pJv8JtI-pMwsSkllQW11oqpWNdo1OFcQCLcB/s1600/Blaze-logo-2016.png" group-title="PT",BLAZE TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SANTUARIO DE FATIMA" tvg-logo="http://clipart.coolclips.com/480/vectors/tf05375/CoolClips_vc111858.png" group-title="PT",SANTUARIO DE FATIMA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/87.m3u8
-#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM POP" tvg-logo="https://seeklogo.com/images/M/mcm-pop-logo-042DCB84A2-seeklogo.com.png" group-title="PT",MCM POP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/88.m3u8
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="MEZZO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="PT",MEZZO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/89.m3u8
-#EXTINF:-1 tvg-id="Afro Music Channel" tvg-name="AFRO MUSIC" tvg-logo="https://www.trzcacak.rs/myfile/full/247-2470357_afro-afro-music.png" group-title="PT",AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/90.m3u8
-#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/MTV_HD_Logo_2015.png" group-title="PT",MTV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/92.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="PT",VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/93.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV + HD" tvg-logo="https://caxemirabet.com/wp-content/uploads/2018/06/Sport-TV.png" group-title="PT",SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/95.m3u8
-#EXTINF:-1 tvg-id="BTV41" tvg-name="BENFICA TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PT",BENFICA TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/97.m3u8
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BENFICA TV 1" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/118980_logo_benfica_tv7.png" group-title="PT",BENFICA TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/99.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="BENFICA TV 1 HD EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PT",BENFICA TV 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: BTV ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Btv ⁴ᵏ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Btv ⁴ᵏ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/988.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="PT",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/101.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="PT",SPORT TV 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/252.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1" tvg-logo="http://freetvall.com/files/thumbs/1297883802fa240-1.png" group-title="PT",SPORT TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/103.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 2 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%202%20FHD.png" group-title="PT",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/105.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%202%20FHD.png" group-title="PT",SPORT TV 2 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/753.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 2" tvg-logo="http://tivix.co/uploads/posts/2017-04/1493392951_sport_tv_2.png" group-title="PT",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/106.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 3 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%203%20FHD.png" group-title="PT",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/107.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="SPORT TV 3 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%203%20FHD.png" group-title="PT",SPORT TV 3 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/754.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="SPORT TV 3" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="PT",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/108.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 4 HD" tvg-logo="https://2.bp.blogspot.com/-_4R7rbEapTQ/V-D7yzArCrI/AAAAAAAAB_c/WGRuf74zvjUyyA70BYMxe2KQgwb-oN_fwCLcB/s1600/sport.tv4.png" group-title="PT",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/109.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="SPORT TV 4" tvg-logo="http://visaodigital.sytes.net/picons/sportv4hd.png" group-title="PT",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/110.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://ulango.tv/uploads/channels/112960/logo_sport%20tv%208.png" group-title="PT",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/111.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 5" tvg-logo="https://ulango.tv/uploads/channels/112960/logo_sport%20tv%208.png" group-title="PT",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/979.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1 HD LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1 HD LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/113.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2 HD LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2 HD LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/114.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/115.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 4 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="PT",ELEVEN SPORTS 4 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/116.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/117.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/118.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/119.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="ELEVEN SPORTS 1 HD EXTRA" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/253.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/121.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/122.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/124.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/125.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/126.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="PT",ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/127.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/129.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/130.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/131.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 2 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3  ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 3  ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/990.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORTING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Sporting_TV.png" group-title="PT",SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting Tv ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sporting Tv ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eurosport 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv + ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv + ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/943.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FPF CANAL 11 HD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PT",FPF CANAL 11 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/135.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="PT",SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Motorvision" tvg-logo="https://s3.amazonaws.com/onsaleuk/imagens/XBMC/logos/abolatv.png" group-title="PT",Motorvision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1141.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVCINE TOP HD" tvg-logo="https://filmspot.pt/images/pn_img.php?sigla=TVC1" group-title="PT",TVCINE TOP HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/144.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="TVCINE TOP" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDiWJphxjI/AAAAAAAAAKA/5NwQpl8addE/s320/TVC+1+logo.png" group-title="PT",TVCINE TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/145.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVCINE EDITION HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PT",TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/146.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE EDITION" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png" group-title="PT",TVCINE EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/147.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCINE EMOTION HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="PT",TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/148.m3u8
-#EXTINF:-1 tvg-id="TVCg3" tvg-name="TVCINE EMOTION" tvg-logo="https://3.bp.blogspot.com/_tk5JCNM43cc/TTDgPaa5FQI/AAAAAAAAAJ4/BLJVZII7_Fo/s1600/TVC+3+logo.png" group-title="PT",TVCINE EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/149.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVCINE ACTION HD" tvg-logo="https://filmspot.pt/images/pn_img.php?sigla=TVC4" group-title="PT",TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/150.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="TVCINE ACTION" tvg-logo="https://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPpjLCUI/AAAAAAAAAJ8/nVO8usa43i8/s1600/TVC+4+logo.png" group-title="PT",TVCINE ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/151.m3u8
-#EXTINF:-1 tvg-id="AXN BLACK HD (LOW BITRATE)" tvg-name="AXN MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1200px-AXN_Black_logo_%282015%29.svg.png" group-title="PT",AXN MOVIES HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/154.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="PT",AXN HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/155.m3u8
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="PT",AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/156.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO HD" tvg-logo="https://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="PT",CINEMUNDO HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/157.m3u8
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="PT",CRIME + INVESTIGATION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/776.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="FOX COMEDY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Fox_%287%29.png/revision/latest/scale-to-width-down/366?cb=20141101150022" group-title="PT",FOX COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/158.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" group-title="PT",FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/159.m3u8
-#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX CRIME HD" tvg-logo="http://i.imgur.com/t6zWmxg.png" group-title="PT",FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/160.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="FOX HD" tvg-logo="https://i.dlpng.com/static/png/383436_preview.png" group-title="PT",FOX HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/161.m3u8
-#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX MOVIES" tvg-logo="https://freelogovector.net/wp-content/uploads/logo-images-15/fox-movies-logo-vector-92358.png" group-title="PT",FOX MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/162.m3u8
-#EXTINF:-1 tvg-id="HOLLY" tvg-name="HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="PT",HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/163.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="PT",HOLLYWOOD SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/863.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOS HD" tvg-logo="https://www.pngkey.com/png/full/135-1358677_studio-universal-hd-2016-canal-studio-universal-hd.png" group-title="PT",NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/165.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="ZAP VIVA HD" tvg-logo="" group-title="PT",ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS TV" tvg-logo="https://www.dragteam.info/attachments/1_0_1_193_68_53_ce40000_0_0_0-png.50084/" group-title="PT",KURIAKOS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="PT",CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="PT",SKY NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="PT",BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tv Record ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tv Record ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tvi Reality ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tvi Reality ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Id Descovery ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Id Descovery ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Mulher ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sic Mulher ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: National Wild ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: National Wild ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: National Geographic ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Discovery ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Globo Now ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Globo Now ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola Tv ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: A Bola Tv ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Canal 11 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: 24 Kitchen ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Globo ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Globo ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tvi Ficçao ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tvi Ficçao ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CmTv ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: CmTv ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Amc ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Amc ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Syfy ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Syfy ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Cinemundo ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox Life ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox Comedy ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox Crime ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox Movies ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Axn Movies ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Axn Movies ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Axn White ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Axn White ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Axn ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Axn ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Hollywood ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Nos Studios ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TvCine Action ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: TvCine Action ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TvCine Emotion ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: TvCine Emotion ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TvCine Edition ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: TvCine Edition ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TvCine Top ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: TvCine Top ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Radical ʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sic Radical ʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Fox Movies ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Axn ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Axn ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Caras ʰᵈ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sic Caras ʰᵈ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Tv Series ʰᵈ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Tv Series ʰᵈ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia ʰᵈ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Odisseia ʰᵈ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD RXTRA" tvg-logo="" group-title="PT",ELEVEN SPORTS 2 HD RXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC PARANA" tvg-logo="" group-title="BR",BR: GLOBO RPC PARANA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1145.m3u8
-#EXTINF:-1 tvg-id="HIST" tvg-name="HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title="PT",HISTORIA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="PT",Nick JR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP Miguel Oliveira WebCam" tvg-logo="" group-title="PT",MOTO GP Miguel Oliveira WebCam
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 1 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 2 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 2 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 1 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 2 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="" group-title="BR",BR: GLOOB HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="" group-title="BR",BR: DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1172.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TV RECORD FHD" tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="PT",TV RECORD FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EXLCU Disney Junior Kids Party" tvg-logo="" group-title="PT",PT: EXLCU Disney Junior Kids Party
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GAMETOON" tvg-logo="" group-title="PT",PT: GAMETOON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EXCLU Disney Channel Anima Fest" tvg-logo="" group-title="PT",PT: EXCLU Disney Channel Anima Fest
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/1176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO M80" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M80_Radio.svg/1200px-M80_Radio.svg.png" group-title="RADIOS",RADIO M80
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO COMERCIAL" tvg-logo="https://radiocomercial.iol.pt/images/logo_big.png" group-title="RADIOS",RADIO COMERCIAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CIDADE FM" tvg-logo="https://www.radiocidadecaratinga.com.br/wp-content/uploads/2018/06/R%C3%A1dio-Cidade.png" group-title="RADIOS",RADIO CIDADE FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO MEGA HITS" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="RADIOS",RADIO MEGA HITS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ORBITAL" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title="RADIOS",RADIO ORBITAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RFM" tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrfm7695d64b.png" group-title="RADIOS",RADIO RFM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RENASCENCA" tvg-logo="https://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png" group-title="RADIOS",RADIO RENASCENCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO VODAFONE FM" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87850q.png" group-title="RADIOS",RADIO VODAFONE FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO TSF" tvg-logo="http://cdn-radiotime-logos.tunein.com/s15267g.png" group-title="RADIOS",RADIO TSF
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SUPERBOCK SUPERROCK" tvg-logo="" group-title="RADIOS",RADIO SUPERBOCK SUPERROCK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO SMOTH FM" tvg-logo="" group-title="RADIOS",RADIO SMOTH FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER FM" tvg-logo="" group-title="RADIOS",RADIO HUNTER FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://eughost.dnsfor.me:8080/live/lopes86@hotmail.com/d2Q8AxmyVz/820.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%201.png" group-title="CANAIS GERAL",RTP 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/47.m3u8
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%202.png" group-title="CANAIS GERAL",RTP 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/45.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://qwertylist.soeu.ws/logos/SIC.png" group-title="CANAIS GERAL",SIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/43.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://qwertylist.soeu.ws/logos/TVI.png" group-title="CANAIS GERAL",TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/41.m3u8
+#EXTINF:-1 tvg-id="RTPD1" tvg-name="RTP 1 FHD" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%201.png" group-title="CANAIS GERAL",RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/46.m3u8
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2 FHD" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%202.png" group-title="CANAIS GERAL",RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/44.m3u8
+#EXTINF:-1 tvg-id="SICD" tvg-name="SIC FHD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC.png" group-title="CANAIS GERAL",SIC FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/42.m3u8
+#EXTINF:-1 tvg-id="TVID" tvg-name="TVI FHD" tvg-logo="http://qwertylist.soeu.ws/logos/TVI.png" group-title="CANAIS GERAL",TVI FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/40.m3u8
+#EXTINF:-1 tvg-id="TVI24Hd" tvg-name="TVI 24" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%2024.png" group-title="CANAIS GERAL",TVI 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/25.m3u8
+#EXTINF:-1 tvg-id="SICNHd" tvg-name="SIC NOTICIAS HD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20NOTICIAS.png" group-title="CANAIS GERAL",SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/27.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%203.png" group-title="CANAIS GERAL",RTP 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/35.m3u8
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL HD" tvg-logo="http://qwertylist.soeu.ws/logos/PORTO%20CANAL.png" group-title="CANAIS GERAL",PORTO CANAL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/36.m3u8
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV HD" tvg-logo="http://qwertylist.soeu.ws/logos/CM%20TV.png" group-title="CANAIS GERAL",CMTV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/37.m3u8
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP INTERNACIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20Internacional.png" group-title="CANAIS GERAL",RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/32.m3u8
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHER HD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20MULHER.png" group-title="CANAIS GERAL",SIC MULHER HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/28.m3u8
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS HD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20CARAS.png" group-title="CANAIS GERAL",SIC CARAS HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/29.m3u8
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC RADICAL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20RADICAL.png" group-title="CANAIS GERAL",SIC RADICAL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/26.m3u8
+#EXTINF:-1 tvg-id="CanaljQ" tvg-name="CANAL Q" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20Q.png" group-title="CANAIS GERAL",CANAL Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/38.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20MEMORIA.png" group-title="CANAIS GERAL",RTP MEMORIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/30.m3u8
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20AFRICA.png" group-title="CANAIS GERAL",RTP AFRICA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/33.m3u8
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP MADEIRA" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20MADEIRA.png" group-title="CANAIS GERAL",RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/31.m3u8
+#EXTINF:-1 tvg-id="RTP Açores" tvg-name="RTP ACORES" tvg-logo="http://qwertylist.soeu.ws/logos/RTP%20A%c3%87ORES.png" group-title="CANAIS GERAL",RTP ACORES
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/34.m3u8
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/23.m3u8
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="TVI FICCAO" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20FICCAO.png" group-title="CANAIS GERAL",TVI FICCAO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/24.m3u8
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="TV RECORD HD" tvg-logo="http://qwertylist.soeu.ws/logos/TV%20RECORD.png" group-title="CANAIS GERAL",TV RECORD HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/2.m3u8
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="GLOBO" tvg-logo="http://qwertylist.soeu.ws/logos/GLOBO.png" group-title="CANAIS GERAL",GLOBO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/16.m3u8
+#EXTINF:-1 tvg-id="Globopremiumhd" tvg-name="GLOBO NOW" tvg-logo="http://qwertylist.soeu.ws/logos/Globo_Now_logo_2018.png" group-title="CANAIS GERAL",GLOBO NOW
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15.m3u8
+#EXTINF:-1 tvg-id="ABolaTV" tvg-name="ABOLA TV" tvg-logo="http://qwertylist.soeu.ws/logos/A%20BOLA%20TV.png" group-title="DESPORTO",ABOLA TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/89.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="CANAL 11 HD" tvg-logo="http://qwertylist.soeu.ws/logos/canal11.png" group-title="DESPORTO",CANAL 11 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/17.m3u8
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="CANAL 11" tvg-logo="http://qwertylist.soeu.ws/logos/canal11.png" group-title="DESPORTO",CANAL 11
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/20540.m3u8
+#EXTINF:-1 tvg-id="SPORTVrrhyg" tvg-name="SPORTV + FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%20+.png" group-title="DESPORTO",SPORTV + FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/13.m3u8
+#EXTINF:-1 tvg-id="SPORTVrrhyg" tvg-name="SPORTV +" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%20+.png" group-title="DESPORTO",SPORTV +
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/14.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="SPORTV 1 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%201%20HD.png" group-title="DESPORTO",SPORTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/12.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="SPORTV 1 HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%201%20HD.png" group-title="DESPORTO",SPORTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/11.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="SPORTV 1" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%201.png" group-title="DESPORTO",SPORTV 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/10.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORTV 2 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%202%20HD.png" group-title="DESPORTO",SPORTV 2 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/9.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%202%20HD.png" group-title="DESPORTO",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/8.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORTV 2" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%202.png" group-title="DESPORTO",SPORTV 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/7.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="SPORTV 3 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%203%20HD.png" group-title="DESPORTO",SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/6.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%203%20HD.png" group-title="DESPORTO",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/5.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="SPORTV 3" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%203.png" group-title="DESPORTO",SPORTV 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/4.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="SPORTV 4 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%204%20HD.png" group-title="DESPORTO",SPORTV 4 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/92.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="SPORTV 4 HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%204%20HD.png" group-title="DESPORTO",SPORTV 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/91.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="SPORTV 4" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%204.png" group-title="DESPORTO",SPORTV 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/90.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="SPORTV 5 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%205%20HD.png" group-title="DESPORTO",SPORTV 5 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/95.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="SPORTV 5 HD" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%205%20HD.png" group-title="DESPORTO",SPORTV 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/94.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="SPORTV 5" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTV%205%20HD.png" group-title="DESPORTO",SPORTV 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/93.m3u8
+#EXTINF:-1 tvg-id="SPORTVnba" tvg-name="SPORTV NBA" tvg-logo="http://qwertylist.soeu.ws/logos/sportvnba.jpg" group-title="DESPORTO",SPORTV NBA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/60.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="BTV 1 FULL HD" tvg-logo="http://qwertylist.soeu.ws/logos/BTV%201%20HD.png" group-title="DESPORTO",BTV 1 FULL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/88.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV 1 HD" tvg-logo="http://qwertylist.soeu.ws/logos/BTV%201%20HD.png" group-title="DESPORTO",BTV 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/87.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV 1" tvg-logo="http://qwertylist.soeu.ws/logos/BTV%201.png" group-title="DESPORTO",BTV 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/86.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/85.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/84.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/83.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/82.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/81.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/80.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/79.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/78.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/77.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/76.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/75.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://qwertylist.soeu.ws/logos/Eleven-Sport-HD_logobig.png" group-title="DESPORTO",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/74.m3u8
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://qwertylist.soeu.ws/logos/PFC.png" group-title="DESPORTO",PFC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/63.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="SPORTING TV" tvg-logo="http://qwertylist.soeu.ws/logos/SPORTING%20TV%20HD.png" group-title="DESPORTO",SPORTING TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/61.m3u8
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://qwertylist.soeu.ws/logos/EUROSPORT%20HD.png" group-title="DESPORTO",EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/70.m3u8
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="http://qwertylist.soeu.ws/logos/EUROSPORT%202.png" group-title="DESPORTO",EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS STARS" tvg-logo="http://qwertylist.soeu.ws/logos/TRACE_Sport_Stars.jpg" group-title="DESPORTO",TRACE SPORTS STARS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15364.m3u8
+#EXTINF:-1 tvg-id="MotorvisionJNKHD" tvg-name="MOTORVISION" tvg-logo="http://qwertylist.soeu.ws/logos/MOTORVISION.png" group-title="DESPORTO",MOTORVISION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAST E FUN BOX HD" tvg-logo="http://qwertylist.soeu.ws/logos/fastandfunbox-logo.png" group-title="CANAIS GERAL",FAST E FUN BOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15367.m3u8
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="FUEL TV HD" tvg-logo="http://qwertylist.soeu.ws/logos/FUEL%20TV.png" group-title="DESPORTO",FUEL TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/67.m3u8
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="FIGHT NETWORK" tvg-logo="http://qwertylist.soeu.ws/logos/FIGHT%20NETWORK.png" group-title="DESPORTO",FIGHT NETWORK
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/68.m3u8
+#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="KOMBAT SPORT" tvg-logo="http://qwertylist.soeu.ws/logos/KOMBAT%20SPORT.png" group-title="DESPORTO",KOMBAT SPORT
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS HD" tvg-logo="http://qwertylist.soeu.ws/logos/FightSportsLogo2x.png" group-title="DESPORTO",FIGHT SPORTS HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CACAVISION" tvg-logo="http://qwertylist.soeu.ws/logos/CACAVISION.png" group-title="DESPORTO",CACAVISION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/72.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="CACA E PESCA" tvg-logo="http://qwertylist.soeu.ws/logos/CA%c3%87A%20E%20PESCA.png" group-title="DESPORTO",CACA E PESCA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO PEQUENO TV" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/campopequenotv_logo.png" group-title="CANAIS GERAL",CAMPO PEQUENO TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19669.m3u8
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV HD" tvg-logo="http://qwertylist.soeu.ws/logos/TOROS%20TV.png" group-title="CANAIS GERAL",TOROS TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/59.m3u8
+#EXTINF:-1 tvg-id="DogTV" tvg-name="DOG TV HD" tvg-logo="http://qwertylist.soeu.ws/logos/DOG%20TV.png" group-title="CANAIS GERAL",DOG TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/71.m3u8
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://qwertylist.soeu.ws/logos/DISNEY%20CHANNEL.png" group-title="INFANTIL",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/179.m3u8
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://qwertylist.soeu.ws/logos/DISNEY%20JUNIOR.png" group-title="INFANTIL",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/178.m3u8
+#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDA" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20PANDA.png" group-title="INFANTIL",CANAL PANDA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/186.m3u8
+#EXTINF:-1 tvg-id="Biggs" tvg-name="PANDA BIGGS" tvg-logo="http://qwertylist.soeu.ws/logos/PANDA%20BIGGS.png" group-title="INFANTIL",PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/164.m3u8
+#EXTINF:-1 tvg-id="Nicke" tvg-name="NICKELODEAN" tvg-logo="http://qwertylist.soeu.ws/logos/NICKELODEON.png" group-title="INFANTIL",NICKELODEAN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/165.m3u8
+#EXTINF:-1 tvg-id="Nickeju" tvg-name="NICK JR" tvg-logo="http://qwertylist.soeu.ws/logos/nickjr-logo-200x200.png" group-title="INFANTIL",NICK JR
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/166.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMRANG" tvg-logo="http://qwertylist.soeu.ws/logos/boomerang.png" group-title="INFANTIL",BOOMRANG
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/188.m3u8
+#EXTINF:-1 tvg-id="CART" tvg-name="CARTOON NETWORK" tvg-logo="http://qwertylist.soeu.ws/logos/CARTOON%20NETWORK.png" group-title="INFANTIL",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/184.m3u8
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://qwertylist.soeu.ws/logos/SIC%20K.png" group-title="INFANTIL",SIC K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WALT DISNEY" tvg-logo="http://qwertylist.soeu.ws/logos/Walt_Disney.png" group-title="INFANTIL",WALT DISNEY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/12347.m3u8
+#EXTINF:-1 tvg-id="dummy008" tvg-name="KIDS TV" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/Kids_TV_logo.png" group-title="INFANTIL",KIDS TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19705.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JIM JAM" tvg-logo="http://qwertylist.soeu.ws/logos/JIM%20JAM.png" group-title="INFANTIL",JIM JAM
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/172.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV" tvg-logo="http://qwertylist.soeu.ws/logos/BABY%20TV.png" group-title="INFANTIL",BABY TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/191.m3u8
+#EXTINF:-1 tvg-id="TIJI" tvg-name="TIJI" tvg-logo="http://qwertylist.soeu.ws/logos/Tiji_logo.png" group-title="CANAIS GERAL",TIJI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/150.m3u8
+#EXTINF:-1 tvg-id="DJKP" tvg-name="LOLLY KIDS" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/lolly-kids.png" group-title="INFANTIL",LOLLY KIDS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/20973.m3u8
+#EXTINF:-1 tvg-id="dummy013" tvg-name="KIDS TV 4K" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/Kid-tv-4k.png" group-title="INFANTIL",KIDS TV 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/20974.m3u8
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCINE TOP HD" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-top-hd.png" group-title="CINEMA",TVCINE TOP HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/58.m3u8
+#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCINE TOP" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-top-hd.png" group-title="CINEMA",TVCINE TOP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/57.m3u8
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE EDITION HD" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-edition-hd.png" group-title="CINEMA",TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/56.m3u8
+#EXTINF:-1 tvg-id="TVCg2" tvg-name="TVCINE EDITION" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-edition-hd.png" group-title="CINEMA",TVCINE EDITION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/55.m3u8
+#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCINE EMOTION HD" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-emotion-hd.png" group-title="CINEMA",TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/54.m3u8
+#EXTINF:-1 tvg-id="TVCg3" tvg-name="TVCINE EMOTION" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-emotion-hd.png" group-title="CINEMA",TVCINE EMOTION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/53.m3u8
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCINE ACTION HD" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-action-hd.png" group-title="CINEMA",TVCINE ACTION HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/52.m3u8
+#EXTINF:-1 tvg-id="TVCg4" tvg-name="TVCINE ACTION" tvg-logo="http://qwertylist.soeu.ws/logos/tvcine-action-hd.png" group-title="CINEMA",TVCINE ACTION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/51.m3u8
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS STUDIOS HD" tvg-logo="http://qwertylist.soeu.ws/logos/nos%20studios.JPG" group-title="CINEMA",NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/115.m3u8
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="HOLLYWOOD HD" tvg-logo="http://qwertylist.soeu.ws/logos/HOLLYWOOD%20HD.png" group-title="CINEMA",HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/120.m3u8
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="http://qwertylist.soeu.ws/logos/CINEMUNDO.png" group-title="CINEMA",CINEMUNDO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ARTHOUSE" tvg-logo="http://qwertylist.soeu.ws/logos/Filmbox_arthouse_pl.png" group-title="CINEMA",FILMBOX ARTHOUSE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15365.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC HD" tvg-logo="http://qwertylist.soeu.ws/logos/AMC%20HD.png" group-title="CINEMA",AMC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/139.m3u8
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX MOVIES HD" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20MOVIES.png" group-title="CINEMA",FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/121.m3u8
+#EXTINF:-1 tvg-id="dummy005" tvg-name="CINEMA 4K" tvg-logo="https://previews.123rf.com/images/tiero/tiero1701/tiero170100062/70942237-cinema-4k-concept-3d-rendering-image.jpg" group-title="CINEMA",CINEMA 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15107.m3u8
+#EXTINF:-1 tvg-id="dummy006" tvg-name="NETFLIX" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/Netflixportugal.png" group-title="CINEMA",NETFLIX
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19701.m3u8
+#EXTINF:-1 tvg-id="dummy007" tvg-name="HBO " tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/HBOPORTUGAL_logo.png" group-title="CINEMA",HBO 
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19706.m3u8
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="SYFY HD" tvg-logo="http://qwertylist.soeu.ws/logos/SYFY.png" group-title="CINEMA",SYFY HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/113.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://qwertylist.soeu.ws/logos/AXN%20HD.png" group-title="CINEMA",AXN HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/137.m3u8
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE" tvg-logo="http://qwertylist.soeu.ws/logos/AXN%20WHITE%20HD.png" group-title="CINEMA",AXN WHITE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/136.m3u8
+#EXTINF:-1 tvg-id="AXNblHD" tvg-name="AXN MOVIES" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn-movies-hd.png" group-title="CINEMA",AXN MOVIES
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/138.m3u8
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="FOX HD" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20HD.png" group-title="CINEMA",FOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/123.m3u8
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="FOX LIFE" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20LIFE%20HD.png" group-title="CINEMA",FOX LIFE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/122.m3u8
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="FOX COMEDY HD" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20COMEDY.png" group-title="CINEMA",FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/125.m3u8
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX CRIME" tvg-logo="http://qwertylist.soeu.ws/logos/FOX%20CRIME%20HD.png" group-title="CINEMA",FOX CRIME
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/124.m3u8
+#EXTINF:-1 tvg-id="ID" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="http://qwertylist.soeu.ws/logos/inestigaciondiscovery.png" group-title="CANAIS GERAL",ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/119.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigacao" tvg-name="CRIME + INVESTIGATION" tvg-logo="http://qwertylist.soeu.ws/logos/crime%20investigation.png" group-title="CANAIS GERAL",CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/131.m3u8
+#EXTINF:-1 tvg-id="HIST" tvg-name="CANAL HISTORIA" tvg-logo="http://qwertylist.soeu.ws/logos/CANAL%20HISTORIA.png" group-title="CANAIS GERAL",CANAL HISTORIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/134.m3u8
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA HD" tvg-logo="http://qwertylist.soeu.ws/logos/ODISSEIA.png" group-title="CANAIS GERAL",ODISSEIA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/114.m3u8
+#EXTINF:-1 tvg-id="NGC" tvg-name="NAT GEOGRAFIC" tvg-logo="http://qwertylist.soeu.ws/logos/NAT.%20GEOGRAPHIC.png" group-title="CANAIS GERAL",NAT GEOGRAFIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/116.m3u8
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="NAT GEO WILD" tvg-logo="http://qwertylist.soeu.ws/logos/NAT%20GEO%20WILD.png" group-title="CANAIS GERAL",NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/117.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://qwertylist.soeu.ws/logos/DISCOVERY%20CHANNEL.png" group-title="CANAIS GERAL",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX HD" tvg-logo="https://www.nowo.pt/media/3835/docuboxhd.png" group-title="CANAIS GERAL",DOCUBOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21159.m3u8
+#EXTINF:-1 tvg-id="CANAL 180 HD" tvg-name="CANAL 180 HD" tvg-logo="https://www.nowo.pt/media/3842/180.png" group-title="CANAIS GERAL",CANAL 180 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21158.m3u8
+#EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="FTV" tvg-logo="http://qwertylist.soeu.ws/logos/FASHION%20TV.png" group-title="CANAIS GERAL",FTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/108.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://qwertylist.soeu.ws/logos/TLC.png" group-title="CANAIS GERAL",TLC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QYOU" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/Qyou.png" group-title="CANAIS GERAL",QYOU
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19670.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL CHANNEL" tvg-logo="http://qwertylist.soeu.ws/logos/TRAVEL%20CHANNEL.png" group-title="CANAIS GERAL",TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/111.m3u8
+#EXTINF:-1 tvg-id="EENTERHD" tvg-name="E! Entertainment HD" tvg-logo="http://qwertylist.soeu.ws/logos/E!%20ENTERTAINMENT.png" group-title="CANAIS GERAL",E! Entertainment HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/128.m3u8
+#EXTINF:-1 tvg-id="cbsreal" tvg-name="CBS REALTY" tvg-logo="http://qwertylist.soeu.ws/logos/CBS%20REALITY.png" group-title="CANAIS GERAL",CBS REALTY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/133.m3u8
+#EXTINF:-1 tvg-id="AbE" tvg-name="BLAZE HD" tvg-logo="http://qwertylist.soeu.ws/logos/blazehd.jpg" group-title="CANAIS GERAL",BLAZE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/135.m3u8
+#EXTINF:-1 tvg-id="CASA E COZINH" tvg-name="CASA E COZINHA HD" tvg-logo="http://qwertylist.soeu.ws/logos/CASAECOZINHAHD.jpg" group-title="CANAIS GERAL",CASA E COZINHA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/16254.m3u8
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHEN" tvg-logo="http://qwertylist.soeu.ws/logos/24%20KITCHEN.png" group-title="CANAIS GERAL",24 KITCHEN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/140.m3u8
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORK HD" tvg-logo="http://qwertylist.soeu.ws/logos/FOOD%20NETWORK.png" group-title="CANAIS GERAL",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/126.m3u8
+#EXTINF:-1 tvg-id="luxtv" tvg-name="LUXE TV" tvg-logo="http://qwertylist.soeu.ws/logos/LUXE%20TV.png" group-title="CANAIS GERAL",LUXE TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/107.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="S+ HD" tvg-logo="http://qwertylist.soeu.ws/logos/s+.jpg" group-title="CANAIS GERAL",S+ HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHIONBOX HD" tvg-logo="https://www.nowo.pt/media/3932/fashionboxhd.png" group-title="CANAIS GERAL",FASHIONBOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYZEN TV" tvg-logo="http://qwertylist.soeu.ws/logos/myzen.jpg" group-title="CANAIS GERAL",MYZEN TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/20975.m3u8
+#EXTINF:-1 tvg-id="ZEETV" tvg-name="ZEE TV" tvg-logo="http://qwertylist.soeu.ws/logos/ZEE%20TV.png" group-title="CANAIS GERAL",ZEE TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/103.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://qwertylist.soeu.ws/logos/MAX.png" group-title="CANAIS GERAL",MAX
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/106.m3u8
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBAN" tvg-logo="http://qwertylist.soeu.ws/logos/TRACE%20URBAN%20HD.png" group-title="MUSICA",TRACE URBAN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/trace-brazuca.png" group-title="MUSICA",TRACE BRAZUCA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="http://qwertylist.soeu.ws/logos/tracetoca.png" group-title="MUSICA",TRACE TOCA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/16253.m3u8
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV PORTUGAL" tvg-logo="http://qwertylist.soeu.ws/logos/MTV%20PORTUGAL.png" group-title="MUSICA",MTV PORTUGAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/100.m3u8
+#EXTINF:-1 tvg-id="mtv live" tvg-name="MTV LIVE HD" tvg-logo="http://qwertylist.soeu.ws/logos/MTV_Live_HD_2013.png" group-title="MUSICA",MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80s" tvg-logo="https://www.nowo.pt/media/4913/mtv80.png" group-title="MUSICA",MTV 80s
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21161.m3u8
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="http://qwertylist.soeu.ws/logos/MCM%20POP.png" group-title="MUSICA",MCM POP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/102.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://qwertylist.soeu.ws/logos/VH1.png" group-title="MUSICA",VH1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/96.m3u8
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="" group-title="MUSICA",AFRO MUSIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALMA LUSA" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/alma-lusa.png" group-title="MUSICA",ALMA LUSA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19668.m3u8
+#EXTINF:-1 tvg-id="Topbrtv" tvg-name="TOP BRASIL" tvg-logo="http://qwertylist.soeu.ws/logos/topbrasil.jpeg" group-title="MUSICA",TOP BRASIL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/12346.m3u8
+#EXTINF:-1 tvg-id="Toplatinotv" tvg-name="TOP LATINO" tvg-logo="http://qwertylist.soeu.ws/logos/toplatino.jpeg" group-title="MUSICA",TOP LATINO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/12345.m3u8
+#EXTINF:-1 tvg-id="top pt tv" tvg-name="TOP PORTUGAL" tvg-logo="http://qwertylist.soeu.ws/logos/topportugal.jpeg" group-title="MUSICA",TOP PORTUGAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/12344.m3u8
+#EXTINF:-1 tvg-id="iConcerts" tvg-name="ICONCERTS" tvg-logo="http://qwertylist.soeu.ws/logos/ICONCERTS.png" group-title="MUSICA",ICONCERTS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/98.m3u8
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://qwertylist.soeu.ws/logos/MEZZO.png" group-title="MUSICA",MEZZO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/97.m3u8
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE HD" tvg-logo="http://qwertylist.soeu.ws/logos/Mezzo_Live_HD_logo.png" group-title="MUSICA",MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/167.m3u8
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="TVI REALITY CAMERA 1" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY CAMERA 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/22.m3u8
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY CAMERA 2" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY CAMERA 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/21.m3u8
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="TVI REALITY CAMERA 3" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY CAMERA 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/20.m3u8
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY CAMERA 4" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY CAMERA 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19.m3u8
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY MOSAICO" tvg-logo="http://qwertylist.soeu.ws/logos/TVI%20REALTY.png" group-title="CANAIS GERAL",TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/18.m3u8
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="ZAP VIVA HD" tvg-logo="http://qwertylist.soeu.ws/logos/zap-viva-logo-hd-vertical-01.jpg" group-title="CANAIS GERAL",ZAP VIVA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/142.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="DEUTSCHE WELLE" tvg-logo="http://qwertylist.soeu.ws/logos/DEUTCSCHE%20WELLE.png" group-title="CANAIS GERAL",DEUTSCHE WELLE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SANTUARIO FATIMA" tvg-logo="http://qwertylist.soeu.ws/logos/SANTUARIO%20FATIMA.png" group-title="CANAIS GERAL",SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA" tvg-logo="http://qwertylist.soeu.ws/logos/andalucia.png" group-title="CANAIS GERAL",ANDALUCIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="http://qwertylist.soeu.ws/logos/logo_mundial_png_bom_1.png" group-title="CANAIS GERAL",TV MUNDIAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/15363.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="CANCAO NOVA" tvg-logo="http://qwertylist.soeu.ws/logos/CANCAO%20NOVA.png" group-title="CANAIS GERAL",CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/185.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="KURIAKOS TV" tvg-logo="http://qwertylist.soeu.ws/logos/KURIAKOSTV.png" group-title="CANAIS GERAL",KURIAKOS TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/170.m3u8
+#EXTINF:-1 tvg-id="dummy009" tvg-name="KURIAKOS CINE" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/KURIAKOSCINE.png" group-title="CINEMA",KURIAKOS CINE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19704.m3u8
+#EXTINF:-1 tvg-id="dummy010" tvg-name="KURIAKOS KIDS" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/KURIAKOSKIDS.png" group-title="INFANTIL",KURIAKOS KIDS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19703.m3u8
+#EXTINF:-1 tvg-id="dummy011" tvg-name="KURIAKOS MUSIC" tvg-logo="http://vod3.soeu.ws/LOGOS/Portugal/KURIAKOSMUSIC.png" group-title="MUSICA",KURIAKOS MUSIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/19702.m3u8
+#EXTINF:-1 tvg-id="TVGALIZA" tvg-name="TV GALICIA" tvg-logo="http://qwertylist.soeu.ws/logos/TV%20GALICIA.png" group-title="CANAIS GERAL",TV GALICIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/148.m3u8
+#EXTINF:-1 tvg-id="TVEi" tvg-name="TVE INTERNATIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/TVE-Internacional.jpg" group-title="CANAIS GERAL",TVE INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/146.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE" tvg-logo="http://qwertylist.soeu.ws/logos/TV5%20MONDE.png" group-title="CANAIS GERAL",TV5 MONDE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/147.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="http://qwertylist.soeu.ws/logos/M6.png" group-title="CANAIS GERAL",M6
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/168.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="FRANCE 24" tvg-logo="http://qwertylist.soeu.ws/logos/FRANCE%2024.png" group-title="CANAIS GERAL",FRANCE 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/175.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA INTERNATIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/TPA%20INTERNACIONAL.png" group-title="CANAIS GERAL",TPA INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/149.m3u8
+#EXTINF:-1 tvg-id="TVC INTERNACIONAL" tvg-name="TCV INTERNATIONAL" tvg-logo="http://qwertylist.soeu.ws/logos/tcv.jpeg" group-title="CANAIS GERAL",TCV INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/151.m3u8
+#EXTINF:-1 tvg-id="CUBAVISION INTERNACIONAL" tvg-name="CUBAVISION" tvg-logo="http://qwertylist.soeu.ws/logos/cubavision_internacional.png" group-title="CANAIS GERAL",CUBAVISION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/181.m3u8
+#EXTINF:-1 tvg-id="Localvisão" tvg-name="LOCALVISAO" tvg-logo="http://qwertylist.soeu.ws/logos/LOCALVISAO%20HD.png" group-title="CANAIS GERAL",LOCALVISAO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/169.m3u8
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EURONEWS" tvg-logo="http://qwertylist.soeu.ws/logos/EURONEWS.png" group-title="CANAIS GERAL",EURONEWS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/176.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS" tvg-logo="http://qwertylist.soeu.ws/logos/RECORD%20NEWS.png" group-title="CANAIS GERAL",RECORD NEWS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/159.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://qwertylist.soeu.ws/logos/CNN.png" group-title="CANAIS GERAL",CNN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/182.m3u8
+#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="http://qwertylist.soeu.ws/logos/BBC%20WORLD%20NEWS.png" group-title="CANAIS GERAL",BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/190.m3u8
+#EXTINF:-1 tvg-id="KBS World HD" tvg-name="KBS WORLD HD" tvg-logo="http://qwertylist.soeu.ws/logos/kbs.png" group-title="CANAIS GERAL",KBS WORLD HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/171.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV" tvg-logo="http://qwertylist.soeu.ws/logos/ARTV.png" group-title="CANAIS GERAL",ARTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/39.m3u8
+#EXTINF:-1 tvg-id="Bloomberg (I)" tvg-name="BLOOMBERG" tvg-logo="http://qwertylist.soeu.ws/logos/BLOOMBERG.png" group-title="CANAIS GERAL",BLOOMBERG
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mastersrv.m3srv.top:8080/live/Joaoandre/bJbAlH68Wy/189.m3u8

@@ -1,342 +1,328 @@
 #EXTM3U
 -----------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1 FHD" tvg-logo="" group-title="PORTUGAL",PT:RTP 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 1" tvg-logo="" group-title="PORTUGAL",PT:RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10289.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2 FHD" tvg-logo="" group-title="PORTUGAL",PT:RTP 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 2" tvg-logo="" group-title="PORTUGAL",PT:RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC FHD" tvg-logo="" group-title="PORTUGAL",PT:SIC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10292.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC" tvg-logo="" group-title="PORTUGAL",PT:SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI FHD" tvg-logo="" group-title="PORTUGAL",PT:TVI FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10294.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI" tvg-logo="" group-title="PORTUGAL",PT:TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CMTV FHD" tvg-logo="" group-title="PORTUGAL",PT:CMTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CMTV" tvg-logo="" group-title="PORTUGAL",PT:CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI 24 FHD" tvg-logo="" group-title="PORTUGAL",PT:TVI 24 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI 24" tvg-logo="" group-title="PORTUGAL",PT:TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC NOTICIAS FHD" tvg-logo="" group-title="PORTUGAL",PT:SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC NOTICIAS" tvg-logo="" group-title="PORTUGAL",PT:SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP 3" tvg-logo="" group-title="PORTUGAL",PT:RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Porto Canal FHD" tvg-logo="" group-title="PORTUGAL",PT:Porto Canal FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:PORTO CANAL" tvg-logo="" group-title="PORTUGAL",PT:PORTO CANAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:A Bola TV FHD" tvg-logo="" group-title="PORTUGAL",PT:A Bola TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:A BOLA TV" tvg-logo="" group-title="PORTUGAL",PT:A BOLA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI FICCAO" tvg-logo="" group-title="PORTUGAL",PT:TVI FICCAO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI Reality FHD" tvg-logo="" group-title="PORTUGAL",PT:TVI Reality FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TVI REALITY" tvg-logo="" group-title="PORTUGAL",PT:TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC MULHER FHD" tvg-logo="" group-title="PORTUGAL",PT:SIC MULHER FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10310.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC CARAS" tvg-logo="" group-title="PORTUGAL",PT:SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC MULHER" tvg-logo="" group-title="PORTUGAL",PT:SIC MULHER
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC RADICAL FHD" tvg-logo="" group-title="PORTUGAL",PT:SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC RADICAL" tvg-logo="" group-title="PORTUGAL",PT:SIC RADICAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP ACORES" tvg-logo="" group-title="PORTUGAL",PT:RTP ACORES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",PT:RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",PT:RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:RTP AFRICA" tvg-logo="" group-title="PORTUGAL",PT:RTP AFRICA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Casa e Cozinha HD" tvg-logo="" group-title="PORTUGAL",PT:Casa e Cozinha HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CANAL Q" tvg-logo="" group-title="PORTUGAL",PT:CANAL Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV RECORD" tvg-logo="" group-title="PORTUGAL",PT:TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Globo FHD" tvg-logo="" group-title="PORTUGAL",PT:Globo FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:GLOBO" tvg-logo="" group-title="PORTUGAL",PT:GLOBO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:GLOBO NOW" tvg-logo="" group-title="PORTUGAL",PT:GLOBO NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CANAL PANDA" tvg-logo="" group-title="PORTUGAL",PT:CANAL PANDA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT:DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",PT:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NICKELODEON" tvg-logo="" group-title="PORTUGAL",PT:NICKELODEON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NICK JR" tvg-logo="" group-title="PORTUGAL",PT:NICK JR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",PT:CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:canção nova" tvg-logo="" group-title="PORTUGAL",PT:canção nova
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BABY TV" tvg-logo="" group-title="PORTUGAL",PT:BABY TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:JIM JAM" tvg-logo="" group-title="PORTUGAL",PT:JIM JAM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BIGGS" tvg-logo="" group-title="PORTUGAL",PT:BIGGS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SIC K" tvg-logo="" group-title="PORTUGAL",PT:SIC K
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""----FIMES E SERIES----"" tvg-logo="" group-title="PORTUGAL","----FIMES E SERIES----"
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE TOP FHD" tvg-logo="" group-title="PORTUGAL",PT:TV CINE TOP FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE TOP" tvg-logo="" group-title="PORTUGAL",PT:TV CINE TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE EDITION FHD" tvg-logo="" group-title="PORTUGAL",PT:TV CINE EDITION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE EDITION" tvg-logo="" group-title="PORTUGAL",PT:TV CINE EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE EMOTION FHD" tvg-logo="" group-title="PORTUGAL",PT:TV CINE EMOTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE EMOTION" tvg-logo="" group-title="PORTUGAL",PT:TV CINE EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE ACTION FHD" tvg-logo="" group-title="PORTUGAL",PT:TV CINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV CINE ACTION" tvg-logo="" group-title="PORTUGAL",PT:TV CINE ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NOS STUDIOS FHD" tvg-logo="" group-title="PORTUGAL",PT:NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:HOLLYWOOD FHD" tvg-logo="" group-title="PORTUGAL",PT:HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:HOLLYWOOD" tvg-logo="" group-title="PORTUGAL",PT:HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN FHD" tvg-logo="" group-title="PORTUGAL",PT:AXN FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN" tvg-logo="" group-title="PORTUGAL",PT:AXN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN WHITE FHD" tvg-logo="" group-title="PORTUGAL",PT:AXN WHITE FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN WHITE" tvg-logo="" group-title="PORTUGAL",PT:AXN WHITE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN MOVIES FHD" tvg-logo="" group-title="PORTUGAL",PT:AXN MOVIES FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AXN MOVIES" tvg-logo="" group-title="PORTUGAL",PT:AXN MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX" tvg-logo="" group-title="PORTUGAL",PT:FOX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX FHD" tvg-logo="" group-title="PORTUGAL",PT:FOX FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX MOVIES FHD" tvg-logo="" group-title="PORTUGAL",PT:FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10356.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX MOVIES" tvg-logo="" group-title="PORTUGAL",PT:FOX MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX CRIME FHD" tvg-logo="" group-title="PORTUGAL",PT:FOX CRIME FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX COMEDY FHD" tvg-logo="" group-title="PORTUGAL",PT:FOX COMEDY FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT:FOX COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX LIFE FHD" tvg-logo="" group-title="PORTUGAL",PT:FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX LIFE" tvg-logo="" group-title="PORTUGAL",PT:FOX LIFE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CINEMUNDO FHD" tvg-logo="" group-title="PORTUGAL",PT:CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CINEMUNDO" tvg-logo="" group-title="PORTUGAL",PT:CINEMUNDO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SYFY HD" tvg-logo="" group-title="PORTUGAL",PT:SYFY HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SYFY" tvg-logo="" group-title="PORTUGAL",PT:SYFY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AMC FHD" tvg-logo="" group-title="PORTUGAL",PT:AMC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AMC" tvg-logo="" group-title="PORTUGAL",PT:AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""-----DESPORTO-----"" tvg-logo="" group-title="PORTUGAL","-----DESPORTO-----"
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 4K UHD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 4K UHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CANAL 11 FHD" tvg-logo="" group-title="PORTUGAL",PT:CANAL 11 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV NBA" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NBA TV" tvg-logo="" group-title="PORTUGAL",PT:NBA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV + FHD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV + FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV+" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV+
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV +" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV +
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1 HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 2 FHD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 2 HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 2" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 3 FHD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 3 SD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 3 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 4" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 5 HD" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 5" tvg-logo="" group-title="PORTUGAL",PT:SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BTV HD" tvg-logo="" group-title="PORTUGAL",PT:BTV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BTV 1 FHD" tvg-logo="" group-title="PORTUGAL",PT:BTV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BTV 1" tvg-logo="" group-title="PORTUGAL",PT:BTV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 1 SD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGAL",PT:ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Sporting Tv FHD" tvg-logo="" group-title="PORTUGAL",PT:Sporting Tv FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORTING TV" tvg-logo="" group-title="PORTUGAL",PT:SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:EUROSPORT 1 FHD" tvg-logo="" group-title="PORTUGAL",PT:EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:EUROSPORT 1" tvg-logo="" group-title="PORTUGAL",PT:EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:EUROSPORT 2" tvg-logo="" group-title="PORTUGAL",PT:EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:PFC" tvg-logo="" group-title="PORTUGAL",PT:PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:KOMBAT SPORT" tvg-logo="" group-title="PORTUGAL",PT:KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:MOTORVISION" tvg-logo="" group-title="PORTUGAL",PT:MOTORVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Fuel TV FHD" tvg-logo="" group-title="PORTUGAL",PT:Fuel TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FUEL TV" tvg-logo="" group-title="PORTUGAL",PT:FUEL TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CACA E PESCA" tvg-logo="" group-title="PORTUGAL",PT:CACA E PESCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CACAVISION" tvg-logo="" group-title="PORTUGAL",PT:CACAVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FUNBOX 4K" tvg-logo="" group-title="PORTUGAL",PT:FUNBOX 4K
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FTV" tvg-logo="" group-title="PORTUGAL",PT:FTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Ginx" tvg-logo="" group-title="PORTUGAL",PT:Ginx
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TOROS TV" tvg-logo="" group-title="PORTUGAL",PT:TOROS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CRIME+INVESTIGATION" tvg-logo="" group-title="PORTUGAL",PT:CRIME+INVESTIGATION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:E! Entertainement FHD" tvg-logo="" group-title="PORTUGAL",PT:E! Entertainement FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:E! ENTERTAINEMENT" tvg-logo="" group-title="PORTUGAL",PT:E! ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TLC" tvg-logo="" group-title="PORTUGAL",PT:TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:DISCOVERY FHD" tvg-logo="" group-title="PORTUGAL",PT:DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT:DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="PORTUGAL",PT:ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="PORTUGAL",PT:NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:National Geographic" tvg-logo="" group-title="PORTUGAL",PT:National Geographic
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Nat Geo Wild HD" tvg-logo="" group-title="PORTUGAL",PT:Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="PORTUGAL",PT:NATIONAL GEOGRAPHIC WILD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CBS REALITY" tvg-logo="" group-title="PORTUGAL",PT:CBS REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BBC ENTERTAINEMENT" tvg-logo="" group-title="PORTUGAL",PT:BBC ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BBC WORLD NEWS" tvg-logo="" group-title="PORTUGAL",PT:BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:24 KITCHEN FHD" tvg-logo="" group-title="PORTUGAL",PT:24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Food Network" tvg-logo="" group-title="PORTUGAL",PT:Food Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Blaze FHD" tvg-logo="" group-title="PORTUGAL",PT:Blaze FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:BLAZE" tvg-logo="" group-title="PORTUGAL",PT:BLAZE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CNN" tvg-logo="" group-title="PORTUGAL",PT:CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:FOX News" tvg-logo="" group-title="PORTUGAL",PT:FOX News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:EURONEWS" tvg-logo="" group-title="PORTUGAL",PT:EURONEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:EUROCHANNEL" tvg-logo="" group-title="PORTUGAL",PT:EUROCHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ARTV" tvg-logo="" group-title="PORTUGAL",PT:ARTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:HISTORIA" tvg-logo="" group-title="PORTUGAL",PT:HISTORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Odisseia FHD" tvg-logo="" group-title="PORTUGAL",PT:Odisseia FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:ODISSEIA" tvg-logo="" group-title="PORTUGAL",PT:ODISSEIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TRAVEL CHANNEL FHD" tvg-logo="" group-title="PORTUGAL",PT:TRAVEL CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - TVE INTERNACIONAL" tvg-logo="" group-title="PORTUGAL",PT - TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:Deutche Welle" tvg-logo="" group-title="PORTUGAL",PT:Deutche Welle
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:CNBC" tvg-logo="" group-title="PORTUGAL",PT:CNBC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT:AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:MCM POP" tvg-logo="" group-title="PORTUGAL",PT:MCM POP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:MTV FHD" tvg-logo="" group-title="PORTUGAL",PT:MTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:MTV PORTUGAL" tvg-logo="" group-title="PORTUGAL",PT:MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:MEZZO" tvg-logo="" group-title="PORTUGAL",PT:MEZZO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TRACE TOCA" tvg-logo="" group-title="PORTUGAL",PT:TRACE TOCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TRACE URBAN" tvg-logo="" group-title="PORTUGAL",PT:TRACE URBAN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:VH1" tvg-logo="" group-title="PORTUGAL",PT:VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT:TV Galicia HD" tvg-logo="" group-title="PORTUGAL",PT:TV Galicia HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://betahizmet.com:8080/live/erkan232/Rqg5M9TdWa/10457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|GENERAL|-------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|GENERAL|-------------------------------------.png" group-title="PT General",PT:-----|GENERAL|-------------------------------------
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/60647.m3u8
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT003:Afro Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT003AfroMusic.png" group-title="PT General",PT003:Afro Music
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3247.m3u8
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT005:ARTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT005ARTV.png" group-title="PT General",PT005:ARTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3245.m3u8
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT017:Casa E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3233.m3u8
+#EXTINF:-1 tvg-id="cbs.reality.pt" tvg-name="PT018:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT018CBSReality.png" group-title="PT General",PT018:CBS Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3232.m3u8
+#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="PT024:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT024E!Entertainment.png" group-title="PT General",PT024:E! Entertainment
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3226.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT027:Euro Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT027EuroSportNews.png" group-title="PT General",PT027:Euro Sport News
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3223.m3u8
+#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="PT031:Fox Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT031FoxLife.png" group-title="PT General",PT031:Fox Life
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3219.m3u8
+#EXTINF:-1 tvg-id="fuel.pt" tvg-name="PT033:Fuel TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT033FuelTV.png" group-title="PT General",PT033:Fuel TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3217.m3u8
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT034:Globo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT034Globo.png" group-title="PT General",PT034:Globo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3216.m3u8
+#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="PT043:MTV Portuga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT043MTVPortuga.png" group-title="PT General",PT043:MTV Portuga
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3207.m3u8
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT050:Porto Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT050PortoCanal.png" group-title="PT General",PT050:Porto Canal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3200.m3u8
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="PT051:RTP 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png" group-title="PT General",PT051:RTP 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3199.m3u8
+#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="PT052:RTP 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png" group-title="PT General",PT052:RTP 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3198.m3u8
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="PT053:RTP 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png" group-title="PT General",PT053:RTP 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3197.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT054:Sic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png" group-title="PT General",PT054:Sic
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3196.m3u8
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="PT055:SIC Mulher" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png" group-title="PT General",PT055:SIC Mulher
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3195.m3u8
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="PT056:SIC Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png" group-title="PT General",PT056:SIC Noticias
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3194.m3u8
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="PT057:SIC Radical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png" group-title="PT General",PT057:SIC Radical
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3193.m3u8
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT065:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="PT General",PT065:SYFY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3185.m3u8
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT066:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png" group-title="PT General",PT066:TLC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3184.m3u8
+#EXTINF:-1 tvg-id="travel.pt" tvg-name="PT068:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png" group-title="PT General",PT068:Travel Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3182.m3u8
+#EXTINF:-1 tvg-id="tv.galicia.pt" tvg-name="PT073:TV Galicia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png" group-title="PT General",PT073:TV Galicia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3177.m3u8
+#EXTINF:-1 tvg-id="record.pt" tvg-name="PT075:TV Record" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png" group-title="PT General",PT075:TV Record
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3175.m3u8
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT077:TVI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png" group-title="PT General",PT077:TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3173.m3u8
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT078:TVI 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png" group-title="PT General",PT078:TVI 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3172.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT079:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT079VH1.png" group-title="PT General",PT079:VH1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3171.m3u8
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT080:VH1 Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT080VH1Classic.png" group-title="PT General",PT080:VH1 Classic
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3170.m3u8
+#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="PT081:TVI REALITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT081TVIREALITY.png" group-title="PT General",PT081:TVI REALITY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT082:TVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT082TVC.png" group-title="PT General",PT082:TVC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29408.m3u8
+#EXTINF:-1 tvg-id="food.network.pt" tvg-name="PT083:Foods Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png" group-title="PT General",PT083:Foods Network
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29407.m3u8
+#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="PT084:TVI Reality HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT084TVIRealityHD.png" group-title="PT General",PT084:TVI Reality HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29406.m3u8
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT085:RTP MEMóRIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT085RTPMEMóRIA.png" group-title="PT General",PT085:RTP MEMóRIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29405.m3u8
+#EXTINF:-1 tvg-id="rtp.africa.pt" tvg-name="PT086:RTP áFRICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT086RTPáFRICA.png" group-title="PT General",PT086:RTP áFRICA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29404.m3u8
+#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT087:RTP ACORES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT087RTPACORES.png" group-title="PT General",PT087:RTP ACORES
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29403.m3u8
+#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="PT088:RTP MADEIRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT088RTPMADEIRA.png" group-title="PT General",PT088:RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29402.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT094:CM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT094CMTV.png" group-title="PT General",PT094:CM TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29396.m3u8
+#EXTINF:-1 tvg-id="canal.q.pt" tvg-name="PT096:CANAL Q" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT096CANALQ.png" group-title="PT General",PT096:CANAL Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29394.m3u8
+#EXTINF:-1 tvg-id="24.kitchen.pt" tvg-name="PT097:24 KITCHEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT09724KITCHEN.png" group-title="PT General",PT097:24 KITCHEN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29393.m3u8
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT106:Blaze" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT106Blaze.png" group-title="PT General",PT106:Blaze
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29384.m3u8
+#EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="PT107:BLOOMBERG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png" group-title="PT General",PT107:BLOOMBERG
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29383.m3u8
+#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="PT108:CACA E PESCA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png" group-title="PT General",PT108:CACA E PESCA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29382.m3u8
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="PT109:TVI FICCAO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT109TVI FICCAO.png" group-title="PT General",PT109:TVI FICCAO HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29381.m3u8
+#EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="PT110:MCM POP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT110MCM POP.png" group-title="PT General",PT110:MCM POP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29380.m3u8
+#EXTINF:-1 tvg-id="trace.urban.pt" tvg-name="PT111:Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT111Trace Urban.png" group-title="PT General",PT111:Trace Urban
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT115:TVCINE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT115TVCINE 2.png" group-title="PT General",PT115:TVCINE 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29375.m3u8
+#EXTINF:-1 tvg-id="clubbing.pt" tvg-name="PT118:TPA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT118TPA.png" group-title="PT General",PT118:TPA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29372.m3u8
+#EXTINF:-1 tvg-id="sky.news.pt" tvg-name="PT125:DOG TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT125DOGTV.png" group-title="PT General",PT125:DOG TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29365.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT126:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT126EURONEWS.png" group-title="PT General",PT126:EURONEWS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29364.m3u8
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="PT127:CACAVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT127FIGHT NETWORH.png" group-title="PT General",PT127:CACAVISION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT128:FINE LIVING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT128FINELIVING.png" group-title="PT General",PT128:FINE LIVING
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT129:RTP INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT129RTP INTERNACIONAL.png" group-title="PT General",PT129:RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29361.m3u8
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT130:Euronews" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT130Euronews.png" group-title="PT General",PT130:Euronews
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29360.m3u8
+#EXTINF:-1 tvg-id="globo.now.pt" tvg-name="PT132:Globo Now HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT132Globo Now.png" group-title="PT General",PT132:Globo Now HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29358.m3u8
+#EXTINF:-1 tvg-id="arte.pt" tvg-name="PT133:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT133A Bola TV.png" group-title="PT General",PT133:A Bola TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29357.m3u8
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT135:MOTORVISION TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT135MOTORVISION TV.png" group-title="PT General",PT135:MOTORVISION TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29355.m3u8
+#EXTINF:-1 tvg-id="trace.toca.pt" tvg-name="PT137:RTP Acores" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT137Trace TOCA.png" group-title="PT General",PT137:RTP Acores
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29353.m3u8
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT138:MEZZO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT138MEZZOHD.png" group-title="PT General",PT138:MEZZO HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29352.m3u8
+#EXTINF:-1 tvg-id="mtv.live.pt" tvg-name="PT139:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT139MTVHD.png" group-title="PT General",PT139:MTV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT140:ZAP VIVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT140ZAP VIVA.png" group-title="PT General",PT140:ZAP VIVA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29350.m3u8
+#EXTINF:-1 tvg-id="localvisao.pt" tvg-name="PT142:Localvisao" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT142Localvisao.png" group-title="PT General",PT142:Localvisao
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29348.m3u8
+#EXTINF:-1 tvg-id="globovision.pt" tvg-name="PT143:Globo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT143Globo TV.png" group-title="PT General",PT143:Globo TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29347.m3u8
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT144:PFC INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png" group-title="PT General",PT144:PFC INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29346.m3u8
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT146:TCV CABO VERDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT146CANAL 11.png" group-title="PT General",PT146:TCV CABO VERDE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT147:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT147RealMadridTV.png" group-title="PT General",PT147:CBS Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29343.m3u8
+#EXTINF:-1 tvg-id="record.news.pt" tvg-name="PT148:CHELSEA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT148Record News.png" group-title="PT General",PT148:CHELSEA TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29342.m3u8
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="PT150:Afro Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT150AFRO MUSIC.png" group-title="PT General",PT150:Afro Music
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29340.m3u8
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="PT151:Kuriakos TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT151RTPMemoria.png" group-title="PT General",PT151:Kuriakos TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT152:TV FATIMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT152TV FATIMA.png" group-title="PT General",PT152:TV FATIMA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29338.m3u8
+#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="PT153:SIC CARAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT153SIC CARAS FHD.png" group-title="PT General",PT153:SIC CARAS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|SPORTS|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png" group-title="PT Sports",PT:-----|SPORTS|--------------------------------------
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/60650.m3u8
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="PT002:A Bola TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png" group-title="PT Sports",PT002:A Bola TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3248.m3u8
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3239.m3u8
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV2.png" group-title="PT Sports",PT012:Benfica TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3238.m3u8
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV.png" group-title="PT Sports",PT013:Benfica TV 1 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3237.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT025:Euro Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png" group-title="PT Sports",PT025:Euro Sport 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3225.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="PT026:Euro Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png" group-title="PT Sports",PT026:Euro Sport 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3224.m3u8
+#EXTINF:-1 tvg-id="motors.es" tvg-name="PT040:Motors TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png" group-title="PT Sports",PT040:Motors TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3210.m3u8
+#EXTINF:-1 tvg-id="kombat.sport.pt" tvg-name="PT042:Kombat Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT042KombatSports.png" group-title="PT Sports",PT042:Kombat Sports
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3208.m3u8
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT041:Motor Vision" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png" group-title="PT Sports",PT041:Motor Vision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3209.m3u8
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT049:PFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png" group-title="PT General",PT049:PFC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3201.m3u8
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT058:Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png" group-title="PT Sports",PT058:Sport TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3192.m3u8
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT059:Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png" group-title="PT Sports",PT059:Sport TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3191.m3u8
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT060:Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png" group-title="PT Sports",PT060:Sport TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3190.m3u8
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT061:Sport TV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png" group-title="PT Sports",PT061:Sport TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3189.m3u8
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="PT062:Sport TV 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png" group-title="PT Sports",PT062:Sport TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3188.m3u8
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="PT063:SPORT TV+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png" group-title="PT Sports",PT063:SPORT TV+
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3187.m3u8
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="PT064:Sporting TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png" group-title="PT Sports",PT064:Sporting TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3186.m3u8
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT067:Toros TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png" group-title="PT Sports",PT067:Toros TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3183.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="PT093:EUROSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT093EUROSPORT.png" group-title="PT Sports",PT093:EUROSPORT
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29397.m3u8
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT098:SPORT TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png" group-title="PT Sports",PT098:SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29392.m3u8
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT099:SPORT TV 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png" group-title="PT Sports",PT099:SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29391.m3u8
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT100:SPORT TV 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png" group-title="PT Sports",PT100:SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29390.m3u8
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT101:SPORT TV 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png" group-title="PT Sports",PT101:SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29389.m3u8
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="PT102:SPORT TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT102SPORTTV1SD.png" group-title="PT Sports",PT102:SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29388.m3u8
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="PT103:SPORT TV 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT103SPORTTV2SD.png" group-title="PT Sports",PT103:SPORT TV 2 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29387.m3u8
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="PT104:SPORT TV 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT104SPORTTV3SD.png" group-title="PT Sports",PT104:SPORT TV 3 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29386.m3u8
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="PT105:SPORT TV 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29385.m3u8
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="PT112:Canal 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png" group-title="PT Sports",PT112:Canal 11
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29378.m3u8
+#EXTINF:-1 tvg-id="cancao.nova.pt" tvg-name="PT114:Cancao Nova" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png" group-title="PT Sports",PT114:Cancao Nova
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29376.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT119:ELEVEN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29371.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT120:ELEVEN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29370.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:ELEVEN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29369.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29368.m3u8
+#EXTINF:-1 tvg-id="sport.nba.pt" tvg-name="PT124:Sport TV NBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png" group-title="PT Sports",PT124:Sport TV NBA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29366.m3u8
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="PT141:NBA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png" group-title="PT Sports",PT141:NBA FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29349.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29334.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT157:Eleven Sports 1 SD" tvg-logo="" group-title="PT Sports",PT157:Eleven Sports 1 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/49966.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT158:Eleven Sports 2 HD" tvg-logo="" group-title="PT Sports",PT158:Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/49958.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT159:Eleven Sports 6 FHD" tvg-logo="" group-title="PT Sports",PT159:Eleven Sports 6 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/49032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|MOVIES|--------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|MOVIES|--------------------------------------.png" group-title="PT Movies",PT:-----|MOVIES|--------------------------------------
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/60648.m3u8
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT004:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png" group-title="PT Movies",PT004:AMC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3246.m3u8
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT006:AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png" group-title="PT Movies",PT006:AXN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3244.m3u8
+#EXTINF:-1 tvg-id="axn.black.es" tvg-name="PT007:AXN Black" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png" group-title="PT Movies",PT007:AXN Black
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3243.m3u8
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="PT008:AXN White" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png" group-title="PT Movies",PT008:AXN White
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3242.m3u8
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT019:Cine Mundo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png" group-title="PT Movies",PT019:Cine Mundo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3231.m3u8
+#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="PT028:Fox Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png" group-title="PT Movies",PT028:Fox Comedy
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3222.m3u8
+#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="PT029:Fox Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png" group-title="PT Movies",PT029:Fox Crime
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3221.m3u8
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT030:Fox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png" group-title="PT Movies",PT030:Fox
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3220.m3u8
+#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="PT032:Fox Movies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png" group-title="PT Movies",PT032:Fox Movies
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3218.m3u8
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT036:Hollywood" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png" group-title="PT Movies",PT036:Hollywood
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3214.m3u8
+#EXTINF:-1 tvg-id="MCSExtreme.pt" tvg-name="PT038:MCS Extreme" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT038MCSExtreme.png" group-title="PT Movies",PT038:MCS Extreme
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT039:MOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png" group-title="PT Movies",PT039:MOV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3211.m3u8
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="PT069:TV Cine 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png" group-title="PT Movies",PT069:TV Cine 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3181.m3u8
+#EXTINF:-1 tvg-id="Tvcine2.pt" tvg-name="PT070:TV Cine 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png" group-title="PT Movies",PT070:TV Cine 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3180.m3u8
+#EXTINF:-1 tvg-id="Tvcine3.pt" tvg-name="PT071:TV Cine 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png" group-title="PT Movies",PT071:TV Cine 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3179.m3u8
+#EXTINF:-1 tvg-id="Tvcine4.pt" tvg-name="PT072:TV Cine 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png" group-title="PT Movies",PT072:TV Cine 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3178.m3u8
+#EXTINF:-1 tvg-id="tv.globo.panorama.br" tvg-name="PT074:TV Globo Premium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT074TVGloboPremium.png" group-title="PT Movies",PT074:TV Globo Premium
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT076:TVC Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT076TVCSeries.png" group-title="PT Movies",PT076:TVC Series
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT092:NOS Studios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png" group-title="PT Movies",PT092:NOS Studios
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT131:TVCINE 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png" group-title="PT Movies",PT131:TVCINE 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT155:TV Cine 4 Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png" group-title="PT Movies",PT155:TV Cine 4 Action FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|KIDS|----------------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|KIDS|----------------------------------------.png" group-title="PT Kids",PT:-----|KIDS|----------------------------------------
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/60651.m3u8
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT009:Baby First" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT009BabyFirst.png" group-title="PT Kids",PT009:Baby First
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3241.m3u8
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="PT010:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT010BabyTV.png" group-title="PT Kids",PT010:Baby TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3240.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT015:Canal Panda" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT015CanalPanda.png" group-title="PT Kids",PT015:Canal Panda
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3235.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.pt" tvg-name="PT016:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT016CartoonNetwork.png" group-title="PT Kids",PT016:Cartoon Network
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3234.m3u8
+#EXTINF:-1 tvg-id="disney.pt" tvg-name="PT022:Disney Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT022DisneyChannel.png" group-title="PT Kids",PT022:Disney Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3228.m3u8
+#EXTINF:-1 tvg-id="disney.junior.pt" tvg-name="PT023:Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT023DisneyJunior.png" group-title="PT Kids",PT023:Disney Junior
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3227.m3u8
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT037:Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT037JimJam.png" group-title="PT Kids",PT037:Jim Jam
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3213.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="PT046:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT046Nickelodeon.png" group-title="PT Kids",PT046:Nickelodeon
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3204.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT048:Panda Biggs" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT048PandaBiggs.png" group-title="PT Kids",PT048:Panda Biggs
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT089:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT089NICKELODEON.png" group-title="PT Kids",PT089:NICKELODEON
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29401.m3u8
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT091:BIGGS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT091MCSLifestyleHD.png" group-title="PT Movies",PT091:BIGGS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29399.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT095:CANAL PANDA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT095CCTV4.png" group-title="PT Kids",PT095:CANAL PANDA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29395.m3u8
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT134:JIMJAM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT134JIMJAM.png" group-title="PT Kids",PT134:JIMJAM
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT136:Nick Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT136Nick Jr.png" group-title="PT Kids",PT136:Nick Jr
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29354.m3u8
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT145:PANDA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT145PANDAHD.png" group-title="PT Kids",PT145:PANDA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29345.m3u8
+#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="PT149:SIC K" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT149SIC K.png" group-title="PT Kids",PT149:SIC K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT154:SIC Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT154SIC Kids.png" group-title="PT Kids",PT154:SIC Kids
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT:-----|DOCUMENTARY|---------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT-----|DOCUMENTARY|---------------------------------.png" group-title="PT Doc",PT:-----|DOCUMENTARY|---------------------------------
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/60649.m3u8
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT001:A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT001AE.png" group-title="PT Doc",PT001:A&E
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3249.m3u8
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT014:Canal Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT014CanalHistoria.png" group-title="PT Doc",PT014:Canal Historia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3236.m3u8
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="PT020:Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT020DiscoveryChannel.png" group-title="PT Doc",PT020:Discovery Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3230.m3u8
+#EXTINF:-1 tvg-id="discovery.hd.showcase.se" tvg-name="PT021:Discovery Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png" group-title="PT Doc",PT021:Discovery Showcase
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3229.m3u8
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT035:Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT035Historia.png" group-title="PT Doc",PT035:Historia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3215.m3u8
+#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="PT044:NAT GEO Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT044NATGEOWild.png" group-title="PT Doc",PT044:NAT GEO Wild
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3206.m3u8
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT045:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT045NATGEO.png" group-title="PT Doc",PT045:NAT GEO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3205.m3u8
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT047:Odisseia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT047Odisseia.png" group-title="PT Doc",PT047:Odisseia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/3203.m3u8
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="PT090:NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT090NATIONALGEOGRAPHIC.png" group-title="PT Doc",PT090:NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29400.m3u8
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT113:CMTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT113CMTVFHD.png" group-title="PT Doc",PT113:CMTV FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29377.m3u8
+#EXTINF:-1 tvg-id="crime.plus.investigation.pt" tvg-name="PT116:Crime & Investigation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT116CrimeInvestigation.png" group-title="PT Doc",PT116:Crime & Investigation
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29374.m3u8
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT123:INVESTIGATION DISCOVERY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT123CHELSEATV.png" group-title="PT Doc",PT123:INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/29367.m3u8

@@ -1,670 +1,182 @@
 #EXTM3U
 -------------------------------------------------------------------
-#EXTINF:-1 tvg-id="LOLLY" tvg-name="Lolly Kids ᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/06521982cd5c553229d39fc5c3a89753.png" group-title="Portugal",Lolly Kids ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/55456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OPTO (Sic ondemand)" tvg-logo="http://www.gigatv.xyz/LOGOS/Opto.png" group-title="Portugal",OPTO (Sic ondemand)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/53669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Covid-19 Live MAP" tvg-logo="http://www.tugatf.xyz:8080/images/b7b1dc541ba98a721295e3d2a9079e7a.png" group-title="Portugal",Covid-19 Live MAP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/17474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ GENERALISTAS ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_generalistas.png" group-title="Portugal",,▂ ▄ ▅ ▆ GENERALISTAS ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/29787.m3u8
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memoria(Programa Escolar)" tvg-logo="http://www.gigatv.xyz/LOGOS/rtpMemoria.png" group-title="Portugal",RTP Memoria(Programa Escolar)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12797.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal",RTP 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12830.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://www.afrutaria.xyz:8080/images/aaba22a5d0fb4b4197491e30c3e7d10e.png" group-title="Portugal",RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12662.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 ᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/aaba22a5d0fb4b4197491e30c3e7d10e.png" group-title="Portugal",RTP 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12661.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1 ᴴ²⁶⁵" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="Portugal",RTP1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12852.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/aaba22a5d0fb4b4197491e30c3e7d10e.png" group-title="Portugal",RTP 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12660.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="Portugal",RTP 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12831.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="Portugal",RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12665.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᴴᴰ" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="Portugal",RTP 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12664.m3u8
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="RTP 2 ᴴ²⁶⁵" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="Portugal",RTP 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12853.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="Portugal",RTP 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12663.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/7793da996beec8def5dc04b3529ffd6b.png" group-title="Portugal",SIC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12832.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://www.tugatf.xyz:8080/images/8cd3ac70db7ac318cf9a0e01333940a4.png" group-title="Portugal",SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12669.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/7793da996beec8def5dc04b3529ffd6b.png" group-title="Portugal",SIC ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12668.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᴴ²⁶⁵" tvg-logo="http://www.tugatf.xyz:8080/images/7793da996beec8def5dc04b3529ffd6b.png" group-title="Portugal",SIC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12854.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/7793da996beec8def5dc04b3529ffd6b.png" group-title="Portugal",SIC ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12667.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12833.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://www.tugatf.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12672.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12671.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᴴ²⁶⁵" tvg-logo="http://www.tugatf.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12855.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_informacao.png" group-title="Portugal",,▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27542.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://4.bp.blogspot.com/-DXPsHo1f9SY/WB3MLUwb2hI/AAAAAAAAFSA/m2SDN-px_dE5xJmPtdXlHtJbWlrhzAmRgCLcB/s1600/RTP%2B3.png" group-title="Portugal",RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12666.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3 ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/a868185365d061d707f29f4ed967143e.png" group-title="Portugal",RTP 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/37138.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="Portugal",SIC NOTICIAS ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12836.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://www.afrutaria.xyz:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="Portugal",SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12673.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS ᴴ²⁶⁵" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="Portugal",SIC NOTICIAS ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12857.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC NOTICIAS ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="Portugal",SIC NOTICIAS ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12674.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/c17b946dd8f4446237ccf1b9f8412466.png" group-title="Portugal",TVI 24 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12834.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="Portugal",TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12676.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/c17b946dd8f4446237ccf1b9f8412466.png" group-title="Portugal",TVI 24 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12675.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/ec533a0c7899f8899f3741bc9889aff5.png" group-title="Portugal",CMTV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12835.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="Portugal",CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12677.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV ᴴ²⁶⁵" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="Portugal",CMTV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12856.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/ec533a0c7899f8899f3741bc9889aff5.png" group-title="Portugal",CMTV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12678.m3u8
-#EXTINF:-1 tvg-id="S+ HD" tvg-name="S+ ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/ed974d7a53c322b98bdd4ff416d4976b.png" group-title="Portugal",S+ ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30324.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="http://www.gigatv.xyz/LOGOS/artv.png" group-title="Portugal",ARTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27582.m3u8
-#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="LOCALVISAO TV ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/localvisaotv.png" group-title="Portugal",LOCALVISAO TV ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRONG BY ZUMBA" tvg-logo="http://www.tugatf.xyz:8080/images/2a0f3e6ed5b01c8ed9e5e2143ec556b8.png" group-title="Portugal",STRONG BY ZUMBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_entretenimento.png" group-title="Portugal",,▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exercício em Casa" tvg-logo="http://www.gigatv.xyz/LOGOS/exercicioemcasa.png" group-title="Portugal",Exercício em Casa
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAND UP COMEDY" tvg-logo="http://gigatv.xyz/LOGOS/standup_comedy.png" group-title="Portugal",STAND UP COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30323.m3u8
-#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="Dog TV ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/ff748f0e6bed49e4e4fb8881e82277b1.png" group-title="Portugal",Dog TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/20437.m3u8
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC CARAS ᴸᴼᵂ" tvg-logo="https://3.bp.blogspot.com/-cPBnm-irXfU/WDrqHHF2EtI/AAAAAAAAFeo/NsYVHY6886EbyyHSEZHufO_5MPtgZPEKgCLcB/s1600/SIC%2BCaras.png" group-title="Portugal",SIC CARAS ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30357.m3u8
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC CARAS" tvg-logo="http://www.tugatf.xyz:8080/images/073dde6f58824db965f1a37f4e7a64ba.png" group-title="Portugal",SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12685.m3u8
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC CARAS ᶠᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-uWdl_O_KB9g/WDtddAYE5LI/AAAAAAAAFjY/VbBtP4FkIn47qQNdysUSF_HTmrukVmnHgCLcB/s1600/SIC%2BCaras%2BHD.png" group-title="Portugal",SIC CARAS ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12686.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/13f64578414544b6e9a7a48846773cc2.png" group-title="Portugal",SIC Mulher ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30326.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC MULHER" tvg-logo="http://www.tugatf.xyz:8080/images/13f64578414544b6e9a7a48846773cc2.png" group-title="Portugal",SIC MULHER
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12687.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical  ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/9c2a277800ce90a7130b9dd6f2f5aee5.png" group-title="Portugal",SIC Radical  ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30327.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL" tvg-logo="https://2.bp.blogspot.com/-d9da1RzOwkM/WDtdeVrGYWI/AAAAAAAAFkQ/OxZYUvVTuXoyN0gw7t40I6ooMlxv4u-LwCLcB/s1600/SIC%2BRadical.png" group-title="Portugal",SIC RADICAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12688.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC RADICAL ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/9c2a277800ce90a7130b9dd6f2f5aee5.png" group-title="Portugal",SIC RADICAL ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAGIC FOR HUMANS ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/canal_magia.png" group-title="Portugal",MAGIC FOR HUMANS ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/29774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS MALUCOS DO RISO ₂₄ʰᵒʳᵃˢ" tvg-logo="" group-title="Portugal",OS MALUCOS DO RISO ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/51711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OS BATANETES ₂₄ʰᵒʳᵃˢ" tvg-logo="" group-title="Portugal",OS BATANETES ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/51712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apanhados" tvg-logo="http://gigatv.xyz/LOGOS/Apanhados.png" group-title="Portugal",Apanhados
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apanhados 2" tvg-logo="http://gigatv.xyz/LOGOS/Apanhados.png" group-title="Portugal",Apanhados 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORTUGAL A RIR" tvg-logo="http://www.gigatv.xyz/LOGOS/portugalarir.png" group-title="Portugal",PORTUGAL A RIR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22698.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICCAO ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/dffc5112db1884a89b40ffb6d28f9dae.png" group-title="Portugal",TVI FICCAO ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12837.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICCAO" tvg-logo="http://www.afrutaria.xyz:8080/images/dffc5112db1884a89b40ffb6d28f9dae.png" group-title="Portugal",TVI FICCAO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12690.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI FICCAO ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="Portugal",TVI FICCAO ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12858.m3u8
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI REALITY ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="Portugal",TVI REALITY ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30370.m3u8
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="TVI REALITY" tvg-logo="http://www.tugatf.xyz:8080/images/41c5be3630949a57d8878d0133c5470a.png" group-title="Portugal",TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12691.m3u8
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/41c5be3630949a57d8878d0133c5470a.png" group-title="Portugal",TVI Reality ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27551.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY MOSAICO" tvg-logo="http://www.gigatv.xyz/LOGOS/tvi_reality_mosaico.png" group-title="Portugal",TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27552.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY CAMARA 1" tvg-logo="http://www.gigatv.xyz/LOGOS/tvi_reality_cam1.png" group-title="Portugal",TVI REALITY CAMARA 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27553.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY CAMARA 2" tvg-logo="http://www.gigatv.xyz/LOGOS/tvi_reality_cam2.png" group-title="Portugal",TVI REALITY CAMARA 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27554.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY CAMARA 3" tvg-logo="http://www.gigatv.xyz/LOGOS/tvi_reality_cam3.png" group-title="Portugal",TVI REALITY CAMARA 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27555.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY CAMARA 4" tvg-logo="http://www.gigatv.xyz/LOGOS/tvi_reality_cam4.png" group-title="Portugal",TVI REALITY CAMARA 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27556.m3u8
-#EXTINF:-1 tvg-id="KURIAKOSTV.pt" tvg-name="KURIAKOS TV" tvg-logo="https://3.bp.blogspot.com/-SN1ztIPyfkc/WDrqEp6W0OI/AAAAAAAAFdE/GS_bKn0PN4kJ4gQ4i0Wa_-LlIsS213otACLcB/s1600/Kuriakos%2BTV.png" group-title="Portugal",KURIAKOS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12697.m3u8
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP MEMORIA ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/967cf70730e31739aefcfb7b0e1dde8b.png" group-title="Portugal",RTP MEMORIA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30356.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Acores" tvg-logo="http://www.gigatv.xyz/LOGOS/rtpAcores.png" group-title="Portugal",RTP Acores
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12795.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://www.gigatv.xyz/LOGOS/rtpMadeira.png" group-title="Portugal",RTP Madeira
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12796.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICA ᴸᴼᵂ" tvg-logo="https://2.bp.blogspot.com/-0eQhvMAc7TA/WEcxg9ftAzI/AAAAAAAAFmM/iTfKnoaIuh8vH-Azc9iQBOvQWiFTJvIFgCLcB/s1600/RTP%2B%25C3%2581frica.png" group-title="Portugal",RTP AFRICA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_documentarios.png" group-title="Portugal",,▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27550.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-name="ID Investigation Discovery ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/ID_Investigation.png" group-title="Portugal",ID Investigation Discovery ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12799.m3u8
-#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="CRIME+INVESTIGATION" tvg-logo="https://1.bp.blogspot.com/-_yMWiyQkzmI/WMBjEESIGRI/AAAAAAAAFsY/0wex-sh1pDEVk3Fu2t_QFtx0u7MIHtoGQCLcB/s1600/Crime%2B%252B%2BInvestigation.png" group-title="Portugal",CRIME+INVESTIGATION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12768.m3u8
-#EXTINF:-1 tvg-id="AbE" tvg-name="BLAZE ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/9084994342186c542e75b2fc5241c547.png" group-title="Portugal",BLAZE ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12800.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="NATIONAL GEOGRAPHIC WILD ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/c68f05d4e52f9374490fedf9571a8b1f.png" group-title="Portugal",NATIONAL GEOGRAPHIC WILD ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30350.m3u8
-#EXTINF:-1 tvg-id="NGCWILD" tvg-name="NAT GEO WILD ᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-TXZQU0EIc6Q/TljSa9rT5RI/AAAAAAAAAg0/1_O03ig9jTE/s1600/Nat+Geo+Wild.png" group-title="Portugal",NAT GEO WILD ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12801.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NATIONAL GEOGRAPHIC ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/4385e0b8247d279964baa2c14098c007.png" group-title="Portugal",NATIONAL GEOGRAPHIC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30349.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/3a73243697428511e669b43967b4e544.png" group-title="Portugal",NATIONAL GEOGRAPHIC ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12802.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="DISCOVERY CHANNEL ᴸᴼᵂ" tvg-logo="" group-title="Portugal",DISCOVERY CHANNEL ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30365.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="DISCOVERY CHANNEL ᶠᴴᴰ" tvg-logo="https://3.bp.blogspot.com/--eh0vxQMh74/T_WDvyEDLjI/AAAAAAAACQw/A5QpBn-m0TA/s1600/Discovery+Channel.png" group-title="Portugal",DISCOVERY CHANNEL ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12803.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="HISTORIA ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="Portugal",HISTORIA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30347.m3u8
-#EXTINF:-1 tvg-id="HIST" tvg-name="HISTORIA ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.png" group-title="Portugal",HISTORIA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12808.m3u8
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="ODISSEIA ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/odisseia.png" group-title="Portugal",ODISSEIA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12810.m3u8
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="CANAL Q" tvg-logo="http://www.gigatv.xyz/LOGOS/canalQ.png" group-title="Portugal",CANAL Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12811.m3u8
-#EXTINF:-1 tvg-id="QYOU SD" tvg-name="QYOU" tvg-logo="http://www.gigatv.xyz/LOGOS/QYOU.png" group-title="Portugal",QYOU
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27569.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="TRAVEL CHANNEL ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/travelchannel_hd.png" group-title="Portugal",TRAVEL CHANNEL ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12812.m3u8
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="http://www.gigatv.xyz/LOGOS/cbsreality.png" group-title="Portugal",CBS Reality
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ Desporto ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_desporto.png" group-title="Portugal",,▂ ▄ ▅ ▆ Desporto ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27544.m3u8
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SPORT TV + ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="Portugal",SPORT TV + ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12845.m3u8
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SPORT TV +" tvg-logo="http://www.tugatf.xyz:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="Portugal",SPORT TV +
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12708.m3u8
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="SPORT TV + ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/8daddffa6b1a4dc4ff255019fe43e918.png" group-title="Portugal",SPORT TV + ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12709.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="LIGA NOS 1 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/bf37873844e5c1973dd440e91f42db66.png" group-title="Portugal",LIGA NOS 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47197.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="LIGA NOS 1" tvg-logo="http://www.tugatf.xyz:8080/images/bf37873844e5c1973dd440e91f42db66.png" group-title="Portugal",LIGA NOS 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47198.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="LIGA NOS 1 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/bf37873844e5c1973dd440e91f42db66.png" group-title="Portugal",LIGA NOS 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47199.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="LIGA NOS 1 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/bf37873844e5c1973dd440e91f42db66.png" group-title="Portugal",LIGA NOS 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47200.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Portugal",SPORT TV 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47201.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="SPORT TV 1" tvg-logo="http://www.tugatf.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Portugal",SPORT TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47202.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Portugal",SPORT TV 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47203.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᴴ²⁶⁵" tvg-logo="http://www.tugatf.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Portugal",SPORT TV 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47204.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="Portugal",SPORT TV 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47205.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Portugal",SPORT TV 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47206.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="http://www.tugatf.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Portugal",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47207.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47208.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᴴ²⁶⁵" tvg-logo="http://www.tugatf.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Portugal",SPORT TV 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47209.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/47210.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 ᴸᴼᵂ" tvg-logo="https://4.bp.blogspot.com/-ATzzmaosqX0/WDrqInrttZI/AAAAAAAAFfk/uqCyJ8s1LVsdH8TBhHEWn41pfO3a2zoyQCLcB/s1600/Sport%2BTV%2B3%2BHD.png" group-title="Portugal",SPORT TV 3 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12842.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://www.tugatf.xyz:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="Portugal",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12716.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/522905ee236f0e9f5f275151cf5a5bf0.png" group-title="Portugal",SPORT TV 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12717.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 ᴴ²⁶⁵" tvg-logo="http://www.afrutaria.xyz:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="Portugal",SPORT TV 3 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12861.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="Portugal",SPORT TV 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12718.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 ᴸᴼᵂ" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="Portugal",SPORT TV 4 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12841.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://www.afrutaria.xyz:8080/images/3c71a17866a47a476f8b1d5259947326.png" group-title="Portugal",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12719.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-OXNeWw-o5Co/WDrqIyw-UyI/AAAAAAAAFf0/ltUXuUuQesAwxFVV13HDM-o-0FDIbUCiQCLcB/s1600/Sport%2BTV%2B4%2BHD.png" group-title="Portugal",SPORT TV 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12720.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="Portugal",SPORT TV 4 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12862.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-OXNeWw-o5Co/WDrqIyw-UyI/AAAAAAAAFf0/ltUXuUuQesAwxFVV13HDM-o-0FDIbUCiQCLcB/s1600/Sport%2BTV%2B4%2BHD.png" group-title="Portugal",SPORT TV 4 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12721.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 ᴸᴼᵂ" tvg-logo="https://4.bp.blogspot.com/-P_Irch9eEPc/WDrqJeGZnpI/AAAAAAAAFgM/53QW32DpWPI8SnpWhzyfl83KQSkdy_wggCLcB/s1600/Sport%2BTV%2B5.png" group-title="Portugal",SPORT TV 5 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12840.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://www.tugatf.xyz:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="Portugal",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12722.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="Portugal",SPORT TV 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12723.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 ᴴ²⁶⁵" tvg-logo="http://www.afrutaria.xyz:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="Portugal",SPORT TV 5 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12863.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/2c01898ca7636d4bf37e36d6cfb05a33.png" group-title="Portugal",SPORT TV 5 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12724.m3u8
-#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name="SPORT TV NBA ᴸᴼᵂ" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="Portugal",SPORT TV NBA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30359.m3u8
-#EXTINF:-1 tvg-id="NBA.pt" tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/c0a7cd4efc140919d63d869498bd2192.png" group-title="Portugal",SPORT TV NBA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12725.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="ELEVEN SPORTS 1 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/f3d9e938a6e47a441b974404c4a4bc3b.png" group-title="Portugal",ELEVEN SPORTS 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12839.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.tugatf.xyz:8080/images/f3d9e938a6e47a441b974404c4a4bc3b.png" group-title="Portugal",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12700.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1  ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/f3d9e938a6e47a441b974404c4a4bc3b.png" group-title="Portugal",ELEVEN SPORT 1  ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12699.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/f3d9e938a6e47a441b974404c4a4bc3b.png" group-title="Portugal",ELEVEN SPORTS 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12698.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="ELEVEN SPORTS 2 ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/f370900760da3985d5afb0bd94b37e06.png" group-title="Portugal",ELEVEN SPORTS 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12838.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Elevensport2.png" group-title="Portugal",ELEVEN SPORTS 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12702.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Elevensport2.png" group-title="Portugal",ELEVEN SPORTS 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12701.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3 ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/66c39afdd163bb712d4d366b1d90639c.png" group-title="Portugal",Eleven Sports 3 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30329.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/92537082d1c9dd03beb4b242eae4f56f.png" group-title="Portugal",ELEVEN SPORTS 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12704.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Elevensport3.png" group-title="Portugal",ELEVEN SPORTS 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12703.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/0d877ff0b2315a466b1588a35a7eaaac.png" group-title="Portugal",Eleven Sports 4 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30330.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Elevensport4.png" group-title="Portugal",ELEVEN SPORTS 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12705.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/d157eb228b431e82c3f1730314d98f78.png" group-title="Portugal",ELEVEN SPORTS 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/17378.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Elevensport6.png" group-title="Portugal",ELEVEN SPORTS 6 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12707.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="Portugal",BTV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12846.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1" tvg-logo="http://www.tugatf.xyz:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="Portugal",BTV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12728.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="Portugal",BTV 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12729.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV ᴴ²⁶⁵" tvg-logo="http://www.tugatf.xyz:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="Portugal",BTV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12865.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV 1 ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/a253e009ed69af56e7e8ee535412963b.png" group-title="Portugal",BTV 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12730.m3u8
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/ce0d32f6c9751744604980668c98cf81.png" group-title="Portugal",Canal 11 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30328.m3u8
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="CANAL 11 ᴴ²⁶⁵" tvg-logo="http://www.gigatv.xyz/LOGOS/canal_11.png" group-title="Portugal",CANAL 11 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12864.m3u8
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11 ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/canal_11.png" group-title="Portugal",Canal 11 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12727.m3u8
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PORTO CANAL ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/c1fd58a3c81f79156ce3b2162f0b4404.png" group-title="Portugal",PORTO CANAL ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30354.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL" tvg-logo="https://2.bp.blogspot.com/-dWNRMWROVig/WB8teBVMcLI/AAAAAAAAFV0/OLjZpFdAf5su5dCSH40NYMVGfEfi80aCQCLcB/s1600/Porto%2BCanal.png" group-title="Portugal",PORTO CANAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12731.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PORTO CANAL ᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-dWNRMWROVig/WB8teBVMcLI/AAAAAAAAFV0/OLjZpFdAf5su5dCSH40NYMVGfEfi80aCQCLcB/s1600/Porto%2BCanal.png" group-title="Portugal",PORTO CANAL ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12732.m3u8
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="SPORTING TV" tvg-logo="http://www.tugatf.xyz:8080/images/03ceb74cd36fce49597fec4dcc56e597.png" group-title="Portugal",SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12733.m3u8
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="SPORTING TV ᶠᴴᴰ" tvg-logo="https://4.bp.blogspot.com/-4gk2BX8QIQ8/WDrqJ1O9oTI/AAAAAAAAFgg/8AvmigyRL9o5r0J9tDRZ3y98rvoEkvwAACLcB/s1600/Sporting%2BTV.png" group-title="Portugal",SPORTING TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12734.m3u8
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A BOLA TV ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/d468c5af208f9d6216065c39d1304507.png" group-title="Portugal",A BOLA TV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30340.m3u8
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A BOLA TV ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/d468c5af208f9d6216065c39d1304507.png" group-title="Portugal",A BOLA TV ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTO GP" tvg-logo="http://www.gigatv.xyz/LOGOS/motoGP.png" group-title="Portugal",MOTO GP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/49413.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1 ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/ff67d15d346ad2500cb470d5208c2de6.png" group-title="Portugal",EUROSPORT 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30345.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="https://1.bp.blogspot.com/-VOEgPV2pzWo/WB8tb1GjgqI/AAAAAAAAFUY/CCNjphoNme0M8fHOxpPU3Hbuf--jqASgwCLcB/s1600/Eurosport%2B1%2BHD.png" group-title="Portugal",Eurosport 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12736.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="EUROSPORT 1 ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/99c4054c2f63ae0aee581eb492d62662.png" group-title="Portugal",EUROSPORT 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12737.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="https://4.bp.blogspot.com/-iUtN_nYOvxY/WB8tcl3m-1I/AAAAAAAAFU4/hba7AI03JlkFNdL5KVB3r01ogapKxW9dQCLcB/s1600/Eurosport%2B2.png" group-title="Portugal",EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12738.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC ᴸᴼᵂ" tvg-logo="https://1.bp.blogspot.com/-_EJLG3X0LLk/TljSeB3x6KI/AAAAAAAAAho/n1d9FLoQzuI/s1600/PFC.png" group-title="Portugal",PFC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30353.m3u8
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="https://1.bp.blogspot.com/-_EJLG3X0LLk/TljSeB3x6KI/AAAAAAAAAho/n1d9FLoQzuI/s1600/PFC.png" group-title="Portugal",PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12739.m3u8
-#EXTINF:-1 tvg-id="Barça TV" tvg-name="BARÇA TV" tvg-logo="http://www.gigatv.xyz/LOGOS/barcatv.png" group-title="Portugal",BARÇA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21681.m3u8
-#EXTINF:-1 tvg-id="OSN WWE Network HD ARB" tvg-name="WWE NETWORK " tvg-logo="http://www.tugatf.xyz:8080/images/1e98a0c75a3add9a2f18a9139879c619.png" group-title="Portugal",WWE NETWORK 
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network - Live Events And NHL CA" tvg-logo="http://www.tugatf.xyz:8080/images/8b35dd330ad9fe02ac5467cb4b5e28d2.png" group-title="Portugal",NHL Network - Live Events And NHL CA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/29710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://www.gigatv.xyz/LOGOS/nfl_network.png" group-title="Portugal",NFL Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://www.tugatf.xyz:8080/images/ad7fd801d41145d3d9e9d4dfbc65c63a.png" group-title="Portugal",RED BULL TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/19690.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/canal_combate.png" group-title="Portugal",COMBATE ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/49412.m3u8
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="KOMBAT SPORT" tvg-logo="https://4.bp.blogspot.com/-VjA3VTQtHT0/UMH5uMjip6I/AAAAAAAADWI/31tZiNrYL0c/s1600/Kombat+Sport.png" group-title="Portugal",KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12741.m3u8
-#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/fightnetwork.png" group-title="Portugal",Fight Network ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT" tvg-logo="http://www.gigatv.xyz/LOGOS/trace_sports.png" group-title="Portugal",TRACE SPORT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/19692.m3u8
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="FUEL TV ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/21edc23004bd05a8390f664c039ffeb4.png" group-title="Portugal",FUEL TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12740.m3u8
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="MOTORVISION ᶠᴴᴰ" tvg-logo="https://4.bp.blogspot.com/-6rQ6tN80m-w/VSenjQAUn2I/AAAAAAAAEzA/GSeLb9DvakQ/s1600/Motorvision%2BHD.png" group-title="Portugal",MOTORVISION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12742.m3u8
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="CACA e PESCA ᶠᴴᴰ" tvg-logo="https://3.bp.blogspot.com/-Yq8po_kg7Iw/WDrqCRAMgHI/AAAAAAAAFbg/CKVZe_GVu5EpVRJ4XJ17kyXmT1UkMf_XgCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca.png" group-title="Portugal",CACA e PESCA ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12743.m3u8
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="CACA E PESCA" tvg-logo="https://3.bp.blogspot.com/-Yq8po_kg7Iw/WDrqCRAMgHI/AAAAAAAAFbg/CKVZe_GVu5EpVRJ4XJ17kyXmT1UkMf_XgCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca.png" group-title="Portugal",CACA E PESCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12744.m3u8
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Cacavision" tvg-logo="http://www.tugatf.xyz:8080/images/972f3fee0660dff635ccfeac91e4084e.png" group-title="Portugal",Cacavision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12745.m3u8
-#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="TOROS TV" tvg-logo="https://1.bp.blogspot.com/-vMx80pqb12w/T14V5Q5drzI/AAAAAAAAB5o/qcvGhMSTkfU/s1600/Toros+TV.png" group-title="Portugal",TOROS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ CINEMA ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_cinema.png" group-title="Portugal",,▂ ▄ ▅ ▆ CINEMA ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27546.m3u8
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios" tvg-logo="https://4.bp.blogspot.com/-C5_Sh3G6YME/U96OkNnxjnI/AAAAAAAAEn4/JSp9D2onkXI/s1600/NOS+logo.png" group-title="Portugal",NOS Studios
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/17471.m3u8
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/da5c705b2b0c0fa5cb683a98b43e2ce5.png" group-title="Portugal",NOS Studios ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12748.m3u8
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="HOLLYWOOD ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/7dcfe5ca33eb30d57666c10d277095aa.png" group-title="Portugal",HOLLYWOOD ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12847.m3u8
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="HOLLYWOOD" tvg-logo="http://www.tugatf.xyz:8080/images/7dcfe5ca33eb30d57666c10d277095aa.png" group-title="Portugal",HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12750.m3u8
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="HOLLYWOOD ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-ljZJjmYsgiQ/TljSAOupUcI/AAAAAAAAAbA/EmWRB_AC_ZA/s1600/Canal+Hollywood.png" group-title="Portugal",HOLLYWOOD ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12870.m3u8
-#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="HOLLYWOOD ᶠᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-ljZJjmYsgiQ/TljSAOupUcI/AAAAAAAAAbA/EmWRB_AC_ZA/s1600/Canal+Hollywood.png" group-title="Portugal",HOLLYWOOD ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/HBO_Portugal.png" group-title="Portugal",HBO ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/19189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Marvel.png" group-title="Portugal",MARVEL ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/19190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL2 ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Marvel.png" group-title="Portugal",MARVEL2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/24943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Netflix.png" group-title="Portugal",NETFLIX ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX2 ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/Netflix.png" group-title="Portugal",NETFLIX2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX kids" tvg-logo="http://www.tugatf.xyz:8080/images/c6cdf3ea7ff8b23512c51c7b3cfddaf3.png" group-title="Portugal",NETFLIX kids
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/26005.m3u8
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TV CINE TOP ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/d7cad5b714213e814cca0d885b07a083.png" group-title="Portugal",TV CINE TOP ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12848.m3u8
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE TOP" tvg-logo="http://www.tugatf.xyz:8080/images/d7cad5b714213e814cca0d885b07a083.png" group-title="Portugal",TVCINE TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12752.m3u8
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TV CINE TOP ᴴ²⁶⁵" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineTop.png" group-title="Portugal",TV CINE TOP ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12866.m3u8
-#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVCINE TOP  ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineTop.png" group-title="Portugal",TVCINE TOP  ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12753.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TV CINE EDITION ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/6de9f27ae688b0f4f996c15dcf54ef8c.png" group-title="Portugal",TV CINE EDITION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12849.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCINE EDITION" tvg-logo="http://www.tugatf.xyz:8080/images/6de9f27ae688b0f4f996c15dcf54ef8c.png" group-title="Portugal",TVCINE EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12754.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TV CINE EDITION ᴴ²⁶⁵" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineEdition.png" group-title="Portugal",TV CINE EDITION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12867.m3u8
-#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineEdition_HD.png" group-title="Portugal",TVCINE EDITION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12755.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="CINE EMOTION ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/aacd41333747e03cc078bd5b7a9e5172.png" group-title="Portugal",CINE EMOTION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12850.m3u8
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCINE EMOTION" tvg-logo="http://www.tugatf.xyz:8080/images/aacd41333747e03cc078bd5b7a9e5172.png" group-title="Portugal",TVCINE EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12756.m3u8
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TV CINE EMOTION ᴴ²⁶⁵" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineEmotion.png" group-title="Portugal",TV CINE EMOTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12868.m3u8
-#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineEmotion_HD.png" group-title="Portugal",TVCINE EMOTION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12757.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="CINE ACTION ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/c2d620c510fb3bc0cb9141b7de4c36ab.png" group-title="Portugal",CINE ACTION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12851.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE ACTION" tvg-logo="http://www.tugatf.xyz:8080/images/c2d620c510fb3bc0cb9141b7de4c36ab.png" group-title="Portugal",TVCINE ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12758.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TV CINE ACTION ᴴ²⁶⁵" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineAction.png" group-title="Portugal",TV CINE ACTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12869.m3u8
-#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/TvCineAction.png" group-title="Portugal",TVCINE ACTION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12759.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/b11a317fcd6d654f577595e63a562dd0.png" group-title="Portugal",Fox ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30339.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX ᴴ²⁶⁵" tvg-logo="https://1.bp.blogspot.com/-dnPZwdWj5s4/TljSOAwjvaI/AAAAAAAAAd8/Y5sYwXzkpEQ/s1600/Fox+HD.png" group-title="Portugal",FOX ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12871.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="Portugal",FOX ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12771.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="Fox Life ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/77f0bdf1d5736829e8a1c345633f6554.png" group-title="Portugal",Fox Life ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30337.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX LIFE ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/77f0bdf1d5736829e8a1c345633f6554.png" group-title="Portugal",FOX LIFE ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12772.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/042dba4d2faaa29cd2fa4c0125416d25.PNG" group-title="Portugal",AXN ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30332.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="Fox Crime ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/de69e139bf26ee761ad9bdfbc7bae287.png" group-title="Portugal",Fox Crime ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30338.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX CRIME ᴴᴰ" tvg-logo="https://4.bp.blogspot.com/-_arPD3IpL5k/TxXOghtmceI/AAAAAAAAA2Y/5ALf3KUtWT8/s1600/Fox+Crime.png" group-title="Portugal",FOX CRIME ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12773.m3u8
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="Fox Movies ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/a0cf68d6097c7222680915147aa5690b.png" group-title="Portugal",Fox Movies ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30336.m3u8
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX MOVIES" tvg-logo="https://1.bp.blogspot.com/-oYok4jdQpAY/TljSPD9IJOI/AAAAAAAAAeM/Pb6F-5b6Pj4/s1600/FOX+Movies.png" group-title="Portugal",FOX MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12774.m3u8
-#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX MOVIES ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/0ef7c2dad41f05ea8953a1e59865520d.png" group-title="Portugal",FOX MOVIES ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12775.m3u8
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="Portugal",FOX COMEDY ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30366.m3u8
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY" tvg-logo="https://1.bp.blogspot.com/-Y72eTexPjIE/WB8tc1bqy3I/AAAAAAAAFVI/FAxaGEK9-rMfPLrqXApuBelMNdcUHWUagCLcB/s1600/FOX%2BComedy.png" group-title="Portugal",FOX COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12776.m3u8
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX COMEDY ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="Portugal",FOX COMEDY ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12777.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="http://www.tugatf.xyz:8080/images/042dba4d2faaa29cd2fa4c0125416d25.PNG" group-title="Portugal",AXN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12761.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN ᶠᴴᴰ" tvg-logo="https://1.bp.blogspot.com/-kgGEp8DcjDA/WDrqAyUIt-I/AAAAAAAAFag/BsLySD6bwQwN0V4bCWGyNi7SQKekRx9UQCLcB/s1600/AXN%2BHD.png" group-title="Portugal",AXN ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12760.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/562a5a0800e8c99a2bfd2dc71581a3e3.png" group-title="Portugal",AXN White ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30333.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN WHITE ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/562a5a0800e8c99a2bfd2dc71581a3e3.png" group-title="Portugal",AXN WHITE ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12769.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="AXN MOVIES ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/9b1954ef5b98e226f2a624d020fb18e9.png" group-title="Portugal",AXN MOVIES ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30334.m3u8
-#EXTINF:-1 tvg-id="AXN Black HD" tvg-name="AXN Movies ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/042dba4d2faaa29cd2fa4c0125416d25.PNG" group-title="Portugal",AXN Movies ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12770.m3u8
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SYFY ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="Portugal",SYFY ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30360.m3u8
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SYfY" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Portugal",SYfY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12762.m3u8
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SYFY ᶠᴴᴰ" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="Portugal",SYFY ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12763.m3u8
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC ᴸᴼᵂ" tvg-logo="" group-title="Portugal",AMC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30364.m3u8
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="http://www.tugatf.xyz:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="Portugal",AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12764.m3u8
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC ᶠᴴᴰ" tvg-logo="https://2.bp.blogspot.com/-ucdRvBMkgB4/WB8taok5iVI/AAAAAAAAFTk/hp0uTor1AOkxPe3DHQxUfnKRsf7DmlYFgCLcB/s1600/AMC%2BHD.png" group-title="Portugal",AMC ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12765.m3u8
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="Portugal",Cinemundo ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30335.m3u8
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO" tvg-logo="http://www.tugatf.xyz:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="Portugal",CINEMUNDO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12767.m3u8
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="https://3.bp.blogspot.com/-tkCyQv2RtAc/VSene6nLQtI/AAAAAAAAEx8/FLegKRckKmY/s1600/Cinemundo.png" group-title="Portugal",CINEMUNDO ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Português ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/cinema_portugues.png" group-title="Portugal",Cinema Português ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/25871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STARWARS ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/starwars.png" group-title="Portugal",STARWARS ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jackie-Chan ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/jackie_chan.png" group-title="Portugal",Jackie-Chan ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/25872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STALLONE VS SCHWARZENEGGER ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.tugatf.xyz:8080/images/d91208582cb0c1061c2561f255b6ebaf.png" group-title="Portugal",STALLONE VS SCHWARZENEGGER ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DENZEL WASHINGTON ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/Denzel.png" group-title="Portugal",DENZEL WASHINGTON ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM CRUISE ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/tom_cruise.png" group-title="Portugal",TOM CRUISE ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/24944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILMES THRILLER/TERROR ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/trillers.jpg" group-title="Portugal",FILMES THRILLER/TERROR ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Filmes Comédia ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/Comedy.png" group-title="Portugal",Filmes Comédia ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILMES ACÇÃO ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/Action.jpg" group-title="Portugal",FILMES ACÇÃO ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ ANIMAÇÃO ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_animacao.png" group-title="Portugal",,▂ ▄ ▅ ▆ ANIMAÇÃO ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FILMES ANIMAÇÃO ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/24anime.png" group-title="Portugal",FILMES ANIMAÇÃO ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DC TV ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/DC.png" group-title="Portugal",DC TV ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/25053.m3u8
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Boomerang" tvg-logo="http://www.tugatf.xyz:8080/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Portugal",Boomerang
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/17377.m3u8
-#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="Nick Jr" tvg-logo="https://3.bp.blogspot.com/-MzelGDJvnHo/TljScA7e4HI/AAAAAAAAAhI/6pNn_hlV-bY/s1600/Nickelodeon.png" group-title="Portugal",Nick Jr
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12778.m3u8
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PANDA ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Portugal",PANDA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30352.m3u8
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PANDA" tvg-logo="https://4.bp.blogspot.com/-cNHL-nCipi4/WDrqBx1qryI/AAAAAAAAFbM/7lWs_9i8VJIItU8trsFrjWP3rrdD2BFFACLcB/s1600/Canal%2BPanda.png" group-title="Portugal",PANDA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12779.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="NICKELODEON ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/b11cc9ad84502b27a63fa7a8d813ef6a.png" group-title="Portugal",NICKELODEON ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30351.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="NICKELODEON" tvg-logo="https://3.bp.blogspot.com/-MzelGDJvnHo/TljScA7e4HI/AAAAAAAAAhI/6pNn_hlV-bY/s1600/Nickelodeon.png" group-title="Portugal",NICKELODEON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12780.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="DISNEY JUNIOR ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/a5c8eb8c31d9ebe32ef1f97bf2518f28.png" group-title="Portugal",DISNEY JUNIOR ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30344.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="DISNEY JUNIOR" tvg-logo="https://1.bp.blogspot.com/-VfES_Nzvym8/UIacnbmqToI/AAAAAAAADBQ/ufh8f-lWlko/s1600/Disney+Junior.png" group-title="Portugal",DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12781.m3u8
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="DISNEY CHANNEL ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/3a9e6e34457de740e6c6e47b502530ef.png" group-title="Portugal",DISNEY CHANNEL ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30343.m3u8
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.tugatf.xyz:8080/images/3a9e6e34457de740e6c6e47b502530ef.png" group-title="Portugal",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12782.m3u8
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="CARTOON NETWORK ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/cded3d0d7919c42153133b5d0d149cbf.png" group-title="Portugal",CARTOON NETWORK ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30342.m3u8
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-rkZ8iV1QKa4/Tr2keFl_XZI/AAAAAAAAAvc/rl5li9PP9zo/s1600/Cartoon+Network.png" group-title="Portugal",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12783.m3u8
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name=" BIGGS ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/4d2492514a128376814acd33445ec464.png" group-title="Portugal", BIGGS ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30368.m3u8
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="BIGGS" tvg-logo="https://2.bp.blogspot.com/-fVP7Wopmnjk/UxStDpAbr5I/AAAAAAAAEeo/KUwKve9IDuc/s1600/Biggs.png" group-title="Portugal",BIGGS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12784.m3u8
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="BABY TV ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/a8bb1f34441d1ed0be14d76ee9fa13d7.png" group-title="Portugal",BABY TV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30341.m3u8
-#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="BABY TV" tvg-logo="https://4.bp.blogspot.com/-m7bRlNsIaSE/TljR7CYUcQI/AAAAAAAAAZ4/h29H4IXjo7g/s1600/Baby+TV.png" group-title="Portugal",BABY TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12785.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/42467dafc4fd870872b2f6bba238c914.png" group-title="Portugal",SIC K ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30358.m3u8
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC K ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/42467dafc4fd870872b2f6bba238c914.png" group-title="Portugal",SIC K ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12786.m3u8
-#EXTINF:-1 tvg-id="JimJam" tvg-name="JIM JAM ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/156f7191783572b5d5738ef0835ae7ae.png" group-title="Portugal",JIM JAM ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30348.m3u8
-#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="JIM JAM" tvg-logo="https://4.bp.blogspot.com/-U4AT6X3ywiI/TljST3TORAI/AAAAAAAAAfQ/zjYNsCPTWxs/s1600/Jim+Jam.png" group-title="Portugal",JIM JAM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+" tvg-logo="http://www.gigatv.xyz/LOGOS/Disney+.png" group-title="Portugal",DISNEY+
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/25869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIMPSONS ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/Simpson.png" group-title="Portugal",SIMPSONS ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/pantera_cor_de_rosa.png" group-title="Portugal",A Pantera Cor de Rosa ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/25011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/tomandjerrybest.png" group-title="Portugal",TOM & JERRY ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VINGADORES ANIMAÇÃO ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/Vingadores.png" group-title="Portugal",VINGADORES ANIMAÇÃO ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER ₂₄ʰᵒʳᵃˢ" tvg-logo="http://gigatv.xyz/LOGOS/Dragon.png" group-title="Portugal",DRAGON BALL SUPER ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ INTERNACIONAIS ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_internacionais.png" group-title="Portugal",,▂ ▄ ▅ ▆ INTERNACIONAIS ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27557.m3u8
-#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="GLOBO NOW ᴸᴼᵂ" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="Portugal",GLOBO NOW ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30346.m3u8
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="GLOBO NOW" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="Portugal",GLOBO NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12788.m3u8
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="GLOBO ᶠᴴᴰ" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="Portugal",GLOBO ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12789.m3u8
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="Globo ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="Portugal",Globo ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30325.m3u8
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="GLOBO" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="Portugal",GLOBO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27579.m3u8
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV RECORD ᴸᴼᵂ" tvg-logo="http://www.afrutaria.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Portugal",TV RECORD ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30362.m3u8
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV RECORD" tvg-logo="http://www.afrutaria.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Portugal",TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12790.m3u8
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="TV RECORD ᶠᴴᴰ" tvg-logo="http://www.afrutaria.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Portugal",TV RECORD ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/51080.m3u8
-#EXTINF:-1 tvg-id="RecordNews.pt" tvg-name="Record News" tvg-logo="http://www.gigatv.xyz/LOGOS/recordnews.png" group-title="Portugal",Record News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12791.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="http://www.gigatv.xyz/LOGOS/rtpAfrica.png" group-title="Portugal",RTP Africa
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12798.m3u8
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="ZAP Viva ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/ZapTV.png" group-title="Portugal",ZAP Viva ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12792.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Angola" tvg-logo="http://www.gigatv.xyz/LOGOS/tpa_angola.png" group-title="Portugal",TPA Angola
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/26471.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="http://www.gigatv.xyz/LOGOS/tpa_internacional.png" group-title="Portugal",TPA Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/26472.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TCV Cabo Verde" tvg-logo="http://www.gigatv.xyz/LOGOS/TCV-Inter.jpg" group-title="Portugal",TCV Cabo Verde
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/22507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Luxemburgo" tvg-logo="http://gigatv.xyz/LOGOS/rtllu.png" group-title="Portugal",RTL Luxemburgo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtl2 Luxemburgo" tvg-logo="http://gigatv.xyz/LOGOS/rtl2.png" group-title="Portugal",Rtl2 Luxemburgo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/21274.m3u8
-#EXTINF:-1 tvg-id="BBCW" tvg-name="BBC WORLD NEWS" tvg-logo="https://2.bp.blogspot.com/-9-MHLZ-DCZY/TljR8EDS3jI/AAAAAAAAAaE/H4BNa6Kpefw/s1600/BBC+World+News.png" group-title="Portugal",BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12679.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://2.bp.blogspot.com/-Mc-pgRxHJ10/WDrqBhFr6yI/AAAAAAAAFbI/ObdWsENu_Soz5Bcdcje4323V4ZxEbn8tgCLcB/s1600/CNN.png" group-title="Portugal",CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12680.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="SKY NEWS" tvg-logo="http://www.gigatv.xyz/LOGOS/skynews.png" group-title="Portugal",SKY NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12681.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.pt" tvg-name="Deutsche Welle" tvg-logo="http://www.gigatv.xyz/LOGOS/dw.png" group-title="Portugal",Deutsche Welle
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12809.m3u8
-#EXTINF:-1 tvg-id="EuroNews" tvg-name="Euro News" tvg-logo="http://www.tugatf.xyz:8080/images/0184e252b5a7e44bd0340e93665c47c7.png" group-title="Portugal",Euro News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12682.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="FOX News" tvg-logo="https://4.bp.blogspot.com/-fitti0PpAeE/TljSPRrDAaI/AAAAAAAAAeQ/3C0Hka7Lt8c/s1600/FOX+News.png" group-title="Portugal",FOX News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12683.m3u8
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 MONDE" tvg-logo="https://4.bp.blogspot.com/-rLhCCEarMuA/TljSyp70ltI/AAAAAAAAAmY/PXX4GmBXT7g/s1600/TV5+Monde.png" group-title="Portugal",TV5 MONDE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12684.m3u8
-#EXTINF:-1 tvg-id="TVEi.nws" tvg-name="TVE Internacional" tvg-logo="http://www.gigatv.xyz/LOGOS/tveinternacional.png" group-title="Portugal",TVE Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12793.m3u8
-#EXTINF:-1 tvg-id="TVGalicia.pt" tvg-name="TV Galicia" tvg-logo="http://www.gigatv.xyz/LOGOS/tvGalicia.png" group-title="Portugal",TV Galicia
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12794.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="Bloomberg" tvg-logo="http://www.gigatv.xyz/LOGOS/bloomberg.png" group-title="Portugal",Bloomberg
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12804.m3u8
-#EXTINF:-1 tvg-id="CNBC.nws" tvg-name="CNBC Europe" tvg-logo="http://www.tugatf.xyz:8080/images/aa11677d237b2c2b435fd7decac0d7ad.png" group-title="Portugal",CNBC Europe
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12807.m3u8
-#EXTINF:-1 tvg-id="Russia Today ARB" tvg-name="CHANNEL 1 RUSSIA" tvg-logo="http://www.gigatv.xyz/LOGOS/channel_1_russia.png" group-title="Portugal",CHANNEL 1 RUSSIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27580.m3u8
-#EXTINF:-1 tvg-id="Cubavision.sp" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="http://www.gigatv.xyz/LOGOS/cubavision.png" group-title="Portugal",CUBAVISION INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27581.m3u8
-#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="BBC Entertainment" tvg-logo="https://3.bp.blogspot.com/-wj8RaNxDViI/UYZblRb9X7I/AAAAAAAAEF4/pvcUC2tGhYo/s1600/BBC+Entertainment.png" group-title="Portugal",BBC Entertainment
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12805.m3u8
-#EXTINF:-1 tvg-id="EENTERHD" tvg-name="E! ENTERTAINMENT" tvg-logo="http://www.gigatv.xyz/LOGOS/e!entertainment.png" group-title="Portugal",E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12813.m3u8
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="THE FOOD NETWORK ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/832c06ec85e08fe49d29d9afc9463e13.png" group-title="Portugal",THE FOOD NETWORK ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30361.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="FOOD NETWORK" tvg-logo="http://www.gigatv.xyz/LOGOS/food_network.png" group-title="Portugal",FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27568.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.pt" tvg-name="FOOD NETWORK ᶠᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/21780e8e634e28b2c29c83d840e7ebfe.png" group-title="Portugal",FOOD NETWORK ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27567.m3u8
-#EXTINF:-1 tvg-id="CasaCozinha.pt" tvg-name="Casa e Cozinha ᶠᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/casaecozinha_HD.png" group-title="Portugal",Casa e Cozinha ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/24469.m3u8
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 KITCHEN ᴴᴰ" tvg-logo="https://1.bp.blogspot.com/-nC9XcYUg5KU/UIadZGx27VI/AAAAAAAADBg/47Qr1aFXsik/s1600/24+Kitchen.png" group-title="Portugal",24 KITCHEN ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12817.m3u8
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC ᴸᴼᵂ" tvg-logo="http://www.tugatf.xyz:8080/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Portugal",TLC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30369.m3u8
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="http://www.gigatv.xyz/LOGOS/tlc.png" group-title="Portugal",TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12815.m3u8
-#EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="FASHION TV" tvg-logo="http://www.gigatv.xyz/LOGOS/fashiontvhd.png" group-title="Portugal",FASHION TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12816.m3u8
-#EXTINF:-1 tvg-id="CANAL 180 HD" tvg-name="CANAL 180" tvg-logo="http://www.gigatv.xyz/LOGOS/canal_180.png" group-title="Portugal",CANAL 180
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=",▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂" tvg-logo="http://gigatv.xyz/LOGOS/canais_musica.png" group-title="Portugal",,▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/tomorrowland.png" group-title="Portugal",Tomorrowland ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/24390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SLAM ₂₄ʰᵒʳᵃˢ" tvg-logo="http://www.gigatv.xyz/LOGOS/Slam_music.png" group-title="Portugal",SLAM ₂₄ʰᵒʳᵃˢ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/26622.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.pt" tvg-name="Clubbing TV" tvg-logo="http://www.tugatf.xyz:8080/images/d7d3a841170a24d17a31a5c9fea8b26c.png" group-title="Portugal",Clubbing TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/17397.m3u8
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBAN" tvg-logo="http://www.gigatv.xyz/LOGOS/trace_urban.png" group-title="Portugal",TRACE URBAN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12824.m3u8
-#EXTINF:-1 tvg-id="Trnace toca" tvg-name="TRACE TOCA" tvg-logo="http://www.gigatv.xyz/LOGOS/trace_toca.png" group-title="Portugal",TRACE TOCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12818.m3u8
-#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="TRACE AFRICA ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/c5e15d05fa40d4f0249a2510d18c9bce.png" group-title="Portugal",TRACE AFRICA ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27571.m3u8
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE NAIJA ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/03020bcb20c2afdfa29e12cd927976c7.png" group-title="Portugal",TRACE NAIJA ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27572.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://1.bp.blogspot.com/-UxNCjednbUQ/VSZNwgusJOI/AAAAAAAAEwo/X8ChSPRQgiY/s1600/VH1.png" group-title="Portugal",VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12819.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV ᴸᴼᵂ" tvg-logo="https://4.bp.blogspot.com/--rbGria_Nts/TljSYy15-kI/AAAAAAAAAgY/XL9OdPzHTBY/s1600/MTV.png" group-title="Portugal",MTV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/30367.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV PORTUGAL ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="Portugal",MTV PORTUGAL ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12820.m3u8
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Live ᴴᴰ" tvg-logo="http://www.tugatf.xyz:8080/images/2840c28df47f482cac8fdf88e45a3855.png" group-title="Portugal",MTV Live ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27570.m3u8
-#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM TOP" tvg-logo="https://3.bp.blogspot.com/-v4SUR69xFZo/WDrqFHFcXyI/AAAAAAAAFdQ/7mIlNRNtrwoxRgmZjmndyhqZb1M1NhSrgCLcB/s1600/MCM%2BPop.png" group-title="Portugal",MCM TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12821.m3u8
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="MCM POP" tvg-logo="https://3.bp.blogspot.com/-v4SUR69xFZo/WDrqFHFcXyI/AAAAAAAAFdQ/7mIlNRNtrwoxRgmZjmndyhqZb1M1NhSrgCLcB/s1600/MCM%2BPop.png" group-title="Portugal",MCM POP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12822.m3u8
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="AFRO MUSIC" tvg-logo="https://1.bp.blogspot.com/-C8mAknQ2OxQ/VSeoD60T8AI/AAAAAAAAE0s/07LAk7kMwFQ/s1600/Afro%2BMusic%2BChannel.png" group-title="Portugal",AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12823.m3u8
-#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE ᴴᴰ" tvg-logo="http://www.gigatv.xyz/LOGOS/mezzo_live_hd.png" group-title="Portugal",MEZZO LIVE ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/12825.m3u8
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="MEZZO" tvg-logo="http://www.gigatv.xyz/LOGOS/mezzo.png" group-title="Portugal",MEZZO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://maisdoce.club:8080/live/Davidjs/hd4bpjY4gN/27575.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="===Portugal===" tvg-logo="" group-title="Portugal",===Portugal===
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/4348.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 1" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26837.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 2" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26838.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 3" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26839.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 4" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26840.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 5" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26841.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Eleven Sports 6" tvg-logo="" group-title="Portugal",[PO] Eleven Sports 6
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/26842.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_Tv_1" tvg-logo="" group-title="Portugal",[PO]Sport_Tv_1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7687.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_Tv_2" tvg-logo="" group-title="Portugal",[PO]Sport_Tv_2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7688.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_Tv_3" tvg-logo="" group-title="Portugal",[PO]Sport_Tv_3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7689.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_TV_4" tvg-logo="" group-title="Portugal",[PO]Sport_TV_4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_TV_5" tvg-logo="" group-title="Portugal",[PO]Sport_TV_5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7691.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sport_TV_plus" tvg-logo="" group-title="Portugal",[PO]Sport_TV_plus
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7692.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO] Cine_Mundo" tvg-logo="" group-title="Portugal",[PO] Cine_Mundo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7627.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]24_Kitchen_Portugal" tvg-logo="" group-title="Portugal",[PO]24_Kitchen_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7628.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]A_E_Portugal" tvg-logo="" group-title="Portugal",[PO]A_E_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7633.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]AMC_Portugal_HD" tvg-logo="" group-title="Portugal",[PO]AMC_Portugal_HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7629.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]AXN_Black_Portugal" tvg-logo="" group-title="Portugal",[PO]AXN_Black_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7630.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]AXN_Portugal" tvg-logo="" group-title="Portugal",[PO]AXN_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7631.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]AXN_White_Portugal" tvg-logo="" group-title="Portugal",[PO]AXN_White_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7632.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]BBC_Entertainment_Europe" tvg-logo="" group-title="Portugal",[PO]BBC_Entertainment_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7634.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Benfica_TV" tvg-logo="" group-title="Portugal",[PO]Benfica_TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7635.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Biggs" tvg-logo="" group-title="Portugal",[PO]Biggs
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7636.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Bloomberg_TV_Europe" tvg-logo="" group-title="Portugal",[PO]Bloomberg_TV_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7637.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]BTV_1" tvg-logo="" group-title="Portugal",[PO]BTV_1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7638.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Canal_Cine_Mundo" tvg-logo="" group-title="Portugal",[PO]Canal_Cine_Mundo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7639.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Canal_Hollywood_Portugal" tvg-logo="" group-title="Portugal",[PO]Canal_Hollywood_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7640.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Canal_Nos" tvg-logo="" group-title="Portugal",[PO]Canal_Nos
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7641.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Canal_Panda_Portugal" tvg-logo="" group-title="Portugal",[PO]Canal_Panda_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7642.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Canal_Q" tvg-logo="" group-title="Portugal",[PO]Canal_Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7643.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Cartoon_Network_Portugal" tvg-logo="" group-title="Portugal",[PO]Cartoon_Network_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7644.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]CM_TV" tvg-logo="" group-title="Portugal",[PO]CM_TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7645.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]CNBC_Europe" tvg-logo="" group-title="Portugal",[PO]CNBC_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7646.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Discovery_Showcase_HD" tvg-logo="" group-title="Portugal",[PO]Discovery_Showcase_HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7647.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Disney_Channel" tvg-logo="" group-title="Portugal",[PO]Disney_Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7648.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Disney_Junior_Portugal" tvg-logo="" group-title="Portugal",[PO]Disney_Junior_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7649.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]E_Europe" tvg-logo="" group-title="Portugal",[PO]E_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7652.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]EuroNews_Portugues" tvg-logo="" group-title="Portugal",[PO]EuroNews_Portugues
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7650.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Eurosport_2" tvg-logo="" group-title="Portugal",[PO]Eurosport_2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7651.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fashion_TV_Europe" tvg-logo="" group-title="Portugal",[PO]Fashion_TV_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7653.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fox_Comedy_Portugal" tvg-logo="" group-title="Portugal",[PO]Fox_Comedy_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7654.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fox_Crime_Portugal" tvg-logo="" group-title="Portugal",[PO]Fox_Crime_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7655.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fox_Life_Portugal" tvg-logo="" group-title="Portugal",[PO]Fox_Life_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7656.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fox_Movies_Portugal" tvg-logo="" group-title="Portugal",[PO]Fox_Movies_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7657.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fox_Portugal" tvg-logo="" group-title="Portugal",[PO]Fox_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7658.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Fuel_TV_Europe" tvg-logo="" group-title="Portugal",[PO]Fuel_TV_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7659.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Galicia_TV_Europa" tvg-logo="" group-title="Portugal",[PO]Galicia_TV_Europa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7660.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Historia_Portugal" tvg-logo="" group-title="Portugal",[PO]Historia_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7661.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]MCM_Pop" tvg-logo="" group-title="Portugal",[PO]MCM_Pop
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7662.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Motorvision_TV" tvg-logo="" group-title="Portugal",[PO]Motorvision_TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7663.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]MTV_Portugal" tvg-logo="" group-title="Portugal",[PO]MTV_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7664.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Nat_Geo_Wild" tvg-logo="" group-title="Portugal",[PO]Nat_Geo_Wild
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7666.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]National_Geographic" tvg-logo="" group-title="Portugal",[PO]National_Geographic
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7665.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]PFC_Internacional" tvg-logo="" group-title="Portugal",[PO]PFC_Internacional
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]PO_Eurosport_1" tvg-logo="" group-title="Portugal",[PO]PO_Eurosport_1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7670.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]PO_Mezzo" tvg-logo="" group-title="Portugal",[PO]PO_Mezzo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7671.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]PO_Nickelodeon_Iberia" tvg-logo="" group-title="Portugal",[PO]PO_Nickelodeon_Iberia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7672.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Porto_Canal" tvg-logo="" group-title="Portugal",[PO]Porto_Canal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7669.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Record_News" tvg-logo="" group-title="Portugal",[PO]Record_News
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7673.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_1" tvg-logo="" group-title="Portugal",[PO]RTP_1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7674.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_2" tvg-logo="" group-title="Portugal",[PO]RTP_2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7675.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_3" tvg-logo="" group-title="Portugal",[PO]RTP_3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7676.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_Acores" tvg-logo="" group-title="Portugal",[PO]RTP_Acores
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7677.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_Africa" tvg-logo="" group-title="Portugal",[PO]RTP_Africa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7678.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_Madeira" tvg-logo="" group-title="Portugal",[PO]RTP_Madeira
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7679.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]RTP_Memoria" tvg-logo="" group-title="Portugal",[PO]RTP_Memoria
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7680.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SIC_Caras" tvg-logo="" group-title="Portugal",[PO]SIC_Caras
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SIC_Kids" tvg-logo="" group-title="Portugal",[PO]SIC_Kids
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7682.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SIC_Mulher" tvg-logo="" group-title="Portugal",[PO]SIC_Mulher
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7683.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SIC_Noticias" tvg-logo="" group-title="Portugal",[PO]SIC_Noticias
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7684.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SIC_Radical" tvg-logo="" group-title="Portugal",[PO]SIC_Radical
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7685.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Sporting_TV" tvg-logo="" group-title="Portugal",[PO]Sporting_TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7686.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]SYFY" tvg-logo="" group-title="Portugal",[PO]SYFY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7693.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TLC_Pan_Regional" tvg-logo="" group-title="Portugal",[PO]TLC_Pan_Regional
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7694.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]Travel_Channel_Europe" tvg-logo="" group-title="Portugal",[PO]Travel_Channel_Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7695.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Cancao_Nova_Portugal" tvg-logo="" group-title="Portugal",[PO]TV_Cancao_Nova_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7700.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Cine_1_HD" tvg-logo="" group-title="Portugal",[PO]TV_Cine_1_HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7701.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Cine_2" tvg-logo="" group-title="Portugal",[PO]TV_Cine_2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7702.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Cine_3" tvg-logo="" group-title="Portugal",[PO]TV_Cine_3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7703.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Cine_4_HD" tvg-logo="" group-title="Portugal",[PO]TV_Cine_4_HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7704.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Fatima" tvg-logo="" group-title="Portugal",[PO]TV_Fatima
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7705.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Globo_Portugal" tvg-logo="" group-title="Portugal",[PO]TV_Globo_Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7706.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Globo_Premium" tvg-logo="" group-title="Portugal",[PO]TV_Globo_Premium
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7707.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TV_Series" tvg-logo="" group-title="Portugal",[PO]TV_Series
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7708.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TVE_Internacional_Europa" tvg-logo="" group-title="Portugal",[PO]TVE_Internacional_Europa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7696.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TVI" tvg-logo="" group-title="Portugal",[PO]TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7668.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TVI_24" tvg-logo="" group-title="Portugal",[PO]TVI_24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7697.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TVI_Ficcao" tvg-logo="" group-title="Portugal",[PO]TVI_Ficcao
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7698.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]TVI_Reality" tvg-logo="" group-title="Portugal",[PO]TVI_Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7699.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[PO]VH1_Classic" tvg-logo="" group-title="Portugal",[PO]VH1_Classic
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://mhiptv.com:8888/live/asm123/asm123/7709.m3u8

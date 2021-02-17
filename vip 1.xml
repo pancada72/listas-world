@@ -1,458 +1,341 @@
 #EXTM3U
--------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74798.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: 24 Kitchen FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74799.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74800.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: A Bola TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74801.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Afro Music Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74802.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74803.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74804.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AMC H265
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74805.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ARTV Parlamento
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74806.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74807.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74808.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN Black FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74809.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74810.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74811.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74812.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74813.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: AXN White FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74814.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Baby TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74815.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BBC World News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74816.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74817.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Blaze FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74818.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Bloomberg
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74819.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Boomerang
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74820.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74821.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74823.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74824.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74825.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: BTV SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74822.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cacavision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74826.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74827.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74828.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal 11 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74829.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Historia
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74830.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Panda
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74831.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Canal Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74832.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CANCAO NOVA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74833.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Cartoon Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74834.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Caza e Pesca
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74835.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CBS Reality
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74836.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74837.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CineMundo FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74838.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Clubbing TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74839.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74840.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CMTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74841.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNBC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74842.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74843.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Crime Investigation
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74844.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74845.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74846.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Discovery FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74847.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74848.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Disney Junior
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74849.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Dog TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74850.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: E! Entertainment
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74851.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74853.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74854.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74855.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74852.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74857.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74858.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74859.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 2 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74856.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74861.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74862.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 3 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74860.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74864.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74865.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 4 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74863.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74867.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74868.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 5 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74866.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74870.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eleven Sports 6 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74869.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Euronews
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74871.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74872.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: EuroSport 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74873.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Eurosport 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74874.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fashion TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74875.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fight Network FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74876.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fine Living Network FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74877.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Food Network FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74878.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74879.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74880.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Comedy FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74881.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74882.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Crime FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74883.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Crime FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74884.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74885.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74886.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74887.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Life FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74888.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: FOX Life FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74889.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74890.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox Movies FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74891.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fox News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74892.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74893.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Fuel TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74894.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74895.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74896.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Hollywood FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74897.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: IConcerts FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74898.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ID Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74899.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Jim Jam
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74900.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Kombat Sport
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74901.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: LocalVisao HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74902.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Luxe.TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74903.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Pop
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74904.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MCM Top
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74905.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Mezzo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74906.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Motorvision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74907.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74908.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MTV Portugal FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74909.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: MVM TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74910.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: My Cuisinne
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74911.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74912.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74913.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74914.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74915.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nat Geo Wild FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74916.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74917.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NBA FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74918.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nickelodeon
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74920.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Nick JR.
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74919.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74921.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74922.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: NOS Studios FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74923.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74924.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Odisseia FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74925.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Panda Biggs
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74926.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74927.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74928.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Porto Canal FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74929.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RECORD TV (NA)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74930.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74931.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74932.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74933.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74934.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74935.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74936.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74937.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74938.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Acores
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74939.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Africa
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74940.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Madeira
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74941.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: RTP Memoria
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74942.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Santuario Fatima
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74943.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Saude FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74944.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74945.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74946.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Caras FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74947.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74948.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74949.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sic Kids FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74950.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74951.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Mulher FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74952.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74953.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Noticias FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74954.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74955.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SIC Radical FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74956.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sky News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74957.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74981.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sporting TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74982.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74979.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV+ FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74980.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74958.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74960.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74961.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74962.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74959.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74963.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74965.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74966.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74967.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 2 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74964.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74968.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74969.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74970.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74971.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74972.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74973.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74974.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74975.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74976.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74977.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Sport TV NBA FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74978.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74983.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: SyFy FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74984.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TCV Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74985.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74986.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Toros TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74987.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74988.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TPA Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74989.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74990.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace & Urban FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74991.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Trace Toca
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74992.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74993.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: Travel Channel FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74994.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75002.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine ACTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75003.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Action FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75004.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75005.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EDITION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75006.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Edition FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75007.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75008.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine EMOTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75009.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Emotion FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75010.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75011.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine TOP FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75012.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVCine Top FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75013.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVC News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75001.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74995.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74996.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Globo NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74997.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75014.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75015.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI 24 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75016.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75017.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75020.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75018.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Ficcao FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75019.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75021.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75022.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74998.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Record FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/74999.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: TV Series FHD [H265]
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75000.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75023.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: VH1 Classic
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75024.m3u8
-#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Canais | Portugal",PT: ZAP Viva FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://dnsx.co:80/live/7885037935/fireurl.co/75025.m3u8
+------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Portugal =====" tvg-logo="" group-title="",===== Portugal =====
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/1198.m3u8
+#EXTINF:-1 tvg-ID="24kitchen.pt" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Live: Portugal",PT: 24 Kitchen HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12609.m3u8
+#EXTINF:-1 tvg-ID="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="[" group-title="Live: Portugal",PT: A Bola TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4482.m3u8
+#EXTINF:-1 tvg-ID="angelustv.pt" tvg-name="PT: AandE TV" tvg-logo="[" group-title="Live: Portugal",PT: AandE TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12599.m3u8
+#EXTINF:-1 tvg-ID="afromusicchannel.pt" tvg-name="PT: Afro Music" tvg-logo="" group-title="Live: Portugal",PT: Afro Music
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4496.m3u8
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC" tvg-logo="" group-title="Live: Portugal",PT: AMC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3667.m3u8
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="[" group-title="Live: Portugal",PT: AMC FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9646.m3u8
+#EXTINF:-1 tvg-ID="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="[""]" group-title="Live: Portugal",PT: AR TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12604.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN FHD" tvg-logo="" group-title="Live: Portugal",PT: AXN FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9644.m3u8
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN MOVIES FHD" tvg-logo="" group-title="Live: Portugal",PT: AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42090.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN MOVIES HD" tvg-logo="" group-title="Live: Portugal",PT: AXN MOVIES HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42089.m3u8
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9643.m3u8
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4668.m3u8
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN Movies FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN Movies FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9645.m3u8
+#EXTINF:-1 tvg-ID="axnblack.pt" tvg-name="PT: AXN Movies HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN Movies HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4669.m3u8
+#EXTINF:-1 tvg-ID="babytv.pt" tvg-name="PT: BABY TV" tvg-logo="[" group-title="Live: Portugal",PT: BABY TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3666.m3u8
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: BTV FHD" tvg-logo="[" group-title="Live: Portugal",PT: BTV FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9642.m3u8
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: Benfica TV HD" tvg-logo="[" group-title="Live: Portugal",PT: Benfica TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3645.m3u8
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: Biggs" tvg-logo="[""]" group-title="Live: Portugal",PT: Biggs
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12623.m3u8
+#EXTINF:-1 tvg-ID="blaze.pt" tvg-name="PT: Blaze" tvg-logo="[" group-title="Live: Portugal",PT: Blaze
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4495.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="" group-title="Live: Portugal",PT: BBC ENTERTAINEMENT
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42091.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="" group-title="Live: Portugal",PT: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42092.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Cancao Nova" tvg-logo="" group-title="Live: Portugal",PT: Cancao Nova
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/54702.m3u8
+#EXTINF:-1 tvg-ID="cacaepesca.pt" tvg-name="PT: Caçae Pesca" tvg-logo="[" group-title="Live: Portugal",PT: Caçae Pesca
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12627.m3u8
+#EXTINF:-1 tvg-ID="cacavision.pt" tvg-name="PT: CAÇÃVISION" tvg-logo="" group-title="Live: Portugal",PT: CAÇÃVISION
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4666.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Canal 11 FHD" tvg-logo="" group-title="Live: Portugal",PT: Canal 11 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30725.m3u8
+#EXTINF:-1 tvg-ID="canal180.pt" tvg-name="PT: Canal 180" tvg-logo="[" group-title="Live: Portugal",PT: Canal 180
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4497.m3u8
+#EXTINF:-1 tvg-ID="historychannel.pt" tvg-name="PT: Canal de Historia" tvg-logo="[" group-title="Live: Portugal",PT: Canal de Historia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3665.m3u8
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Live: Portugal",PT: Canal Panda
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3664.m3u8
+#EXTINF:-1 tvg-ID="canalq.pt" tvg-name="PT: Canal Q" tvg-logo="[""]" group-title="Live: Portugal",PT: Canal Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/28964.m3u8
+#EXTINF:-1 tvg-ID="cinemundo.pt" tvg-name="PT: Cinemundo" tvg-logo="" group-title="Live: Portugal",PT: Cinemundo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3663.m3u8
+#EXTINF:-1 tvg-ID="discoveryshowcase.pt" tvg-name="PT: Clubbing TV" tvg-logo="[" group-title="Live: Portugal",PT: Clubbing TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12597.m3u8
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV" tvg-logo="" group-title="Live: Portugal",PT: CM TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3662.m3u8
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV HD" tvg-logo="" group-title="Live: Portugal",PT: CM TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/15202.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="Live: Portugal",PT: CBS REALITY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42093.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CNBC" tvg-logo="" group-title="Live: Portugal",PT: CNBC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42094.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: CNN" tvg-logo="" group-title="Live: Portugal",PT: CNN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42095.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: COMBATE HD" tvg-logo="" group-title="Live: Portugal",PT: COMBATE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42096.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Crime & Incvestigation" tvg-logo="[" group-title="Live: Portugal",PT: Crime & Incvestigation
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12598.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel" tvg-logo="" group-title="Live: Portugal",PT: Discovery Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4490.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel FHD" tvg-logo="[" group-title="Live: Portugal",PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31446.m3u8
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="[" group-title="Live: Portugal",PT: Disney Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4493.m3u8
+#EXTINF:-1 tvg-ID="disneyjunior.pt" tvg-name="PT: Disney Junior" tvg-logo="" group-title="Live: Portugal",PT: Disney Junior
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3661.m3u8
+#EXTINF:-1 tvg-ID="dogtv.pt" tvg-name="PT: DOG HD" tvg-logo="" group-title="Live: Portugal",PT: DOG HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/14629.m3u8
+#EXTINF:-1 tvg-ID="eentertainment.pt" tvg-name="PT: E! Entertainment" tvg-logo="[" group-title="Live: Portugal",PT: E! Entertainment
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12621.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Euro Channel" tvg-logo="" group-title="Live: Portugal",PT: Euro Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31321.m3u8
+#EXTINF:-1 tvg-ID="euronews.pt" tvg-name="PT: EuroNews" tvg-logo="[" group-title="Live: Portugal",PT: EuroNews
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12626.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT HD" tvg-logo="[" group-title="Live: Portugal",PT: EUROSPORT HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/1520.m3u8
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9641.m3u8
+#EXTINF:-1 tvg-ID="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="[""]" group-title="Live: Portugal",PT: EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12367.m3u8
+#EXTINF:-1 tvg-ID="fashiontv.pt" tvg-name="PT: Fashion TV" tvg-logo="" group-title="Live: Portugal",PT: Fashion TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3659.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="" group-title="Live: Portugal",PT: FIGHT NETWORK FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9639.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FightBOX HD" tvg-logo="" group-title="Live: Portugal",PT: FightBOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12602.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Fine Living Network FHD" tvg-logo="[""]" group-title="Live: Portugal",PT: Fine Living Network FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31317.m3u8
+#EXTINF:-1 tvg-ID="foodnetwork.pt" tvg-name="PT: Food Network" tvg-logo="[" group-title="Live: Portugal",PT: Food Network
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12607.m3u8
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9636.m3u8
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4664.m3u8
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Comedy FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9638.m3u8
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy" tvg-logo="[" group-title="Live: Portugal",PT: FOX Comedy
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4488.m3u8
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9637.m3u8
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4665.m3u8
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9635.m3u8
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4663.m3u8
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Movies FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9640.m3u8
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies" tvg-logo="[" group-title="Live: Portugal",PT: FOX Movies
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4489.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FOX News" tvg-logo="[" group-title="Live: Portugal",PT: FOX News
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12622.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: France 24" tvg-logo="" group-title="Live: Portugal",PT: France 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12616.m3u8
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Fuel TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4484.m3u8
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: FUEL TV FHD" tvg-logo="[" group-title="Live: Portugal",PT: FUEL TV FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9634.m3u8
+#EXTINF:-1 tvg-ID="globonow.pt" tvg-name="PT: GLOBO PREMIUM" tvg-logo="" group-title="Live: Portugal",PT: GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4661.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/33151.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Hollywood HD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4486.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="" group-title="Live: Portugal",PT: ID Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/33152.m3u8
+#EXTINF:-1 tvg-ID="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="[" group-title="Live: Portugal",PT: JIM JAM
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3660.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Kuriakos Kids TV" tvg-logo="" group-title="Live: Portugal",PT: Kuriakos Kids TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12600.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: MÁS CHIC" tvg-logo="[" group-title="Live: Portugal",PT: MÁS CHIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12613.m3u8
+#EXTINF:-1 tvg-ID="mcsultra.pt" tvg-name="PT: MCM POP" tvg-logo="[" group-title="Live: Portugal",PT: MCM POP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12596.m3u8
+#EXTINF:-1 tvg-ID="mcmtophd.pt" tvg-name="PT: MCM TOP" tvg-logo="[" group-title="Live: Portugal",PT: MCM TOP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4498.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Motorvision" tvg-logo="[" group-title="Live: Portugal",PT: Motorvision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4485.m3u8
+#EXTINF:-1 tvg-ID="mtv.pt" tvg-name="PT: MTV" tvg-logo="[" group-title="Live: Portugal",PT: MTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3658.m3u8
+#EXTINF:-1 tvg-ID="mvm.pt" tvg-name="PT: MVM" tvg-logo="[" group-title="Live: Portugal",PT: MVM
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12619.m3u8
+#EXTINF:-1 tvg-ID="mycuisinehd.pt" tvg-name="PT: CASA E COZINHA" tvg-logo="" group-title="Live: Portugal",PT: CASA E COZINHA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12625.m3u8
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: Nat Geo Wild" tvg-logo="[" group-title="Live: Portugal",PT: Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4491.m3u8
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Portugal",PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4662.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NBA HD" tvg-logo="[""]" group-title="Live: Portugal",PT: NBA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12603.m3u8
+#EXTINF:-1 tvg-ID="nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="[" group-title="Live: Portugal",PT: Nickelodeon
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3657.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Nick Jr." tvg-logo="" group-title="Live: Portugal",PT: Nick Jr.
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/34652.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: NOS STUDIOS HD" tvg-logo="" group-title="Live: Portugal",PT: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31316.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NOW" tvg-logo="[""]" group-title="Live: Portugal",PT: NOW
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31322.m3u8
+#EXTINF:-1 tvg-ID="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="[" group-title="Live: Portugal",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/1517.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ODISSEIA FHD" tvg-logo="" group-title="Live: Portugal",PT: ODISSEIA FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42097.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: OUTDOOR CHANNEL HD" tvg-logo="" group-title="Live: Portugal",PT: OUTDOOR CHANNEL HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42098.m3u8
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Panda" tvg-logo="[" group-title="Live: Portugal",PT: Panda
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4492.m3u8
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: PANDA BIGGS" tvg-logo="[" group-title="Live: Portugal",PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3656.m3u8
+#EXTINF:-1 tvg-ID="pfc.pt" tvg-name="PT: PFC" tvg-logo="[" group-title="Live: Portugal",PT: PFC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4660.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Porto Canal" tvg-logo="[" group-title="Live: Portugal",PT: Porto Canal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3655.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Regiões TV" tvg-logo="[" group-title="Live: Portugal",PT: Regiões TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12620.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Live: Portugal",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/33153.m3u8
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="" group-title="Live: Portugal",PT: RTP 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3643.m3u8
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/5427.m3u8
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="" group-title="Live: Portugal",PT: RTP 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3654.m3u8
+#EXTINF:-1 tvg-ID="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="[" group-title="Live: Portugal",PT: RTP 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3642.m3u8
+#EXTINF:-1 tvg-ID="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="" group-title="Live: Portugal",PT: RTP Açores
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4481.m3u8
+#EXTINF:-1 tvg-ID="rtpafrica.pt" tvg-name="PT: RTP Africa" tvg-logo="[" group-title="Live: Portugal",PT: RTP Africa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4480.m3u8
+#EXTINF:-1 tvg-ID="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="Live: Portugal",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3653.m3u8
+#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="[" group-title="Live: Portugal",PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3652.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/33154.m3u8
+#EXTINF:-1 tvg-ID="sic.pt" tvg-name="PT: SIC" tvg-logo="[" group-title="Live: Portugal",PT: SIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4476.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC Caras FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC Caras FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/33155.m3u8
+#EXTINF:-1 tvg-ID="siccaras.pt" tvg-name="PT: Sic Caras" tvg-logo="" group-title="Live: Portugal",PT: Sic Caras
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/14615.m3u8
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: SIC K" tvg-logo="" group-title="Live: Portugal",PT: SIC K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3651.m3u8
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: Sic Kids" tvg-logo="[" group-title="Live: Portugal",PT: Sic Kids
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4494.m3u8
+#EXTINF:-1 tvg-ID="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="Live: Portugal",PT: SIC MULHER
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3650.m3u8
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="[" group-title="Live: Portugal",PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9633.m3u8
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="Live: Portugal",PT: SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3649.m3u8
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9632.m3u8
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="[" group-title="Live: Portugal",PT: SIC Radical
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4479.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SKYNews" tvg-logo="" group-title="Live: Portugal",PT: SKYNews
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12615.m3u8
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV1" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6494.m3u8
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV2" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6495.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV3" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6496.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV4" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6497.m3u8
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6498.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV+" tvg-logo="" group-title="Live: Portugal",PT: Sport TV+
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42099.m3u8
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16056.m3u8
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16055.m3u8
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16054.m3u8
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16053.m3u8
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16052.m3u8
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: SPORT TV+FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV+FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16057.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Sport TV NBA HD" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV NBA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4483.m3u8
+#EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="Live: Portugal",PT: Sporting TV FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9625.m3u8
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy" tvg-logo="[" group-title="Live: Portugal",PT: SyFy
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4487.m3u8
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy FHD" tvg-logo="[" group-title="Live: Portugal",PT: SyFy FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9624.m3u8
+#EXTINF:-1 tvg-ID="tcvinternational.pt" tvg-name="PT: TCV Cabo Verde" tvg-logo="[" group-title="Live: Portugal",PT: TCV Cabo Verde
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12612.m3u8
+#EXTINF:-1 tvg-ID="tlc.pt" tvg-name="PT: TLC" tvg-logo="[""]" group-title="Live: Portugal",PT: TLC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12611.m3u8
+#EXTINF:-1 tvg-ID="toros.pt" tvg-name="PT: Toros TV" tvg-logo="[" group-title="Live: Portugal",PT: Toros TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12610.m3u8
+#EXTINF:-1 tvg-ID="tpainternational.pt" tvg-name="PT: TPA ANGOLA" tvg-logo="[" group-title="Live: Portugal",PT: TPA ANGOLA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12614.m3u8
+#EXTINF:-1 tvg-ID="trace.pt" tvg-name="PT: Trace TV" tvg-logo="[" group-title="Live: Portugal",PT: Trace TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12617.m3u8
+#EXTINF:-1 tvg-ID="travelchannel.pt" tvg-name="PT: Travel HD" tvg-logo="" group-title="Live: Portugal",PT: Travel HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12605.m3u8
+#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE TOP FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16051.m3u8
+#EXTINF:-1 tvg-ID="tvcinetop.pt" tvg-name="PT: TV Cine TOP HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine TOP HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6499.m3u8
+#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT: TVCINE Edition FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Edition FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16050.m3u8
+#EXTINF:-1 tvg-ID="tvcineedition.pt" tvg-name="PT: TV Cine Edition HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Edition HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6500.m3u8
+#EXTINF:-1 tvg-ID="tvcineemotion.pt" tvg-name="PT: TVCINE Emotion FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Emotion FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16049.m3u8
+#EXTINF:-1 tvg-ID="tvcineemotion.pt" tvg-name="PT: TV Cine Emotion HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Emotion HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6501.m3u8
+#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT: TVCINE Action FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Action FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/16048.m3u8
+#EXTINF:-1 tvg-ID="tvcineaction.pt" tvg-name="PT: TV Cine Action HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Action HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6502.m3u8
+#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT: TV SERIES FHD" tvg-logo="[" group-title="Live: Portugal",PT: TV SERIES FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31447.m3u8
+#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT: TV SERIES" tvg-logo="" group-title="Live: Portugal",PT: TV SERIES
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/6503.m3u8
+#EXTINF:-1 tvg-ID="globo.pt" tvg-name="PT: TV Globo" tvg-logo="[" group-title="Live: Portugal",PT: TV Globo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/5426.m3u8
+#EXTINF:-1 tvg-ID="recordtv.pt" tvg-name="PT: Tv Record" tvg-logo="[" group-title="Live: Portugal",PT: Tv Record
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3648.m3u8
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI" tvg-logo="" group-title="Live: Portugal",PT: TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4477.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI 24 FHD" tvg-logo="" group-title="Live: Portugal",PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/54704.m3u8
+#EXTINF:-1 tvg-ID="tvi24.pt" tvg-name="PT: Tvi 24" tvg-logo="" group-title="Live: Portugal",PT: Tvi 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3647.m3u8
+#EXTINF:-1 tvg-ID="tvificcao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="Live: Portugal",PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/3646.m3u8
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="[" group-title="Live: Portugal",PT: TVI HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/955.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31320.m3u8
+#EXTINF:-1 tvg-ID="tviinternacional.pt" tvg-name="PT: TVI Reality" tvg-logo="[" group-title="Live: Portugal",PT: TVI Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality MOSAICO" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality MOSAICO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 1" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42765.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 2" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42766.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 3" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42767.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI Reality Camera 4" tvg-logo="" group-title="Live: Portugal",PT: TVI Reality Camera 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/42768.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM INT. MOÇAMBIQUE" tvg-logo="[" group-title="Live: Portugal",PT: TVM INT. MOÇAMBIQUE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31319.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM MOÇAMBIQUE" tvg-logo="" group-title="Live: Portugal",PT: TVM MOÇAMBIQUE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31318.m3u8
+#EXTINF:-1 tvg-ID="vh1.pt" tvg-name="PT: VH1" tvg-logo="[" group-title="Live: Portugal",PT: VH1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/12618.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ZAP VIVA HD" tvg-logo="[" group-title="Live: Portugal",PT: ZAP VIVA HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/31315.m3u8

@@ -267,6 +267,40 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4483.m3u8
 #EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="Live: Portugal",PT: Sporting TV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/9625.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Hispasat 4K" tvg-logo="" group-title="Live: Portugal",VIP PT: Hispasat 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/50610.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Insight 4K" tvg-logo="" group-title="Live: Portugal",VIP PT: Insight 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/50609.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Sport TV 4K" tvg-logo="" group-title="Live: Portugal",VIP PT: Sport TV 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/23017.m3u8
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30988.m3u8
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30987.m3u8
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18818.m3u8
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30986.m3u8
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30985.m3u8
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18819.m3u8
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30984.m3u8
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18820.m3u8
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30983.m3u8
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18821.m3u8
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30982.m3u8
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 5 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18822.m3u8
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PT: Eleven Sport 6 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 6 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/30981.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 6 FHD" tvg-logo="[""]" group-title="Live: Portugal",VIP PT: Eleven Sport 6 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/18823.m3u8
 #EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy" tvg-logo="[" group-title="Live: Portugal",PT: SyFy
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://livego.club:8080/live/sDZhAVTzT3/d89zBzrhp3/4487.m3u8
 #EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy FHD" tvg-logo="[" group-title="Live: Portugal",PT: SyFy FHD

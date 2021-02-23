@@ -1,140 +1,238 @@
 #EXTM3U
 -----------------------------------------------------
-#EXTINF:-1 tvg-id="RTPD1" tvg-name="RTP 1 HD" tvg-logo="http://cmsr2b2.com:8080/images/765afb98367d5abe9e5cfb86086c9e17.png" group-title="PT",RTP 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/2.m3u8
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2 HD" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="PT",RTP 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/4.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="http://cmsr2b2.com:8080/images/c63ea063e134509b91f180c29f094691.png" group-title="PT",SIC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/6.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI HD" tvg-logo="https://cdn.iol.pt/img/logostvi/preto/tvi.png" group-title="PT",TVI HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/8.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2019/02/RTP-1.png" group-title="PT",RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1.m3u8
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP2.png" group-title="PT",RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/3.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/TVI_logo_2017.png" group-title="PT",TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/7.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="PT",SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/5.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="PT",A BOLA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/29.m3u8
-#EXTINF:-1 tvg-id="BTV41" tvg-name="BENFICA TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PT",BENFICA TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/97.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="BENFICA TV 1 HD EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png" group-title="PT",BENFICA TV 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/251.m3u8
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BENFICA TV 1" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/118980_logo_benfica_tv7.png" group-title="PT",BENFICA TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/99.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://cmsr2b2.com:8080/images/6fd182fcf90abf17acbe53736f75f088.png" group-title="PT",ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/119.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1 HD LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1 HD LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/113.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="ELEVEN SPORTS 1 HD EXTRA" tvg-logo="http://cmsr2b2.com:8080/images/6fd182fcf90abf17acbe53736f75f088.png" group-title="PT",ELEVEN SPORTS 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/253.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/122.m3u8
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="ELEVEN SPORTS 2 HD LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2 HD LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/114.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/125.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="PT",ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/127.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/129.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/131.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.comandotv.com/xbmc/elevensports1.png" group-title="PT",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/977.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PT",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/124.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/126.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 3 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports3.png" group-title="PT",ELEVEN SPORTS 3 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/115.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 4 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="PT",ELEVEN SPORTS 4 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/116.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/130.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 5 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports5.png" group-title="PT",ELEVEN SPORTS 5 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/117.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/132.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="ELEVEN SPORTS 6 LOCAL" tvg-logo="http://www.comandotv.com/xbmc/elevensports6.png" group-title="PT",ELEVEN SPORTS 6 LOCAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/118.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV + HD" tvg-logo="https://caxemirabet.com/wp-content/uploads/2018/06/Sport-TV.png" group-title="PT",SPORT TV + HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/95.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="PT",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/101.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%201%20FHD.png" group-title="PT",SPORT TV 1 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/252.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 2 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%202%20FHD.png" group-title="PT",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/105.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%202%20FHD.png" group-title="PT",SPORT TV 2 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/753.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 3 HD" tvg-logo="http://163.172.96.72/picon/SPORTV%203%20FHD.png" group-title="PT",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/107.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="SPORT TV 3 HD EXTRA" tvg-logo="http://163.172.96.72/picon/SPORTV%203%20FHD.png" group-title="PT",SPORT TV 3 HD EXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/754.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 4 HD" tvg-logo="https://2.bp.blogspot.com/-_4R7rbEapTQ/V-D7yzArCrI/AAAAAAAAB_c/WGRuf74zvjUyyA70BYMxe2KQgwb-oN_fwCLcB/s1600/sport.tv4.png" group-title="PT",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/109.m3u8
-#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://ulango.tv/uploads/channels/112960/logo_sport%20tv%208.png" group-title="PT",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/111.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 1" tvg-logo="http://freetvall.com/files/thumbs/1297883802fa240-1.png" group-title="PT",SPORT TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/103.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 2" tvg-logo="http://cmsr2b2.com:8080/images/c59c69f48495fbc8677d1ea3909b76b3.png" group-title="PT",SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 2 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/976.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="SPORT TV 3" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="PT",SPORT TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3  ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 3  ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/975.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="SPORT TV 4" tvg-logo="http://visaodigital.sytes.net/picons/sportv4hd.png" group-title="PT",SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/980.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV 5" tvg-logo="https://ulango.tv/uploads/channels/112960/logo_sport%20tv%208.png" group-title="PT",SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/989.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORT TV NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="PT",SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/136.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FPF CANAL 11 HD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="PT",FPF CANAL 11 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/135.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="SPORTING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Sporting_TV.png" group-title="PT",SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/133.m3u8
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="KOMBAT" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2016/05/kombat.png" group-title="PT",KOMBAT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/69.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT1" tvg-name="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="PT",EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/59.m3u8
-#EXTINF:-1 tvg-id="Fine Living Network HD" tvg-name="FUEL TV HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/01/fueltvhdlogopeq.png" group-title="PT",FUEL TV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO VODAFONE FM" tvg-logo="http://cdn-radiotime-logos.tunein.com/s87850q.png" group-title="RADIOS",RADIO VODAFONE FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD RXTRA" tvg-logo="" group-title="PT",ELEVEN SPORTS 2 HD RXTRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 1 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 2 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 2 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 1 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Eleven 2 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SportTv 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: SportTv 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/1170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Btv ⁴ᵏ ʰ²⁶⁵" tvg-logo="" group-title="PT hd H265",PT: Btv ⁴ᵏ ʰ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://cmsonline.geekgalaxy.com:8080/live/pedro.freire@sapo.pt2/wnvSGXGSLv/988.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- 24 Kitchen FHD" tvg-logo="" group-title="PORTGUESE",Portugal- 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110237.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- A Bola TV" tvg-logo="" group-title="PORTGUESE",Portugal- A Bola TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- A&E" tvg-logo="" group-title="PORTGUESE",Portugal- A&E
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110239.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Afro Music" tvg-logo="" group-title="PORTGUESE",Portugal- Afro Music
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- AXN BLACK" tvg-logo="" group-title="PORTGUESE",Portugal- AXN BLACK
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- AXN HD" tvg-logo="" group-title="PORTGUESE",Portugal- AXN HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- AXN WHITE HD" tvg-logo="" group-title="PORTGUESE",Portugal- AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110243.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- BENFICA TV 1 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- BENFICA TV 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110244.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Biggs" tvg-logo="" group-title="PORTGUESE",Portugal- Biggs
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110245.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Bloomberg" tvg-logo="" group-title="PORTGUESE",Portugal- Bloomberg
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110246.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Canal NOS" tvg-logo="" group-title="PORTGUESE",Portugal- Canal NOS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Canal Panda" tvg-logo="" group-title="PORTGUESE",Portugal- Canal Panda
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Canal Q" tvg-logo="" group-title="PORTGUESE",Portugal- Canal Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110249.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Cancao Nova" tvg-logo="" group-title="PORTGUESE",Portugal- Cancao Nova
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Cartoon Network" tvg-logo="" group-title="PORTGUESE",Portugal- Cartoon Network
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110251.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- CaÃ§a e Pesca" tvg-logo="" group-title="PORTGUESE",Portugal- CaÃ§a e Pesca
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110252.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- CaÃ§avision" tvg-logo="" group-title="PORTGUESE",Portugal- CaÃ§avision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110253.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- CINE MUNDO" tvg-logo="" group-title="PORTGUESE",Portugal- CINE MUNDO
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110254.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- CMTV" tvg-logo="" group-title="PORTGUESE",Portugal- CMTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110255.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- DISCOVERY CHANNEL" tvg-logo="" group-title="PORTGUESE",Portugal- DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110256.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Discovery FHD Showcase" tvg-logo="" group-title="PORTGUESE",Portugal- Discovery FHD Showcase
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110257.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Disney Channel" tvg-logo="" group-title="PORTGUESE",Portugal- Disney Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Disney Junior" tvg-logo="" group-title="PORTGUESE",Portugal- Disney Junior
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110259.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- E! ENTERTAINMENT" tvg-logo="" group-title="PORTGUESE",Portugal- E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110260.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 1 FHD (back up)" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 1 FHD (back up)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110261.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 1 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 1 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110262.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 1 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 1 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110263.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 1 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 1 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110264.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 2 FHD (back up)" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 2 FHD (back up)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110265.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 2 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 2 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110266.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 2 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 2 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110267.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 2 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 2 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110268.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 3 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 3 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110269.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 3 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 3 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110270.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 3 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 3 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110271.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 3 SD (back up)" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 3 SD (back up)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 4 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 4 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110273.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 4 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 4 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110274.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 4 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 4 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110275.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 4 SD (back up)" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 4 SD (back up)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110276.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 5 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 5 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110277.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 5 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 5 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110278.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 5 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 5 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110279.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 6 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 6 FHD 1080
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110280.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 6 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 6 HD 720
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110281.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 6 SD" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 6 SD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110282.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Euronews" tvg-logo="" group-title="PORTGUESE",Portugal- Euronews
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110283.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- EUROSPORT 1" tvg-logo="" group-title="PORTGUESE",Portugal- EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110284.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eurosport 1 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Eurosport 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110285.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- EUROSPORT 2" tvg-logo="" group-title="PORTGUESE",Portugal- EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110286.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- FOX COMEDY" tvg-logo="" group-title="PORTGUESE",Portugal- FOX COMEDY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110287.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- FOX CRIME" tvg-logo="" group-title="PORTGUESE",Portugal- FOX CRIME
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110288.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- FOX HD" tvg-logo="" group-title="PORTGUESE",Portugal- FOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110289.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Fox Life HD" tvg-logo="" group-title="PORTGUESE",Portugal- Fox Life HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110290.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- FOX MOVIES" tvg-logo="" group-title="PORTGUESE",Portugal- FOX MOVIES
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110291.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Historia" tvg-logo="" group-title="PORTGUESE",Portugal- Historia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110292.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Hollywood FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Hollywood FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110293.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Jim Jam" tvg-logo="" group-title="PORTGUESE",Portugal- Jim Jam
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110294.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Kombat Sport" tvg-logo="" group-title="PORTGUESE",Portugal- Kombat Sport
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- MCM Pop" tvg-logo="" group-title="PORTGUESE",Portugal- MCM Pop
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110296.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Mezzo" tvg-logo="" group-title="PORTGUESE",Portugal- Mezzo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110297.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Motorsport.tv" tvg-logo="" group-title="PORTGUESE",Portugal- Motorsport.tv
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110298.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Motorvision" tvg-logo="" group-title="PORTGUESE",Portugal- Motorvision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110299.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- MTV Portugal" tvg-logo="" group-title="PORTGUESE",Portugal- MTV Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110300.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- NAT GEO HD" tvg-logo="" group-title="PORTGUESE",Portugal- NAT GEO HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110301.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Nat Geo Wild" tvg-logo="" group-title="PORTGUESE",Portugal- Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110302.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- NBA TV" tvg-logo="" group-title="PORTGUESE",Portugal- NBA TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110303.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- NICKELODEON" tvg-logo="" group-title="PORTGUESE",Portugal- NICKELODEON
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110304.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- ODISSEIA" tvg-logo="" group-title="PORTGUESE",Portugal- ODISSEIA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110305.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- PFC HD" tvg-logo="" group-title="PORTGUESE",Portugal- PFC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110306.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Porto Canal" tvg-logo="" group-title="PORTGUESE",Portugal- Porto Canal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110307.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Real Madrid TV" tvg-logo="" group-title="PORTGUESE",Portugal- Real Madrid TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110308.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP 1" tvg-logo="" group-title="PORTGUESE",Portugal- RTP 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110309.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP 2" tvg-logo="" group-title="PORTGUESE",Portugal- RTP 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110310.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP 3" tvg-logo="" group-title="PORTGUESE",Portugal- RTP 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110311.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP Acores" tvg-logo="" group-title="PORTGUESE",Portugal- RTP Acores
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110312.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP Africa" tvg-logo="" group-title="PORTGUESE",Portugal- RTP Africa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110313.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP INTERNACIONAL" tvg-logo="" group-title="PORTGUESE",Portugal- RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110314.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP Madeira" tvg-logo="" group-title="PORTGUESE",Portugal- RTP Madeira
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110315.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- RTP Memoria" tvg-logo="" group-title="PORTGUESE",Portugal- RTP Memoria
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110316.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sic HD" tvg-logo="" group-title="PORTGUESE",Portugal- Sic HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110317.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SIC Mulher" tvg-logo="" group-title="PORTGUESE",Portugal- SIC Mulher
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110318.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SIC NOTICIAS" tvg-logo="" group-title="PORTGUESE",Portugal- SIC NOTICIAS
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110319.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SIC Radical" tvg-logo="" group-title="PORTGUESE",Portugal- SIC Radical
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110320.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SPORT TV +  HD" tvg-logo="" group-title="PORTGUESE",Portugal- SPORT TV +  HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110321.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 1" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110322.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 1 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110323.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SPORT TV 1 HD (720P)" tvg-logo="" group-title="PORTGUESE",Portugal- SPORT TV 1 HD (720P)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110324.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 2" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110325.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110326.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 3" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110327.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 3 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 4" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110329.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 4K" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 4K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110330.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 5" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110331.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sporting TV HD" tvg-logo="" group-title="PORTGUESE",Portugal- Sporting TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110332.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- SYFY" tvg-logo="" group-title="PORTGUESE",Portugal- SYFY
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110333.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TCV CABO VERDE" tvg-logo="" group-title="PORTGUESE",Portugal- TCV CABO VERDE
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110334.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TLC" tvg-logo="" group-title="PORTGUESE",Portugal- TLC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110335.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Toros TV" tvg-logo="" group-title="PORTGUESE",Portugal- Toros TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110336.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Trace Toca" tvg-logo="" group-title="PORTGUESE",Portugal- Trace Toca
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110337.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Travel Channel FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Travel Channel FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110338.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TV FAtima" tvg-logo="" group-title="PORTGUESE",Portugal- TV FAtima
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110339.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TV Globo" tvg-logo="" group-title="PORTGUESE",Portugal- TV Globo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110340.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TV Globo Premium" tvg-logo="" group-title="PORTGUESE",Portugal- TV Globo Premium
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110341.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TV RECORD" tvg-logo="" group-title="PORTGUESE",Portugal- TV RECORD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110342.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TV Series FHD" tvg-logo="" group-title="PORTGUESE",Portugal- TV Series FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110343.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVCine 1 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- TVCine 1 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110344.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVCine 2 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- TVCine 2 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110345.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVCine 3 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- TVCine 3 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110346.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVCine 4 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- TVCine 4 FHD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110347.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVE 24h" tvg-logo="" group-title="PORTGUESE",Portugal- TVE 24h
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110348.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVE Internacional" tvg-logo="" group-title="PORTGUESE",Portugal- TVE Internacional
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110349.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVI" tvg-logo="" group-title="PORTGUESE",Portugal- TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110350.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Tvi 24" tvg-logo="" group-title="PORTGUESE",Portugal- Tvi 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110351.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVI HD" tvg-logo="" group-title="PORTGUESE",Portugal- TVI HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110352.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- TVI Reality" tvg-logo="" group-title="PORTGUESE",Portugal- TVI Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110353.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Portugal- VH1" tvg-logo="" group-title="PORTGUESE",Portugal- VH1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://primeboss.live:826/live/ptchometv2/JoHxiA7Wv4/110354.m3u8

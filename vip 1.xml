@@ -1,730 +1,249 @@
 #EXTM3U
-------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
-
-#EXTINF:-1 tvg-id="" tvg-name="=NACIONAIS=SAUDE==" tvg-logo="" group-title="P0r7uGa7",=NACIONAIS=SAUDE==
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPECIAL NATAL EM FAMILIA" tvg-logo="https://www.espacopop.com.br/wp-content/uploads/2018/12/2018-12-21.png" group-title="P0r7uGa7",ESPECIAL NATAL EM FAMILIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/27308.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1 FHD" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="P0r7uGa7",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21304.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1 ᴴ²⁶⁵" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="P0r7uGa7",RTP 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21618.m3u8
-#EXTINF:-1 tvg-id="RTP 1" tvg-name="PT: RTP 1" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="P0r7uGa7",PT: RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21305.m3u8
-#EXTINF:-1 tvg-id="RTP 1 LOW" tvg-name="PT: RTP 1 LOW" tvg-logo="https://3.bp.blogspot.com/-Y7dOGFU-Ks8/WB3MLKpKGpI/AAAAAAAAFR0/M2q_TAhPXhI0cPc6Cshp6VqmfBTuMMIuwCLcB/s1600/RTP%2B1.png" group-title="P0r7uGa7",PT: RTP 1 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21543.m3u8
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="PT: RTP 2 FHD" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="P0r7uGa7",PT: RTP 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21306.m3u8
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2 ᴴ²⁶⁵" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="P0r7uGa7",RTP 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21624.m3u8
-#EXTINF:-1 tvg-id="RTP 2" tvg-name="PT: RTP 2" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="P0r7uGa7",PT: RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21307.m3u8
-#EXTINF:-1 tvg-id="RTP 2 LOW" tvg-name="PT: RTP 2 LOW" tvg-logo="https://1.bp.blogspot.com/-VBfZaw8u6Yw/WKjYLII3rbI/AAAAAAAAFq0/eZFYhK6uKSAX1_xmtl5UNwDdtAaWKtkgACLcB/s1600/RTP%2B2.png" group-title="P0r7uGa7",PT: RTP 2 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21544.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC FHD" tvg-logo="https://2.bp.blogspot.com/-uKGI5OZFlWw/TljSobuNL1I/AAAAAAAAAkA/T6tvJUNdAoc/s1600/SIC.png" group-title="P0r7uGa7",PT: SIC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21308.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-uKGI5OZFlWw/TljSobuNL1I/AAAAAAAAAkA/T6tvJUNdAoc/s1600/SIC.png" group-title="P0r7uGa7",SIC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21619.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="PT: SIC" tvg-logo="https://2.bp.blogspot.com/-uKGI5OZFlWw/TljSobuNL1I/AAAAAAAAAkA/T6tvJUNdAoc/s1600/SIC.png" group-title="P0r7uGa7",PT: SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21309.m3u8
-#EXTINF:-1 tvg-id="SIC LOW" tvg-name="PT: SIC LOW" tvg-logo="https://2.bp.blogspot.com/-uKGI5OZFlWw/TljSobuNL1I/AAAAAAAAAkA/T6tvJUNdAoc/s1600/SIC.png" group-title="P0r7uGa7",PT: SIC LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21545.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI FHD" tvg-logo="https://2.bp.blogspot.com/-dReNu8WPljk/WKte3PskyZI/AAAAAAAAFrk/mF0U5J62n6w3dyg5WI8PocRCko_MEf7KgCLcB/s1600/TVI.png" group-title="P0r7uGa7",PT: TVI FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21310.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-dReNu8WPljk/WKte3PskyZI/AAAAAAAAFrk/mF0U5J62n6w3dyg5WI8PocRCko_MEf7KgCLcB/s1600/TVI.png" group-title="P0r7uGa7",TVI ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21620.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="PT: TVI" tvg-logo="https://2.bp.blogspot.com/-dReNu8WPljk/WKte3PskyZI/AAAAAAAAFrk/mF0U5J62n6w3dyg5WI8PocRCko_MEf7KgCLcB/s1600/TVI.png" group-title="P0r7uGa7",PT: TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21311.m3u8
-#EXTINF:-1 tvg-id="TVI LOW" tvg-name="PT: TVI LOW" tvg-logo="https://2.bp.blogspot.com/-dReNu8WPljk/WKte3PskyZI/AAAAAAAAFrk/mF0U5J62n6w3dyg5WI8PocRCko_MEf7KgCLcB/s1600/TVI.png" group-title="P0r7uGa7",PT: TVI LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===NOTICIAS===" tvg-logo="https://static.wixstatic.com/media/60d385_d813be6c84964c46bca18f46566e3e57~mv2.png/v1/fit/w_2500,h_1330,al_c/60d385_d813be6c84964c46bca18f46566e3e57~mv2.png" group-title="P0r7uGa7",===NOTICIAS===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21312.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV FHD" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="P0r7uGa7",PT: CMTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21313.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV ᴴ²⁶⁵" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="P0r7uGa7",CMTV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21621.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="PT: CMTV" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="P0r7uGa7",PT: CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21314.m3u8
-#EXTINF:-1 tvg-id="CMTV LOW" tvg-name="PT: CMTV LOW" tvg-logo="https://3.bp.blogspot.com/-yIZhvI7rTus/WDrqBgtZxEI/AAAAAAAAFbA/OzMWgsQg6Aw_gJac9mhCyi6C3Naf-XmwQCLcB/s1600/CM%2BTV.png" group-title="P0r7uGa7",PT: CMTV LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21548.m3u8
-#EXTINF:-1 tvg-id="TVI 24" tvg-name="PT: TVI 24 FHD" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="P0r7uGa7",PT: TVI 24 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21315.m3u8
-#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24 ᴴ²⁶⁵" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="P0r7uGa7",TVI 24 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21627.m3u8
-#EXTINF:-1 tvg-id="TVI 24" tvg-name="PT: TVI 24" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="P0r7uGa7",PT: TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21316.m3u8
-#EXTINF:-1 tvg-id="TVI 24 LOW" tvg-name="PT: TVI 24 LOW" tvg-logo="https://2.bp.blogspot.com/-oDvKtdAIrFc/WB3ML41ca_I/AAAAAAAAFSY/J1yJFaw1bYU7GObZrK0O0xdRkZguZfJLgCLcB/s1600/TVI%2B24.png" group-title="P0r7uGa7",PT: TVI 24 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21549.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="P0r7uGa7",PT: SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21317.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC NOTICIAS ᴴ²⁶⁵" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="P0r7uGa7",SIC NOTICIAS ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21625.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="P0r7uGa7",PT: SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21318.m3u8
-#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="PT: SIC Noticias LOW" tvg-logo="https://4.bp.blogspot.com/-BPWLCfUsfAs/WDrqHd6Tn4I/AAAAAAAAFew/SrNwwE1zeUA0gBJYHMvpkO-AhUH9t7PSwCLcB/s1600/SIC%2BNot%25C3%25ADcias.png" group-title="P0r7uGa7",PT: SIC Noticias LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21547.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="PT: RTP 3" tvg-logo="https://4.bp.blogspot.com/-DXPsHo1f9SY/WB3MLUwb2hI/AAAAAAAAFSA/m2SDN-px_dE5xJmPtdXlHtJbWlrhzAmRgCLcB/s1600/RTP%2B3.png" group-title="P0r7uGa7",PT: RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21319.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="Tv Record ᴴ²⁶⁵" tvg-logo="https://4.bp.blogspot.com/-DXPsHo1f9SY/WB3MLUwb2hI/AAAAAAAAFSA/m2SDN-px_dE5xJmPtdXlHtJbWlrhzAmRgCLcB/s1600/RTP%2B3.png" group-title="P0r7uGa7",Tv Record ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21626.m3u8
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="PT: RTP 3 LOW" tvg-logo="https://4.bp.blogspot.com/-DXPsHo1f9SY/WB3MLUwb2hI/AAAAAAAAFSA/m2SDN-px_dE5xJmPtdXlHtJbWlrhzAmRgCLcB/s1600/RTP%2B3.png" group-title="P0r7uGa7",PT: RTP 3 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21601.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PT: Porto Canal FHD" tvg-logo="https://2.bp.blogspot.com/-dWNRMWROVig/WB8teBVMcLI/AAAAAAAAFV0/OLjZpFdAf5su5dCSH40NYMVGfEfi80aCQCLcB/s1600/Porto%2BCanal.png" group-title="P0r7uGa7",PT: Porto Canal FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21320.m3u8
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PT: PORTO CANAL" tvg-logo="https://2.bp.blogspot.com/-dWNRMWROVig/WB8teBVMcLI/AAAAAAAAFV0/OLjZpFdAf5su5dCSH40NYMVGfEfi80aCQCLcB/s1600/Porto%2BCanal.png" group-title="P0r7uGa7",PT: PORTO CANAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL LOW" tvg-logo="" group-title="P0r7uGa7",PT: PORTO CANAL LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===GENERALISTAS===" tvg-logo="https://youtu.be/NMre6IAAAiU" group-title="P0r7uGa7",===GENERALISTAS===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21324.m3u8
-#EXTINF:-1 tvg-id="CASA E COZINHA" tvg-name="PT: Casa e Cozinha FHD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/4f8fb888-2ed7-4de5-86cb-bc4ddc6eb23e.png" group-title="P0r7uGa7",PT: Casa e Cozinha FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA E COZINHA  ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",CASA E COZINHA  ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21657.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="PT: TVI Ficçao FHD" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="P0r7uGa7",PT: TVI Ficçao FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI FICÇAO ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TVI FICÇAO ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21652.m3u8
-#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-name="PT: TVI FICCAO" tvg-logo="https://2.bp.blogspot.com/-UU6bo2RI-8c/WB3MMIFJYUI/AAAAAAAAFSg/JpV_KUbP-Mcpsww5X1viuL533s8_2PmtQCLcB/s1600/TVI%2BFic%25C3%25A7%25C3%25A3o.png" group-title="P0r7uGa7",PT: TVI FICCAO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVI Ficcao LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21553.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="PT: TVI Reality FHD" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21328.m3u8
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="PT: TVI REALITY" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVI REALITY LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21611.m3u8
-#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="PT: SIC MULHER FHD" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="P0r7uGa7",PT: SIC MULHER FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SIC MULHER ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21629.m3u8
-#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="PT: SIC MULHER" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="P0r7uGa7",PT: SIC MULHER
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher LOW" tvg-logo="" group-title="P0r7uGa7",PT: SIC Mulher LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21551.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="PT: SIC CARAS FHD" tvg-logo="https://3.bp.blogspot.com/-cPBnm-irXfU/WDrqHHF2EtI/AAAAAAAAFeo/NsYVHY6886EbyyHSEZHufO_5MPtgZPEKgCLcB/s1600/SIC%2BCaras.png" group-title="P0r7uGa7",PT: SIC CARAS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21337.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="PT: SIC CARAS" tvg-logo="https://2.bp.blogspot.com/-uWdl_O_KB9g/WDtddAYE5LI/AAAAAAAAFjY/VbBtP4FkIn47qQNdysUSF_HTmrukVmnHgCLcB/s1600/SIC%2BCaras%2BHD.png" group-title="P0r7uGa7",PT: SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS LOW" tvg-logo="" group-title="P0r7uGa7",PT: SIC CARAS LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21608.m3u8
-#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="PT: SIC RADICAL FHD" tvg-logo="https://2.bp.blogspot.com/-uWdl_O_KB9g/WDtddAYE5LI/AAAAAAAAFjY/VbBtP4FkIn47qQNdysUSF_HTmrukVmnHgCLcB/s1600/SIC%2BCaras%2BHD.png" group-title="P0r7uGa7",PT: SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SIC RADICAL ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21630.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="PT: SIC RADICAL" tvg-logo="https://2.bp.blogspot.com/-d9da1RzOwkM/WDtdeVrGYWI/AAAAAAAAFkQ/OxZYUvVTuXoyN0gw7t40I6ooMlxv4u-LwCLcB/s1600/SIC%2BRadical.png" group-title="P0r7uGa7",PT: SIC RADICAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21340.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="PT: SIC RADICAL (extra)" tvg-logo="https://2.bp.blogspot.com/-d9da1RzOwkM/WDtdeVrGYWI/AAAAAAAAFkQ/OxZYUvVTuXoyN0gw7t40I6ooMlxv4u-LwCLcB/s1600/SIC%2BRadical.png" group-title="P0r7uGa7",PT: SIC RADICAL (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical  LOW" tvg-logo="" group-title="P0r7uGa7",PT: SIC Radical  LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21552.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-name="PT: TV RECORD FHD" tvg-logo="https://1.bp.blogspot.com/-aurRIGbWAho/WDrqG5YKPKI/AAAAAAAAFec/OMAsRBqD5E4XxxnIiq5JSq-1jr0w80IGACLcB/s1600/Record%2BTV.png" group-title="P0r7uGa7",PT: TV RECORD FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21347.m3u8
-#EXTINF:-1 tvg-id="TV RECORD" tvg-name="PT: TV RECORD" tvg-logo="https://1.bp.blogspot.com/-aurRIGbWAho/WDrqG5YKPKI/AAAAAAAAFec/OMAsRBqD5E4XxxnIiq5JSq-1jr0w80IGACLcB/s1600/Record%2BTV.png" group-title="P0r7uGa7",PT: TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD LOW" tvg-logo="" group-title="P0r7uGa7",PT: TV RECORD LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21591.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="PT: Record News" tvg-logo="https://3.bp.blogspot.com/-cwq4w0zW4Dc/WB8teYbuweI/AAAAAAAAFV8/UUrXHlbRZlc1CTPpsEES8fWRYvlPJpVhACLcB/s1600/Record%2BNews.png" group-title="P0r7uGa7",PT: Record News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21534.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="PT: Globo FHD" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="P0r7uGa7",PT: Globo FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",GLOBO ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21628.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="PT: GLOBO" tvg-logo="https://3.bp.blogspot.com/-BPost_25TfM/WDrqEaQMU5I/AAAAAAAAFc0/rci37PzlhfMHqi_9zhuVU3MWsLhKGVGUQCLcB/s1600/Globo.png" group-title="P0r7uGa7",PT: GLOBO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Globo LOW" tvg-logo="" group-title="P0r7uGa7",PT: Globo LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21550.m3u8
-#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="PT: GLOBO NOW FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Globo_Now_logo_2018.png" group-title="P0r7uGa7",PT: GLOBO NOW FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21351.m3u8
-#EXTINF:-1 tvg-id="GLOBO NOW" tvg-name="PT: GLOBO NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Globo_Now_logo_2018.png" group-title="P0r7uGa7",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW LOW" tvg-logo="" group-title="P0r7uGa7",PT: GLOBO NOW LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===DESPORTO===" tvg-logo="" group-title="P0r7uGa7",===DESPORTO===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21406.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="PT: CANAL 11 FHD" tvg-logo="https://i.imgur.com/MKjJicE.png" group-title="P0r7uGa7",PT: CANAL 11 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",CANAL 11 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Canal 11 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21554.m3u8
-#EXTINF:-1 tvg-id="SPORT TV NBA" tvg-name="PT:  5PoR7 7V NBA" tvg-logo="https://i.imgur.com/fcE0eth.png" group-title="P0r7uGa7",PT:  5PoR7 7V NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV NBA ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA LOW" tvg-logo="" group-title="P0r7uGa7",PT: SPORT TV NBA LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21588.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="PT: 5PoR7 7V + FHD" tvg-logo="https://1.bp.blogspot.com/-PY9akbvo-9Q/WDrqJjn2dqI/AAAAAAAAFgQ/meTIg6J8yHgIcqQq9bpg0JfT0l_61Az8gCLcB/s1600/Sport%2BTV.png" group-title="P0r7uGa7",PT: 5PoR7 7V + FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV + ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21649.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="PT: 5PoR7 7V+" tvg-logo="https://1.bp.blogspot.com/-PY9akbvo-9Q/WDrqJjn2dqI/AAAAAAAAFgQ/meTIg6J8yHgIcqQq9bpg0JfT0l_61Az8gCLcB/s1600/Sport%2BTV.png" group-title="P0r7uGa7",PT: 5PoR7 7V+
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21410.m3u8
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="PT: 5PoR7 7V + (extra)" tvg-logo="https://1.bp.blogspot.com/-PY9akbvo-9Q/WDrqJjn2dqI/AAAAAAAAFgQ/meTIg6J8yHgIcqQq9bpg0JfT0l_61Az8gCLcB/s1600/Sport%2BTV.png" group-title="P0r7uGa7",PT: 5PoR7 7V + (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV+ LOW" tvg-logo="" group-title="P0r7uGa7",PT: Sport TV+ LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21556.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: 5PoR7 7V 1 FHD" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="P0r7uGa7",PT: 5PoR7 7V 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21412.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: 5PoR7 7V 1 FHD (extra)" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="P0r7uGa7",PT: 5PoR7 7V 1 FHD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21413.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: 5PoR7 7V 1 HD" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="P0r7uGa7",PT: 5PoR7 7V 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5P0R7 TV 1 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",5P0R7 TV 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21614.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: 5PoR7 7V 1 SD" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="P0r7uGa7",PT: 5PoR7 7V 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21415.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="PT: 5PoR7 7V 1 SD (extra)" tvg-logo="https://3.bp.blogspot.com/-xqY7GYpVweo/WDrqIDycL_I/AAAAAAAAFfM/IZXPij6_QSYmJvXrrAgt5JayrY0SF0nzwCLcB/s1600/Sport%2BTV%2B1.png" group-title="P0r7uGa7",PT: 5PoR7 7V 1 SD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 5p0r7 TV 1 LOW" tvg-logo="" group-title="P0r7uGa7",PT: 5p0r7 TV 1 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21557.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: 5PoR7 7V 2 FHD" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="P0r7uGa7",PT: 5PoR7 7V 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21418.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: 5PoR7 7V 2 FHD (extra)" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="P0r7uGa7",PT: 5PoR7 7V 2 FHD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21617.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: 5PoR7 7V 2 HD" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="P0r7uGa7",PT: 5PoR7 7V 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21420.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: 5PoR7 7V 2 SD" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="P0r7uGa7",PT: 5PoR7 7V 2 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21421.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="PT: 5PoR7 7V 2 SD (extra)" tvg-logo="https://3.bp.blogspot.com/-lwk8vd3ck2c/WDrqIah-P0I/AAAAAAAAFfc/xl6fLhpEGUUTQ0f7YlHP94LT2Zl_DTvGgCLcB/s1600/Sport%2BTV%2B2.png" group-title="P0r7uGa7",PT: 5PoR7 7V 2 SD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 5p0r7 TV 2 LOW" tvg-logo="" group-title="P0r7uGa7",PT: 5p0r7 TV 2 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21558.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: 5PoR7 7V 3 FHD" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="P0r7uGa7",PT: 5PoR7 7V 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21422.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: 5PoR7 7V 3 FHD (extra)" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="P0r7uGa7",PT: 5PoR7 7V 3 FHD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV 3 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21622.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: 5PoR7 7V 3 HD" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="P0r7uGa7",PT: 5PoR7 7V 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21424.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: 5PoR7 7V 3 SD" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="P0r7uGa7",PT: 5PoR7 7V 3 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21425.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="PT: 5PoR7 7V 3 SD (extra)" tvg-logo="https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png" group-title="P0r7uGa7",PT: 5PoR7 7V 3 SD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Sport TV 3 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21559.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT: 5PoR7 7V 4 FHD" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="P0r7uGa7",PT: 5PoR7 7V 4 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV 4 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21650.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT: 5PoR7 7V 4 HD" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="P0r7uGa7",PT: 5PoR7 7V 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21428.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="PT: 5PoR7 7V 4 SD" tvg-logo="https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png" group-title="P0r7uGa7",PT: 5PoR7 7V 4 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Sport TV 4 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21560.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="PT: 5PoR7 7V 5 FHD" tvg-logo="https://4.bp.blogspot.com/-P_Irch9eEPc/WDrqJeGZnpI/AAAAAAAAFgM/53QW32DpWPI8SnpWhzyfl83KQSkdy_wggCLcB/s1600/Sport%2BTV%2B5.png" group-title="P0r7uGa7",PT: 5PoR7 7V 5 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SPORT TV 5 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21651.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="PT: 5PoR7 7V 5 HD" tvg-logo="https://4.bp.blogspot.com/-P_Irch9eEPc/WDrqJeGZnpI/AAAAAAAAFgM/53QW32DpWPI8SnpWhzyfl83KQSkdy_wggCLcB/s1600/Sport%2BTV%2B5.png" group-title="P0r7uGa7",PT: 5PoR7 7V 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21431.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="PT: 5PoR7 7V 5 SD" tvg-logo="https://4.bp.blogspot.com/-P_Irch9eEPc/WDrqJeGZnpI/AAAAAAAAFgM/53QW32DpWPI8SnpWhzyfl83KQSkdy_wggCLcB/s1600/Sport%2BTV%2B5.png" group-title="P0r7uGa7",PT: 5PoR7 7V 5 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Sport TV 5 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21561.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="PT: BT7 FHD" tvg-logo="https://1.bp.blogspot.com/-mQtJyMSVEF4/WDrqBfCiEcI/AAAAAAAAFa4/ikjnsHEOBzUntEZgLDKzxqe6TNbiv3BBgCLcB/s1600/BTV.png" group-title="P0r7uGa7",PT: BT7 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21433.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="PT: BT7 1 FHD (extra)" tvg-logo="https://1.bp.blogspot.com/-mQtJyMSVEF4/WDrqBfCiEcI/AAAAAAAAFa4/ikjnsHEOBzUntEZgLDKzxqe6TNbiv3BBgCLcB/s1600/BTV.png" group-title="P0r7uGa7",PT: BT7 1 FHD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21434.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="PT: BT7 HD" tvg-logo="https://1.bp.blogspot.com/-mQtJyMSVEF4/WDrqBfCiEcI/AAAAAAAAFa4/ikjnsHEOBzUntEZgLDKzxqe6TNbiv3BBgCLcB/s1600/BTV.png" group-title="P0r7uGa7",PT: BT7 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",BENFICA TV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21616.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-name="PT: BT7 SD" tvg-logo="https://1.bp.blogspot.com/-mQtJyMSVEF4/WDrqBfCiEcI/AAAAAAAAFa4/ikjnsHEOBzUntEZgLDKzxqe6TNbiv3BBgCLcB/s1600/BTV.png" group-title="P0r7uGa7",PT: BT7 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW" tvg-logo="" group-title="P0r7uGa7",PT: BTV LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21555.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEV3N 5PoR7S 1 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21437.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEV3N 5PoR7S 1 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ELEVEN SPORTS 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21612.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="PT: ELEV3N 5PoR7S 1 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1500.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Eleven Sports 1 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21562.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEV3N 5PoR7S 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21440.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEV3N 5PoR7S 2 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ELEVEN SPORTS 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21613.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="PT: ELEV3N 5PoR7S 2 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 2 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Eleven Sports 2 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21563.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEV3N 5PoR7S 3 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 3 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21443.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEV3N 5PoR7S 3 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ELEVEN SPORTS 3 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21623.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="PT: ELEV3N 5PoR7S 3 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1502.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 3 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Eleven Sports 3 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21564.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEV3N 5PoR7S 4 FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 4 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21446.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEV3N 5PoR7S 4 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21447.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-name="PT: ELEV3N 5PoR7S 4 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-4-998.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 4 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Eleven Sports 4 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21565.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT: ELEV3N 5PoR7S 5 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21449.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-name="PT: ELEV3N 5PoR7S 5 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 5 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 LOW" tvg-logo="" group-title="P0r7uGa7",PT: Eleven Sports 5 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21566.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT: ELEV3N 5PoR7S 6 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1559.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21451.m3u8
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="PT: ELEV3N 5PoR7S 6 SD" tvg-logo="https://sport-tv-guide.live/images/stations/a1559.png" group-title="P0r7uGa7",PT: ELEV3N 5PoR7S 6 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 LOW" tvg-logo="" group-title="P0r7uGa7",PT: ELEVEN SPORTS 6 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21592.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="PT: Sporting Tv FHD" tvg-logo="https://4.bp.blogspot.com/-4gk2BX8QIQ8/WDrqJ1O9oTI/AAAAAAAAFgg/8AvmigyRL9o5r0J9tDRZ3y98rvoEkvwAACLcB/s1600/Sporting%2BTV.png" group-title="P0r7uGa7",PT: Sporting Tv FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21453.m3u8
-#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="PT: SPORTING TV" tvg-logo="https://4.bp.blogspot.com/-4gk2BX8QIQ8/WDrqJ1O9oTI/AAAAAAAAFgg/8AvmigyRL9o5r0J9tDRZ3y98rvoEkvwAACLcB/s1600/Sporting%2BTV.png" group-title="P0r7uGa7",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21454.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="https://4.bp.blogspot.com/-KrcbIz75O_k/WB8tbxwjEMI/AAAAAAAAFUc/0i-74BBKJQIKVrpaVSR5dvq9Tb1xhnpCQCLcB/s1600/Eurosport%2B1%2Blogo.png" group-title="P0r7uGa7",PT: EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",EUROSPORT 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21655.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="PT: EUROSPORT 1" tvg-logo="https://4.bp.blogspot.com/-KrcbIz75O_k/WB8tbxwjEMI/AAAAAAAAFUc/0i-74BBKJQIKVrpaVSR5dvq9Tb1xhnpCQCLcB/s1600/Eurosport%2B1%2Blogo.png" group-title="P0r7uGa7",PT: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 LOW" tvg-logo="" group-title="P0r7uGa7",PT: EUROSPORT 1 LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21581.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="https://4.bp.blogspot.com/-iUtN_nYOvxY/WB8tcl3m-1I/AAAAAAAAFU4/hba7AI03JlkFNdL5KVB3r01ogapKxW9dQCLcB/s1600/Eurosport%2B2.png" group-title="P0r7uGa7",PT: EUROSPORT 2 FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21457.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="PT: EUROSPORT 2" tvg-logo="https://4.bp.blogspot.com/-iUtN_nYOvxY/WB8tcl3m-1I/AAAAAAAAFU4/hba7AI03JlkFNdL5KVB3r01ogapKxW9dQCLcB/s1600/Eurosport%2B2.png" group-title="P0r7uGa7",PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21458.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="PT: EUROSPORT 2 (extra)" tvg-logo="https://4.bp.blogspot.com/-iUtN_nYOvxY/WB8tcl3m-1I/AAAAAAAAFU4/hba7AI03JlkFNdL5KVB3r01ogapKxW9dQCLcB/s1600/Eurosport%2B2.png" group-title="P0r7uGa7",PT: EUROSPORT 2 (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21459.m3u8
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="PT: A Bola TV FHD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="P0r7uGa7",PT: A Bola TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21322.m3u8
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="PT: A BOLA TV" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="P0r7uGa7",PT: A BOLA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",A BOLA TV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV LOW" tvg-logo="" group-title="P0r7uGa7",PT: A BOLA TV LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21580.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PT: PFC" tvg-logo="https://1.bp.blogspot.com/-_EJLG3X0LLk/TljSeB3x6KI/AAAAAAAAAho/n1d9FLoQzuI/s1600/PFC.png" group-title="P0r7uGa7",PT: PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PFC LOW" tvg-logo="" group-title="P0r7uGa7",PT: PFC LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21586.m3u8
-#EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="PT: KOMBAT SPORT" tvg-logo="https://i.imgur.com/1kpnKQ7.png" group-title="P0r7uGa7",PT: KOMBAT SPORT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21461.m3u8
-#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-name="PT: Fight Network HD" tvg-logo="https://i.imgur.com/N6OYB9V.png" group-title="P0r7uGa7",PT: Fight Network HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21541.m3u8
-#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="PT: Motorvision HD" tvg-logo="https://4.bp.blogspot.com/-6rQ6tN80m-w/VSenjQAUn2I/AAAAAAAAEzA/GSeLb9DvakQ/s1600/Motorvision%2BHD.png" group-title="P0r7uGa7",PT: Motorvision HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21530.m3u8
-#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="PT: MOTORVISION" tvg-logo="https://i.imgur.com/nSyXUgt.png" group-title="P0r7uGa7",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===FIMES E SERIES===" tvg-logo="" group-title="P0r7uGa7",===FIMES E SERIES===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21367.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="PT: TV CINE TOP FHD" tvg-logo="https://i.imgur.com/FYSHrK0.png" group-title="P0r7uGa7",PT: TV CINE TOP FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE TOP ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TV CINE TOP ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21632.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="PT: TV CINE TOP" tvg-logo="https://i.imgur.com/FYSHrK0.png" group-title="P0r7uGa7",PT: TV CINE TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVCine Top LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21567.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="PT: TV CINE EDITION FHD" tvg-logo="https://i.imgur.com/vbNsvRh.png" group-title="P0r7uGa7",PT: TV CINE EDITION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EDITION ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TV CINE EDITION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21633.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="PT: TV CINE EDITION" tvg-logo="https://i.imgur.com/vbNsvRh.png" group-title="P0r7uGa7",PT: TV CINE EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVCine Edition LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21568.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="https://i.imgur.com/yYcDJ45.png" group-title="P0r7uGa7",PT: TV CINE EMOTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EMOTION ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TV CINE EMOTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21634.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="PT: TV CINE EMOTION" tvg-logo="https://i.imgur.com/yYcDJ45.png" group-title="P0r7uGa7",PT: TV CINE EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVCine Emotion LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21569.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i.imgur.com/8CZen5y.png" group-title="P0r7uGa7",PT: TV CINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE ACTION ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TV CINE ACTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21635.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="PT: TV CINE ACTION" tvg-logo="https://i.imgur.com/8CZen5y.png" group-title="P0r7uGa7",PT: TV CINE ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action LOW" tvg-logo="" group-title="P0r7uGa7",PT: TVCine Action LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21570.m3u8
-#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i.imgur.com/n1r9nHd.png" group-title="P0r7uGa7",PT: NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",NOS STUDIOS ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21636.m3u8
-#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="PT: NOS STUDIOS" tvg-logo="https://i.imgur.com/n1r9nHd.png" group-title="P0r7uGa7",PT: NOS STUDIOS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21378.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="P0r7uGa7",PT: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",HOLLYWOOD ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21638.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="PT: HOLLYWOOD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="P0r7uGa7",PT: HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood LOW" tvg-logo="" group-title="P0r7uGa7",PT: Hollywood LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21571.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN FHD" tvg-logo="https://1.bp.blogspot.com/-2pwXjSrkvms/WB8tbfsimwI/AAAAAAAAFT8/zXJVCNoKez8x6gHJmSzbtBB_LA1gjxCMQCLcB/s1600/AXN%2Blogo.png" group-title="P0r7uGa7",PT: AXN FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",AXN ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21641.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="PT: AXN" tvg-logo="https://1.bp.blogspot.com/-2pwXjSrkvms/WB8tbfsimwI/AAAAAAAAFT8/zXJVCNoKez8x6gHJmSzbtBB_LA1gjxCMQCLcB/s1600/AXN%2Blogo.png" group-title="P0r7uGa7",PT: AXN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN LOW" tvg-logo="" group-title="P0r7uGa7",PT: AXN LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21572.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://4.bp.blogspot.com/-QbLUcgtEkyU/WB8tbIsAlqI/AAAAAAAAFT0/DEUtD-l-SAww9PrHpq5mwFhXnm4qBxH8QCLcB/s1600/AXN%2BWhite%2Blogo.png" group-title="P0r7uGa7",PT: AXN WHITE FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",AXN WHITE ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21642.m3u8
-#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="PT: AXN WHITE" tvg-logo="https://4.bp.blogspot.com/-QbLUcgtEkyU/WB8tbIsAlqI/AAAAAAAAFT0/DEUtD-l-SAww9PrHpq5mwFhXnm4qBxH8QCLcB/s1600/AXN%2BWhite%2Blogo.png" group-title="P0r7uGa7",PT: AXN WHITE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White LOW" tvg-logo="" group-title="P0r7uGa7",PT: AXN White LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21573.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="PT: AXN MOVIES FHD" tvg-logo="https://i.imgur.com/5AQEYfH.png" group-title="P0r7uGa7",PT: AXN MOVIES FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21385.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="PT: AXN MOVIES" tvg-logo="https://i.imgur.com/5AQEYfH.png" group-title="P0r7uGa7",PT: AXN MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",AXN MOVIES ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES LOW" tvg-logo="" group-title="P0r7uGa7",PT: AXN MOVIES LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21574.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="PT: FOX FHD" tvg-logo="https://2.bp.blogspot.com/-512DxeBRUw8/TljSP6upBTI/AAAAAAAAAeU/zKTes7Z6dzo/s1600/FOX.png" group-title="P0r7uGa7",PT: FOX FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",FOX ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21645.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="PT: FOX" tvg-logo="https://2.bp.blogspot.com/-512DxeBRUw8/TljSP6upBTI/AAAAAAAAAeU/zKTes7Z6dzo/s1600/FOX.png" group-title="P0r7uGa7",PT: FOX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox LOW" tvg-logo="" group-title="P0r7uGa7",PT: Fox LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21579.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="P0r7uGa7",PT: FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",FOX MOVIES ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21644.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="P0r7uGa7",PT: FOX MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21390.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-name="PT: FOX MOVIES (extra)" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="P0r7uGa7",PT: FOX MOVIES (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies LOW" tvg-logo="" group-title="P0r7uGa7",PT: Fox Movies LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21576.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX CRIME FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="P0r7uGa7",PT: FOX CRIME FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21392.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX CRIME FHD (extra)" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="P0r7uGa7",PT: FOX CRIME FHD (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",FOX CRIME ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21647.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: Fox Crime" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="P0r7uGa7",PT: Fox Crime
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime LOW" tvg-logo="" group-title="P0r7uGa7",PT: Fox Crime LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21578.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://3.bp.blogspot.com/-2qXnnAZNQOY/WDrqDhZtDpI/AAAAAAAAFcQ/-fACb9qAmB8nHLAQpdd9Xrbdvk6FClMeACLcB/s1600/Fox%2BComedy.png" group-title="P0r7uGa7",PT: FOX COMEDY FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21395.m3u8
-#EXTINF:-1 tvg-id="FOX CRIME" tvg-name="PT: FOX COMEDY" tvg-logo="https://3.bp.blogspot.com/-2qXnnAZNQOY/WDrqDhZtDpI/AAAAAAAAFcQ/-fACb9qAmB8nHLAQpdd9Xrbdvk6FClMeACLcB/s1600/Fox%2BComedy.png" group-title="P0r7uGa7",PT: FOX COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY LOW" tvg-logo="" group-title="P0r7uGa7",PT: FOX COMEDY LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21595.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="P0r7uGa7",PT: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",FOX LIFE ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21646.m3u8
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="PT: FOX LIFE" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="P0r7uGa7",PT: FOX LIFE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life LOW" tvg-logo="" group-title="P0r7uGa7",PT: Fox Life LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21577.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-tkCyQv2RtAc/VSene6nLQtI/AAAAAAAAEx8/FLegKRckKmY/s1600/Cinemundo.png" group-title="P0r7uGa7",PT: CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",CINEMUNDO ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21639.m3u8
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="PT: CINEMUNDO" tvg-logo="https://3.bp.blogspot.com/-tkCyQv2RtAc/VSene6nLQtI/AAAAAAAAEx8/FLegKRckKmY/s1600/Cinemundo.png" group-title="P0r7uGa7",PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo LOW" tvg-logo="" group-title="P0r7uGa7",PT: Cinemundo LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21575.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="PT: AMC HD" tvg-logo="https://3.bp.blogspot.com/-XjQ3rAjTjxo/WB8ta3OQ54I/AAAAAAAAFTo/zQN8MdpJJ7sFuFcPfPUIKrSKbsjpYuI5gCLcB/s1600/AMC.png" group-title="P0r7uGa7",PT: AMC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",AMC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21637.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="PT: AMC" tvg-logo="https://3.bp.blogspot.com/-XjQ3rAjTjxo/WB8ta3OQ54I/AAAAAAAAFTo/zQN8MdpJJ7sFuFcPfPUIKrSKbsjpYuI5gCLcB/s1600/AMC.png" group-title="P0r7uGa7",PT: AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC LOW" tvg-logo="" group-title="P0r7uGa7",PT: AMC LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21593.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="PT: SYFY FHD" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="P0r7uGa7",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",SYFY ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21640.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="PT: SYFY" tvg-logo="https://1.bp.blogspot.com/-CCcjsa3ukyE/WDtdfQIiMAI/AAAAAAAAFkw/i_MbiJGL_AYBUGrP-lGp6I8HHuNiRkE4gCLcB/s1600/Syfy.png" group-title="P0r7uGa7",PT: SYFY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY LOW" tvg-logo="" group-title="P0r7uGa7",PT: SYFY LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21589.m3u8
-#EXTINF:-1 tvg-id="TVSéries" tvg-name="PT: TV SERIES FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TVSERIES.png" group-title="P0r7uGa7",PT: TV SERIES FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV SERIES ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TV SERIES ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal NOS FHD" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2016/05/nos.jpg" group-title="P0r7uGa7",PT: Canal NOS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===INFANTIL===" tvg-logo="" group-title="P0r7uGa7",===INFANTIL===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21353.m3u8
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="PT: CANAL PANDA" tvg-logo="https://4.bp.blogspot.com/-cNHL-nCipi4/WDrqBx1qryI/AAAAAAAAFbM/7lWs_9i8VJIItU8trsFrjWP3rrdD2BFFACLcB/s1600/Canal%2BPanda.png" group-title="P0r7uGa7",PT: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA LOW" tvg-logo="" group-title="P0r7uGa7",PT: PANDA LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21605.m3u8
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="P0r7uGa7",PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL LOW" tvg-logo="" group-title="P0r7uGa7",PT: DISNEY CHANNEL LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21598.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://i.imgur.com/F46x3PV.png" group-title="P0r7uGa7",PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21356.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="PT: DISNEY JUNIOR (extra)" tvg-logo="https://i.imgur.com/F46x3PV.png" group-title="P0r7uGa7",PT: DISNEY JUNIOR (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR LOW" tvg-logo="" group-title="P0r7uGa7",PT: DISNEY JUNIOR LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21600.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="PT: NICKELODEON" tvg-logo="https://3.bp.blogspot.com/-MzelGDJvnHo/TljScA7e4HI/AAAAAAAAAhI/6pNn_hlV-bY/s1600/Nickelodeon.png" group-title="P0r7uGa7",PT: NICKELODEON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON LOW" tvg-logo="" group-title="P0r7uGa7",PT: NICKELODEON LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21604.m3u8
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="PT: NICK JR" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="P0r7uGa7",PT: NICK JR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21359.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CARTOONNETWORK.png" group-title="P0r7uGa7",PT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK LOW" tvg-logo="" group-title="P0r7uGa7",PT: CARTOON NETWORK LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21603.m3u8
-#EXTINF:-1 tvg-id="JIM JAM" tvg-name="PT: JIM JAM" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/JIMJAM.png" group-title="P0r7uGa7",PT: JIM JAM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM LOW" tvg-logo="" group-title="P0r7uGa7",PT: JIM JAM LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21599.m3u8
-#EXTINF:-1 tvg-id="BIGGS" tvg-name="PT: BIGGS" tvg-logo="https://2.bp.blogspot.com/-fVP7Wopmnjk/UxStDpAbr5I/AAAAAAAAEeo/KUwKve9IDuc/s1600/Biggs.png" group-title="P0r7uGa7",PT: BIGGS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21363.m3u8
-#EXTINF:-1 tvg-id="BIGGS" tvg-name="PT: BIGGS (extra)" tvg-logo="https://2.bp.blogspot.com/-fVP7Wopmnjk/UxStDpAbr5I/AAAAAAAAEeo/KUwKve9IDuc/s1600/Biggs.png" group-title="P0r7uGa7",PT: BIGGS (extra)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS LOW" tvg-logo="" group-title="P0r7uGa7",PT: BIGGS LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21610.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="PT: SIC K HD" tvg-logo="https://2.bp.blogspot.com/-chiJn-Q6O3w/WDtddkGyRuI/AAAAAAAAFj0/qC_c8R5pN20uHi9ITqyImc03r-Mif6NVgCLcB/s1600/SIC%2BK.png" group-title="P0r7uGa7",PT: SIC K HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21365.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="PT: SIC K" tvg-logo="https://2.bp.blogspot.com/-chiJn-Q6O3w/WDtddkGyRuI/AAAAAAAAFj0/qC_c8R5pN20uHi9ITqyImc03r-Mif6NVgCLcB/s1600/SIC%2BK.png" group-title="P0r7uGa7",PT: SIC K
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K LOW" tvg-logo="" group-title="P0r7uGa7",PT: SIC K LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21609.m3u8
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="PT: BABY TV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BABYTV.png" group-title="P0r7uGa7",PT: BABY TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV LOW" tvg-logo="" group-title="P0r7uGa7",PT: BABY TV LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21602.m3u8
-#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-name="PT: CRIME+INVESTIGATION" tvg-logo="https://1.bp.blogspot.com/-_yMWiyQkzmI/WMBjEESIGRI/AAAAAAAAFsY/0wex-sh1pDEVk3Fu2t_QFtx0u7MIHtoGQCLcB/s1600/Crime%2B%252B%2BInvestigation.png" group-title="P0r7uGa7",PT: CRIME+INVESTIGATION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21472.m3u8
-#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="PT: Caça e Pesca FHD" tvg-logo="https://3.bp.blogspot.com/-Yq8po_kg7Iw/WDrqCRAMgHI/AAAAAAAAFbg/CKVZe_GVu5EpVRJ4XJ17kyXmT1UkMf_XgCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca.png" group-title="P0r7uGa7",PT: Caça e Pesca FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21465.m3u8
-#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-name="PT: CACA E PESCA" tvg-logo="https://3.bp.blogspot.com/-Yq8po_kg7Iw/WDrqCRAMgHI/AAAAAAAAFbg/CKVZe_GVu5EpVRJ4XJ17kyXmT1UkMf_XgCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca.png" group-title="P0r7uGa7",PT: CACA E PESCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21466.m3u8
-#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="PT: CACAVISION" tvg-logo="https://3.bp.blogspot.com/-P1Kf6A161FI/TljR_l-pNoI/AAAAAAAAAa4/n2AhQG2uIpA/s1600/Ca%25C3%25A7avision.png" group-title="P0r7uGa7",PT: CACAVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21467.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="https://img.pngio.com/how-was-discovery-channel-discovered-expedite-business-discovered-png-1024_768.png" group-title="P0r7uGa7",PT: DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",DISCOVERY CHANNEL ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21664.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://img.pngio.com/how-was-discovery-channel-discovered-expedite-business-discovered-png-1024_768.png" group-title="P0r7uGa7",PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL LOW" tvg-logo="" group-title="P0r7uGa7",PT: DISCOVERY CHANNEL LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21594.m3u8
-#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="https://cdn.featuredcustomers.com/Company.logo/Investigation_Discovery.png" group-title="P0r7uGa7",PT: ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ID INVESTIGATION DISCOVERY ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21663.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo=""https://i.imgur.com/Ed1tL9q.png" group-title="P0r7uGa7",PT: NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",NATIONAL GEOGRAPHIC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21666.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="PT: National Geographic" tvg-logo=""https://i.imgur.com/Ed1tL9q.png" group-title="P0r7uGa7",PT: National Geographic
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC LOW" tvg-logo="" group-title="P0r7uGa7",PT: NATIONAL GEOGRAPHIC LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21584.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="PT: Nat Geo Wild HD" tvg-logo="https://i.imgur.com/ZGDtER4.png" group-title="P0r7uGa7",PT: Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",NAT GEO WILD ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21665.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="PT: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/ZGDtER4.png" group-title="P0r7uGa7",PT: NATIONAL GEOGRAPHIC WILD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD LOW" tvg-logo="" group-title="P0r7uGa7",PT: NATIONAL GEOGRAPHIC WILD LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21585.m3u8
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="PT: Blaze FHD" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/get.blazetv.com/allie/f2979d30-btv-logo-dark_0m806y0m806y000000001.png" group-title="P0r7uGa7",PT: Blaze FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",BLAZE ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21660.m3u8
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="PT: BLAZE" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/get.blazetv.com/allie/f2979d30-btv-logo-dark_0m806y0m806y000000001.png" group-title="P0r7uGa7",PT: BLAZE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21491.m3u8
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="PT: Histðria FHD" tvg-logo="https://3.bp.blogspot.com/-Qp9B7KRV-eQ/TljSRgch8UI/AAAAAAAAAew/v7X5eywBp_g/s1600/Hist%25C3%25B3ria.png"" group-title="P0r7uGa7",PT: Histðria FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",HISTORIA ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21659.m3u8
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="PT: HISTORIA" tvg-logo="https://3.bp.blogspot.com/-Qp9B7KRV-eQ/TljSRgch8UI/AAAAAAAAAew/v7X5eywBp_g/s1600/Hist%25C3%25B3ria.png" group-title="P0r7uGa7",PT: HISTORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA LOW" tvg-logo="" group-title="P0r7uGa7",PT: HISTORIA LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21583.m3u8
-#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="PT: Odisseia FHD" tvg-logo="https://4.bp.blogspot.com/-mEyziw0xBco/WB3MKmGMcxI/AAAAAAAAFRg/_XDIWS7Js_cdHmTsRPX2ErFLXMUthkoKwCLcB/s1600/Odisseia.png" group-title="P0r7uGa7",PT: Odisseia FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ODISSEIA ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21661.m3u8
-#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="PT: ODISSEIA" tvg-logo="https://4.bp.blogspot.com/-mEyziw0xBco/WB3MKmGMcxI/AAAAAAAAFRg/_XDIWS7Js_cdHmTsRPX2ErFLXMUthkoKwCLcB/s1600/Odisseia.png" group-title="P0r7uGa7",PT: ODISSEIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21496.m3u8
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="P0r7uGa7",PT: TRAVEL CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",TRAVEL CHANNEL ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21662.m3u8
-#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="PT: Travel" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="P0r7uGa7",PT: Travel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="https://1.bp.blogspot.com/-WoqIrJLUgMk/WDrqAbaRmkI/AAAAAAAAFaM/hOAfHKUwZPwArJahGs_GWJQEwVOrVp23ACLcB/s1600/24%2BKitchen%2BHD.png" group-title="P0r7uGa7",PT: 24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",24 KITCHEN ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: THE FOOD NETWORK LOW" tvg-logo="" group-title="P0r7uGa7",PT: THE FOOD NETWORK LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21590.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="PT: Food Network FHD" tvg-logo="https://4.bp.blogspot.com/-DNgVc8BQkLA/WEcxgUFpHOI/AAAAAAAAFl8/-2rFGg0Rb50y0XJGLe6o582rhvSgwKkKACLcB/s1600/Food%2BNetwork.png" group-title="P0r7uGa7",PT: Food Network FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21525.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="PT: Food Network" tvg-logo="https://4.bp.blogspot.com/-DNgVc8BQkLA/WEcxgUFpHOI/AAAAAAAAFl8/-2rFGg0Rb50y0XJGLe6o582rhvSgwKkKACLcB/s1600/Food%2BNetwork.png" group-title="P0r7uGa7",PT: Food Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21487.m3u8
-#EXTINF:-1 tvg-id="FINE LIVING NETWORK" tvg-name="PT: Fine Living Network HD" tvg-logo="https://1.bp.blogspot.com/-aZQtgrNXjdw/WKjW348cLzI/AAAAAAAAFqg/vJewi_yOdN0OumH1Ub8daRdwrU_ZI1J_ACLcB/s1600/Fine%2BLiving%2BHD.png" group-title="P0r7uGa7",PT: Fine Living Network HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FINE LIVING NETWORK ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",FINE LIVING NETWORK ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21658.m3u8
-#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="PT: CBS REALITY" tvg-logo="https://i.imgur.com/urVdic4.png" group-title="P0r7uGa7",PT: CBS REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RT Doc" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="P0r7uGa7",PT: RT Doc
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21468.m3u8
-#EXTINF:-1 tvg-id="FASHION TV (FTV)" tvg-name="PT: FTV" tvg-logo="https://3.bp.blogspot.com/-3GizqGw2ljM/WDrqDU9x7pI/AAAAAAAAFcM/7-3xLt2V_3cAWyBse_X5XQfOPxqfnDoRQCLcB/s1600/Fashion%2BTV.png" group-title="P0r7uGa7",PT: FTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21469.m3u8
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="PT: Fuel TV FHD" tvg-logo="https://3.bp.blogspot.com/-TZmrWHHpRV0/WDrqD7LB_UI/AAAAAAAAFck/FpAIkcTMxcYxIdO6jw9_QEV2BS6-sJUbwCLcB/s1600/Fuel%2BTV.png" group-title="P0r7uGa7",PT: Fuel TV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21463.m3u8
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="PT: FUEL TV" tvg-logo="https://3.bp.blogspot.com/-TZmrWHHpRV0/WDrqD7LB_UI/AAAAAAAAFck/FpAIkcTMxcYxIdO6jw9_QEV2BS6-sJUbwCLcB/s1600/Fuel%2BTV.png" group-title="P0r7uGa7",PT: FUEL TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Ginx" tvg-logo="https://4.bp.blogspot.com/-sT0_ts6tuwI/WB3MIY3luwI/AAAAAAAAFQQ/vZLjxRGPDkQRdHki5Gf_c34PbirnNuQHACLcB/s1600/Ginx.png" group-title="P0r7uGa7",PT: Ginx
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21470.m3u8
-#EXTINF:-1 tvg-id="TOROS TV" tvg-name="PT: TOROS TV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TOROS.png" group-title="P0r7uGa7",PT: TOROS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21471.m3u8
-#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BBCENTERTAINMENT.png" group-title="P0r7uGa7",PT: BBC ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21484.m3u8
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="PT: E! Entertainement FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/E!ENTERTAINMENT.png" group-title="P0r7uGa7",PT: E! Entertainement FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",E! ENTERTAINMENT ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21656.m3u8
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="PT: E! ENTERTAINEMENT" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/E!ENTERTAINMENT.png" group-title="P0r7uGa7",PT: E! ENTERTAINEMENT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21474.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="PT: TLC" tvg-logo="https://4.bp.blogspot.com/-eCNwpNfmoGo/TqxmhkTfpKI/AAAAAAAAAuM/iCnp45tIXWI/s1600/TLC.png" group-title="P0r7uGa7",PT: TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC LOW" tvg-logo="" group-title="P0r7uGa7",PT: TLC LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21597.m3u8
-#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-name="PT: BBC WORLD NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BBCWORLDNEWS.png" group-title="P0r7uGa7",PT: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: QYOU" tvg-logo="https://qyoumedia.com/wp-content/uploads/2019/04/logo_site.png" group-title="P0r7uGa7",PT: QYOU
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21488.m3u8
-#EXTINF:-1 tvg-id="CANAL 180" tvg-name="PT: Canal 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="P0r7uGa7",PT: Canal 180
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21489.m3u8
-#EXTINF:-1 tvg-id="ARTV" tvg-name="PT: ARTV" tvg-logo="https://1.bp.blogspot.com/-pgrehA4uSag/WDrqAorIqQI/AAAAAAAAFaQ/9XKHO2_2UMwaVv-Pxian1Dpzzzyjj1eUACLcB/s1600/AR%2BTV.png" group-title="P0r7uGa7",PT: ARTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="===MUSICA===" tvg-logo="" group-title="P0r7uGa7",===MUSICA===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: I CONCERTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/I_concerts_logo.png" group-title="P0r7uGa7",PT: I CONCERTS FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21500.m3u8
-#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="PT: AFRO MUSIC" tvg-logo="https://1.bp.blogspot.com/-C8mAknQ2OxQ/VSeoD60T8AI/AAAAAAAAE0s/07LAk7kMwFQ/s1600/Afro%2BMusic%2BChannel.png" group-title="P0r7uGa7",PT: AFRO MUSIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21501.m3u8
-#EXTINF:-1 tvg-id="MCM POP" tvg-name="PT: MCM POP" tvg-logo="https://3.bp.blogspot.com/-v4SUR69xFZo/WDrqFHFcXyI/AAAAAAAAFdQ/7mIlNRNtrwoxRgmZjmndyhqZb1M1NhSrgCLcB/s1600/MCM%2BPop.png" group-title="P0r7uGa7",PT: MCM POP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21502.m3u8
-#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="PT: MTV FHD" tvg-logo="https://4.bp.blogspot.com/--rbGria_Nts/TljSYy15-kI/AAAAAAAAAgY/XL9OdPzHTBY/s1600/MTV.png" group-title="P0r7uGa7",PT: MTV FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21503.m3u8
-#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-name="PT: MTV PORTUGAL" tvg-logo="https://4.bp.blogspot.com/--rbGria_Nts/TljSYy15-kI/AAAAAAAAAgY/XL9OdPzHTBY/s1600/MTV.png" group-title="P0r7uGa7",PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21504.m3u8
-#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="PT: MTV LIVE FHD" tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="P0r7uGa7",PT: MTV LIVE FHD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LOW" tvg-logo="" group-title="P0r7uGa7",PT: MTV LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21596.m3u8
-#EXTINF:-1 tvg-id="MEZZO" tvg-name="PT: MEZZO" tvg-logo="https://1.bp.blogspot.com/-GICYLs-vkZ8/TljSWniAWqI/AAAAAAAAAf4/iC6FZyY6ROI/s1600/Mezzo.png" group-title="P0r7uGa7",PT: MEZZO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21506.m3u8
-#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="PT: TRACE TOCA" tvg-logo="https://3.bp.blogspot.com/-BP0if9z8SR0/WDtdf4PgVCI/AAAAAAAAFlA/zAM-ZcSffuAdau6q3IMdx2gqm6Trb4XrwCLcB/s1600/Trace%2BToca.png" group-title="P0r7uGa7",PT: TRACE TOCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21507.m3u8
-#EXTINF:-1 tvg-id="TRACE URBAN" tvg-name="PT: TRACE URBAN" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="P0r7uGa7",PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21508.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="PT: VH1" tvg-logo="https://1.bp.blogspot.com/-UxNCjednbUQ/VSZNwgusJOI/AAAAAAAAEwo/X8ChSPRQgiY/s1600/VH1.png" group-title="P0r7uGa7",PT: VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="=== INTERNACIONAIS ===" tvg-logo="" group-title="P0r7uGa7",=== INTERNACIONAIS ===
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21510.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="PT: CNN" tvg-logo="https://2.bp.blogspot.com/-Mc-pgRxHJ10/WDrqBhFr6yI/AAAAAAAAFbI/ObdWsENu_Soz5Bcdcje4323V4ZxEbn8tgCLcB/s1600/CNN.png" group-title="P0r7uGa7",PT: CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21511.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="PT: EURONEWS" tvg-logo="https://i.imgur.com/y4lCo8f.png" group-title="P0r7uGa7",PT: EURONEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21512.m3u8
-#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="PT: EUROCHANNEL" tvg-logo="https://4.bp.blogspot.com/-S8evUUNmmuI/WDrqDPXTQeI/AAAAAAAAFb8/QUhyVFF-51EQaSPVREMism1fRVCyNMqYgCLcB/s1600/Eurochannel.png" group-title="P0r7uGa7",PT: EUROCHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21513.m3u8
-#EXTINF:-1 tvg-id="TVE INTERNACIONAL" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="https://i.imgur.com/EXe49t7.png" group-title="P0r7uGa7",PT: TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21514.m3u8
-#EXTINF:-1 tvg-id="SKY NEWS" tvg-name="PT: SKY NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SKYNEWS.png" group-title="P0r7uGa7",PT: SKY NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21515.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVA" tvg-name="PT: ZAP VIVA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="P0r7uGa7",PT: ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA ᴴ²⁶⁵" tvg-logo="" group-title="P0r7uGa7",ZAP VIVA ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21667.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="PT: CNBC" tvg-logo="https://3.bp.blogspot.com/-ldJXBoTr1ew/TljSCaGtgQI/AAAAAAAAAbk/NAsy4sehtAA/s1600/CNBC.png" group-title="P0r7uGa7",PT: CNBC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21517.m3u8
-#EXTINF:-1 tvg-id="ARTE" tvg-name="PT: ARTE" tvg-logo="https://4.bp.blogspot.com/-Y4YWCzGWZ4s/TljR5KOLe-I/AAAAAAAAAZc/2J1YP2ILzqA/s1600/Arte.png" group-title="P0r7uGa7",PT: ARTE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BVN" tvg-logo="https://3.bp.blogspot.com/-QmtbB-S4u3U/TljR-k1S59I/AAAAAAAAAao/tlZQQ3h9zlE/s1600/BVN.png" group-title="P0r7uGa7",PT: BVN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21519.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="PT: Bloomberg" tvg-logo="https://i.imgur.com/z9ljXHd.png" group-title="P0r7uGa7",PT: Bloomberg
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21520.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="PT: CCTV4" tvg-logo="https://3.bp.blogspot.com/-c75_asOq_bQ/VSeneV6dUuI/AAAAAAAAEx0/VAaWC1nGRgI/s1600/CCTV%2B4.PNG" group-title="P0r7uGa7",PT: CCTV4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21521.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="PT: CGTN" tvg-logo="https://2.bp.blogspot.com/-0psQXd-hSr4/WKi0SfuOJAI/AAAAAAAAFpQ/apL-dikp1pAtnZmjm99tQ6gvG7dgPJrvwCLcB/s1600/CGTN.png" group-title="P0r7uGa7",PT: CGTN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21522.m3u8
-#EXTINF:-1 tvg-id="CUBAVISION" tvg-name="PT: Cubavisiðn Internacional" tvg-logo="https://2.bp.blogspot.com/-X-oQNZXxEpI/WDrqCYXkapI/AAAAAAAAFbk/P_ADzBRjSCkF2T0YaO3eahIyFo3OHE1jwCLcB/s1600/Cubavision%2BInternacional.png" group-title="P0r7uGa7",PT: Cubavisiðn Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21523.m3u8
-#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="PT: Kuriakos TV" tvg-logo="https://3.bp.blogspot.com/-SN1ztIPyfkc/WDrqEp6W0OI/AAAAAAAAFdE/GS_bKn0PN4kJ4gQ4i0Wa_-LlIsS213otACLcB/s1600/Kuriakos%2BTV.png" group-title="P0r7uGa7",PT: Kuriakos TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21526.m3u8
-#EXTINF:-1 tvg-id="LOCALVISÃO" tvg-name="PT: Localvisão TV HD" tvg-logo="https://1.bp.blogspot.com/-SiAi5TQwjK8/WEcxgsdfufI/AAAAAAAAFmE/6y0Q-1yrp0w7FfVnTW1jSRwav_W55dQ7ACLcB/s1600/Localvis%25C3%25A3o.png" group-title="P0r7uGa7",PT: Localvisão TV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21527.m3u8
-#EXTINF:-1 tvg-id="M6" tvg-name="PT: M6" tvg-logo="https://4.bp.blogspot.com/-I5uIvRIpqQk/TljSUSzbXSI/AAAAAAAAAfc/xcfZ_2JEgDs/s1600/M6.png" group-title="P0r7uGa7",PT: M6
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RT" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="P0r7uGa7",PT: RT
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21531.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="PT: RTL" tvg-logo="https://2.bp.blogspot.com/-E7-vehuAfFo/TljSj-jrn0I/AAAAAAAAAi8/mc-Vg-RhX_Y/s1600/RTL.png" group-title="P0r7uGa7",PT: RTL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTR-Planeta" tvg-logo="https://3.bp.blogspot.com/-WvIkIl85ldI/TljSjhh-1UI/AAAAAAAAAi4/XGoWPTmaBIM/s1600/RT.png" group-title="P0r7uGa7",PT: RTR-Planeta
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21533.m3u8
-#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="PT: TPA Internacional" tvg-logo="https://channelsurf.tv/wp-content/uploads/2019/05/TPA-Internacional.png" group-title="P0r7uGa7",PT: TPA Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21536.m3u8
-#EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="PT: TV5 Monde" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TV5MONDE.png" group-title="P0r7uGa7",PT: TV5 Monde
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21537.m3u8
-#EXTINF:-1 tvg-id="TCV INTERNACIONAL" tvg-name="PT: TVC News" tvg-logo="https://2.bp.blogspot.com/-qGYQ59iSnUc/WDtdfpONjRI/AAAAAAAAFk4/W6ID9mRdFxkiTzqgAEJNQW56IoNYUhtJwCLcB/s1600/TVC%2BNews.png" group-title="P0r7uGa7",PT: TVC News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVR International" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/canais-exclusivos/carrossel-generalistas/tvri.png" group-title="P0r7uGa7",PT: TVR International
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21539.m3u8
-#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="PT: RTP ACORES" tvg-logo="https://2.bp.blogspot.com/-Jx1bSo-8Rpk/VSZNqoxtBHI/AAAAAAAAEvE/rGJ_e03Ho7s/s1600/RTP%2BA%C3%A7ores.png" group-title="P0r7uGa7",PT: RTP ACORES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21342.m3u8
-#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="PT: RTP MADEIRA" tvg-logo="https://4.bp.blogspot.com/-dw1AvSiX9HA/VSZNrFSBUHI/AAAAAAAAEvU/6uqGrc9HecU/s1600/RTP%2BMadeira.png" group-title="P0r7uGa7",PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21343.m3u8
-#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="PT: RTP MEMORIA" tvg-logo="https://2.bp.blogspot.com/-XR3oEaqlZck/WB3MLpUoCJI/AAAAAAAAFSI/uA86QfWu_fANG39O0MiPnr-zZG8f5PfyACLcB/s1600/RTP%2BMem%25C3%25B3ria.png" group-title="P0r7uGa7",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA LOW" tvg-logo="" group-title="P0r7uGa7",PT: RTP MEMORIA LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21607.m3u8
-#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="PT: RTP AFRICA" tvg-logo="https://2.bp.blogspot.com/-0eQhvMAc7TA/WEcxg9ftAzI/AAAAAAAAFmM/iTfKnoaIuh8vH-Azc9iQBOvQWiFTJvIFgCLcB/s1600/RTP%2B%25C3%2581frica.png" group-title="P0r7uGa7",PT: RTP AFRICA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA LOW" tvg-logo="" group-title="P0r7uGa7",PT: RTP AFRICA LOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21606.m3u8
-#EXTINF:-1 tvg-id="CANAL Q" tvg-name="PT: CANAL Q" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="P0r7uGa7",PT: CANAL Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Mosaico" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality - Mosaico
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Camera 1" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality - Camera 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Camera 2" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality - Camera 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Camera 3" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality - Camera 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Camera 4" tvg-logo="https://3.bp.blogspot.com/-a1LgTR7B-ws/WB3MMdbuCZI/AAAAAAAAFSo/EBpwlAUkgC49OIKcJY4OeTd6kdRgtk92ACLcB/s1600/TVI%2BReality.png" group-title="P0r7uGa7",PT: TVI Reality - Camera 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO" tvg-logo="https://images.impresa.pt/sic/2020-11-20-logo-opto_roxo-sem-fundo.png" group-title="P0r7uGa7",PT: OPTO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/27310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★♣♦♣ Portugal ♣♦♣★●•" tvg-logo="" group-title="Portugal",•●★♣♦♣ Portugal ♣♦♣★●•
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1  HD" tvg-logo="" group-title="Portugal",RTP 1  HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="" group-title="Portugal",RTP 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="" group-title="Portugal",RTP 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="" group-title="Portugal",RTP 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="" group-title="Portugal",RTP 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD" tvg-logo="" group-title="Portugal",SIC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="" group-title="Portugal",SIC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD" tvg-logo="" group-title="Portugal",TVI HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="" group-title="Portugal",TVI
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias" tvg-logo="" group-title="Portugal",SIC Noticias
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="" group-title="Portugal",SIC Radical
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" tvg-logo="" group-title="Portugal",SIC Mulher
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title="Portugal",SIC K
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" tvg-logo="" group-title="Portugal",SIC Caras
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memoria" tvg-logo="" group-title="Portugal",RTP Memoria
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Madeira" tvg-logo="" group-title="Portugal",RTP Madeira
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Açores" tvg-logo="" group-title="Portugal",RTP Açores
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP  africa" tvg-logo="" group-title="Portugal",RTP  africa
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="" group-title="Portugal",Porto Canal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva HD" tvg-logo="" group-title="Portugal",ZAP Viva HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="" group-title="Portugal",TVI 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVEi" tvg-logo="" group-title="Portugal",TVEi
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD" tvg-logo="" group-title="Portugal",24 Kitchen HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="" group-title="Portugal",TVI Reality
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cançao Nova" tvg-logo="" group-title="Portugal",Cançao Nova
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha HD" tvg-logo="" group-title="Portugal",Casa e Cozinha HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top HD" tvg-logo="" group-title="Portugal",TVCine Top HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition HD" tvg-logo="" group-title="Portugal",TVCine Edition HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion HD" tvg-logo="" group-title="Portugal",TVCine Emotion HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action HD" tvg-logo="" group-title="Portugal",TVCine Action HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Portugal",Hollywood HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="Portugal",Hollywood
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo" tvg-logo="" group-title="Portugal",Cinemundo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD" tvg-logo="" group-title="Portugal",FOX Movies HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life HD" tvg-logo="" group-title="Portugal",FOX Life HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="Portugal",FOX HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime HD" tvg-logo="" group-title="Portugal",FOX Crime HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="" group-title="Portugal",FOX Comedy
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOS Studios HD" tvg-logo="" group-title="Portugal",NOS Studios HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Portugal",AXN HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Portugal",AXN MOVIES HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD" tvg-logo="" group-title="Portugal",AXN White HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Portugal",AMC HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Portugal",AMC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="Portugal",SyFy
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="Portugal",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="" group-title="Portugal",SPORT TV 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="Portugal",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="" group-title="Portugal",SPORT TV 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="Portugal",SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="" group-title="Portugal",SPORT TV 3
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="Portugal",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="" group-title="Portugal",SPORT TV 4
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="Portugal",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="" group-title="Portugal",SPORT TV 5
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="" group-title="Portugal",SPORT TV +
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="" group-title="Portugal",Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="" group-title="Portugal",Eleven Sports 2 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 HD" tvg-logo="" group-title="Portugal",Eleven Sports 3 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD" tvg-logo="" group-title="Portugal",Eleven Sports 4 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 HD" tvg-logo="" group-title="Portugal",Eleven Sports 5 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="" group-title="Portugal",Eleven Sports 6
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV HD" tvg-logo="" group-title="Portugal",BTV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Portugal",BTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporting TV" tvg-logo="" group-title="Portugal",Sporting TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="" group-title="Portugal",Canal 11 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Bola TV" tvg-logo="" group-title="Portugal",A Bola TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Portugal",Eurosport 1 HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/1999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Portugal",Eurosport 1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Portugal",Eurosport 2
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="Portugal",NBA TV HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="" group-title="Portugal",Toros TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sport" tvg-logo="" group-title="Portugal",Kombat Sport
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="" group-title="Portugal",PFC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cacavision" tvg-logo="" group-title="Portugal",Cacavision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision" tvg-logo="" group-title="Portugal",Motorvision
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Portugal",National Geographic HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="" group-title="Portugal",National Geographic Wild
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Portugal",Discovery Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="" group-title="Portugal",Travel Channel HD
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Portugal",Trace Urban
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia" tvg-logo="" group-title="Portugal",Odisseia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Portugal",Trace Toca
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Portugal",TLC
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HistÃ°ria" tvg-logo="" group-title="Portugal",HistÃ°ria
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="Portugal",FTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blaze" tvg-logo="" group-title="Portugal",Blaze
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal" tvg-logo="" group-title="Portugal",MTV Portugal
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="" group-title="Portugal",MCM POP
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo" tvg-logo="" group-title="Portugal",Mezzo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music" tvg-logo="" group-title="Portugal",Afro Music
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="Portugal",VH1
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney JÅ“nior" tvg-logo="" group-title="Portugal",Disney JÅ“nior
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Portugal",Disney Channel
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jim Jam" tvg-logo="" group-title="Portugal",Jim Jam
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Portugal",Cartoon Network
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="" group-title="Portugal",Canal Panda
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Portugal",Baby TV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="" group-title="Portugal",Canal Q
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="Portugal",Nick Jr.
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle (A)" tvg-logo="" group-title="Portugal",Deutsche Welle (A)
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Portugal",CNN
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="" group-title="Portugal",CNBC Europe
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="Portugal",Euronews
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="" group-title="Portugal",CMTV
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY News" tvg-logo="" group-title="Portugal",SKY News
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="Portugal",France 24
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI FicÃ§ao" tvg-logo="" group-title="Portugal",TVI FicÃ§ao
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="" group-title="Portugal",TV5 Monde
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Galicia" tvg-logo="" group-title="Portugal",TV Galicia
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="" group-title="Portugal",Crime Investigation
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="" group-title="Portugal",E! Entertainment
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="Portugal",BBC World News
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="" group-title="Portugal",ID Investigation Discovery
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="Portugal",Bloomberg
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA E COZINHA" tvg-logo="" group-title="Portugal",CASA E COZINHA
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Record" tvg-logo="" group-title="Portugal",TV Record
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Now" tvg-logo="" group-title="Portugal",Globo Now
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="" group-title="Portugal",Globo
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel tv" tvg-logo="" group-title="Portugal",Fuel tv
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Portugal",Nickelodeon
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ostora.net:2086/live/test/test/2053.m3u8

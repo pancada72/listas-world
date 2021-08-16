@@ -3,552 +3,552 @@
 VAI COPIAR AO CARALHO##########
 --------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="-----PORTUGAL-----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT PORTUGAL",-----PORTUGAL-----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/135944.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/135944.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%201%20SD.png" group-title="PT PORTUGAL",PT: RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2211.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2211.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%201%20HD.png" group-title="PT PORTUGAL",PT: RTP 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/162611.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/162611.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%201%20HD.png" group-title="PT PORTUGAL",PT: RTP 1 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205663.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205663.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%202%20SD.png" group-title="PT PORTUGAL",PT: RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2212.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2212.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%202%20HD.png" group-title="PT PORTUGAL",PT: RTP 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205664.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205664.m3u8
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/RTP%202%20HD.png" group-title="PT PORTUGAL",PT: RTP 2 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/162612.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/162612.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/SIC%20SD.png" group-title="PT PORTUGAL",PT: SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2216.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2216.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/SIC%20HD.png" group-title="PT PORTUGAL",PT: SIC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/169304.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/169304.m3u8
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/SIC%20HD.png" group-title="PT PORTUGAL",PT: SIC H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205665.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205665.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20SD.png" group-title="PT PORTUGAL",PT: TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2220.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2220.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20HD.png" group-title="PT PORTUGAL",PT: TVI HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/169303.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/169303.m3u8
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20HD.png" group-title="PT PORTUGAL",PT: TVI H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/209530.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/209530.m3u8
 #EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%2024%20SD.png" group-title="PT PORTUGAL",PT: TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2221.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2221.m3u8
 #EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/TVI24.png" group-title="PT PORTUGAL",PT: TVI 24 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338931.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338931.m3u8
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICÇAO" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20FIC%c3%87AO%20SD.png" group-title="PT PORTUGAL",PT: TVI FICÇAO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136631.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136631.m3u8
 #EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/TVI%20FIC%c3%87AO.png" group-title="PT PORTUGAL",PT: TVI FICCAO H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338953.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338953.m3u8
 #EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20REALITY.png" group-title="PT PORTUGAL",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136659.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/TVI%20REALITY.png" group-title="PT PORTUGAL",PT: TVI REALITY H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338963.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338963.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY - BIG BROTHER" tvg-logo="" group-title="PT PORTUGAL",PT: TVI REALITY - BIG BROTHER
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/361077.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/361077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TVI%20REALITY%20MOSAICO.png" group-title="PT PORTUGAL",PT: TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/264147.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/264147.m3u8
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTP3.png" group-title="PT PORTUGAL",PT: RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136263.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136263.m3u8
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTP3.png" group-title="PT PORTUGAL",PT: RTP 3 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338956.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338956.m3u8
 #EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP AFRICA" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTPAFFRICA.png" group-title="PT PORTUGAL",PT: RTP AFRICA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136684.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136684.m3u8
 #EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP ACORES" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTPACORES.png" group-title="PT PORTUGAL",PT: RTP ACORES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2213.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2213.m3u8
 #EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTPMADEIRA.png" group-title="PT PORTUGAL",PT: RTP MADEIRA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2215.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2215.m3u8
 #EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RTPMEMORIA.png" group-title="PT PORTUGAL",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2214.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2214.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICNOTICIAS.png" group-title="PT PORTUGAL",PT: SIC NOTICIAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2219.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2219.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICNOTICIAS.png" group-title="PT PORTUGAL",PT: SIC NOTICIAS H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338932.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EE SECUNDARIO" tvg-logo="" group-title="PT PORTUGAL",PT: EE SECUNDARIO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/361079.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/361079.m3u8
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICRADICAL.png" group-title="PT PORTUGAL",PT: SIC RADICAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136264.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136264.m3u8
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SIC%20RADICAL%20HD.png" group-title="PT PORTUGAL",PT: SIC RADICAL H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338962.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338962.m3u8
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICCARAS.png" group-title="PT PORTUGAL",PT: SIC CARAS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136630.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136630.m3u8
 #EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICCARAS.png" group-title="PT PORTUGAL",PT: SIC CARAS H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338959.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338959.m3u8
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICMULHER.png" group-title="PT PORTUGAL",PT: SIC MULHER
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2218.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2218.m3u8
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICMULHER.png" group-title="PT PORTUGAL",PT: SIC MULHER H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338961.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338961.m3u8
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CMTV.png" group-title="PT PORTUGAL",PT: CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2204.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2204.m3u8
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CMTV%20HD.png" group-title="PT PORTUGAL",PT: CMTV H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338928.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/252147.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/252147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/198367.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/198367.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zap_viva_ao.png" group-title="PT PORTUGAL",PT: ZAP VIVA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/252146.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/252146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TCV CABO VERDE" tvg-logo="https://seeklogo.com/images/T/tcv-logo-A799C7319A-seeklogo.com.gif" group-title="PT PORTUGAL",PT: TCV CABO VERDE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/240454.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/240454.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV MOÇAMBIQUE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg" group-title="PT PORTUGAL",PT: TV MOÇAMBIQUE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/240455.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/240455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/251728.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/251728.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: CASA E COZINHA H.265/HEVC" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/251726.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/251726.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CASA E COZINHA HD" tvg-logo="https://i1.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD-scaled.jpg?fit=2560%2C1440&ssl=1" group-title="PT PORTUGAL",PT: CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/251727.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/251727.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN " tvg-logo="http://logo.sltv.site/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN 
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/234098.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/234098.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2203.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2203.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/24KITCHENHD.png" group-title="PT PORTUGAL",PT: 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/234099.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/234099.m3u8
 #EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: CANÇAO NOVA" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CANCAONOVA.png" group-title="PT PORTUGAL",PT: CANÇAO NOVA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/165587.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/165587.m3u8
 #EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CANALQ.png" group-title="PT PORTUGAL",PT: CANAL Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132901.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132901.m3u8
 #EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CBSREALITY.png" group-title="PT PORTUGAL",PT: CBS REALITY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132903.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132903.m3u8
 #EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! " tvg-logo="http://logo.sltv.site/logo/2021mixlogo/e.png" group-title="PT PORTUGAL",PT: E! 
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132910.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132910.m3u8
 #EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/2021mixlogo/e.png" group-title="PT PORTUGAL",PT: E! H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338958.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="http://logo.sltv.site/logo/2021mixlogo/fashion.png" group-title="PT PORTUGAL",PT: FASHION TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136676.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136676.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX NEWS" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOXNEWS.png" group-title="PT PORTUGAL",PT: FOX NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132917.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132917.m3u8
 #EXTINF:-1 tvg-id="globonow.pt" tvg-name="PT: GLOBO NOW" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/GLOBONOW.png" group-title="PT PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132897.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132897.m3u8
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO PORTUGAL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO PORTUGAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2209.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2209.m3u8
 #EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338946.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO INTER HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/GLOBO.png" group-title="PT PORTUGAL",PT: GLOBO INTER HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/246535.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/246535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/BLOOMBERG.png" group-title="PT PORTUGAL",PT: BLOOMBERG
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136683.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136683.m3u8
 #EXTINF:-1 tvg-id="recordtv.pt" tvg-name="PT: TV RECORD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RECORDHD.png" group-title="PT PORTUGAL",PT: TV RECORD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2225.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2225.m3u8
 #EXTINF:-1 tvg-id="recordnews.pt" tvg-name="PT: RECORD NEWS" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/RECORDNEWS.png" group-title="PT PORTUGAL",PT: RECORD NEWS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/212611.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/212611.m3u8
 #EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="PT: LOCALVISAO TV" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/LOCALVISAOTV.png" group-title="PT PORTUGAL",PT: LOCALVISAO TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132888.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132888.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: TV  FATIMA" tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/tv_fatima_pt.png" group-title="PT PORTUGAL",PT: TV  FATIMA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/165588.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/165588.m3u8
 #EXTINF:-1 tvg-id="luxe.pt" tvg-name="PT: LUXE TV HD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/LUXETV.png" group-title="PT PORTUGAL",PT: LUXE TV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132892.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132892.m3u8
 #EXTINF:-1 tvg-id="mycuisinehd.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL_SAT_CABO/TPA_INT.png" group-title="PT PORTUGAL",PT: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/256004.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/256004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/PORTOCANAL.png" group-title="PT PORTUGAL",PT: PORTO CANAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2210.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL H.265/HEVC" tvg-logo="" group-title="PT PORTUGAL",PT: PORTO CANAL H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/367635.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/367635.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: MARRADAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MARRADAS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319900.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: STRONG BY ZUMBA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STRONG BY ZUMBA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319899.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TREINE EM CASA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TREINE EM CASA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319898.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: KARAOKES PT TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: KARAOKES PT TV EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319897.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA STEVEN SEAGAL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA STEVEN SEAGAL EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319896.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA PORTUGUES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA PORTUGUES EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319895.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STALLONE VS SCHWARZENEGGER EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319894.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA ARTES MARCIAIS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA ARTES MARCIAIS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319893.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY + EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: DISNEY + EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319892.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319892.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA EM CASA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA EM CASA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319891.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA AÇÃO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA AÇÃO EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319890.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ESPECIAL EM FAMILIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: ESPECIAL EM FAMILIA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319889.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319889.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: REVISTA PORTUGUESA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: REVISTA PORTUGUESA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319888.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CULINARIA TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CULINARIA TV EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319887.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA BRASIL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA BRASIL EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319886.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319886.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Canal Barbie EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: Canal Barbie EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319885.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: STAND UP EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: STAND UP EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319884.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319884.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA FICÇÃO CIENTIFICA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319883.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319883.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL SUSPENSE/TERROR EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL SUSPENSE/TERROR EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319882.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319882.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: RALLY MANIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: RALLY MANIA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319881.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BOOBA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: BOOBA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319880.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319880.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL LUCAS NETO TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL LUCAS NETO TV EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319879.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOX KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FOX KIDS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319878.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA FANTASIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA FANTASIA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319877.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Terra Nossa EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL Terra Nossa EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319876.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: MARVEL VS DC EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MARVEL VS DC EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319875.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: NETFLIX EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319874.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV NOVELAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TV NOVELAS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319873.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319873.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL MOTO GP EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CANAL MOTO GP EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319872.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319872.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: WB KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: WB KIDS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319871.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319871.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA GUERRA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA GUERRA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319870.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: THE VOICE EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: THE VOICE EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319869.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOM E OS AMIGOS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM E OS AMIGOS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319868.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319868.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOM HEROES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM HEROES EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319867.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA MUSICAL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA MUSICAL EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319866.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319866.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOP MIX TV EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOP MIX TV EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319865.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA COMEDIA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA COMEDIA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319864.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: MIRACULOUS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: MIRACULOUS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319863.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: APAIXONADOS E SERIES EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: APAIXONADOS E SERIES EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319862.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EXTREME SPORTS CHANNEL EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: EXTREME SPORTS CHANNEL EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319861.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319861.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA INDIANO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA INDIANO EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319860.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319860.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA 2020 EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA 2020 EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319859.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319859.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: FILMES WESTERN EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FILMES WESTERN EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319858.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOM SAWYER + Dartacan EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: TOM SAWYER + Dartacan EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319857.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319857.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA TOM CRUISE EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA TOM CRUISE EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319856.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319856.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX KIDS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: NETFLIX KIDS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319855.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CINEMA JACKIE CHAN EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CINEMA JACKIE CHAN EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319854.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAFE CONCERTO EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: CAFE CONCERTO EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319853.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319853.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: COMBATES MMA EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: COMBATES MMA EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319852.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319852.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: JOAO KLEBER SHOW EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: JOAO KLEBER SHOW EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319851.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319851.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Cinema KIDS PT EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: Cinema KIDS PT EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319850.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: FOLCLORE-DESGARRADAS EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: FOLCLORE-DESGARRADAS EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319849.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: RIR ATE CAIR EXCLUSIVO" tvg-logo="" group-title="PT EXCLUSIVOS",PT: RIR ATE CAIR EXCLUSIVO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/319848.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/319848.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="----- PT CINEMA/SERIES -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT CINEMA",----- PT CINEMA/SERIES -----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/139976.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/139976.m3u8
 #EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/194449.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/194449.m3u8
 #EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2234.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2234.m3u8
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE TOP  H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvcine-top-pt.png" group-title="PT CINEMA",PT: TVCINE TOP  H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/207333.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/207333.m3u8
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EDITION" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/194450.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/194450.m3u8
 #EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2235.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2235.m3u8
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EDITION H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Edition_HD.png" group-title="PT CINEMA",PT: TVCINE EDITION H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/207334.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/207334.m3u8
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EMOTION" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/194460.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/194460.m3u8
 #EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2236.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2236.m3u8
 #EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: TVCINE EMOTION H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Emotion_HD.png" group-title="PT CINEMA",PT: TVCINE EMOTION H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/207342.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/207342.m3u8
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/194461.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/194461.m3u8
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HD" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2237.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2237.m3u8
 #EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/TvCine_Action_HD.png" group-title="PT CINEMA",PT: TVCINE ACTION H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/207343.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/207343.m3u8
 #EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO" tvg-logo="http://logo.sltv.site/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/202823.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/202823.m3u8
 #EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIOS H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIOS H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/198788.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/198788.m3u8
 #EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HD" tvg-logo="http://logo.sltv.site/logo/portugal/STUDIOS%20HD.png" group-title="PT CINEMA",PT: NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205662.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205662.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/AXN.png" group-title="PT CINEMA",PT: AXN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136668.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136668.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/AXN.png" group-title="PT CINEMA",PT: AXN H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2233.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2233.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="http://logo.sltv.site/logo/portugal/AXN%20HD.png" group-title="PT CINEMA",PT: AXN HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205656.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205656.m3u8
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/167482.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/167482.m3u8
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132925.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132925.m3u8
 #EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="http://logo.sltv.site/logo/portugal/AXN%20WHITE%20HD.png" group-title="PT CINEMA",PT: AXN WHITE HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205658.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205658.m3u8
 #EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/167481.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/167481.m3u8
 #EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES H.265/HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132924.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132924.m3u8
 #EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="PT CINEMA",PT: AXN MOVIES HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205657.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205657.m3u8
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC" tvg-logo="http://logo.sltv.site/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132923.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132923.m3u8
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/169311.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/169311.m3u8
 #EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC HD" tvg-logo="http://logo.sltv.site/logo/portugal/AMC%20HD.png" group-title="PT CINEMA",PT: AMC HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/209534.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/209534.m3u8
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/HOLLYWOOD.png" group-title="PT CINEMA",PT: HOLLYWOOD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132921.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132921.m3u8
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PT CINEMA",PT: HOLLYWOOD H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/196607.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/196607.m3u8
 #EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="http://logo.sltv.site/logo/portugal/HOLLYWOOD%20HD.png" group-title="PT CINEMA",PT: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/221898.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/221898.m3u8
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="PT CINEMA",PT: SYFY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/169312.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/169312.m3u8
 #EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SYFY%20HD.png" group-title="PT CINEMA",PT: SYFY H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338952.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338952.m3u8
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://logo.sltv.site/logo/Italy/FOX.PNG" group-title="PT CINEMA",PT: FOX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/198366.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/198366.m3u8
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOXHD.png" group-title="PT CINEMA",PT: FOX H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2206.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2206.m3u8
 #EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HD" tvg-logo="http://logo.sltv.site/logo/portugal/FOX%20HD.png" group-title="PT CINEMA",PT: FOX HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205661.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205661.m3u8
 #EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: FOX COMEDY" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOXCOMEDYHD.png" group-title="PT CINEMA",PT: FOX COMEDY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2208.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2208.m3u8
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOXCRIME.png" group-title="PT CINEMA",PT: FOX CRIME
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132913.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132913.m3u8
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME H.265/HEVC" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1562578588_fox-crime-lg.png" group-title="PT CINEMA",PT: FOX CRIME H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132914.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132914.m3u8
 #EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="http://logo.sltv.site/logo/portugal/FOX%20CRIME%20HD.png" group-title="PT CINEMA",PT: FOX CRIME HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/209536.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/209536.m3u8
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox-Life.png/1200px-Fox-Life.png" group-title="PT CINEMA",PT: FOX LIFE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/167480.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/167480.m3u8
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOXCRIMEHD.png" group-title="PT CINEMA",PT: FOX LIFE H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132915.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132915.m3u8
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="http://logo.sltv.site/logo/portugal/FOX%20LIFE%20HD.png" group-title="PT CINEMA",PT: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/233866.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/233866.m3u8
 #EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/8XUMaO2.jpg" group-title="PT CINEMA",PT: FOX MOVIES
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2207.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2207.m3u8
 #EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/FOX%20MOVIES%20HD.png" group-title="PT CINEMA",PT: FOX MOVIES H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338948.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338948.m3u8
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CINEMUNDO.png" group-title="PT CINEMA",PT: CINEMUNDO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132905.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132905.m3u8
 #EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CINEMUNDO.png" group-title="PT CINEMA",PT: CINEMUNDO H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338929.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338929.m3u8
 #EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="PT: KURIAKOS CINE" tvg-logo="https://kuriakos.com/wp-content/uploads/2017/07/cineKuriakos-2.jpg" group-title="PT CINEMA",PT: KURIAKOS CINE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/178147.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/178147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="----- PT DESPORTO -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT DESPORTO",----- PT DESPORTO -----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/139977.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/139977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/203036.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/203036.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/203037.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/203037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD" tvg-logo="" group-title="PT DESPORTO",PT: CANAL 11 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205660.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205660.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV +
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161969.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161969.m3u8
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV +H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338957.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/285911.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/285911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="###https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="PT DESPORTO",PT: SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/302761.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/302761.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 1 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/1455.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/1455.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161957.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/1456.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/1456.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205667.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205667.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161966.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161966.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/1457.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/1457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205668.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205668.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161967.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/1458.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/1458.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 4 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/209531.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/209531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161968.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/178145.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/178145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/1459.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/1459.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/178146.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/178146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/183821.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/183821.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/367634.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/367634.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="" group-title="PT DESPORTO",PT: SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/252145.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/252145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="" group-title="PT DESPORTO",PT: BTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/161970.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/161970.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: BTV H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/271763.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/271763.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="PT DESPORTO",PT: BTV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/205659.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/205659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: PFC INTERNACIONAL" tvg-logo="" group-title="PT DESPORTO",PT: PFC INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/277512.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/277512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV" tvg-logo="" group-title="PT DESPORTO",PT: REDBULL TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/178144.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/178144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV 1080" tvg-logo="" group-title="PT DESPORTO",PT: REDBULL TV 1080
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/178148.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/178148.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164977.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/285912.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/285912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/158069.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/158069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164978.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/272329.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/272329.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/158902.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/158902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164979.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164979.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/272330.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/272330.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/159765.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/159765.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 4 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164980.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164980.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORT 4 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/159766.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/159766.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 5 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164981.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164981.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 5 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVENSPORT 5 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/159767.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/159767.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVEN SPORTS 6 SD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/164982.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/164982.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 6 HD" tvg-logo="" group-title="PT DESPORTO",PT: ELEVENSPORT 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/159768.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/159768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136682.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136682.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 H.265/HEVC" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1 H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2231.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2231.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD " tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 1 HD 
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/252144.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/252144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="" group-title="PT DESPORTO",PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132911.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PT DESPORTO",PT: A BOLA TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136661.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136661.m3u8
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/ABOLATV.png" group-title="PT DESPORTO",PT: A BOLA TV H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338945.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338945.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV HD" tvg-logo="" group-title="PT DESPORTO",PT: NBA TV HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132918.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="" group-title="PT DESPORTO",PT: REAL MADRID TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136663.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136663.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA E PESCA" tvg-logo="" group-title="PT DESPORTO",PT: CAÇA E PESCA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132898.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAÇAVISION" tvg-logo="" group-title="PT DESPORTO",PT: CAÇAVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132899.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="PT DESPORTO",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2232.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="PT DESPORTO",PT: TOROS TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136662.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="----- PT MUSICA -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT MUSICA",----- PT MUSICA -----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/139980.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/139980.m3u8
 #EXTINF:-1 tvg-id="mcsultra.pt" tvg-name="PT: MCM POP" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/MCMPOP.png" group-title="PT MUSICA",PT: MCM POP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132890.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132890.m3u8
 #EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PT MUSICA",PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136673.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136673.m3u8
 #EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT: MEZZO" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/MEZZO.png" group-title="PT MUSICA",PT: MEZZO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136675.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ICONCERTS HD" tvg-logo="https://tvnovini.bg/upload/articles/iconcert+hd.jpg" group-title="PT MUSICA",PT: ICONCERTS HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132884.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132884.m3u8
 #EXTINF:-1 tvg-id="traceurban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/TRACEURBAN.png" group-title="PT MUSICA",PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136672.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136672.m3u8
 #EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT: AFRO MUSIC CHANNEL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/AFROMUSIC.png" group-title="PT MUSICA",PT: AFRO MUSIC CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136674.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136674.m3u8
 #EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT: VH1" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/VH1.png" group-title="PT MUSICA",PT: VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136670.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136670.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="----- PT CRIANCAS -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT KIDS",----- PT CRIANCAS -----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/139978.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/139978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: PANDA KIDS" tvg-logo="" group-title="PT KIDS",PT: PANDA KIDS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/361078.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/361078.m3u8
 #EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CANALPANDA.png" group-title="PT KIDS",PT: CANAL PANDA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2222.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2222.m3u8
 #EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: BIGGS" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/BIGGS.png" group-title="PT KIDS",PT: BIGGS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/180946.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/180946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lolly-kids.png" group-title="PT KIDS",PT: LOLLY KIDS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/333092.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/333092.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/NICKELODEON.png" group-title="PT KIDS",PT: NICKELODEON
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136669.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136669.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICK JR." tvg-logo="https://www.kindpng.com/picc/m/434-4349862_nick-jr-logo-png-transparent-png.png" group-title="PT KIDS",PT: NICK JR.
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/181786.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/181786.m3u8
 #EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/SICK.png" group-title="PT KIDS",PT: SIC K
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2217.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2217.m3u8
 #EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="PT: BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="PT KIDS",PT: BABY TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136667.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136667.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/CARTOONNETWORK.png" group-title="PT KIDS",PT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132902.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132902.m3u8
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="PT KIDS",PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2223.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2223.m3u8
 #EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/DISNEYJR.png" group-title="PT KIDS",PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2224.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="http://logo.sltv.site/logo/FRANCE/BOOMERANGHD.png" group-title="PT KIDS",PT: BOOMERANG
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/308019.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/308019.m3u8
 #EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/JIMJAM.png" group-title="PT KIDS",PT: JIM JAM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132885.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="----- PT DOCUMENTARIOS -----" tvg-logo="" group-title="PT DOCUMENTARIOS",----- PT DOCUMENTARIOS -----
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/139979.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/139979.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEO" tvg-logo="http://logo.sltv.site/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/233871.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/233871.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEO H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132920.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132920.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEO HD" tvg-logo="http://logo.sltv.site/logo/FRANCE/NGCHD.png" group-title="PT DOCUMENTARIOS",PT: NATIONAL GEO HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/233872.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/233872.m3u8
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2228.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2228.m3u8
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT WILD H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/NGCWILD.png" group-title="PT DOCUMENTARIOS",PT: NAT WILD H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338955.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338955.m3u8
 #EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/330929.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/330929.m3u8
 #EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/330928.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/330928.m3u8
 #EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TRAVEL CHANNEL H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/330927.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/330927.m3u8
 #EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: MOTORVISION" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/132896.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/132896.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="PT: FOOD NETWORK" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/181785.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/181785.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136266.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136266.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/169310.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/169310.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ID INVESTIGATION DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136671.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136671.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2226.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2226.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL H.265/HEVC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/272332.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/272332.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/272331.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/272331.m3u8
 #EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: CRIME + INVESTIGATION TV" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: CRIME + INVESTIGATION TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136629.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136629.m3u8
 #EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: HISTORIA" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: HISTORIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/2227.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/2227.m3u8
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: ODISSEIA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136678.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136678.m3u8
 #EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/ODISSEIA.png" group-title="PT DOCUMENTARIOS",PT: ODISSEIA H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338950.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338950.m3u8
 #EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: BLAZE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/158901.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/158901.m3u8
 #EXTINF:-1 tvg-id="blazehd.pt" tvg-name="PT: BLAZE H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/PORTUGAL/BLAZE%20HD.png" group-title="PT DOCUMENTARIOS",PT: BLAZE H.265/HEVC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/338944.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/338944.m3u8
 #EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: FUEL TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136664.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136664.m3u8
 #EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="" group-title="PT DOCUMENTARIOS",PT: TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/live/YHNMF5p295/BmqLogGK7i/136681.m3u8
+plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://neomixs.com:8080/YHNMF5p295/BmqLogGK7i/136681.m3u8

@@ -1,134 +1,134 @@
 #EXTM3U
 -----------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="***********PORTUGAL**************" tvg-logo="http://picon-platinium.ddns.net/paises_flags/Portugal.png" group-title="PORTUGAL",***********PORTUGAL**************
+#EXTINF:-1 tvg-id="" tvg-name="***********PORTUGAL**************" tvg-logo="/paises_flags/Portugal.png" group-title="PORTUGAL",***********PORTUGAL**************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/2.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/3.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1 HD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/4.m3u8
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1 FHD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 FHD" tvg-logo="/logo/PORTUGAL/RTP1.png" group-title="PORTUGAL",PT: RTP 1 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/5.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/6.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2 HD
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/7.m3u8
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2 FHD
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="/logo/PORTUGAL/RTP2.png" group-title="PORTUGAL",PT: RTP 2 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/8.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/9.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC HD
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/10.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC FHD
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC FHD" tvg-logo="/logo/PORTUGAL/SIC.png" group-title="PORTUGAL",PT: SIC FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: OPTO SIC" tvg-logo="https://images.impresa.pt/expresso/2020-10-06-logo-opto-com-base-roxa-1.png-1/original" group-title="PORTUGAL",PT: OPTO SIC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18502.m3u8
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI" tvg-logo="/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12.m3u8
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI HD
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/13.m3u8
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI FHD
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT: TVI FHD" tvg-logo="/logo/PORTUGAL/TVI.png" group-title="PORTUGAL",PT: TVI FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/597.m3u8
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP 3
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP 3
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/14.m3u8
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP3 HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP3 HD
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP3 HD" tvg-logo="/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP3 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19133.m3u8
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP 3 FHD
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 FHD" tvg-logo="/logo/PORTUGAL/RTP%203.png" group-title="PORTUGAL",PT: RTP 3 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15.m3u8
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI24.png" group-title="PORTUGAL",PT: TVI 24
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24" tvg-logo="/logo/PORTUGAL/TVI24.png" group-title="PORTUGAL",PT: TVI 24
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16.m3u8
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI24 HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL_SAT_CABO/TVI%2024%20HD.png" group-title="PORTUGAL",PT: TVI24 HD
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI24 HD" tvg-logo="/logo/PORTUGAL_SAT_CABO/TVI%2024%20HD.png" group-title="PORTUGAL",PT: TVI24 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19134.m3u8
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI24.png" group-title="PORTUGAL",PT: TVI 24 FHD
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="PT: TVI 24 FHD" tvg-logo="/logo/PORTUGAL/TVI24.png" group-title="PORTUGAL",PT: TVI 24 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/7348.m3u8
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CMTV.png" group-title="PORTUGAL",PT: CMTV
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV" tvg-logo="/logo/PORTUGAL/CMTV.png" group-title="PORTUGAL",PT: CMTV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/17.m3u8
-#EXTINF:-1 tvg-id="CMTVhd" tvg-name="PT: CMTV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CMTV%20HD.png" group-title="PORTUGAL",PT: CMTV HD
+#EXTINF:-1 tvg-id="CMTVhd" tvg-name="PT: CMTV HD" tvg-logo="/logo/PORTUGAL/CMTV%20HD.png" group-title="PORTUGAL",PT: CMTV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19136.m3u8
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CMTVHD.png" group-title="PORTUGAL",PT: CMTV FHD
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV FHD" tvg-logo="/logo/PORTUGAL/CMTVHD.png" group-title="PORTUGAL",PT: CMTV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICNOTICIAS.png" group-title="PORTUGAL",PT: SIC NOTICIAS
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="/logo/PORTUGAL/SICNOTICIAS.png" group-title="PORTUGAL",PT: SIC NOTICIAS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS HD" tvg-logo="http://logo.sltv.site/logo/portugal/SIC%20NOTICIAS%20HD.png" group-title="PORTUGAL",PT: SIC NOTICIAS HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19158.m3u8
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICNOTICIAS.png" group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="/logo/PORTUGAL/SICNOTICIAS.png" group-title="PORTUGAL",PT: SIC NOTICIAS FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/20.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/21.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER HD
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER HD" tvg-logo="/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12888.m3u8
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER FHD
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER FHD" tvg-logo="/logo/PORTUGAL/SICMULHER.png" group-title="PORTUGAL",PT: SIC MULHER FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/22.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICRADICAL.png" group-title="PORTUGAL",PT: SIC RADICAL
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL" tvg-logo="/logo/PORTUGAL/SICRADICAL.png" group-title="PORTUGAL",PT: SIC RADICAL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/23.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC%20RADICAL%20HD.png" group-title="PORTUGAL",PT: SIC RADICAL HD
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL HD" tvg-logo="/logo/PORTUGAL/SIC%20RADICAL%20HD.png" group-title="PORTUGAL",PT: SIC RADICAL HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19144.m3u8
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICRADICAL.png" group-title="PORTUGAL",PT: SIC RADICAL FHD
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT: SIC RADICAL FHD" tvg-logo="/logo/PORTUGAL/SICRADICAL.png" group-title="PORTUGAL",PT: SIC RADICAL FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/24.m3u8
-#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="/logo/PORTUGAL/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/25.m3u8
-#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC%20CARAS.png" group-title="PORTUGAL",PT: SIC CARAS HD
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="PT: SIC CARAS HD" tvg-logo="/logo/PORTUGAL/SIC%20CARAS.png" group-title="PORTUGAL",PT: SIC CARAS HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19142.m3u8
-#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS FHD
+#EXTINF:-1 tvg-id="siccaras.pt" tvg-name="PT: SIC CARAS FHD" tvg-logo="/logo/PORTUGAL/SICCARAS.png" group-title="PORTUGAL",PT: SIC CARAS FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12859.m3u8
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN" tvg-logo="/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/39.m3u8
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN HD
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12870.m3u8
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN FHD
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="/logo/PORTUGAL/24KITCHENHD.png" group-title="PORTUGAL",PT: 24 KITCHEN FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/40.m3u8
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA" tvg-logo="/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12896.m3u8
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA HD
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA HD" tvg-logo="/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12869.m3u8
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA FHD
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT: CASA E COZINHA FHD" tvg-logo="/piconscesar/casaecozinha.png" group-title="PORTUGAL",PT: CASA E COZINHA FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12895.m3u8
-#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP ACORES" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPACORES.png" group-title="PORTUGAL",PT: RTP ACORES
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="PT: RTP ACORES" tvg-logo="/logo/PORTUGAL/RTPACORES.png" group-title="PORTUGAL",PT: RTP ACORES
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/26.m3u8
-#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPMADEIRA.png" group-title="PORTUGAL",PT: RTP MADEIRA
+#EXTINF:-1 tvg-id="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="/logo/PORTUGAL/RTPMADEIRA.png" group-title="PORTUGAL",PT: RTP MADEIRA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/27.m3u8
-#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP AFRICA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPAFRICA.png" group-title="PORTUGAL",PT: RTP AFRICA
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="PT: RTP AFRICA" tvg-logo="/logo/PORTUGAL/RTPAFRICA.png" group-title="PORTUGAL",PT: RTP AFRICA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/28.m3u8
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RTPMEMORIA.png" group-title="PORTUGAL",PT: RTP MEMORIA
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="/logo/PORTUGAL/RTPMEMORIA.png" group-title="PORTUGAL",PT: RTP MEMORIA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/29.m3u8
-#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CANALQ.png" group-title="PORTUGAL",PT: CANAL Q
+#EXTINF:-1 tvg-id="canalq.pt" tvg-name="PT: CANAL Q" tvg-logo="/logo/PORTUGAL/CANALQ.png" group-title="PORTUGAL",PT: CANAL Q
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/167.m3u8
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL" tvg-logo="/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/30.m3u8
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL HD
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL HD" tvg-logo="/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19141.m3u8
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL FHD
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PT: PORTO CANAL FHD" tvg-logo="/logo/PORTUGAL/PORTOCANAL.png" group-title="PORTUGAL",PT: PORTO CANAL FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/31.m3u8
-#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="PT: TV RECORD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVRECORD.png" group-title="PORTUGAL",PT: TV RECORD
+#EXTINF:-1 tvg-id="recordtv.pt" tvg-name="PT: TV RECORD" tvg-logo="/logo/PORTUGAL/TVRECORD.png" group-title="PORTUGAL",PT: TV RECORD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/33.m3u8
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBO.png" group-title="PORTUGAL",PT: GLOBO
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO" tvg-logo="/logo/PORTUGAL/GLOBO.png" group-title="PORTUGAL",PT: GLOBO
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/36.m3u8
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBO.png" group-title="PORTUGAL",PT: GLOBO HD
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO HD" tvg-logo="/logo/PORTUGAL/GLOBO.png" group-title="PORTUGAL",PT: GLOBO HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19139.m3u8
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO PORTUGAL FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBOPREMIUM.png" group-title="PORTUGAL",PT: GLOBO PORTUGAL FHD
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="PT: GLOBO PORTUGAL FHD" tvg-logo="/logo/PORTUGAL/GLOBOPREMIUM.png" group-title="PORTUGAL",PT: GLOBO PORTUGAL FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/37.m3u8
-#EXTINF:-1 tvg-id="globonow.pt" tvg-name="PT: GLOBO NOW" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/GLOBONOW.png" group-title="PORTUGAL",PT: GLOBO NOW
+#EXTINF:-1 tvg-id="globonow.pt" tvg-name="PT: GLOBO NOW" tvg-logo="/logo/PORTUGAL/GLOBONOW.png" group-title="PORTUGAL",PT: GLOBO NOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/38.m3u8
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvificcao.png" group-title="PORTUGAL",PT: TVI FICCAO
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="/piconscesar/tvificcao.png" group-title="PORTUGAL",PT: TVI FICCAO
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/97.m3u8
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TVI%20FIC%c3%87AO.png" group-title="PORTUGAL",PT: TVI FICCAO HD
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO HD" tvg-logo="/logo/PORTUGAL/TVI%20FIC%c3%87AO.png" group-title="PORTUGAL",PT: TVI FICCAO HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19148.m3u8
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvificcao.png" group-title="PORTUGAL",PT: TVI FICCAO FHD
+#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="PT: TVI FICCAO FHD" tvg-logo="/piconscesar/tvificcao.png" group-title="PORTUGAL",PT: TVI FICCAO FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12548.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/41.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY FHD
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY FHD" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15477.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY  MOSAICO" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY  MOSAICO
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY  MOSAICO" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY  MOSAICO
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15272.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 1
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 1" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 1
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15273.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 2" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 2
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 2" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 2
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15274.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 3" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 3
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 3" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 3
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15275.m3u8
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 4" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 4
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAMERA 4" tvg-logo="/piconscesar/tvireality.png" group-title="PORTUGAL",PT: TVI REALITY CAMERA 4
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="******* PT EXCLUSIVO **********" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",******* PT EXCLUSIVO **********
+#EXTINF:-1 tvg-id="" tvg-name="******* PT EXCLUSIVO **********" tvg-logo="/picons/separador.png" group-title="PORTUGAL",******* PT EXCLUSIVO **********
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/847.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: WWE 24 HOURS ( EX)" tvg-logo="" group-title="PORTUGAL",PT: WWE 24 HOURS ( EX)
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12390.m3u8
@@ -222,153 +222,153 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CULINARIA TV  EXCLUSIVOS" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL",PT: CULINARIA TV  EXCLUSIVOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************** FILMES/SERIES **************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",************** FILMES/SERIES **************
+#EXTINF:-1 tvg-id="" tvg-name="************** FILMES/SERIES **************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",************** FILMES/SERIES **************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8f/Cine%2B_2011.png" group-title="PORTUGAL",PT: TV CINE +
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18504.m3u8
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Top.png" group-title="PORTUGAL",PT: TV CINE TOP
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP" tvg-logo="/logo/PORTUGAL/TvCine_Top.png" group-title="PORTUGAL",PT: TV CINE TOP
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/47.m3u8
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Top_HD.png" group-title="PORTUGAL",PT: TV CINE TOP HD
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HD" tvg-logo="/logo/PORTUGAL/TvCine_Top_HD.png" group-title="PORTUGAL",PT: TV CINE TOP HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/48.m3u8
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Top_HD.png" group-title="PORTUGAL",PT: TV CINE TOP FHD
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP FHD" tvg-logo="/logo/PORTUGAL/TvCine_Top_HD.png" group-title="PORTUGAL",PT: TV CINE TOP FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/49.m3u8
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Edition.png" group-title="PORTUGAL",PT: TV CINE EDITION
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION" tvg-logo="/logo/PORTUGAL/TvCine_Edition.png" group-title="PORTUGAL",PT: TV CINE EDITION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/50.m3u8
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Edition_HD.png" group-title="PORTUGAL",PT: TV CINE EDITION HD
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HD" tvg-logo="/logo/PORTUGAL/TvCine_Edition_HD.png" group-title="PORTUGAL",PT: TV CINE EDITION HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/51.m3u8
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Edition_HD.png" group-title="PORTUGAL",PT: TV CINE EDITION FHD
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION FHD" tvg-logo="/logo/PORTUGAL/TvCine_Edition_HD.png" group-title="PORTUGAL",PT: TV CINE EDITION FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/52.m3u8
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Emotion.png" group-title="PORTUGAL",PT: TV CINE EMOTION
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION" tvg-logo="/logo/PORTUGAL/TvCine_Emotion.png" group-title="PORTUGAL",PT: TV CINE EMOTION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/53.m3u8
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Emotion_HD.png" group-title="PORTUGAL",PT: TV CINE EMOTION HD
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="/logo/PORTUGAL/TvCine_Emotion_HD.png" group-title="PORTUGAL",PT: TV CINE EMOTION HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/54.m3u8
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Emotion_HD.png" group-title="PORTUGAL",PT: TV CINE EMOTION FHD
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="/logo/PORTUGAL/TvCine_Emotion_HD.png" group-title="PORTUGAL",PT: TV CINE EMOTION FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/55.m3u8
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Action.png" group-title="PORTUGAL",PT: TV CINE ACTION
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION" tvg-logo="/logo/PORTUGAL/TvCine_Action.png" group-title="PORTUGAL",PT: TV CINE ACTION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/56.m3u8
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Action_HD.png" group-title="PORTUGAL",PT: TV CINE ACTION HD
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="/logo/PORTUGAL/TvCine_Action_HD.png" group-title="PORTUGAL",PT: TV CINE ACTION HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/57.m3u8
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TvCine_Action_HD.png" group-title="PORTUGAL",PT: TV CINE ACTION FHD
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="/logo/PORTUGAL/TvCine_Action_HD.png" group-title="PORTUGAL",PT: TV CINE ACTION FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/58.m3u8
-#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS" tvg-logo="http://picon-platinium.ddns.net/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIOS
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS" tvg-logo="/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/59.m3u8
-#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIO HD
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO HD" tvg-logo="/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIO HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/60.m3u8
-#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIO FHD
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="/piconscesar/studios_hd.png" group-title="PORTUGAL",PT: NOS STUDIO FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/61.m3u8
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="PORTUGAL",PT: HOLLYWOOD
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD" tvg-logo="/logo/PORTUGAL/HOLLYWOOD.png" group-title="PORTUGAL",PT: HOLLYWOOD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/62.m3u8
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL",PT: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL",PT: HOLLYWOOD HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/4778.m3u8
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL",PT: HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="/logo/PORTUGAL/HOLLYWOODHD.png" group-title="PORTUGAL",PT: HOLLYWOOD FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/63.m3u8
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO" tvg-logo="/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/64.m3u8
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO HD
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO HD" tvg-logo="/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19137.m3u8
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO FHD
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="/logo/PORTUGAL/CINEMUNDO.png" group-title="PORTUGAL",PT: CINEMUNDO FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/65.m3u8
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC" tvg-logo="/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/66.m3u8
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC HD
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC HD" tvg-logo="/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/68.m3u8
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC FHD
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="/logo/PORTUGAL/AMC.png" group-title="PORTUGAL",PT: AMC FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS CINE" tvg-logo="https://www.google.com/search?q=LOGO+KURIAKOS+CINE+PNG&sxsrf=ALeKk01MW_AGF9BWDY4oYlz-gWiz_95pHw:1616450052915&tbm=isch&source=iu&ictx=1&fir=kXxv2kyhzGd_YM%252Cp5oFj-rjh1POpM%252C_&vet=1&usg=AI4_-kTbe6PtINM1hgio6zZfoaLBksvA7w&sa=X&ved=2ahUKEwjXsM3Z8cTvAhUC3IUKHe6LD2AQ9QF6BAgLEAE#imgrc=kXxv2kyhzGd_YM" group-title="PORTUGAL",PT: KURIAKOS CINE
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18347.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/69.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX HD
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HD" tvg-logo="/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/70.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX FHD
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="/logo/PORTUGAL/FOXHD.png" group-title="PORTUGAL",PT: FOX FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/71.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxlife.png" group-title="PORTUGAL",PT: FOX LIFE
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="/piconscesar/foxlife.png" group-title="PORTUGAL",PT: FOX LIFE
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/72.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxlife.png" group-title="PORTUGAL",PT: FOX LIFE HD
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="/piconscesar/foxlife.png" group-title="PORTUGAL",PT: FOX LIFE HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/73.m3u8
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOX%20LIFE%20HD.png" group-title="PORTUGAL",PT: FOX LIFE FHD
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="/logo/PORTUGAL/FOX%20LIFE%20HD.png" group-title="PORTUGAL",PT: FOX LIFE FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12871.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/74.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME HD
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/75.m3u8
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME FHD
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="/piconscesar/foxcrime_hd.png" group-title="PORTUGAL",PT: FOX CRIME FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/76.m3u8
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="/logo/PORTUGAL/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/77.m3u8
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOX%20MOVIES%20HD.png" group-title="PORTUGAL",PT: FOX MOVIES HD
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HD" tvg-logo="/logo/PORTUGAL/FOX%20MOVIES%20HD.png" group-title="PORTUGAL",PT: FOX MOVIES HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19149.m3u8
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES FHD
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="/logo/PORTUGAL/FOXMOVIES.png" group-title="PORTUGAL",PT: FOX MOVIES FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/78.m3u8
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxcomedy.png" group-title="PORTUGAL",PT: FOX COMEDY
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY" tvg-logo="/piconscesar/foxcomedy.png" group-title="PORTUGAL",PT: FOX COMEDY
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/79.m3u8
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/foxcomedy.png" group-title="PORTUGAL",PT: FOX COMEDY FHD
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="/piconscesar/foxcomedy.png" group-title="PORTUGAL",PT: FOX COMEDY FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/80.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/81.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN HD
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HD" tvg-logo="/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/82.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN FHD
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="/logo/PORTUGAL/AXNHD.png" group-title="PORTUGAL",PT: AXN FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/83.m3u8
-#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES" tvg-logo="http://picon-platinium.ddns.net/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES" tvg-logo="/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/84.m3u8
-#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES HD
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES HD" tvg-logo="/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/85.m3u8
-#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES FHD
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="PT: AXN MOVIES FHD" tvg-logo="/piconscesar/axnmovies_hd.png" group-title="PORTUGAL",PT: AXN MOVIES FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/86.m3u8
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/87.m3u8
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE HD
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/88.m3u8
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE FHD
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="/logo/PORTUGAL/AXNWHITE.png" group-title="PORTUGAL",PT: AXN WHITE FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/89.m3u8
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SYFYHD.png" group-title="PORTUGAL",PT: SYFY
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY" tvg-logo="/logo/PORTUGAL/SYFYHD.png" group-title="PORTUGAL",PT: SYFY
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/93.m3u8
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SYFY%20HD.png" group-title="PORTUGAL",PT: SYFY HD
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HD" tvg-logo="/logo/PORTUGAL/SYFY%20HD.png" group-title="PORTUGAL",PT: SYFY HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19147.m3u8
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SYFYHD.png" group-title="PORTUGAL",PT: SYFY FHD
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY FHD" tvg-logo="/logo/PORTUGAL/SYFYHD.png" group-title="PORTUGAL",PT: SYFY FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/94.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DIZI CHANNEL" tvg-logo="https://lh3.googleusercontent.com/proxy/m1SOazzwOGi6Bg2uJ5j7GZIg8jnjVd_VAGaLpsDsH-i4IhxKU2yAqJgIFVP7yBhB6Ex96PV_BSZUoKT9Qfi6Pxdqgu4T-ak" group-title="PORTUGAL",PT: DIZI CHANNEL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="**************DESPORTO******************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",**************DESPORTO******************
+#EXTINF:-1 tvg-id="" tvg-name="**************DESPORTO******************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",**************DESPORTO******************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/98.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11" tvg-logo="/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/99.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11 HD
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 HD" tvg-logo="/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/101.m3u8
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11 FHD
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11 FHD" tvg-logo="/piconscesar/canal11.png" group-title="PORTUGAL",PT: CANAL 11 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/100.m3u8
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv+.png" group-title="PORTUGAL",PT: SPORT TV +
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="/piconscesar/sporttv+.png" group-title="PORTUGAL",PT: SPORT TV +
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/103.m3u8
-#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%20+%20FHD.png" group-title="PORTUGAL",PT: SPORT TV + HD
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="PT: SPORT TV + HD" tvg-logo="/logo/PORTUGAL/SPORTV%20+%20FHD.png" group-title="PORTUGAL",PT: SPORT TV + HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19145.m3u8
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv+.png" group-title="PORTUGAL",PT: SPORT TV + FHD
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + FHD" tvg-logo="/piconscesar/sporttv+.png" group-title="PORTUGAL",PT: SPORT TV + FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/104.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1.png" group-title="PORTUGAL",PT: SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="/piconscesar/sporttv1.png" group-title="PORTUGAL",PT: SPORT TV 1
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/105.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",PT: SPORT TV 1 HD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD" tvg-logo="/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/106.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="/piconscesar/sporttv1_hd.png" group-title="PORTUGAL",PT: SPORT TV 1 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/107.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2.png" group-title="PORTUGAL",PT: SPORT TV 2
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="/piconscesar/sporttv2.png" group-title="PORTUGAL",PT: SPORT TV 2
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/108.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",PT: SPORT TV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD" tvg-logo="/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",PT: SPORT TV 2 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/109.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="/piconscesar/sporttv2_hd.png" group-title="PORTUGAL",PT: SPORT TV 2 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/110.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3.png" group-title="PORTUGAL",PT: SPORT TV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="/piconscesar/sporttv3.png" group-title="PORTUGAL",PT: SPORT TV 3
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/111.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",PT: SPORT TV 3 HD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HD" tvg-logo="/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",PT: SPORT TV 3 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/112.m3u8
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="/piconscesar/sporttv3_hd.png" group-title="PORTUGAL",PT: SPORT TV 3 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/113.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",PT: SPORT TV 4
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="/piconscesar/sporttv4.png" group-title="PORTUGAL",PT: SPORT TV 4
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/114.m3u8
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sporttv4.png" group-title="PORTUGAL",PT: SPORT TV 4 FHD
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="/piconscesar/sporttv4.png" group-title="PORTUGAL",PT: SPORT TV 4 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/115.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",PT: SPORT TV 5
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",PT: SPORT TV 5
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/116.m3u8
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",PT: SPORT TV 5 FHD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="/logo/PORTUGAL/SPORTV%205.png" group-title="PORTUGAL",PT: SPORT TV 5 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 6
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19154.m3u8
@@ -376,105 +376,105 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19094.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 6 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19153.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12889.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA HD
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA HD" tvg-logo="/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12890.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA FHD
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="/piconscesar/nba.png" group-title="PORTUGAL",PT: SPORT TV NBA FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/149.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1  FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1  FHD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1  FHD" tvg-logo="/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1  FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/118.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1 HD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HD" tvg-logo="/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/119.m3u8
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1 LOW
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 LOW" tvg-logo="/piconscesar/eleven1.png" group-title="PORTUGAL",PT: ELEVEN SPORT 1 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/120.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2  FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2  FHD
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2  FHD" tvg-logo="/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2  FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/121.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2 HD
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/122.m3u8
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2 LOW
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 LOW" tvg-logo="/piconscesar/eleven2.png" group-title="PORTUGAL",PT: ELEVEN SPORT 2 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/123.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT  3 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT  3 FHD
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT  3 FHD" tvg-logo="/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT  3 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/124.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT 3 HD
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 HD" tvg-logo="/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT 3 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/125.m3u8
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT 3 LOW
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 LOW" tvg-logo="/piconscesar/eleven3.png" group-title="PORTUGAL",PT: ELEVEN SPORT 3 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/126.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 FHD
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 FHD" tvg-logo="/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/127.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 HD
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/128.m3u8
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 LOW
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 LOW" tvg-logo="/piconscesar/eleven4.png" group-title="PORTUGAL",PT: ELEVEN SPORT 4 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/129.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 FHD
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 FHD" tvg-logo="/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/130.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 HD
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/131.m3u8
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 LOW
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 LOW" tvg-logo="/piconscesar/eleven5.png" group-title="PORTUGAL",PT: ELEVEN SPORT 5 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/132.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 FHD
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 FHD" tvg-logo="/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/133.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 HD
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/134.m3u8
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 LOW" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 LOW
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 LOW" tvg-logo="/piconscesar/eleven6.png" group-title="PORTUGAL",PT: ELEVEN SPORT 6 LOW
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/135.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv.png" group-title="PORTUGAL",PT: BTV 1
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1" tvg-logo="/piconscesar/btv.png" group-title="PORTUGAL",PT: BTV 1
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/136.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",PT: BTV 1 HD
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1 HD" tvg-logo="/piconscesar/btv_hd.png" group-title="PORTUGAL",PT: BTV 1 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/137.m3u8
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/btv_hd.png" group-title="PORTUGAL",PT: BTV 1 FHD
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BTV 1 FHD" tvg-logo="/piconscesar/btv_hd.png" group-title="PORTUGAL",PT: BTV 1 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/138.m3u8
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/abola.png" group-title="PORTUGAL",PT: A BOLA TV
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV" tvg-logo="/piconscesar/abola.png" group-title="PORTUGAL",PT: A BOLA TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/139.m3u8
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BOLA%20TV.png" group-title="PORTUGAL",PT: A BOLA TV HD
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV HD" tvg-logo="/logo/PORTUGAL/BOLA%20TV.png" group-title="PORTUGAL",PT: A BOLA TV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19135.m3u8
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV FHD " tvg-logo="http://picon-platinium.ddns.net/piconscesar/abola.png" group-title="PORTUGAL",PT: A BOLA TV FHD 
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV FHD " tvg-logo="/piconscesar/abola.png" group-title="PORTUGAL",PT: A BOLA TV FHD 
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/6537.m3u8
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sportingtv.png" group-title="PORTUGAL",PT: SPORTING TV
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="/piconscesar/sportingtv.png" group-title="PORTUGAL",PT: SPORTING TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SPORTING%20HD.png" group-title="PORTUGAL",PT: SPORTING TV HD
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV HD" tvg-logo="/logo/PORTUGAL/SPORTING%20HD.png" group-title="PORTUGAL",PT: SPORTING TV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19146.m3u8
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/sportingtv.png" group-title="PORTUGAL",PT: SPORTING TV FHD
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV FHD" tvg-logo="/piconscesar/sportingtv.png" group-title="PORTUGAL",PT: SPORTING TV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/140.m3u8
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: NBA TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nba_tv.png" group-title="PORTUGAL",PT: NBA TV
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: NBA TV" tvg-logo="/piconscesar/nba_tv.png" group-title="PORTUGAL",PT: NBA TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/REALMADRIDTV.png" group-title="PORTUGAL",PT: REAL MADRID
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID" tvg-logo="/logo/PORTUGAL/REALMADRIDTV.png" group-title="PORTUGAL",PT: REAL MADRID
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/143.m3u8
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="http://picon-platinium.ddns.net/piconscesar/pfc.png" group-title="PORTUGAL",PT: PFC
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT: PFC" tvg-logo="/piconscesar/pfc.png" group-title="PORTUGAL",PT: PFC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/145.m3u8
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport1.png" group-title="PORTUGAL",PT: EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1" tvg-logo="/piconscesar/eurosport1.png" group-title="PORTUGAL",PT: EUROSPORT 1
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/146.m3u8
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport1_hd.png" group-title="PORTUGAL",PT: EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="/piconscesar/eurosport1_hd.png" group-title="PORTUGAL",PT: EUROSPORT 1 HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12897.m3u8
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport1_hd.png" group-title="PORTUGAL",PT: EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="/piconscesar/eurosport1_hd.png" group-title="PORTUGAL",PT: EUROSPORT 1 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/147.m3u8
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="http://picon-platinium.ddns.net/piconscesar/eurosport2.png" group-title="PORTUGAL",PT: EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="/piconscesar/eurosport2.png" group-title="PORTUGAL",PT: EUROSPORT 2
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/EUROSPORT%202%20XTRA%20HD.png" group-title="PORTUGAL",PT: EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="/logo/PORTUGAL/EUROSPORT%202%20XTRA%20HD.png" group-title="PORTUGAL",PT: EUROSPORT 2 FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="http://picon-platinium.ddns.net/piconscesar/cacavision.png" group-title="PORTUGAL",PT: CACAVISION
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="/piconscesar/cacavision.png" group-title="PORTUGAL",PT: CACAVISION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/151.m3u8
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT: CACA E PESCA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/cacaepesca.png" group-title="PORTUGAL",PT: CACA E PESCA
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT: CACA E PESCA" tvg-logo="/piconscesar/cacaepesca.png" group-title="PORTUGAL",PT: CACA E PESCA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/152.m3u8
-#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT: TOROS TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/toros.png" group-title="PORTUGAL",PT: TOROS TV
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="PT: TOROS TV" tvg-logo="/piconscesar/toros.png" group-title="PORTUGAL",PT: TOROS TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL",PT: REDBULL TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/15405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FIGHTSPORTS.png" group-title="PORTUGAL",PT: FIGHT NETWORK FHD
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="/logo/PORTUGAL/FIGHTSPORTS.png" group-title="PORTUGAL",PT: FIGHT NETWORK FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************* INFANTIL ************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",************* INFANTIL ************
+#EXTINF:-1 tvg-id="" tvg-name="************* INFANTIL ************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",************* INFANTIL ************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/156.m3u8
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="PORTUGAL",PT: DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/161.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISNEYJR.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="/logo/PORTUGAL/DISNEYJR.png" group-title="PORTUGAL",PT: DISNEY JUNIOR
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR." tvg-logo="http://picon-platinium.ddns.net/piconscesar/nickjr.png" group-title="PORTUGAL",PT: NICK JR.
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR." tvg-logo="/piconscesar/nickjr.png" group-title="PORTUGAL",PT: NICK JR.
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/157.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="http://picon-platinium.ddns.net/piconscesar/nickelodeon.png" group-title="PORTUGAL",PT: NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="/piconscesar/nickelodeon.png" group-title="PORTUGAL",PT: NICKELODEON
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/158.m3u8
-#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: BIGGS" tvg-logo="http://picon-platinium.ddns.net/piconscesar/biggs.png" group-title="PORTUGAL",PT: BIGGS
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="PT: BIGGS" tvg-logo="/piconscesar/biggs.png" group-title="PORTUGAL",PT: BIGGS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/159.m3u8
-#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CANALPANDA.png" group-title="PORTUGAL",PT: CANAL PANDA
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="/logo/PORTUGAL/CANALPANDA.png" group-title="PORTUGAL",PT: CANAL PANDA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: PANDA KIDS" tvg-logo="http://nos.pt/particulares/televisao/canais/PublishingImages/panda-kids/logo-pandakids.png" group-title="PORTUGAL",PT: PANDA KIDS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19122.m3u8
@@ -484,21 +484,21 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: LOLLY KIDS FHD" tvg-logo="" group-title="PORTUGAL",PT: LOLLY KIDS FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19150.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CARTOONNETWORK.png" group-title="PORTUGAL",PT: CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="PT: CARTOON NETWORK" tvg-logo="/logo/PORTUGAL/CARTOONNETWORK.png" group-title="PORTUGAL",PT: CARTOON NETWORK
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/163.m3u8
-#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/JIMJAM.png" group-title="PORTUGAL",PT: JIM JAM
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="/logo/PORTUGAL/JIMJAM.png" group-title="PORTUGAL",PT: JIM JAM
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/164.m3u8
-#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="PT: BABY TV" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BABYTV.png" group-title="PORTUGAL",PT: BABY TV
+#EXTINF:-1 tvg-id="babyfirsttv.pt" tvg-name="PT: BABY TV" tvg-logo="/logo/PORTUGAL/BABYTV.png" group-title="PORTUGAL",PT: BABY TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS KIDS" tvg-logo="https://www.google.com/search?q=LOGO+KURIAKOS+KIDS+PNG&sxsrf=ALeKk03YGIjwtQLMxjByaDOKrklkSbL6-A:1616450139133&tbm=isch&source=iu&ictx=1&fir=8eArKhZ41pEbIM%252CuxosOUroYs6-BM%252C_&vet=1&usg=AI4_-kS1MSwMm9Q-It4ps1oUP_q9PFttVg&sa=X&ved=2ahUKEwjA6tuC8sTvAhU8AGMBHd9vBRQQ9QF6BAgMEAE#imgrc=8eArKhZ41pEbIM" group-title="PORTUGAL",PT: KURIAKOS KIDS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18348.m3u8
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICK.png" group-title="PORTUGAL",PT: SIC K
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K" tvg-logo="/logo/PORTUGAL/SICK.png" group-title="PORTUGAL",PT: SIC K
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/166.m3u8
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SIC%20KIDS.png" group-title="PORTUGAL",PT: SIC K HD
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K HD" tvg-logo="/logo/PORTUGAL/SIC%20KIDS.png" group-title="PORTUGAL",PT: SIC K HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19143.m3u8
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/SICK.png" group-title="PORTUGAL",PT: SIC K FHD
+#EXTINF:-1 tvg-id="sick.pt" tvg-name="PT: SIC K FHD" tvg-logo="/logo/PORTUGAL/SICK.png" group-title="PORTUGAL",PT: SIC K FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLOOMBERG.png" group-title="PORTUGAL",PT: BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="/logo/PORTUGAL/BLOOMBERG.png" group-title="PORTUGAL",PT: BOOMERANG
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY EXCLUSIVOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT99gRwTr_UOsu-gLihCdKJJ9glpeEhMqjWvQ&usqp=CAU" group-title="PORTUGAL",PT: DISNEY EXCLUSIVOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16394.m3u8
@@ -538,105 +538,105 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16609.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOM HEROES EXCLUSIVOS" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/4k90c-TYJF3Z4SS6R-Full-Image_GalleryBackground-en-US-1561732337377._SX1080_.jpg" group-title="PORTUGAL",PT: TOM HEROES EXCLUSIVOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************* CULTURA ************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",************* CULTURA ************
+#EXTINF:-1 tvg-id="" tvg-name="************* CULTURA ************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",************* CULTURA ************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/168.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeo.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC" tvg-logo="/piconscesar/natgeo.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12872.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeographic_hd.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="/piconscesar/natgeographic_hd.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12873.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeographic_hd.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo="/piconscesar/natgeographic_hd.png" group-title="PORTUGAL",PT: NATIONAL GEOGRAPHIC FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/169.m3u8
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeo_wild.png" group-title="PORTUGAL",PT: NAT GEO WILD
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="/piconscesar/natgeo_wild.png" group-title="PORTUGAL",PT: NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/170.m3u8
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/natgeo_wild.png" group-title="PORTUGAL",PT: NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="PT: NAT GEO WILD FHD" tvg-logo="/piconscesar/natgeo_wild.png" group-title="PORTUGAL",PT: NAT GEO WILD FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12549.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID IVESTIGATION DISCOVERY" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID IVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID IVESTIGATION DISCOVERY" tvg-logo="/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID IVESTIGATION DISCOVERY
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/9811.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY HD" tvg-logo="/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/7347.m3u8
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY FHD
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY FHD" tvg-logo="/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="PORTUGAL",PT: ID INVESTIGATION DISCOVERY FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/175.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/172.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL  HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL  HD
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL  HD" tvg-logo="/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL  HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/14439.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="/logo/PORTUGAL/DISCOVERYHD.png" group-title="PORTUGAL",PT: DISCOVERY CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/173.m3u8
-#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: HISTORIA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/historia.png" group-title="PORTUGAL",PT: HISTORIA
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="PT: HISTORIA" tvg-logo="/piconscesar/historia.png" group-title="PORTUGAL",PT: HISTORIA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/HISTORIAHD.png" group-title="PORTUGAL",PT: HISTORIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA FHD" tvg-logo="/logo/PORTUGAL/HISTORIAHD.png" group-title="PORTUGAL",PT: HISTORIA FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18469.m3u8
-#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: CRIME   INVESTIGATION" tvg-logo="http://picon-platinium.ddns.net/piconscesar/crimeinvestgation.png" group-title="PORTUGAL",PT: CRIME   INVESTIGATION
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="PT: CRIME   INVESTIGATION" tvg-logo="/piconscesar/crimeinvestgation.png" group-title="PORTUGAL",PT: CRIME   INVESTIGATION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/176.m3u8
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12894.m3u8
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12893.m3u8
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL FHD
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="/piconscesar/travelchannel_hd.png" group-title="PORTUGAL",PT: TRAVEL CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/178.m3u8
-#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE TV" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLAZE.png" group-title="PORTUGAL",PT: BLAZE TV
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE TV" tvg-logo="/logo/PORTUGAL/BLAZE.png" group-title="PORTUGAL",PT: BLAZE TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/180.m3u8
-#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE TV FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLAZE.png" group-title="PORTUGAL",PT: BLAZE TV FHD
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: BLAZE TV FHD" tvg-logo="/logo/PORTUGAL/BLAZE.png" group-title="PORTUGAL",PT: BLAZE TV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/181.m3u8
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL",PT: ODISSEIA
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL",PT: ODISSEIA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/182.m3u8
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL",PT: ODISSEIA FHD
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA FHD" tvg-logo="/logo/PORTUGAL/ODISSEIA.png" group-title="PORTUGAL",PT: ODISSEIA FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/183.m3u8
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: MOTORVISION" tvg-logo="http://picon-platinium.ddns.net/piconscesar/motorvision.png" group-title="PORTUGAL",PT: MOTORVISION
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT: MOTORVISION" tvg-logo="/piconscesar/motorvision.png" group-title="PORTUGAL",PT: MOTORVISION
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/150.m3u8
-#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CBSREALITY.png" group-title="PORTUGAL",PT: CBS REALITY
+#EXTINF:-1 tvg-id="cbsreality.pt" tvg-name="PT: CBS REALITY" tvg-logo="/logo/PORTUGAL/CBSREALITY.png" group-title="PORTUGAL",PT: CBS REALITY
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/95.m3u8
-#EXTINF:-1 tvg-id="luxe.pt" tvg-name="PT: LUXE TV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/LUXETV.png" group-title="PORTUGAL",PT: LUXE TV HD
+#EXTINF:-1 tvg-id="luxe.pt" tvg-name="PT: LUXE TV HD" tvg-logo="/logo/PORTUGAL/LUXETV.png" group-title="PORTUGAL",PT: LUXE TV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/96.m3u8
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TLC.png" group-title="PORTUGAL",PT: TLC
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="PT: TLC" tvg-logo="/logo/PORTUGAL/TLC.png" group-title="PORTUGAL",PT: TLC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/186.m3u8
-#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="PT: DOG TV FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/DOGTV.png" group-title="PORTUGAL",PT: DOG TV FHD
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="PT: DOG TV FHD" tvg-logo="/logo/PORTUGAL/DOGTV.png" group-title="PORTUGAL",PT: DOG TV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/188.m3u8
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FUEL%20TV.png" group-title="PORTUGAL",PT: FUEL TV
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV" tvg-logo="/logo/PORTUGAL/FUEL%20TV.png" group-title="PORTUGAL",PT: FUEL TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19152.m3u8
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FUEL%20TV%20HD.png" group-title="PORTUGAL",PT: FUEL TV HD
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV HD" tvg-logo="/logo/PORTUGAL/FUEL%20TV%20HD.png" group-title="PORTUGAL",PT: FUEL TV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19138.m3u8
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV FHD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/FUELTVHD.png" group-title="PORTUGAL",PT: FUEL TV FHD
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT: FUEL TV FHD" tvg-logo="/logo/PORTUGAL/FUELTVHD.png" group-title="PORTUGAL",PT: FUEL TV FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/189.m3u8
-#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="PT: LOCALVISAO TV HD" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/LOCALVISAOTVHD.png" group-title="PORTUGAL",PT: LOCALVISAO TV HD
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="PT: LOCALVISAO TV HD" tvg-logo="/logo/PORTUGAL/LOCALVISAOTVHD.png" group-title="PORTUGAL",PT: LOCALVISAO TV HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/faschion.png" group-title="PORTUGAL",PT: FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="/piconscesar/faschion.png" group-title="PORTUGAL",PT: FASHION TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/193.m3u8
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://picon-platinium.ddns.net/piconscesar/e%21.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="/piconscesar/e%21.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/35.m3u8
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/e%21.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT FHD" tvg-logo="/piconscesar/e%21.png" group-title="PORTUGAL",PT: E! ENTERTAINMENT FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: S+" tvg-logo="http://picon-platinium.ddns.net/piconscesar/s%2B.png" group-title="PORTUGAL",PT: S+
+#EXTINF:-1 tvg-id="" tvg-name="PT: S+" tvg-logo="/piconscesar/s%2B.png" group-title="PORTUGAL",PT: S+
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************* MUSICA ************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",************* MUSICA ************
+#EXTINF:-1 tvg-id="" tvg-name="************* MUSICA ************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",************* MUSICA ************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MCMTOP.png" group-title="PORTUGAL",PT: MCM TOP
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="/logo/PORTUGAL/MCMTOP.png" group-title="PORTUGAL",PT: MCM TOP
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19118.m3u8
-#EXTINF:-1 tvg-id="mcmtophd.pt" tvg-name="PT: MCM POP" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MCMPOP.png" group-title="PORTUGAL",PT: MCM POP
+#EXTINF:-1 tvg-id="mcmtophd.pt" tvg-name="PT: MCM POP" tvg-logo="/logo/PORTUGAL/MCMPOP.png" group-title="PORTUGAL",PT: MCM POP
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s" tvg-logo="http://logo.sltv.site/logo/portugal/mtv_00s.png" group-title="PORTUGAL",PT: MTV 00s
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19119.m3u8
-#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PORTUGAL",PT: MTV PORTUGAL
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="/logo/PORTUGAL/MTVPORTUGAL.png" group-title="PORTUGAL",PT: MTV PORTUGAL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CLUBBING TV" tvg-logo="" group-title="PORTUGAL",PT: CLUBBING TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19117.m3u8
-#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="PT: TRACE TOCA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tracetoca.png" group-title="PORTUGAL",PT: TRACE TOCA
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="PT: TRACE TOCA" tvg-logo="/piconscesar/tracetoca.png" group-title="PORTUGAL",PT: TRACE TOCA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/217.m3u8
-#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/TRACEURBAN.png" group-title="PORTUGAL",PT: TRACE URBAN
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="PT: TRACE URBAN" tvg-logo="/logo/PORTUGAL/TRACEURBAN.png" group-title="PORTUGAL",PT: TRACE URBAN
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/218.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TRACE Latina" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL",PT: TRACE Latina
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE NAIJA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tracenaija.png" group-title="PORTUGAL",PT: TRACE NAIJA
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE NAIJA" tvg-logo="/piconscesar/tracenaija.png" group-title="PORTUGAL",PT: TRACE NAIJA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ALMA LUSA" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png" group-title="PORTUGAL",PT: ALMA LUSA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18531.m3u8
-#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT: AFRO MUSIC" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/AFROMUSIC.png" group-title="PORTUGAL",PT: AFRO MUSIC
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="PT: AFRO MUSIC" tvg-logo="/logo/PORTUGAL/AFROMUSIC.png" group-title="PORTUGAL",PT: AFRO MUSIC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/219.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: ON TV" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHg6NxyGsIYEQ/company-logo_200_200/0/1578325809885?e=2159024400&amp;v=beta&amp;t=VcWhZxKtfW7ZKnPqVu6aXjrm2QXflNtDBBI2Ubgi0G0" group-title="PORTUGAL",PT: ON TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: KISS TV" tvg-logo="http://picon.webhop.net/logo/romania/kiss_tv_ro.png" group-title="PORTUGAL",PT: KISS TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/4793.m3u8
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT: MEZZO" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/MEZZO.png" group-title="PORTUGAL",PT: MEZZO
+#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT: MEZZO" tvg-logo="/logo/PORTUGAL/MEZZO.png" group-title="PORTUGAL",PT: MEZZO
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: CAFE CONCERTO  EXCLUSIVOS" tvg-logo="data:image/jpeg;base64,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" group-title="PORTUGAL",PT: CAFE CONCERTO  EXCLUSIVOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16579.m3u8
@@ -652,31 +652,31 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TOP MIX EXCLUSIVOS" tvg-logo="data:image/jpeg;base64,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" group-title="PORTUGAL",PT: TOP MIX EXCLUSIVOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/16582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="***********INTERNACIONAIS**************" tvg-logo="http://picon-platinium.ddns.net/picons/separador.png" group-title="PORTUGAL",***********INTERNACIONAIS**************
+#EXTINF:-1 tvg-id="" tvg-name="***********INTERNACIONAIS**************" tvg-logo="/picons/separador.png" group-title="PORTUGAL",***********INTERNACIONAIS**************
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/194.m3u8
-#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: CANCAO NOVA" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CANCAONOVA.png" group-title="PORTUGAL",PT: CANCAO NOVA
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT: CANCAO NOVA" tvg-logo="/logo/PORTUGAL/CANCAONOVA.png" group-title="PORTUGAL",PT: CANCAO NOVA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/195.m3u8
-#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/ARTV.png" group-title="PORTUGAL",PT: AR TV
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="PT: AR TV" tvg-logo="/logo/PORTUGAL/ARTV.png" group-title="PORTUGAL",PT: AR TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BLOOMBERG.png" group-title="PORTUGAL",PT: BLOOMBERG
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="/logo/PORTUGAL/BLOOMBERG.png" group-title="PORTUGAL",PT: BLOOMBERG
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/CNN.png" group-title="PORTUGAL",PT: CNN
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="/logo/PORTUGAL/CNN.png" group-title="PORTUGAL",PT: CNN
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/202.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="PT: BBC WORLD NEWS" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/BBCWORLDNEWS.png" group-title="PORTUGAL",PT: BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="PT: BBC WORLD NEWS" tvg-logo="/logo/PORTUGAL/BBCWORLDNEWS.png" group-title="PORTUGAL",PT: BBC WORLD NEWS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/208.m3u8
-#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="PT: KURIAKOS" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/KURIAKOSTV.png" group-title="PORTUGAL",PT: KURIAKOS
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="PT: KURIAKOS" tvg-logo="/logo/PORTUGAL/KURIAKOSTV.png" group-title="PORTUGAL",PT: KURIAKOS
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/209.m3u8
-#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/rtpinter.png" group-title="PORTUGAL",PT: RTP INTERNACIONAL
+#EXTINF:-1 tvg-id="rtpinternacional.pt" tvg-name="PT: RTP INTERNACIONAL" tvg-logo="/piconscesar/rtpinter.png" group-title="PORTUGAL",PT: RTP INTERNACIONAL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/4843.m3u8
-#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="http://picon-platinium.ddns.net/piconscesar/tpa-inter.jpg" group-title="PORTUGAL",PT: TPA INTERNACIONAL
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="PT: TPA INTERNACIONAL" tvg-logo="/piconscesar/tpa-inter.jpg" group-title="PORTUGAL",PT: TPA INTERNACIONAL
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/190.m3u8
-#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA" tvg-logo="http://picon-platinium.ddns.net/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA" tvg-logo="/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12892.m3u8
-#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA HD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA HD
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA HD" tvg-logo="/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA HD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12891.m3u8
-#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA FHD" tvg-logo="http://picon-platinium.ddns.net/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA FHD
+#EXTINF:-1 tvg-id="BABY FIRST" tvg-name="PT: ZAP VIVA FHD" tvg-logo="/piconscesar/zapviva_hd.png" group-title="PORTUGAL",PT: ZAP VIVA FHD
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: Record News" tvg-logo="http://picon-platinium.ddns.net/logo/PORTUGAL/RECORD%20NEWS.png" group-title="PORTUGAL",PT: Record News
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record News" tvg-logo="/logo/PORTUGAL/RECORD%20NEWS.png" group-title="PORTUGAL",PT: Record News
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: MAS CHIC" tvg-logo="https://tvepg.eu/img/portugal/reviews/mas_chic/la_recicladora_de_muebles.png" group-title="PORTUGAL",PT: MAS CHIC
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/19120.m3u8
@@ -684,5 +684,5 @@ plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http:
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/18346.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: TCV CABO VERDE" tvg-logo="http://logo.ktnbox.com/logoservices/img/tcv_cv.png" group-title="PORTUGAL",PT: TCV CABO VERDE
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/12368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="http://picon-platinium.ddns.net/piconscesar/fatimatv.png" group-title="PORTUGAL",PT: FATIMA TV
+#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="/piconscesar/fatimatv.png" group-title="PORTUGAL",PT: FATIMA TV
 plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=http://ip.platevpc.xyz:8080/live/Gondomar/Gondomar2020/32.m3u8
